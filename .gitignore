@@ -1,3 +1,6 @@
+# Claude Code settings
+.claude/
+
 # temp scripts
 add_books.js
 add_books.py
