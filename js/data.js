@@ -30,7 +30,7 @@ BIBLE_DATA.books.push({
   id: "1samuel",
   name: "1 Samuel",
   testament: "old",
-  category: "Historical",
+  category: "Historical Books",
   summary: "1 Samuel records the transition of Israel from a loose tribal confederacy under judges to a unified monarchy. It follows three towering figures: Samuel, the last judge and first great prophet; Saul, Israel's first king whose disobedience leads to his rejection; and David, the shepherd-warrior anointed to replace him. Central themes include the danger of demanding a king like other nations, the cost of partial obedience, and God's sovereign choice of the humble over the powerful.",
   themes: ["Leadership and obedience", "God's sovereignty in human affairs", "The cost of disobedience", "Faith over fear", "God's election of the humble"],
   chapters: [
@@ -196,7 +196,7 @@ BIBLE_DATA.books.push({
   id: "2samuel",
   name: "2 Samuel",
   testament: "old",
-  category: "Historical",
+  category: "Historical Books",
   summary: "2 Samuel tells the story of David's reign over a united Israel — his triumphs as conqueror and worshiper of God, and his catastrophic moral failures and their consequences. The book reaches its theological high point in God's covenant with David, promising an eternal dynasty and throne. It descends into darkness through David's adultery with Bathsheba, the murder of Uriah, and the rebellion of his son Absalom — showing that even the man after God's own heart is not exempt from the severe consequences of sin.",
   themes: ["The Davidic covenant", "Sin and its consequences", "Repentance and restoration", "God's faithfulness despite human failure", "The cost of unchecked power"],
   chapters: [
