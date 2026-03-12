@@ -25,3 +25,300 @@ BIBLE_DATA.books.push({"id":"judges","name":"Judges","testament":"old","category
 
 BIBLE_DATA.books.push({"id":"ruth","name":"Ruth","testament":"old","category":"Historical Books","summary":"Ruth is an exquisitely crafted short story set in the days of the judges that stands in striking contrast to the moral chaos of that era. Naomi, a widowed Israelite exile in Moab, returns to Bethlehem with her loyal Moabite daughter-in-law Ruth, who refuses to leave her. Through Ruth's extraordinary faithfulness and the generous love of the kinsman-redeemer Boaz, God providentially provides for both destitute women and weaves a foreign widow into the messianic lineage. Ruth's declaration of loyalty to Naomi and her God is one of the most beautiful expressions of covenant love in all of Scripture, and the book reveals God's redemptive purpose reaching beyond Israel to embrace the nations.","themes":["Loyal Love (Hesed)","Providence","Redemption","Faithfulness Across Boundaries","Grace for the Outsider","Messianic Lineage"],"chapters":[{"number":1,"summary":"Naomi and her husband Elimelech leave Bethlehem for Moab during famine; her husband and both sons die, leaving her with Moabite daughters-in-law Orpah and Ruth; Naomi urges them to return to their families, Orpah does, but Ruth clings to Naomi with a vow of undying loyalty.","key_verses":[{"ref":"1:16","text":"But Ruth said, Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."},{"ref":"1:17","text":"Where you die I will die, and there will I be buried. May the LORD do so to me and more also if anything but death parts me from you."}]},{"number":2,"summary":"Ruth gleans in the fields of Boaz, a wealthy relative of Naomi's late husband, who notices her diligent work, learns of her loyalty to Naomi, and commands his workers to leave extra grain for her and treats her with exceptional kindness.","key_verses":[{"ref":"2:12","text":"The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!"},{"ref":"2:20","text":"And Naomi said to her daughter-in-law, May he be blessed by the LORD, whose kindness has not forsaken the living or the dead! The man is a close relative of ours, one of our redeemers."}]},{"number":3,"summary":"Naomi instructs Ruth to go to Boaz at the threshing floor at night and uncover his feet — a symbolic appeal for marriage and redemption; Boaz is moved by her kindness in choosing him over younger men and promises to act as her kinsman-redeemer if a closer relative declines.","key_verses":[{"ref":"3:9","text":"He said, Who are you? And she answered, I am Ruth, your servant. Spread your wings over your servant, for you are a redeemer."},{"ref":"3:11","text":"And now, my daughter, do not fear. I will do for you all that you ask, for all my fellow townsmen know that you are a worthy woman."}]},{"number":4,"summary":"Boaz publicly offers the closer relative the right of redemption, who declines when he learns it involves marrying Ruth; Boaz then redeems Naomi's land and takes Ruth as his wife, and their son Obed becomes the grandfather of King David.","key_verses":[{"ref":"4:14","text":"Then the women said to Naomi, Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel!"},{"ref":"4:17","text":"And the women of the neighborhood gave him a name, saying, A son has been born to Naomi. They named him Obed. He was the father of Jesse, the father of David."}]}]});
 
+
+BIBLE_DATA.books.push({
+  id: "1samuel",
+  name: "1 Samuel",
+  testament: "OT",
+  category: "Historical",
+  summary: "1 Samuel records the transition of Israel from a loose tribal confederacy under judges to a unified monarchy. It follows three towering figures: Samuel, the last judge and first great prophet; Saul, Israel's first king whose disobedience leads to his rejection; and David, the shepherd-warrior anointed to replace him. Central themes include the danger of demanding a king like other nations, the cost of partial obedience, and God's sovereign choice of the humble over the powerful.",
+  themes: ["Leadership and obedience", "God's sovereignty in human affairs", "The cost of disobedience", "Faith over fear", "God's election of the humble"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Hannah, one of Elkanah's two wives, is barren and deeply distressed. At the tabernacle in Shiloh she pours out her grief to God, vowing to dedicate any son He gives her to the LORD. Eli the priest initially misreads her silent prayer as drunkenness, but blesses her after she explains herself. Hannah conceives and gives birth to Samuel, whose name means heard by God.",
+      key_verses: [{ ref: "1 Samuel 1:27", text: "For this child I prayed, and the LORD has granted me my petition that I made to him." }]
+    },
+    {
+      number: 2,
+      summary: "Hannah offers a magnificent prayer of praise that exalts God's reversal of human fortunes — lifting the poor and humbling the proud — foreshadowing Mary's Magnificat. She leaves Samuel in Eli's care at Shiloh. Samuel grows in favor with God and man while Eli's sons Hophni and Phinehas are corrupt priests. A man of God warns Eli that his house will be cut off for honoring his sons above God.",
+      key_verses: [{ ref: "1 Samuel 2:2", text: "There is none holy like the LORD: for there is none besides you; there is no rock like our God." }]
+    },
+    {
+      number: 3,
+      summary: "The word of the LORD is rare in Israel. At night the young Samuel hears a voice calling his name and three times runs to Eli. Eli realizes God is calling the boy and instructs him to respond. God gives Samuel a solemn message of judgment against Eli's house. Samuel tells Eli faithfully, and Eli accepts it as God's will. Samuel is established throughout Israel as a confirmed prophet of the LORD.",
+      key_verses: [{ ref: "1 Samuel 3:10", text: "And the LORD came and stood, calling as at other times, Samuel! Samuel! And Samuel said, Speak, for your servant hears." }]
+    },
+    {
+      number: 4,
+      summary: "Israel goes to battle against the Philistines and is badly defeated. They bring the ark of the covenant to the battlefield, but the Philistines capture it. Eli's two sons are killed in battle, fulfilling the prophecy. When news reaches Eli, he falls backward off his seat, breaks his neck, and dies. His daughter-in-law names her newborn son Ichabod — the glory has departed from Israel — and dies in childbirth.",
+      key_verses: [{ ref: "1 Samuel 4:22", text: "She said, The glory has departed from Israel, for the ark of God has been captured." }]
+    },
+    {
+      number: 5,
+      summary: "The Philistines place the captured ark in the temple of their god Dagon in Ashdod. Two mornings in a row, Dagon is found fallen before the ark — the second time with its head and hands broken off. God afflicts the people of Ashdod, then Gath, then Ekron with tumors wherever the ark is sent. The Philistines are desperate to be rid of it.",
+      key_verses: [{ ref: "1 Samuel 5:3", text: "And when the people of Ashdod rose early the next day, behold, Dagon had fallen face downward on the ground before the ark of the LORD." }]
+    },
+    {
+      number: 6,
+      summary: "After seven months, the Philistine priests advise returning the ark to Israel on a new cart drawn by two cows, with gold guilt offerings. The cows head straight for Beth-shemesh without deviation, confirming the judgments were from Israel's God. Some men of Beth-shemesh look into the ark and are struck down. The people send it to Kiriath-jearim, where it remains in the house of Abinadab for twenty years.",
+      key_verses: [{ ref: "1 Samuel 6:20", text: "Who is able to stand before the LORD, this holy God? And to whom shall he go up away from us?" }]
+    },
+    {
+      number: 7,
+      summary: "Samuel calls Israel to repent and put away foreign gods, and the nation gathers at Mizpah for fasting and confession. The Philistines advance but God thunders against them and Israel routs them. Samuel sets up a stone called Ebenezer — the LORD has helped us up to here. During Samuel's lifetime as judge, the Philistines are kept at bay and peace is established.",
+      key_verses: [{ ref: "1 Samuel 7:12", text: "Samuel took a stone and set it up between Mizpah and Shen and called its name Ebenezer; for he said, Till now the LORD has helped us." }]
+    },
+    {
+      number: 8,
+      summary: "When Samuel is old he appoints his corrupt sons as judges. The elders demand a king like all the nations. God tells Samuel the people are not rejecting him but God Himself as their king. Samuel warns them what a king will cost — sons drafted for war, daughters taken for service, fields and flocks seized. The people refuse to listen and insist on a king.",
+      key_verses: [{ ref: "1 Samuel 8:7", text: "And the LORD said to Samuel, Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them." }]
+    },
+    {
+      number: 9,
+      summary: "Saul, a tall and handsome Benjaminite, is searching for his father's lost donkeys. His servant suggests consulting the man of God nearby. God has already told Samuel to expect a man from Benjamin who will be prince over Israel. When Saul arrives, God confirms he is the one. Samuel seats Saul at the head of the feast and treats him as an honored guest.",
+      key_verses: [{ ref: "1 Samuel 9:17", text: "When Samuel saw Saul, the LORD told him, Here is the man of whom I spoke to you! He it is who shall restrain my people." }]
+    },
+    {
+      number: 10,
+      summary: "Samuel privately anoints Saul with oil and declares that God has appointed him ruler over His people. Three confirming signs all come to pass. The Spirit of God rushes upon Saul and he prophesies, astonishing those who know him. At the public assembly at Mizpah, Saul is chosen by lot. He is found hiding among the baggage, then brought out and proclaimed king.",
+      key_verses: [{ ref: "1 Samuel 10:6", text: "Then the Spirit of the LORD will rush upon you, and you will prophesy with them and be turned into another man." }]
+    },
+    {
+      number: 11,
+      summary: "Nahash the Ammonite besieges Jabesh-gilead and threatens to gouge out the right eye of every inhabitant. The Spirit of God rushes upon Saul in anger. He rallies Israel with a dramatic summons and leads a decisive dawn attack that scatters the Ammonites. After the victory, doubters are pardoned, and the kingship is reaffirmed with celebration at Gilgal.",
+      key_verses: [{ ref: "1 Samuel 11:13", text: "But Saul said, Not a man shall be put to death this day, for today the LORD has worked salvation in Israel." }]
+    },
+    {
+      number: 12,
+      summary: "Samuel delivers his farewell address as judge, challenging anyone to accuse him of wrongdoing and recounting God's faithful acts in Israel's history. He warns that both king and people must obey God, calling down thunder and rain during wheat harvest as a divine sign. Samuel promises to continue praying for them but warns that wickedness will sweep king and people away.",
+      key_verses: [{ ref: "1 Samuel 12:24", text: "Only fear the LORD and serve him faithfully with all your heart. For consider what great things he has done for you." }]
+    },
+    {
+      number: 13,
+      summary: "War with the Philistines resumes. Waiting for Samuel who is late and watching his troops scatter in fear, Saul presumptuously offers the burnt offering himself. Samuel arrives immediately after and rebukes Saul sharply: because of this disobedience, his kingdom will not endure. God has sought a man after His own heart. The chapter closes with Israel poorly armed while Philistine raiders plunder the land.",
+      key_verses: [{ ref: "1 Samuel 13:14", text: "But now your kingdom shall not continue. The LORD has sought out a man after his own heart, and the LORD has commanded him to be prince over his people." }]
+    },
+    {
+      number: 14,
+      summary: "Jonathan and his armor-bearer slip away to attack a Philistine garrison alone, trusting that God can save by many or by few. They kill twenty men and God sends a panic through the Philistine army. Saul has recklessly vowed to curse anyone who eats before evening. Jonathan, not hearing the oath, eats honey. When the lot reveals Jonathan as the oath-breaker, Saul prepares to execute him, but the people rescue Jonathan.",
+      key_verses: [{ ref: "1 Samuel 14:6", text: "Jonathan said, Come, let us go over to the garrison of these uncircumcised. It may be that the LORD will work for us, for nothing can hinder the LORD from saving by many or by few." }]
+    },
+    {
+      number: 15,
+      summary: "God commands Saul to completely destroy the Amalekites. Saul defeats them but spares the king Agag and the best animals, claiming they will be used for sacrifice. Samuel confronts him and declares that to obey is better than sacrifice, and rebellion is as the sin of divination. Because Saul has rejected God's word, God has rejected him as king. Samuel hacks Agag to pieces. Saul and Samuel part ways permanently.",
+      key_verses: [{ ref: "1 Samuel 15:22", text: "And Samuel said, Has the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to listen than the fat of rams." }]
+    },
+    {
+      number: 16,
+      summary: "God sends Samuel to Bethlehem to anoint a new king among the sons of Jesse. Samuel sees the impressive eldest son and assumes he is the one, but God corrects him: man looks at outward appearance, but God looks at the heart. Seven sons pass without confirmation. The youngest, David, a ruddy shepherd boy, is brought in and God says to anoint him. The Spirit rushes upon David from that day. David is brought to Saul's court to soothe the troubled king with his harp.",
+      key_verses: [{ ref: "1 Samuel 16:7", text: "But the LORD said to Samuel, Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart." }]
+    },
+    {
+      number: 17,
+      summary: "The Philistine giant Goliath taunts Israel's army twice daily for forty days. The young David arrives at camp and is outraged that anyone would defy the armies of the living God. He refuses armor, takes only his sling and five stones, and charges Goliath in the name of the LORD. He fells the giant with a single stone to the forehead and cuts off his head with Goliath's own sword. Israel erupts in pursuit of the fleeing Philistines.",
+      key_verses: [{ ref: "1 Samuel 17:45", text: "David said to the Philistine, You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the LORD of hosts, the God of the armies of Israel, whom you have defied." }]
+    },
+    {
+      number: 18,
+      summary: "Jonathan's soul is knit to David's in deep covenant friendship. Women sing that Saul has killed thousands but David tens of thousands — and Saul eyes David with jealousy. Saul twice hurls a spear at David while he plays the harp, misses both times, and grows more afraid because the LORD is with David. Saul schemes to have David killed by the Philistines by demanding a bride-price of a hundred Philistine foreskins. David brings two hundred.",
+      key_verses: [{ ref: "1 Samuel 18:14", text: "And David had success in all his undertakings, for the LORD was with him." }]
+    },
+    {
+      number: 19,
+      summary: "Saul openly commands Jonathan and his servants to kill David. Jonathan warns David and intercedes, securing a temporary reprieve. But Saul tries to pin David to the wall with his spear again. Michal helps David escape through a window at night. David flees to Samuel at Ramah. Saul sends three groups of messengers to seize him, and each group is overwhelmed by the Spirit and prophesies. Saul himself comes and also prophesies, lying overcome all day and night.",
+      key_verses: [{ ref: "1 Samuel 19:5", text: "He took his life in his hand and struck down the Philistine, and the LORD worked a great salvation for all Israel. You saw it, and rejoiced. Why then will you sin against innocent blood by killing David without cause?" }]
+    },
+    {
+      number: 20,
+      summary: "David and Jonathan meet in secret and devise a plan using arrows to signal whether it is safe for David to return to court. Jonathan discovers Saul fully intends to kill David — Saul even hurls a spear at Jonathan himself. Jonathan signals danger to David. The two friends meet one last time with weeping and embrace, renewing their covenant. Jonathan returns to the city; David flees into exile.",
+      key_verses: [{ ref: "1 Samuel 20:42", text: "Jonathan said to David, Go in peace, because we have sworn both of us in the name of the LORD, saying, The LORD shall be between me and you, and between my offspring and your offspring, forever." }]
+    },
+    {
+      number: 21,
+      summary: "David flees to Nob where the tabernacle is located. He tells the priest Ahimelech a cover story, receives the consecrated showbread and Goliath's sword. Then David goes to Gath. Recognized as Israel's champion, he feigns madness by scratching on the gate and letting saliva run down his beard. The Philistine king dismisses him as a madman and David escapes.",
+      key_verses: [{ ref: "1 Samuel 21:13", text: "So he changed his behavior before them and pretended to be insane in their hands and made marks on the doors of the gate and let his spittle run down his beard." }]
+    },
+    {
+      number: 22,
+      summary: "David hides in the cave of Adullam, where his family and about four hundred discontented men gather to him. Doeg the Edomite reports to Saul that Ahimelech helped David. In rage, Saul orders the priests of Nob executed. His own soldiers refuse, but Doeg kills eighty-five priests and destroys the entire city. The priest Abiathar escapes to David. David grieves that his deception brought this disaster.",
+      key_verses: [{ ref: "1 Samuel 22:23", text: "Stay with me; do not be afraid, for he who seeks my life seeks your life. With me you shall be in safekeeping." }]
+    },
+    {
+      number: 23,
+      summary: "David rescues the town of Keilah from a Philistine raid. But David inquires of God and learns the townspeople would betray him to Saul. He and his six hundred men escape into the wilderness. Jonathan secretly meets David and strengthens his hand in God, reaffirming that David will be king. The Ziphites betray David's location to Saul, but just as Saul closes in, a messenger arrives with news of a Philistine raid and Saul is forced to withdraw.",
+      key_verses: [{ ref: "1 Samuel 23:16", text: "And Jonathan, Saul's son, rose and went to David at Horesh, and strengthened his hand in God." }]
+    },
+    {
+      number: 24,
+      summary: "Saul enters a cave in En-gedi to relieve himself — the very cave where David and his men are hiding. David's men urge him to kill Saul, but he secretly cuts off a corner of Saul's robe, and his conscience strikes him for even that act against God's anointed. After Saul leaves, David calls out and displays the piece of robe as proof he spared Saul. Saul weeps, acknowledges David's righteousness, and admits David will be king. He asks David to swear not to destroy his family.",
+      key_verses: [{ ref: "1 Samuel 24:12", text: "May the LORD judge between me and you, may the LORD avenge me against you, but my hand shall not be against you." }]
+    },
+    {
+      number: 25,
+      summary: "Samuel dies and all Israel mourns him. David sends messengers to the wealthy Nabal asking for provisions in exchange for his men's protection of Nabal's shepherds. Nabal harshly refuses. David sets out with four hundred armed men in fury. Nabal's wise wife Abigail intercepts David with generous gifts and a speech that turns his wrath, warning him not to stain his hands with unnecessary blood. David blesses her wisdom. When Nabal hears what happened, he suffers a fatal attack. David takes Abigail as his wife.",
+      key_verses: [{ ref: "1 Samuel 25:33", text: "Blessed be your discretion, and blessed be you, who have kept me this day from bloodguilt and from avenging myself with my own hand." }]
+    },
+    {
+      number: 26,
+      summary: "The Ziphites betray David again. At night David and Abishai sneak into Saul's sleeping camp. Abishai offers to kill Saul with one thrust. David forbids it — who can strike the LORD's anointed and be guiltless? He takes Saul's spear and water jug and withdraws. From a distance David calls out, shaming Abner for failing to guard the king, and displays the spear as proof. Saul confesses he has sinned. They part for the last time.",
+      key_verses: [{ ref: "1 Samuel 26:23", text: "The LORD rewards every man for his righteousness and his faithfulness, for the LORD gave you into my hand today, and I would not put out my hand against the LORD's anointed." }]
+    },
+    {
+      number: 27,
+      summary: "Despairing that Saul will eventually catch him, David takes his men and their families to live in Philistia under King Achish of Gath. Saul stops pursuing him. Achish gives David the town of Ziklag. For sixteen months David raids Israel's enemies but tells Achish he has been raiding Israelite territory. He leaves no survivors who could contradict his story, and Achish trusts him completely.",
+      key_verses: [{ ref: "1 Samuel 27:1", text: "David said in his heart, Now I shall perish one day by the hand of Saul. There is nothing better for me than that I should escape to the land of the Philistines." }]
+    },
+    {
+      number: 28,
+      summary: "With the Philistines mustering for war and Samuel dead, Saul is terrified and receives no answer from God. In desperation he disguises himself and visits a medium at Endor. Samuel's spirit appears and the medium cries out in terror. Samuel rebukes Saul: because he did not obey God regarding Amalek, tomorrow Saul and his sons will die, and Israel will be handed to the Philistines. Saul collapses in fear and anguish.",
+      key_verses: [{ ref: "1 Samuel 28:18-19", text: "Because you did not obey the voice of the LORD and did not carry out his fierce wrath against Amalek, therefore the LORD has done this thing to you this day. Moreover, the LORD will give Israel also with you into the hand of the Philistines." }]
+    },
+    {
+      number: 29,
+      summary: "The Philistine commanders see David and his men marching with Achish's forces and object strongly — they fear David will turn against them in battle to win favor with Saul. Despite Achish's trust in David, the other commanders insist David be sent back. Achish apologetically dismisses David, calling him blameless. David and his men return to Ziklag.",
+      key_verses: [{ ref: "1 Samuel 29:6", text: "Then Achish called David and said to him, As the LORD lives, you have been honest, and to me it seems right that you should march out and in with me in the campaign. For I have found nothing wrong in you." }]
+    },
+    {
+      number: 30,
+      summary: "David and his men return to find Ziklag burned and all their families taken captive by Amalekite raiders. His men speak of stoning David. David strengthens himself in the LORD his God, inquires of God, and is told to pursue and recover everything. They attack the raiding party at twilight and fight through the next day, recovering every person and all the goods. Nothing was missing.",
+      key_verses: [{ ref: "1 Samuel 30:6", text: "And David was greatly distressed, for the people spoke of stoning him, because all the people were bitter in soul, each for his sons and daughters. But David strengthened himself in the LORD his God." }]
+    },
+    {
+      number: 31,
+      summary: "The Philistines attack Israel at Mount Gilboa. Israel flees, and Saul's three sons — including Jonathan — are killed. Saul is badly wounded by archers. He asks his armor-bearer to run him through so the Philistines cannot torture him, but the armor-bearer refuses in fear. Saul falls on his own sword. The Philistines strip and dishonor his body. The valiant men of Jabesh-gilead travel through the night to retrieve his body, give it a proper burial, and fast in mourning.",
+      key_verses: [{ ref: "1 Samuel 31:4", text: "Then Saul said to his armor-bearer, Draw your sword, and thrust me through with it, lest these uncircumcised come and thrust me through, and mistreat me. But his armor-bearer would not, for he feared greatly. Therefore Saul took his own sword and fell upon it." }]
+    }
+  ]
+});
+
+BIBLE_DATA.books.push({
+  id: "2samuel",
+  name: "2 Samuel",
+  testament: "OT",
+  category: "Historical",
+  summary: "2 Samuel tells the story of David's reign over a united Israel — his triumphs as conqueror and worshiper of God, and his catastrophic moral failures and their consequences. The book reaches its theological high point in God's covenant with David, promising an eternal dynasty and throne. It descends into darkness through David's adultery with Bathsheba, the murder of Uriah, and the rebellion of his son Absalom — showing that even the man after God's own heart is not exempt from the severe consequences of sin.",
+  themes: ["The Davidic covenant", "Sin and its consequences", "Repentance and restoration", "God's faithfulness despite human failure", "The cost of unchecked power"],
+  chapters: [
+    {
+      number: 1,
+      summary: "An Amalekite messenger arrives claiming to have killed the wounded Saul at Saul's own request. Rather than reward him, David has him executed for raising his hand against the LORD's anointed. David then composes a moving lament — the Song of the Bow — mourning both Saul and Jonathan. His grief over Jonathan is especially deep: he calls their love wonderful, surpassing the love of women.",
+      key_verses: [{ ref: "2 Samuel 1:26", text: "I am distressed for you, my brother Jonathan; very pleasant have you been to me; your love to me was extraordinary, surpassing the love of women." }]
+    },
+    {
+      number: 2,
+      summary: "David inquires of God and is directed to Hebron, where the men of Judah anoint him king over Judah. Meanwhile, Abner installs Saul's surviving son Ish-bosheth as king over the rest of Israel. A bloody skirmish breaks out between the two sides at the pool of Gibeon. Joab's brother Asahel pursues Abner, who reluctantly kills him in self-defense — planting a seed of future vengeance.",
+      key_verses: [{ ref: "2 Samuel 2:4", text: "And the men of Judah came, and there they anointed David king over the house of Judah." }]
+    },
+    {
+      number: 3,
+      summary: "The war between the house of Saul and the house of David drags on, with David growing stronger. Abner, after a falling out with Ish-bosheth, sends word to David offering to bring all Israel over to him. David agrees but requires the return of his wife Michal. Joab, furious that David welcomed Abner, murders him in revenge for his brother Asahel. David mourns Abner publicly, distancing himself from Joab's deed.",
+      key_verses: [{ ref: "2 Samuel 3:1", text: "There was a long war between the house of Saul and the house of David. And David grew stronger and stronger, while the house of Saul became weaker and weaker." }]
+    },
+    {
+      number: 4,
+      summary: "Two of Ish-bosheth's commanders murder him in his bed and bring his head to David, expecting a reward. David is appalled. He reminds them of how he dealt with the man who claimed to have killed Saul, and executes them for murdering an innocent man in his own house. Ish-bosheth's head is buried in Abner's tomb at Hebron.",
+      key_verses: [{ ref: "2 Samuel 4:11", text: "How much more, when wicked men have killed a righteous man in his own house on his bed, shall I not now require his blood at your hand and destroy you from the earth?" }]
+    },
+    {
+      number: 5,
+      summary: "All the tribes of Israel come to Hebron and anoint David king over all Israel. He is thirty years old and will reign forty years total. David captures the Jebusite stronghold of Jerusalem, establishing it as his capital. He defeats the Philistines twice, the second time with divine strategy — attack when you hear the sound of marching in the treetops, for God is going before you.",
+      key_verses: [{ ref: "2 Samuel 5:10", text: "And David became greater and greater, for the LORD, the God of hosts, was with him." }]
+    },
+    {
+      number: 6,
+      summary: "David attempts to bring the ark of the covenant to Jerusalem on a new cart. When Uzzah reaches out and touches the ark, he is struck dead. David is afraid and leaves the ark at the house of Obed-edom for three months, where it brings God's blessing. David then brings the ark to Jerusalem with great celebration, leaping and dancing before the LORD. His wife Michal watches from a window and despises him in her heart.",
+      key_verses: [{ ref: "2 Samuel 6:14", text: "And David danced before the LORD with all his might. And David was wearing a linen ephod." }]
+    },
+    {
+      number: 7,
+      summary: "David wants to build a house for God, but Nathan comes to him with a surprising message: God will not have David build Him a house. Instead, God will build David a house — a dynasty. The Davidic Covenant promises an eternal throne and steadfast love that will not be removed. This is the theological foundation for the messianic hope. David responds with a prayer of profound humility and wonder.",
+      key_verses: [{ ref: "2 Samuel 7:16", text: "And your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." }]
+    },
+    {
+      number: 8,
+      summary: "David conquers the surrounding nations — Philistines, Moabites, Arameans, Edomites — and establishes Israel as the dominant regional power. He administers justice and equity to all his people. The chapter summarizes key military victories and the appointment of major officials: Joab over the army, Jehoshaphat as recorder, Zadok and Ahimelech as priests.",
+      key_verses: [{ ref: "2 Samuel 8:15", text: "So David reigned over all Israel. And David administered justice and equity to all his people." }]
+    },
+    {
+      number: 9,
+      summary: "David asks if any of Saul's family remains so he can show kindness for Jonathan's sake. He learns of Mephibosheth, Jonathan's son who is lame in both feet. David restores to him all of Saul's land and invites him to eat at the king's table for the rest of his life — like one of the king's sons. This act of covenant loyalty is one of the most gracious gestures in the entire narrative.",
+      key_verses: [{ ref: "2 Samuel 9:7", text: "David said to him, Do not fear, for I will show you kindness for the sake of your father Jonathan, and I will restore to you all the land of Saul your father, and you shall eat at my table always." }]
+    },
+    {
+      number: 10,
+      summary: "David sends servants to comfort the new Ammonite king, but the king humiliates them by shaving off half their beards and cutting off their garments. War breaks out. The Ammonites hire Aramean mercenaries. Joab and Abishai divide their forces and fight brilliantly on two fronts, routing both enemies. The Arameans regroup, and David personally leads Israel to defeat them decisively.",
+      key_verses: [{ ref: "2 Samuel 10:12", text: "Be of good courage, and let us be courageous for our people, and for the cities of our God, and may the LORD do what seems good to him." }]
+    },
+    {
+      number: 11,
+      summary: "In the spring when kings go to battle, David stays in Jerusalem. From his rooftop he sees the beautiful Bathsheba bathing, sends for her, and she becomes pregnant. David summons her husband Uriah from the battlefield hoping he will go home and sleep with his wife, but the loyal soldier refuses to enjoy comforts while his fellows are in the field. David gets him drunk — still Uriah refuses. Finally David sends Uriah back carrying orders to Joab: place him at the front and withdraw, so he is killed. Uriah dies. David takes Bathsheba as his wife.",
+      key_verses: [{ ref: "2 Samuel 11:27", text: "But the thing that David had done displeased the LORD." }]
+    },
+    {
+      number: 12,
+      summary: "Nathan comes to David with a parable about a rich man who steals a poor man's only lamb. David burns with anger and pronounces judgment. Nathan says: You are the man. He pronounces devastating consequences: the sword will not depart from David's house, his wives will be taken by another before his own eyes, and the child will die. David repents immediately and genuinely. The child dies, but God gives them another son: Solomon, whom God loves.",
+      key_verses: [{ ref: "2 Samuel 12:13", text: "David said to Nathan, I have sinned against the LORD. And Nathan said to David, The LORD also has put away your sin; you shall not die." }]
+    },
+    {
+      number: 13,
+      summary: "David's son Amnon becomes obsessed with his half-sister Tamar. His cousin Jonadab devises a scheme for Amnon to lure Tamar to his house. Amnon rapes her, then immediately despises her and throws her out. Tamar's full brother Absalom seethes in silence for two years. Then at a sheep-shearing festival, Absalom gets Amnon drunk and has him killed. Absalom flees to his maternal grandfather's kingdom. David mourns but does not punish Absalom.",
+      key_verses: [{ ref: "2 Samuel 13:22", text: "But Absalom spoke to Amnon neither good nor bad, for Absalom hated Amnon, because he had violated his sister Tamar." }]
+    },
+    {
+      number: 14,
+      summary: "Joab perceives that David's heart longs for Absalom and devises a ruse: a wise woman from Tekoa presents a fabricated legal case that mirrors David's situation. David sees through the plan but grants the request, allowing Absalom to return to Jerusalem — though he cannot see the king's face for two more years. Finally Absalom tricks Joab into arranging an audience, and David and Absalom are reconciled with a kiss.",
+      key_verses: [{ ref: "2 Samuel 14:14", text: "We must all die; we are like water spilled on the ground, which cannot be gathered up again. But God will not take away life, and he devises means so that the banished one will not remain an outcast." }]
+    },
+    {
+      number: 15,
+      summary: "Absalom spends four years systematically stealing the hearts of Israel, positioning himself at the city gate to intercept disputes. He obtains permission to go to Hebron and there launches his rebellion. The conspiracy grows rapidly and David flees Jerusalem in haste with his loyal followers. He sends the priests back with the ark, telling them if God is pleased with him, he will return.",
+      key_verses: [{ ref: "2 Samuel 15:25", text: "The king said to Zadok, Carry the ark of God back into the city. If I find favor in the eyes of the LORD, he will bring me back and let me see both it and his dwelling place." }]
+    },
+    {
+      number: 16,
+      summary: "As David flees, Mephibosheth's servant Ziba meets him with provisions and claims his master has defected to Absalom. David grants Ziba all of Mephibosheth's land. Shimei, a Benjaminite relative of Saul, throws stones and curses David. Abishai wants to kill him, but David restrains him, saying perhaps God has told him to curse. Meanwhile, Absalom arrives in Jerusalem and publicly sleeps with David's concubines on Ahithophel's advice.",
+      key_verses: [{ ref: "2 Samuel 16:12", text: "It may be that the LORD will look on the wrong done to me, and that the LORD will repay me with good for his cursing today." }]
+    },
+    {
+      number: 17,
+      summary: "Ahithophel counsels Absalom to pursue David immediately that night with twelve thousand men — counsel that would likely have succeeded. But David's spy Hushai advises waiting to gather all Israel for an overwhelming assault, and Absalom chooses Hushai's plan. Hushai sends word to David to cross the Jordan quickly. When Ahithophel sees his counsel was not followed, he goes home and hangs himself. Absalom crosses the Jordan in pursuit.",
+      key_verses: [{ ref: "2 Samuel 17:14", text: "For the LORD had ordained to defeat the good counsel of Ahithophel, so that the LORD might bring harm upon Absalom." }]
+    },
+    {
+      number: 18,
+      summary: "David's army defeats Absalom's forces in the forest of Ephraim. David commands his commanders to deal gently with Absalom. Absalom's mule passes under a great oak tree and his head catches in the branches, leaving him hanging. Joab, defying David's orders, thrusts three javelins into Absalom's heart. When David hears the news, he is shattered with grief, weeping: O my son Absalom, my son, my son Absalom! Would I had died instead of you!",
+      key_verses: [{ ref: "2 Samuel 18:33", text: "And the king was deeply moved and went up to the chamber over the gate and wept. And as he went, he said, O my son Absalom, my son, my son Absalom! Would I had died instead of you, O Absalom, my son, my son!" }]
+    },
+    {
+      number: 19,
+      summary: "David's excessive grief over Absalom threatens to demoralize his victorious troops. Joab harshly rebukes David, telling him he has shamed all his men who saved his life. David takes the throne at the gate. The tribes debate bringing David back, and he offers clemency to all, including Shimei who cursed him. He hears both sides of the Mephibosheth dispute and splits the land between him and Ziba. David crosses the Jordan and returns to Jerusalem.",
+      key_verses: [{ ref: "2 Samuel 19:14", text: "And he swayed the heart of all the men of Judah as one man, so that they sent word to the king, Return, both you and all your servants." }]
+    },
+    {
+      number: 20,
+      summary: "A worthless man named Sheba draws the northern tribes away from David in a new revolt. Joab pursues Sheba, brutally murdering Amasa whom David had just appointed over the army. Sheba takes refuge in the city of Abel Beth-maacah. A wise woman from the city negotiates with Joab: they will throw down Sheba's head, and the city will be spared. Sheba's head is thrown over the wall, and the rebellion collapses.",
+      key_verses: [{ ref: "2 Samuel 20:19", text: "I am one of those who are peaceable and faithful in Israel. You seek to destroy a city that is a mother in Israel. Why will you swallow up the heritage of the LORD?" }]
+    },
+    {
+      number: 21,
+      summary: "A three-year famine leads David to inquire of God. The cause is Saul's unjust killing of the Gibeonites. To make atonement, seven of Saul's descendants are handed over to the Gibeonites. Rizpah, a concubine of Saul, guards the bodies through harvest season. David is moved and gives the bones of Saul and Jonathan a proper burial. The chapter closes with accounts of battles against Philistine giants, in one of which David grows faint and must be rescued.",
+      key_verses: [{ ref: "2 Samuel 21:14", text: "And after that God responded to the plea for the land." }]
+    },
+    {
+      number: 22,
+      summary: "David sings a great song of thanksgiving to God for deliverance from all his enemies — the same song that appears as Psalm 18. He praises God as his rock, fortress, and deliverer, recounting the dramatic imagery of God descending in fire and smoke to rescue him. David affirms that God rewarded his righteousness, yet he acknowledges it is God's strength alone that enables him to fight. The song closes with praise for God's faithfulness to David and his descendants.",
+      key_verses: [{ ref: "2 Samuel 22:2-3", text: "The LORD is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold and my refuge, my savior; you save me from violence." }]
+    },
+    {
+      number: 23,
+      summary: "David's last words celebrate the covenant God made with him — an everlasting covenant, ordered in all things and secure. A list follows of David's mighty warriors: the Three, who performed legendary feats of valor, including breaking through Philistine lines to bring David water from the well at Bethlehem that he then poured out as an offering to God. The Thirty are also listed — and painfully among them is Uriah the Hittite.",
+      key_verses: [{ ref: "2 Samuel 23:5", text: "For does not my house stand so with God? For he has made with me an everlasting covenant, ordered in all things and secure. For will he not cause to prosper all my help and my desire?" }]
+    },
+    {
+      number: 24,
+      summary: "David, in a moment of pride, orders a census of Israel against the counsel of Joab. After the census David is convicted and confesses his sin. God offers three options of punishment: three years of famine, three months fleeing enemies, or three days of pestilence. David chooses to fall into the hands of God rather than men. A plague kills seventy thousand. God relents when the angel reaches Jerusalem. David purchases the threshing floor of Araunah, refusing to offer to God what costs him nothing, and builds an altar there. The plague stops. This site will become Solomon's Temple.",
+      key_verses: [{ ref: "2 Samuel 24:24", text: "But the king said to Araunah, No, but I will buy it from you for a price. I will not offer burnt offerings to the LORD my God that cost me nothing." }]
+    }
+  ]
+});
