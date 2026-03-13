@@ -322,3 +322,259 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+BIBLE_DATA.books.push({
+  id: "1kings",
+  name: "1 Kings",
+  testament: "old",
+  category: "Historical Books",
+  summary: "First Kings chronicles the reign of Solomon in all his glory — his wisdom, his building of the temple, and his tragic fall into idolatry through foreign wives. After his death, the kingdom splits: the northern tribes follow Jeroboam as Israel, while Judah remains with Rehoboam. A succession of mostly wicked kings rules Israel, culminating in the dark reign of Ahab and Jezebel. Against this backdrop the prophet Elijah rises, confronting Baal worship, calling down fire from heaven, and hearing the voice of God in a still small voice.",
+  themes: ["Wisdom and folly", "Obedience and covenant", "The divided kingdom", "Prophetic confrontation", "Idolatry and its consequences"],
+  chapters: [
+    {
+      number: 1,
+      summary: "King David is old and frail. His son Adonijah exalts himself and attempts to seize the throne, gathering supporters including Joab and the priest Abiathar. The prophet Nathan alerts Bathsheba, and together they remind David of his oath to make Solomon king. David acts swiftly, ordering Solomon anointed at Gihon. When Adonijah hears the celebration he is afraid and clings to the horns of the altar, and Solomon spares him.",
+      key_verses: [{ ref: "1 Kings 1:30", text: "As I swore to you by the LORD, the God of Israel, saying, Solomon your son shall reign after me, and he shall sit on my throne in my place, even so will I do this day." }]
+    },
+    {
+      number: 2,
+      summary: "David charges Solomon to walk in God's ways and to deal wisely with Joab and Shimei. After David dies, Adonijah asks for Abishag as his wife — an indirect claim to the throne — and Solomon has him executed. Abiathar the priest is banished. Joab flees to the altar but is struck down by Benaiah. Shimei violates his oath not to leave Jerusalem and is put to death. Solomon's kingdom is firmly established.",
+      key_verses: [{ ref: "1 Kings 2:3", text: "Keep the charge of the LORD your God, walking in his ways and keeping his statutes, his commandments, his rules, and his testimonies, as it is written in the Law of Moses." }]
+    },
+    {
+      number: 3,
+      summary: "Solomon makes a treaty with Pharaoh and marries his daughter. At Gibeon, God appears to Solomon in a dream and offers him whatever he asks. Solomon asks for an understanding heart to govern the people and discern good from evil. God is pleased and grants him both wisdom and riches. Solomon's famous judgment — offering to divide a baby to reveal the true mother — demonstrates his God-given wisdom and astounds all Israel.",
+      key_verses: [{ ref: "1 Kings 3:9", text: "Give your servant therefore an understanding mind to govern your people, that I may discern between good and evil, for who is able to govern this your great people?" }]
+    },
+    {
+      number: 4,
+      summary: "Solomon organizes his kingdom with twelve district governors who supply provisions for the royal household on a rotating monthly basis. His court is vast and his wisdom unrivaled. He speaks three thousand proverbs and a thousand songs, and his fame spreads to all surrounding nations. Kings and peoples from all the earth come to hear his wisdom.",
+      key_verses: [{ ref: "1 Kings 4:29", text: "And God gave Solomon wisdom and understanding beyond measure, and breadth of mind like the sand on the seashore." }]
+    },
+    {
+      number: 5,
+      summary: "Solomon forms an alliance with Hiram king of Tyre, who had been a friend of David. Hiram agrees to supply cedar and cypress timber from Lebanon for the temple, while Solomon provides food and laborers. Solomon conscripts thirty thousand men from Israel for the work, along with thousands of carriers and stonecutters. The massive preparations lay the groundwork for the great temple.",
+      key_verses: [{ ref: "1 Kings 5:5", text: "So I intend to build a house for the name of the LORD my God, as the LORD said to David my father." }]
+    },
+    {
+      number: 6,
+      summary: "In the four hundred and eightieth year after the Exodus, Solomon begins building the temple. The structure is described in careful detail — its dimensions, inner sanctuary, cedar paneling, and golden overlays. Cherubim of olive wood stand in the inner sanctuary with wings outstretched. God speaks to Solomon during the construction, promising to dwell among Israel if they keep his commandments. The temple takes seven years to complete.",
+      key_verses: [{ ref: "1 Kings 6:13", text: "I will dwell among the children of Israel and will not forsake my people Israel." }]
+    },
+    {
+      number: 7,
+      summary: "Solomon spends thirteen years building his own palace complex, including the House of the Forest of Lebanon and the Hall of Justice. He brings in Hiram the craftsman from Tyre to make the bronze work for the temple: two massive pillars named Jachin and Boaz, the great bronze sea resting on twelve oxen, ten bronze stands with basins, and all the vessels and utensils needed for temple worship.",
+      key_verses: [{ ref: "1 Kings 7:21", text: "He set up the pillars at the vestibule of the temple. He set up the right pillar and called its name Jachin, and he set up the left pillar and called its name Boaz." }]
+    },
+    {
+      number: 8,
+      summary: "The ark of the covenant is brought up to the temple with great ceremony and placed in the inner sanctuary. The glory of God fills the temple as a cloud so thick the priests cannot minister. Solomon blesses the assembly and prays a sweeping dedicatory prayer, asking God to hear prayers offered toward this place — by individuals, by the nation in defeat, or even by foreigners who call on his name. He asks God to forgive and restore.",
+      key_verses: [{ ref: "1 Kings 8:27", text: "But will God indeed dwell on the earth? Behold, heaven and the highest heaven cannot contain you; how much less this house that I have built!" }]
+    },
+    {
+      number: 9,
+      summary: "God appears to Solomon a second time, affirming the temple and renewing the covenant: if Solomon walks in integrity and obedience his dynasty will endure; if he turns to other gods, Israel will be cut off from the land and the temple will become a heap of ruins. Solomon gives twenty cities in Galilee to Hiram, who is disappointed with them. Solomon builds a fleet of ships at Ezion-geber on the Red Sea.",
+      key_verses: [{ ref: "1 Kings 9:4-5", text: "If you will walk before me, as David your father walked, with integrity of heart and uprightness, doing according to all that I have commanded you, then I will establish your royal throne over Israel forever." }]
+    },
+    {
+      number: 10,
+      summary: "The queen of Sheba hears of Solomon's fame and comes to test him with hard questions. She is overwhelmed by his wisdom, his palace, his table, his servants, and his temple. She declares that she had not believed the reports until she saw for herself. She gives lavish gifts and returns to her own land. Solomon's annual income in gold is six hundred and sixty-six talents. His wealth and wisdom exceed all the kings of the earth.",
+      key_verses: [{ ref: "1 Kings 10:9", text: "Blessed be the LORD your God, who has delighted in you and set you on the throne of Israel! Because the LORD loved Israel forever, he has made you king, that you may execute justice and righteousness." }]
+    },
+    {
+      number: 11,
+      summary: "Solomon loves many foreign women in defiance of God's command. In his old age they turn his heart after their gods, and he builds high places for Chemosh and Molech. God is angry and tells Solomon the kingdom will be torn from him, though not in his lifetime for David's sake. God raises adversaries: Hadad the Edomite, Rezon of Damascus, and Jeroboam, to whom the prophet Ahijah tears a garment into twelve pieces, giving ten to Jeroboam.",
+      key_verses: [{ ref: "1 Kings 11:11", text: "Since this has been your practice and you have not kept my covenant and my statutes that I have commanded you, I will surely tear the kingdom from you and will give it to your servant." }]
+    },
+    {
+      number: 12,
+      summary: "Solomon dies and his son Rehoboam goes to Shechem to be made king. The people ask for the heavy yoke to be lightened. Rehoboam ignores the elders and follows the harsh advice of his young friends, threatening even greater burdens. The northern tribes revolt and make Jeroboam king. Only Judah and Benjamin remain with Rehoboam. To keep Israel from worshipping in Jerusalem, Jeroboam sets up two golden calves at Bethel and Dan.",
+      key_verses: [{ ref: "1 Kings 12:16", text: "What portion do we have in David? We have no inheritance in the son of Jesse. To your tents, O Israel! Look now to your own house, David." }]
+    },
+    {
+      number: 13,
+      summary: "A man of God from Judah comes to Bethel and prophesies against the altar, declaring that a future king named Josiah will desecrate it. The altar splits and the king's hand withers. The man of God refuses Jeroboam's invitation to eat, commanded by God to return home without eating. But an old prophet deceives him into disobeying, and on his return journey he is killed by a lion. Jeroboam continues in his sinful ways.",
+      key_verses: [{ ref: "1 Kings 13:2", text: "O altar, altar, thus says the LORD: Behold, a son shall be born to the house of David, Josiah by name, and he shall sacrifice on you the priests of the high places who make offerings on you." }]
+    },
+    {
+      number: 14,
+      summary: "Jeroboam sends his wife in disguise to the blind prophet Ahijah to ask about their sick son. Ahijah knows her and delivers a devastating prophecy: because Jeroboam led Israel into sin, God will cut off his house. The child will die as soon as she returns home. In Judah, Rehoboam also does evil; the people build high places and practice detestable things. Pharaoh Shishak plunders the temple treasuries.",
+      key_verses: [{ ref: "1 Kings 14:8", text: "You have not been like my servant David, who kept my commandments and followed me with all his heart, doing only that which was right in my eyes." }]
+    },
+    {
+      number: 15,
+      summary: "Abijam reigns wickedly in Judah for three years. His son Asa is a good king who removes the male cult prostitutes and deposes his own mother from being queen mother because she made an image for Asherah. He brings dedicated silver and gold into the temple. In Israel, Nadab the son of Jeroboam reigns two years before being assassinated by Baasha, who destroys all of Jeroboam's house as prophesied.",
+      key_verses: [{ ref: "1 Kings 15:11", text: "And Asa did what was right in the eyes of the LORD, as David his father had done." }]
+    },
+    {
+      number: 16,
+      summary: "A rapid succession of evil kings rules Israel. Baasha is condemned by the prophet Jehu. His son Elah is assassinated by Zimri during a drunken stupor. Zimri's reign lasts only seven days before Omri besieges Tirzah and Zimri burns the palace down on himself. Omri builds Samaria as Israel's new capital. His son Ahab surpasses all his predecessors in wickedness, marrying Jezebel and worshipping Baal.",
+      key_verses: [{ ref: "1 Kings 16:30", text: "And Ahab the son of Omri did evil in the sight of the LORD, more than all who were before him." }]
+    },
+    {
+      number: 17,
+      summary: "The prophet Elijah appears suddenly and announces to Ahab that there will be no dew or rain except by his word. God sends Elijah to the brook Cherith where ravens bring him bread and meat. When the brook dries up, God sends him to a widow at Zarephath whose jar of flour and jug of oil miraculously do not run out. When her son dies, Elijah stretches himself over the boy and cries out to God; the child's life returns.",
+      key_verses: [{ ref: "1 Kings 17:14", text: "For thus says the LORD, the God of Israel: The jar of flour shall not be spent, and the jug of oil shall not be empty, until the day that the LORD sends rain upon the earth." }]
+    },
+    {
+      number: 18,
+      summary: "In the third year of drought, God sends Elijah to confront Ahab. Elijah challenges the 450 prophets of Baal to a contest on Mount Carmel: each side prepares a sacrifice and calls on their god. Baal does not answer despite hours of crying and cutting. Elijah repairs the altar, douses it with water, and prays simply; fire falls from heaven and consumes everything. The people fall on their faces crying that the LORD is God. Elijah has the prophets of Baal killed. Rain returns.",
+      key_verses: [{ ref: "1 Kings 18:39", text: "And when all the people saw it, they fell on their faces and said, The LORD, he is God; the LORD, he is God." }]
+    },
+    {
+      number: 19,
+      summary: "Jezebel threatens Elijah's life and he flees into the wilderness, despairing even of life. An angel provides food for the journey twice. Elijah travels forty days to Horeb, the mountain of God, where he hides in a cave. God asks what he is doing there, then commissions him again. God is not in the great wind, the earthquake, or the fire — but in a still small voice. Elijah is told to anoint Hazael, Jehu, and Elisha as his successor. He finds Elisha plowing and throws his cloak over him.",
+      key_verses: [{ ref: "1 Kings 19:12", text: "And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper." }]
+    },
+    {
+      number: 20,
+      summary: "Ben-hadad king of Syria besieges Samaria with thirty-two allied kings and sends arrogant demands. A prophet tells Ahab God will deliver them so he may know that God is LORD. Ahab's small force routs the great Syrian army. Ben-hadad returns the following year but is defeated again. Ben-hadad begs for his life and Ahab foolishly spares him in a treaty. A prophet condemns Ahab for letting him go: his life will be required for Ben-hadad's.",
+      key_verses: [{ ref: "1 Kings 20:13", text: "Thus says the LORD: Have you seen all this great multitude? Behold, I will give it into your hand this day, and you shall know that I am the LORD." }]
+    },
+    {
+      number: 21,
+      summary: "Naboth owns a vineyard next to Ahab's palace that Ahab desires. Naboth refuses to sell his ancestral inheritance. Ahab sulks on his bed. Jezebel schemes and has Naboth falsely accused of blasphemy and stoned. She then tells Ahab to take the vineyard. Elijah confronts Ahab in the vineyard with fierce judgment: dogs will lick his blood where they licked Naboth's. When Ahab humbles himself, God delays the disaster to the next generation.",
+      key_verses: [{ ref: "1 Kings 21:19", text: "Thus says the LORD: Have you killed and also taken possession? In the place where dogs licked up the blood of Naboth shall dogs lick your own blood." }]
+    },
+    {
+      number: 22,
+      summary: "Ahab proposes to retake Ramoth-gilead with Jehoshaphat of Judah. All the court prophets predict success. Micaiah is reluctantly summoned and declares plainly that Ahab will die and Israel will scatter. He describes a vision of God sending a lying spirit into the false prophets. Ahab goes to battle in disguise but is struck by a random arrow at a joint in his armor and bleeds to death. Dogs lick his blood by the pool of Samaria, fulfilling Elijah's word.",
+      key_verses: [{ ref: "1 Kings 22:28", text: "And Micaiah said, If you return in peace, the LORD has not spoken by me. And he said, Hear, all you peoples!" }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "2kings",
+  name: "2 Kings",
+  testament: "old",
+  category: "Historical Books",
+  summary: "Second Kings carries the story of the divided monarchy from Elijah's final days through the catastrophic falls of both kingdoms. Elisha performs numerous miracles, carrying forward the prophetic ministry of Elijah. In Israel, a long succession of evil kings ends when Assyria conquers Samaria and deports the people in 722 BC. In Judah, bright lights like Hezekiah and Josiah slow the decline, but the nation's accumulated unfaithfulness leads inevitably to the Babylonian conquest: Jerusalem falls, the temple is destroyed, and the people are carried into exile.",
+  themes: ["Prophetic ministry", "Covenant faithfulness and failure", "The fall of Israel", "The fall of Judah", "God's sovereignty in judgment", "Remnant hope"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Ahaziah king of Israel injures himself and sends messengers to inquire of Baal-Zebub, god of Ekron. Elijah intercepts them and pronounces he will die. Ahaziah sends three companies of soldiers to bring Elijah, but the first two are consumed by fire from heaven. The third captain pleads humbly and is spared. Elijah delivers the death sentence directly to Ahaziah, who dies without an heir. His brother Joram becomes king.",
+      key_verses: [{ ref: "2 Kings 1:3", text: "Is it because there is no God in Israel that you are going to inquire of Baal-Zebub, the god of Ekron?" }]
+    },
+    {
+      number: 2,
+      summary: "As Elijah's time to be taken approaches, he and Elisha travel together and Elisha refuses to leave his master's side. At the Jordan, Elijah strikes the water with his cloak and they cross on dry ground. Elijah asks what he can do for Elisha; Elisha asks for a double portion of his spirit. A chariot of fire appears, Elijah is taken up in a whirlwind, and his cloak falls. Elisha strikes the Jordan and it parts. He then heals a spring of water at Jericho.",
+      key_verses: [{ ref: "2 Kings 2:11", text: "And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven." }]
+    },
+    {
+      number: 3,
+      summary: "Joram of Israel, Jehoshaphat of Judah, and the king of Edom march against Moab but run out of water in the desert. Elisha is consulted and prophesies that the valley will be filled with water without wind or rain. In the morning water comes from Edom. The Moabites see it red as blood, think the kings have fought each other, and rush forward — only to be cut down. Mesha in desperation sacrifices his firstborn son on the wall, and the Israelites withdraw.",
+      key_verses: [{ ref: "2 Kings 3:17", text: "For thus says the LORD, You shall not see wind or rain, but that streambed shall be filled with water, so that you shall drink, you, your livestock, and your animals." }]
+    },
+    {
+      number: 4,
+      summary: "Elisha multiplies oil for a widow to pay off debts and save her sons from slavery. He promises a Shunammite woman a son; she bears one the following year. When the boy dies, Elisha returns and raises the child to life. He purifies a pot of stew poisoned by wild gourds. He feeds a hundred men with twenty loaves of barley bread — they eat and have some left over.",
+      key_verses: [{ ref: "2 Kings 4:34", text: "Then he went up and lay on the child, putting his mouth on his mouth, his eyes on his eyes, and his hands on his hands. And as he stretched himself upon him, the flesh of the child became warm." }]
+    },
+    {
+      number: 5,
+      summary: "Naaman, commander of the Syrian army, is a great man but has leprosy. A captured Israelite girl tells his wife about Elisha. Naaman travels to Israel and Elisha tells him to wash seven times in the Jordan. Naaman is insulted by the simplicity of the prescription, but his servants persuade him. He dips seven times and his flesh is restored like a child's. Elisha refuses gifts. His servant Gehazi secretly accepts silver from Naaman in Elisha's name and Naaman's leprosy clings to him forever.",
+      key_verses: [{ ref: "2 Kings 5:14", text: "So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a little child, and he was clean." }]
+    },
+    {
+      number: 6,
+      summary: "Elisha makes a borrowed iron ax head float on the water. He reveals Syrian battle plans to Israel's king, exposing an apparent spy. The king of Syria sends an army to capture Elisha at Dothan by night. Elisha prays for his servant's eyes to be opened; he sees the mountain full of horses and chariots of fire. Elisha prays the army blind and leads them to Samaria. The chapter ends with Syria laying siege to Samaria, causing a terrible famine.",
+      key_verses: [{ ref: "2 Kings 6:17", text: "O LORD, please open his eyes that he may see. So the LORD opened the eyes of the young man, and he saw, and behold, the mountain was full of horses and chariots of fire all around Elisha." }]
+    },
+    {
+      number: 7,
+      summary: "Elisha prophesies that by the next day food will be abundant in Samaria. A skeptical officer says it is impossible; Elisha says he will see it but not eat it. Four lepers decide to surrender to the Syrians — they have nothing to lose — and find the camp completely abandoned. God had made the Syrians hear the sound of a great army and they fled, leaving everything behind. The people rush out and plunder the camp. The unbelieving officer is trampled to death in the gate.",
+      key_verses: [{ ref: "2 Kings 7:6", text: "For the LORD had made the army of the Syrians hear the sound of chariots and of horses, the sound of a great army, so that they said to one another, Surely the king of Israel has hired against us the kings of the Hittites and the kings of Egypt." }]
+    },
+    {
+      number: 8,
+      summary: "Elisha warns the Shunammite woman to leave because of a coming famine; she returns seven years later to reclaim her house just as Gehazi is telling the king about Elisha's miracles. Elisha travels to Damascus where the ailing Ben-hadad sends Hazael to inquire of him. Elisha weeps knowing Hazael will do great harm to Israel. Hazael smothers Ben-hadad and becomes king. Both Jehoram and Ahaziah reign wickedly in Judah.",
+      key_verses: [{ ref: "2 Kings 8:19", text: "Yet the LORD was not willing to destroy Judah, for the sake of David his servant, since he promised to give a lamp to him and to his sons forever." }]
+    },
+    {
+      number: 9,
+      summary: "Elisha sends a prophet to anoint Jehu as king over Israel with a commission to strike down the house of Ahab. Jehu drives furiously to Jezreel and kills King Joram with an arrow through the heart in the field of Naboth. King Ahaziah of Judah also flees but is struck and dies. Jehu enters Jezreel; Jezebel taunts him from a window. He commands her servants to throw her down. They do, and her blood splatters on the wall. When he orders her buried, they find only her skull, feet, and hands — dogs have eaten the rest.",
+      key_verses: [{ ref: "2 Kings 9:36", text: "In the territory of Jezreel the dogs shall eat the flesh of Jezebel." }]
+    },
+    {
+      number: 10,
+      summary: "Jehu writes to the guardians of Ahab's seventy sons, challenging them to fight if they are loyal. They capitulate and send him seventy heads. Jehu destroys Ahab's entire house. He gathers all the servants of Baal under pretense of a great sacrifice, then has them all struck down and the temple of Baal demolished. Yet Jehu does not turn from the golden calves of Jeroboam. God promises that his sons will sit on the throne of Israel to the fourth generation.",
+      key_verses: [{ ref: "2 Kings 10:30", text: "Because you have done well in carrying out what is right in my eyes, and have done to the house of Ahab according to all that was in my heart, your sons of the fourth generation shall sit on the throne of Israel." }]
+    },
+    {
+      number: 11,
+      summary: "When Athaliah sees her son Ahaziah is dead, she seizes the throne of Judah and kills all the royal family. But Jehosheba hides the infant Joash in the temple for six years. In the seventh year the priest Jehoiada arms the guard and presents Joash to the people. They crown him king; Athaliah is killed. Jehoiada makes a covenant between God, the king, and the people. The people tear down the temple of Baal and kill its priest.",
+      key_verses: [{ ref: "2 Kings 11:12", text: "Then he brought out the king's son and put the crown on him and gave him the testimony. And they proclaimed him king and anointed him, and they clapped their hands and said, Long live the king!" }]
+    },
+    {
+      number: 12,
+      summary: "Joash reigns forty years in Jerusalem and does what is right as long as Jehoiada the priest instructs him. He orders the temple repaired but the priests are slow to act. A chest with a hole is placed at the altar for freewill offerings; the money is used directly for repairs. The temple is restored. When Syria threatens Jerusalem, Joash takes all the temple treasures and pays off Hazael. Joash is later assassinated by his servants.",
+      key_verses: [{ ref: "2 Kings 12:2", text: "And Joash did what was right in the eyes of the LORD all his days, because Jehoiada the priest instructed him." }]
+    },
+    {
+      number: 13,
+      summary: "Jehoahaz of Israel does evil and Israel is oppressed by Syria until he pleads with God. His son Jehoash visits the dying Elisha who tells him to shoot an arrow and strike the ground with the remaining arrows. Jehoash strikes only three times; Elisha is angry — he will defeat Syria only three times, not completely. Elisha dies and is buried. When a body is thrown into his grave and touches his bones, the man revives and stands on his feet.",
+      key_verses: [{ ref: "2 Kings 13:21", text: "And as a man was being buried, behold, a marauding band was seen and the man was thrown into the grave of Elisha, and as soon as the man touched the bones of Elisha, he revived and stood on his feet." }]
+    },
+    {
+      number: 14,
+      summary: "Amaziah of Judah defeats Edom and then foolishly challenges Jehoash of Israel to battle. Jehoash responds with a parable warning Amaziah not to be proud. Amaziah insists; Judah is defeated and the wall of Jerusalem is broken down. In Israel, Jeroboam II reigns forty-one years and restores Israel's borders as the prophet Jonah had foretold. Despite his evil, God uses him to save Israel.",
+      key_verses: [{ ref: "2 Kings 14:27", text: "But the LORD had not said that he would blot out the name of Israel from under heaven, so he saved them by the hand of Jeroboam the son of Joash." }]
+    },
+    {
+      number: 15,
+      summary: "Azariah reigns fifty-two years in Judah but is struck with leprosy. In Israel the end approaches rapidly: Zechariah reigns six months and is killed by Shallum; Shallum reigns one month and is killed by Menahem; Menahem pays a massive tribute to Tiglath-pileser of Assyria to secure his throne; Pekahiah is killed by Pekah; Pekah loses territory to Assyria and is killed by Hoshea. The Assyrian shadow grows with every passing year.",
+      key_verses: [{ ref: "2 Kings 15:19", text: "Pul the king of Assyria came against the land, and Menahem gave Pul a thousand talents of silver, that he might help him to confirm his hold on the royal power." }]
+    },
+    {
+      number: 16,
+      summary: "Ahaz of Judah does not do right, even burning his son as an offering. Threatened by Syria and Israel, he sends the temple treasury to Tiglath-pileser of Assyria and asks for help. Tiglath-pileser attacks Damascus. Ahaz visits Damascus, sees an altar there, and sends plans for a replica to be built in the temple. He moves the bronze altar and uses the new pagan altar for regular offerings, making various changes to the temple that honor Assyria over God.",
+      key_verses: [{ ref: "2 Kings 16:3", text: "But he walked in the way of the kings of Israel. He even burned his son as an offering, according to the despicable practices of the nations whom the LORD drove out before the people of Israel." }]
+    },
+    {
+      number: 17,
+      summary: "Hoshea, the last king of Israel, conspires with Egypt against Assyria. Shalmaneser besieges Samaria for three years and captures it, deporting the Israelites to Assyria in 722 BC. The chapter pauses to explain why: Israel had sinned against God since the Exodus, rejected his commands, went after false gods, and ignored the prophets. God removed them from his sight. Foreigners resettled in the land create a syncretistic religion, fearing God while also worshipping their own gods.",
+      key_verses: [{ ref: "2 Kings 17:23", text: "Until the LORD removed Israel out of his sight, as he had spoken by all his servants the prophets. So Israel was exiled from their own land to Assyria until this day." }]
+    },
+    {
+      number: 18,
+      summary: "Hezekiah becomes king of Judah and does right more than any king before him — he removes the high places, breaks the sacred pillars, cuts down the Asherah pole, and destroys the bronze serpent Moses had made. He holds fast to God and prospers. Now Sennacherib of Assyria attacks Judah and surrounds Jerusalem. The Rabshakeh delivers a psychological assault from the city walls, taunting the people in Hebrew and mocking their trust in God.",
+      key_verses: [{ ref: "2 Kings 18:5-6", text: "He trusted in the LORD, the God of Israel, so that there was none like him among all the kings of Judah after him, nor among those who were before him. For he held fast to the LORD. He did not depart from following him." }]
+    },
+    {
+      number: 19,
+      summary: "Hezekiah tears his clothes and goes to the temple. He sends to the prophet Isaiah, who assures him that Sennacherib will hear a rumor, return home, and fall by the sword. Sennacherib sends a threatening letter; Hezekiah spreads it before God in prayer, asking God to save them so all kingdoms may know that God alone is LORD. Isaiah delivers God's answer: Sennacherib will not enter Jerusalem. That night the angel of the LORD strikes down 185,000 Assyrians. Sennacherib withdraws and is later murdered by his own sons.",
+      key_verses: [{ ref: "2 Kings 19:34", text: "For I will defend this city to save it, for my own sake and for the sake of my servant David." }]
+    },
+    {
+      number: 20,
+      summary: "Hezekiah falls gravely ill and Isaiah tells him he will die. Hezekiah prays and weeps; God sends Isaiah back to say he will live fifteen more years and that Assyria will not take the city. As a sign, the shadow on the sundial goes back ten steps. When Babylonian envoys visit, Hezekiah foolishly shows them all his treasures. Isaiah prophesies that everything will one day be carried to Babylon. Hezekiah responds that at least there will be peace in his own days.",
+      key_verses: [{ ref: "2 Kings 20:5", text: "Turn back, and say to Hezekiah the leader of my people, Thus says the LORD, the God of David your father: I have heard your prayer; I have seen your tears. Behold, I will heal you." }]
+    },
+    {
+      number: 21,
+      summary: "Manasseh reigns fifty-five years and undoes all of Hezekiah's reforms. He rebuilds the high places, erects altars to Baal, worships the host of heaven, sacrifices his son in fire, practices sorcery, consults mediums, and sets a carved image of Asherah in the temple itself. God declares that Judah's judgment is sealed — he will wipe Jerusalem as one wipes a dish. Manasseh fills Jerusalem with innocent blood. His son Amon reigns two years, continues in evil, and is assassinated.",
+      key_verses: [{ ref: "2 Kings 21:12", text: "Therefore thus says the LORD, the God of Israel, behold, I am bringing upon Jerusalem and Judah such disaster that the ears of everyone who hears of it will tingle." }]
+    },
+    {
+      number: 22,
+      summary: "Josiah becomes king at age eight and does what is right. In the eighteenth year of his reign, while repairing the temple, the high priest finds the Book of the Law. When it is read to Josiah, he tears his robes in grief, realizing how far the nation has strayed. He sends to the prophetess Huldah, who confirms that God's judgment on Judah cannot be averted — but because Josiah humbled himself before God, he will be gathered to his grave in peace before the disaster comes.",
+      key_verses: [{ ref: "2 Kings 22:19", text: "Because your heart was tender and you humbled yourself before the LORD, when you heard how I spoke against this place, and you have torn your clothes and wept before me, I also have heard you, declares the LORD." }]
+    },
+    {
+      number: 23,
+      summary: "Josiah gathers all the people and reads the Book of the Covenant, then makes a covenant before God. He carries out the most sweeping reform in Israel's history: removing the Asherah pole from the temple, tearing down the high places throughout Judah, defiling Topheth, destroying the horses dedicated to the sun, and pulling down the shrines Solomon had built. He celebrates a Passover unlike any since the judges. Yet God does not turn from his fierce anger against Judah. Josiah is killed in battle against Pharaoh Neco at Megiddo.",
+      key_verses: [{ ref: "2 Kings 23:25", text: "Before him there was no king like him, who turned to the LORD with all his heart and with all his soul and with all his might, according to all the Law of Moses, nor did any like him arise after him." }]
+    },
+    {
+      number: 24,
+      summary: "Jehoiakim becomes a vassal of Nebuchadnezzar of Babylon for three years, then rebels. God sends raiding bands against Judah, fulfilling the word spoken against Manasseh's sins. Jehoiachin his son reigns three months before Nebuchadnezzar comes to Jerusalem. Jehoiachin surrenders and is taken captive to Babylon along with the temple treasures and ten thousand of Jerusalem's leading people — all the craftsmen and warriors. Only the poorest remain. Zedekiah is made king.",
+      key_verses: [{ ref: "2 Kings 24:3", text: "Surely this came upon Judah at the command of the LORD, to remove them out of his sight, for the sins of Manasseh, according to all that he had done." }]
+    },
+    {
+      number: 25,
+      summary: "Zedekiah rebels against Babylon. Nebuchadnezzar besieges Jerusalem for two years until famine is severe and the walls are breached. Zedekiah flees but is captured, his sons slaughtered before his eyes, then his eyes are put out, and he is taken in chains to Babylon. The temple is burned and the walls torn down. The remaining people are deported. The bronze pillars and all the gold and silver of the temple are carried away. A final quiet note offers hope: Jehoiachin, in exile, is released from prison and given a place of honor at the king of Babylon's table.",
+      key_verses: [{ ref: "2 Kings 25:21", text: "So Judah was taken into exile out of its land." }]
+    }
+  ]
+});
