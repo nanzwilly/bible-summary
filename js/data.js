@@ -578,3 +578,543 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+BIBLE_DATA.books.push({
+  id: "1chronicles",
+  name: "1 Chronicles",
+  testament: "old",
+  category: "Historical Books",
+  summary: "First Chronicles retells the history of Israel from Adam to David, written for the returned exiles who needed to understand their identity and God's faithfulness. The book opens with nine chapters of genealogies tracing God's covenant purposes from creation to the post-exilic community. It then recounts David's reign with an emphasis on his preparations for the temple — his bringing of the ark to Jerusalem, his military victories, his organization of priests and Levites, and his charge to Solomon to build the house of God.",
+  themes: ["Identity and continuity", "David and the covenant", "Temple worship", "God's faithfulness across generations", "Preparing for what is to come"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The book opens with genealogical lists tracing humanity from Adam through Noah's sons, then the descendants of Japheth, Ham, and Shem. The line narrows to Abraham, his sons by Keturah and Hagar, and the descendants of Ishmael and Esau. The chapter establishes the broad sweep of human history leading to Israel, grounding God's covenant in creation itself.",
+      key_verses: [{ ref: "1 Chronicles 1:1", text: "Adam, Seth, Enosh." }]
+    },
+    {
+      number: 2,
+      summary: "The twelve sons of Israel are listed, and the genealogy focuses on Judah, the royal tribe. The line of Judah includes Perez, Hezron, and the ancestors of David. Caleb's descendants and various clans of Judah are catalogued in careful detail, preserving the memory of families whose names might otherwise be forgotten.",
+      key_verses: [{ ref: "1 Chronicles 2:1", text: "These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Dan, Joseph, Benjamin, Naphtali, Gad, and Asher." }]
+    },
+    {
+      number: 3,
+      summary: "The sons of David born in Hebron and Jerusalem are listed, including Solomon. The chapter then traces the royal line of Judah through Solomon down to the sons of Josiah and into the exile and beyond, through Zerubbabel and the post-exilic generations. This royal genealogy anchors the returned exiles in the unbroken line of God's covenant with David.",
+      key_verses: [{ ref: "1 Chronicles 3:1", text: "These are the sons of David who were born to him in Hebron." }]
+    },
+    {
+      number: 4,
+      summary: "Further genealogies of the tribe of Judah are given, including a remarkable prayer inserted in the text. Jabez cries out to God for blessing, enlarged territory, God's hand upon him, and freedom from harm. God grants his request. The chapter also records the clans of Simeon and their settlements, including a late expansion into the territory of Amalek.",
+      key_verses: [{ ref: "1 Chronicles 4:10", text: "Jabez called upon the God of Israel, saying, Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm so that it might not bring me pain! And God granted what he asked." }]
+    },
+    {
+      number: 5,
+      summary: "The genealogies of Reuben, Gad, and the half-tribe of Manasseh are recorded. Reuben lost the birthright due to his sin. The Transjordan tribes are noted for trusting God and calling on him in battle against the Hagrites, winning a great victory. But eventually they are unfaithful, worshipping the gods of the peoples God had destroyed, and they are carried into exile by Assyria.",
+      key_verses: [{ ref: "1 Chronicles 5:20", text: "And when they prevailed over them, the Hagrites and all who were with them were given into their hands, for they cried out to God in the battle, and he granted their urgent plea because they trusted in him." }]
+    },
+    {
+      number: 6,
+      summary: "The extensive genealogy of Levi, the priestly tribe, is given — including the line from Levi down to Aaron, and from Aaron through the high priests to the exile. The singers appointed by David — Heman, Asaph, and Ethan — are given with their full genealogies. The chapter ends with the towns assigned to the Levites throughout the land, underscoring their role as servants in the midst of all Israel.",
+      key_verses: [{ ref: "1 Chronicles 6:32", text: "They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the LORD in Jerusalem, and they performed their service according to their order." }]
+    },
+    {
+      number: 7,
+      summary: "Genealogies of Issachar, Benjamin, Naphtali, Manasseh, Ephraim, and Asher are recorded. The Ephraimite section includes a poignant note: Ephraim mourned many days when his sons were killed by the men of Gath who had come down to take their livestock. From this line eventually came Joshua. The lists emphasize the warrior strength of each tribe, their role in Israel's defense and identity.",
+      key_verses: [{ ref: "1 Chronicles 7:22", text: "And Ephraim their father mourned many days, and his brothers came to comfort him." }]
+    },
+    {
+      number: 8,
+      summary: "A detailed genealogy of the tribe of Benjamin is given, culminating in the family of Saul — Kish, Ner, and their descendants including Jonathan and Saul's sons. This chapter sets the stage for the transition from Saul's failed kingship to David's, and also connects the post-exilic community with their Benjaminite roots, particularly important since Benjamin remained part of the southern kingdom.",
+      key_verses: [{ ref: "1 Chronicles 8:33", text: "Ner fathered Kish, Kish fathered Saul, Saul fathered Jonathan, Malchishua, Abinadab, and Esh-baal." }]
+    },
+    {
+      number: 9,
+      summary: "A list of those who settled in Jerusalem after the exile is given — from Judah, Benjamin, Ephraim, and Manasseh. The priests, Levites, and gatekeepers who returned are carefully named with their duties in the house of God. The genealogy of Saul is repeated, leading into the account of his death. This chapter bridges the genealogies and the narrative, showing that the restored community is rooted in all of Israel's tribes.",
+      key_verses: [{ ref: "1 Chronicles 9:2", text: "Now the first to dwell again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants." }]
+    },
+    {
+      number: 10,
+      summary: "The narrative begins with the death of Saul at Mount Gilboa. The Philistines kill his three sons and mortally wound Saul, who falls on his own sword to avoid capture. The Philistines display his armor and post his body on the wall of Beth-shan, but the men of Jabesh-gilead retrieve his body and bury it. The chapter closes with the Chronicler's verdict: Saul died for his unfaithfulness to God — he did not seek God but sought a medium instead.",
+      key_verses: [{ ref: "1 Chronicles 10:13-14", text: "So Saul died for his breach of faith. He broke faith with the LORD in that he did not keep the command of the LORD, and also consulted a medium, seeking guidance. He did not seek guidance from the LORD. Therefore the LORD put him to death and turned the kingdom over to David the son of Jesse." }]
+    },
+    {
+      number: 11,
+      summary: "All Israel gathers to David at Hebron, acknowledging him as their shepherd and ruler. He captures Jerusalem from the Jebusites, making it his capital. Joab leads the assault and becomes commander. A catalogue of David's mighty warriors follows — the Three and the Thirty — with stories of legendary valor: men who broke through Philistine lines, killed lions in pits, and stood their ground when others fled.",
+      key_verses: [{ ref: "1 Chronicles 11:3", text: "So all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the LORD. And they anointed David king over Israel, according to the word of the LORD by Samuel." }]
+    },
+    {
+      number: 12,
+      summary: "Warriors from every tribe come to join David — first at Ziklag when he was still fleeing Saul, then at Hebron when they came to make him king. Benjaminites, Gadites, men of Judah, and eventually all twelve tribes are represented. The numbers are staggering: hundreds of thousands come to Hebron to turn Saul's kingdom to David. There is great joy in Israel for three days of celebration.",
+      key_verses: [{ ref: "1 Chronicles 12:38", text: "All these, men of war, arrayed in battle order, came to Hebron with full intent to make David king over all Israel. Likewise, all the rest of Israel were of a single mind to make David king." }]
+    },
+    {
+      number: 13,
+      summary: "David consults with all Israel and decides to bring the ark of God from Kiriath-jearim, where it has been neglected during Saul's reign. The whole assembly celebrates with music as the ark is transported on a new cart. When the oxen stumble, Uzzah reaches out to steady the ark and is struck dead by God. David is afraid and angry, and leaves the ark at the house of Obed-edom, where it remains for three months blessing his household.",
+      key_verses: [{ ref: "1 Chronicles 13:14", text: "And the ark of God remained with the household of Obed-edom in his house three months. And the LORD blessed the household of Obed-edom and all that he had." }]
+    },
+    {
+      number: 14,
+      summary: "Hiram of Tyre sends messengers and cedar timber and craftsmen to build David a house. David takes more wives and his family grows. The Philistines hear that David has been anointed king and mobilize against him. David inquires of God twice and receives specific battle instructions each time. God gives Israel two victories over the Philistines, and David's fame spreads to all nations.",
+      key_verses: [{ ref: "1 Chronicles 14:17", text: "And the fame of David went out into all lands, and the LORD brought the fear of him upon all nations." }]
+    },
+    {
+      number: 15,
+      summary: "David prepares a place for the ark and decrees that only the Levites may carry it, having learned from the death of Uzzah. He appoints Levitical singers and musicians — Heman, Asaph, Ethan — with cymbals, harps, and lyres. The ark is brought up with rejoicing. Michal, Saul's daughter, sees David leaping and dancing and despises him in her heart.",
+      key_verses: [{ ref: "1 Chronicles 15:2", text: "Then David said that no one but the Levites may carry the ark of God, for the LORD had chosen them to carry the ark of the LORD and to minister to him forever." }]
+    },
+    {
+      number: 16,
+      summary: "The ark is set in the tent David has pitched for it, and offerings are made. David appoints Asaph and his brothers to minister before the ark in song and praise. He gives them a psalm of thanksgiving — celebrating God's faithfulness to his covenant, his works among the nations, and his care for Israel. The ark of the covenant is at the tent in Jerusalem; the tabernacle and its bronze altar remain at Gibeon where Zadok and priests continue the daily offerings.",
+      key_verses: [{ ref: "1 Chronicles 16:34", text: "Oh give thanks to the LORD, for he is good; for his steadfast love endures forever!" }]
+    },
+    {
+      number: 17,
+      summary: "David proposes to build God a house of cedar, but God responds through the prophet Nathan with the Davidic covenant: it is not David who will build God a house, but God who will build David a house — a dynasty. God promises that David's son will build the temple and that his throne will be established forever. David sits before the LORD in prayer, overwhelmed by the grace of this promise, asking nothing except that God fulfill his word.",
+      key_verses: [{ ref: "1 Chronicles 17:14", text: "I will confirm him in my house and in my kingdom forever, and his throne shall be established forever." }]
+    },
+    {
+      number: 18,
+      summary: "David wins a series of military victories: over the Philistines, Moab, the king of Zobah, the Syrians of Damascus, and the Edomites. He takes great amounts of bronze, gold, and silver as spoil and dedicates it all to God. His kingdom extends from the Euphrates to the border of Egypt. The Chronicler notes that David administered justice and equity to all his people and that the LORD gave victory wherever he went.",
+      key_verses: [{ ref: "1 Chronicles 18:14", text: "So David reigned over all Israel, and he administered justice and equity to all his people." }]
+    },
+    {
+      number: 19,
+      summary: "When the king of Ammon dies, David sends a delegation of comfort to his son Hanun, but the Ammonite leaders convince Hanun that they are spies. Hanun humiliates them by shaving half their beards and cutting their garments. David sends Joab and the army. The Ammonites hire Syrian mercenaries. Joab divides his forces, defeats the Syrians, and the Ammonites retreat. The Syrians regroup under Shophach; David leads the full army and decisively defeats them.",
+      key_verses: [{ ref: "1 Chronicles 19:13", text: "Be strong, and let us use our strength for our people and for the cities of our God, and may the LORD do what seems good to him." }]
+    },
+    {
+      number: 20,
+      summary: "Joab leads the army against Ammon and besieges Rabbah. David remains in Jerusalem and later comes to take the crown from the captured city. Three battles with Philistine giants are recorded: a warrior with six fingers on each hand and six toes on each foot who defied Israel is killed by Jonathan the son of Shimea. These brief notes close the account of David's military campaigns.",
+      key_verses: [{ ref: "1 Chronicles 20:1", text: "In the spring of the year, the time when kings go out to battle, Joab led out the army and ravaged the country of the Ammonites and came and besieged Rabbah." }]
+    },
+    {
+      number: 21,
+      summary: "Satan rises against Israel and incites David to take a census. Joab protests but David insists. After the count, David is convicted and confesses. God offers three choices of punishment; David chooses to fall into God's hands rather than men's, and a plague strikes Israel, killing seventy thousand. God relents at Jerusalem. The angel of the LORD stands at the threshing floor of Ornan the Jebusite; David purchases it and builds an altar there. Fire falls from heaven and the plague stops. This site will be the location of the temple.",
+      key_verses: [{ ref: "1 Chronicles 21:24", text: "But King David said to Ornan, No, but I will buy them for the full price. I will not take for the LORD what is yours, nor offer burnt offerings that cost me nothing." }]
+    },
+    {
+      number: 22,
+      summary: "David declares the threshing floor of Ornan to be the site of the house of God and begins massive preparations: one hundred thousand talents of gold, a million talents of silver, vast quantities of timber and stone. He tells Solomon privately that God forbade him from building the temple because he is a man of war and blood, but that Solomon, a man of peace, will build it. David charges Solomon solemnly to be strong, keep the commandments, and build the sanctuary.",
+      key_verses: [{ ref: "1 Chronicles 22:19", text: "Now set your mind and heart to seek the LORD your God. Arise and build the sanctuary of the LORD God." }]
+    },
+    {
+      number: 23,
+      summary: "David makes Solomon king and then organizes the Levites by their clans for service in the house of God. Since the ark will have a permanent home and the Levites will no longer carry it from place to place, their duties are redefined: to assist the priests, care for the courts and chambers, and lead the music and worship of God's house. David counts thirty thousand Levites aged thirty and above.",
+      key_verses: [{ ref: "1 Chronicles 23:32", text: "Thus they were to keep charge of the tent of meeting and the sanctuary, and to attend the sons of Aaron, their brothers, for the service of the house of the LORD." }]
+    },
+    {
+      number: 24,
+      summary: "The priests descended from Aaron are organized into twenty-four divisions by lot, to serve in rotation in the sanctuary. Sixteen divisions come from Eleazar's descendants and eight from Ithamar's. The remaining Levites are also organized by lot alongside the priestly divisions. This careful organization ensures that worship in the temple will be orderly, continuous, and shared equitably among all the priestly families.",
+      key_verses: [{ ref: "1 Chronicles 24:5", text: "They organized them by lot, all alike, for there were officers of the sanctuary and officers of God among both the sons of Eleazar and the sons of Ithamar." }]
+    },
+    {
+      number: 25,
+      summary: "David and the commanders set apart the sons of Asaph, Heman, and Jeduthun for the ministry of prophesying with lyres, harps, and cymbals. Two hundred and eighty-eight skilled musicians are organized into twenty-four divisions of twelve, assigned by lot — teacher and student alike, small and great together. Music and prophecy are intertwined in Israel's worship, and this careful organization will carry into the temple.",
+      key_verses: [{ ref: "1 Chronicles 25:1", text: "David and the chiefs of the service also set apart for the service the sons of Asaph, and of Heman, and of Jeduthun, who prophesied with lyres, with harps, and with cymbals." }]
+    },
+    {
+      number: 26,
+      summary: "The gatekeepers of the temple are organized by families — Meshelemiah, Obed-edom, and Hosah are named along with their sons. The gates are assigned by lot: the south gate, north gate, storehouse, and the road to the west. Levites are also appointed as treasurers over the dedicated gifts and spoils of war stored in the house of God. Officers and judges are appointed for Israel's towns and administrative districts.",
+      key_verses: [{ ref: "1 Chronicles 26:12", text: "From these divisions of the gatekeepers, even among the chief men, were assigned duties to minister in the house of the LORD, as well as their brothers." }]
+    },
+    {
+      number: 27,
+      summary: "The military organization of Israel is described: twelve divisions of twenty-four thousand each, one for each month of the year, commanded by named officers. The leaders of the twelve tribes are listed. David's personal advisors and officials are named — including Joab over the army, Jehoshaphat the recorder, Ahithophel and Hushai as counselors, and Adoram over the forced labor. A note explains why David did not count men under twenty or include Levi and Benjamin in the census.",
+      key_verses: [{ ref: "1 Chronicles 27:23", text: "But David did not count those below twenty years of age, for the LORD had promised to make Israel as many as the stars of heaven." }]
+    },
+    {
+      number: 28,
+      summary: "David assembles all the leaders of Israel and gives a public charge to Solomon. He recounts how God chose him as king and chose Solomon to build the temple, but said Solomon must wholeheartedly follow God for the kingdom to endure. David hands Solomon the plans for every part of the temple — the courts, chambers, ark, utensils — saying the Spirit gave him the blueprints. He closes with a charge to be strong and not fear, for God will be with him.",
+      key_verses: [{ ref: "1 Chronicles 28:20", text: "Be strong and courageous and do it. Do not be afraid and do not be dismayed, for the LORD God, even my God, is with you. He will not leave you or forsake you, until all the work for the service of the house of the LORD is finished." }]
+    },
+    {
+      number: 29,
+      summary: "David calls on the assembly to give willingly for the temple. He himself gives enormously from his personal treasury. The leaders and people follow with joyful generosity — gold, silver, bronze, iron, and precious stones in vast quantities. David prays a magnificent prayer of praise, acknowledging that everything given was first received from God and that they are sojourners before him as their fathers were. The people worship. Solomon is anointed king a second time. David dies after a long and full reign, and Solomon sits on the throne.",
+      key_verses: [{ ref: "1 Chronicles 29:14", text: "But who am I, and what is my people, that we should be able thus to offer willingly? For all things come from you, and of your own have we given you." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "2chronicles",
+  name: "2 Chronicles",
+  testament: "old",
+  category: "Historical Books",
+  summary: "Second Chronicles continues the retelling of Israel's history for the returned exiles, covering Solomon's reign, the division of the kingdom, and the history of Judah's kings down to the fall of Jerusalem. The book is distinguished by its focus on temple worship and its recurring pattern: kings who seek God prosper; kings who forsake him face disaster. It ends uniquely with Cyrus's decree permitting the exiles to return, offering a note of hope that opens directly into Ezra.",
+  themes: ["Seeking God", "Temple and worship", "Covenant faithfulness", "Pride and humility", "Judgment and restoration", "Hope beyond exile"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Solomon goes to Gibeon where the tabernacle stands and offers a thousand burnt offerings. That night God appears and offers Solomon whatever he asks. Solomon asks for wisdom and knowledge to lead God's great people. God is pleased and grants him wisdom beyond all kings, along with wealth and honor. Solomon amasses chariots and horsemen, and silver and gold become as common as stone in Jerusalem.",
+      key_verses: [{ ref: "2 Chronicles 1:10", text: "Give me now wisdom and knowledge to go out and come in before this people, for who can govern this people of yours, which is so great?" }]
+    },
+    {
+      number: 2,
+      summary: "Solomon prepares to build the temple and the royal palace. He writes to Hiram king of Tyre requesting a skilled craftsman and timber from Lebanon, in exchange for wheat, barley, wine, and oil. Solomon conscripts a workforce of resident aliens, stonecutters, and supervisors. Hiram responds warmly, praising the God of Israel who made heaven and earth and gave David such a wise son.",
+      key_verses: [{ ref: "2 Chronicles 2:5", text: "The house that I am to build will be great, for our God is greater than all gods." }]
+    },
+    {
+      number: 3,
+      summary: "Solomon begins building the temple on Mount Moriah, the site of Ornan's threshing floor. The dimensions, materials, and design are described: the vestibule, the nave paneled with gold, the Most Holy Place with its great golden cherubim spanning twenty cubits wing to wing. Two bronze pillars are set before the entrance — Jachin and Boaz. The care of construction reflects the weight of the undertaking: a dwelling place for the God of the universe.",
+      key_verses: [{ ref: "2 Chronicles 3:1", text: "Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to David his father, at the place that David had appointed, on the threshing floor of Ornan the Jebusite." }]
+    },
+    {
+      number: 4,
+      summary: "Solomon makes the bronze altar for burnt offerings, the great bronze sea resting on twelve oxen, ten basins on stands, the golden lampstands, tables, and utensils for the temple. Hiram the craftsman finishes all the bronze work in the Jordan plain. Solomon also makes all the golden furnishings for the inner sanctuary. The vast quantity of bronze used was so great that its weight was never determined.",
+      key_verses: [{ ref: "2 Chronicles 4:11", text: "So Hiram finished the work that he did for King Solomon on the house of God." }]
+    },
+    {
+      number: 5,
+      summary: "All the work is finished and Solomon brings the dedicated silver and gold into the treasury. The ark of the covenant is brought up from the city of David with great ceremony — the Levites carrying it, the priests and Levites leading, and an orchestra of one hundred twenty priests blowing trumpets. When the music rises in unison praising God, the cloud of God's glory fills the temple so the priests cannot stand to minister.",
+      key_verses: [{ ref: "2 Chronicles 5:14", text: "So that the priests could not stand to minister because of the cloud, for the glory of the LORD filled the house of God." }]
+    },
+    {
+      number: 6,
+      summary: "Solomon addresses the assembly and then turns to offer a sweeping dedicatory prayer. He praises God who has fulfilled his promise to David. He asks God to hear prayers offered toward this house — when individuals sin, when the nation is defeated in battle, when there is drought or famine, when foreigners come from distant lands, even when the people sin and are carried into exile. The prayer is a remarkable catalogue of human need and divine mercy.",
+      key_verses: [{ ref: "2 Chronicles 6:18", text: "But will God indeed dwell with man on the earth? Behold, heaven and the highest heaven cannot contain you, how much less this house that I have built!" }]
+    },
+    {
+      number: 7,
+      summary: "When Solomon finishes praying, fire comes down from heaven and consumes the burnt offering. The glory of the LORD fills the house. The people bow down and worship. They keep a great feast for fourteen days. God appears to Solomon at night and accepts the temple and answers his prayer with a condition: if the people humble themselves, pray, seek God's face, and turn from their wicked ways, God will forgive and heal the land. If they forsake God, the temple will become a proverb of horror.",
+      key_verses: [{ ref: "2 Chronicles 7:14", text: "If my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land." }]
+    },
+    {
+      number: 8,
+      summary: "Solomon builds and rebuilds numerous cities. He completes the temple and palace construction over twenty years. He establishes the required offerings and festivals according to Moses's commands and David's orders for the priests and Levites. He builds a fleet at Ezion-geber. The Chronicler notes that Pharaoh's daughter was moved from the city of David because the holy ark of God had been there.",
+      key_verses: [{ ref: "2 Chronicles 8:16", text: "Thus all the work of Solomon was carried out from the day the foundation of the house of the LORD was laid until it was finished. So the house of the LORD was completed." }]
+    },
+    {
+      number: 9,
+      summary: "The queen of Sheba comes to test Solomon with hard questions and is overwhelmed by his wisdom, his palace, his servants, and his worship. She declares that the half was not told to her. She gives him vast gifts of gold, spices, and precious stones. Solomon's annual income is six hundred and sixty-six talents of gold. He makes two hundred large shields and three hundred smaller shields of beaten gold. His throne of ivory and gold is unrivaled. Solomon dies after forty years of reign.",
+      key_verses: [{ ref: "2 Chronicles 9:23", text: "And all the kings of the earth sought the presence of Solomon to hear his wisdom, which God had put into his mind." }]
+    },
+    {
+      number: 10,
+      summary: "Rehoboam goes to Shechem where all Israel gathers to make him king. The people ask that the yoke be lightened. Rehoboam forsakes the counsel of the elders and follows the harsh advice of his young companions, promising to be even harder on the people. The northern tribes revolt, refuse Rehoboam's authority, and make Jeroboam their king. Only Judah and Benjamin remain with Rehoboam.",
+      key_verses: [{ ref: "2 Chronicles 10:15", text: "So the king did not listen to the people, for it was a turn of affairs brought about by God that the LORD might fulfill his word." }]
+    },
+    {
+      number: 11,
+      summary: "Rehoboam prepares to fight Israel to reunite the kingdom, but God sends the prophet Shemaiah forbidding it. Rehoboam obeys. He fortifies fifteen cities in Judah and Benjamin. The priests and Levites from all over Israel come to Jerusalem because Jeroboam cast them out when he set up his golden calves. Those who set their hearts to seek God come from all the tribes. Rehoboam grows strong and takes eighteen wives and sixty concubines.",
+      key_verses: [{ ref: "2 Chronicles 11:16", text: "And those who had set their hearts to seek the LORD God of Israel came after them from all the tribes of Israel to Jerusalem to sacrifice to the LORD, the God of their fathers." }]
+    },
+    {
+      number: 12,
+      summary: "When Rehoboam's kingdom is established he abandons the law of God, and all Israel with him. Shishak king of Egypt attacks Jerusalem with twelve hundred chariots and a vast army. The prophet Shemaiah declares this is God's judgment. When the leaders humble themselves God says he will not destroy them but they will be Shishak's servants, that they may know the difference between serving God and serving earthly kings. Shishak plunders the temple treasuries.",
+      key_verses: [{ ref: "2 Chronicles 12:8", text: "Nevertheless, they shall be servants to him, so that they may know my service compared with the service of the kingdoms of the lands." }]
+    },
+    {
+      number: 13,
+      summary: "Abijah of Judah goes to war against Jeroboam of Israel. Though outnumbered two to one, Abijah stands on a mountain and calls out to Israel: you are relying on golden calves, you have driven out the LORD's priests, and you fight against the kingdom of God. The Israelites set an ambush but when the men of Judah cry to God the priests sound the trumpets and God defeats Israel. Jeroboam never recovers his power.",
+      key_verses: [{ ref: "2 Chronicles 13:18", text: "Thus the people of Israel were subdued at that time, and the people of Judah prevailed, because they relied on the LORD, the God of their fathers." }]
+    },
+    {
+      number: 14,
+      summary: "Asa reigns and the land has rest because he seeks God. He removes the foreign altars, the high places, the pillars, and the Asherah poles. He commands Judah to seek God and keep the law. When a Cushite army of a million men and three hundred chariots comes against him, Asa cries to God: we rely on you, LORD, let not man prevail. God defeats the Cushites and Judah plunders their towns.",
+      key_verses: [{ ref: "2 Chronicles 14:11", text: "O LORD, there is none like you to help, between the mighty and the weak. Help us, O LORD our God, for we rely on you, and in your name we have come against this multitude." }]
+    },
+    {
+      number: 15,
+      summary: "The prophet Azariah meets Asa with a word from God: God is with you while you are with him; if you seek him he will be found by you, but if you forsake him he will forsake you. Asa is encouraged and carries out further reform — removing idols from Judah, Benjamin, and cities he had taken in Ephraim. The people make a covenant to seek God with all their heart. The land has peace for many years.",
+      key_verses: [{ ref: "2 Chronicles 15:2", text: "The LORD is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you." }]
+    },
+    {
+      number: 16,
+      summary: "In the thirty-sixth year of Asa's reign, Baasha of Israel blocks the road to Judah. Rather than trusting God as before, Asa takes silver and gold from the temple and sends it to the king of Aram to break the alliance. The prophet Hanani rebukes him: you relied on the king of Aram, not on the LORD. From now on you will have wars. Asa is angry and throws Hanani in prison. When Asa later has a severe foot disease he seeks physicians rather than God. He dies.",
+      key_verses: [{ ref: "2 Chronicles 16:9", text: "For the eyes of the LORD run to and fro throughout the whole earth, to give strong support to those whose heart is blameless toward him." }]
+    },
+    {
+      number: 17,
+      summary: "Jehoshaphat succeeds Asa and walks in David's ways, seeking God rather than the Baals. He sends priests and Levites throughout all the cities of Judah to teach the people from the Book of the Law. God establishes his kingdom and all the surrounding nations bring him gifts. He builds a large army and his wealth and honor are great. The fear of God falls on the surrounding kingdoms so they do not make war against him.",
+      key_verses: [{ ref: "2 Chronicles 17:6", text: "His heart was courageous in the ways of the LORD. And furthermore, he took the high places and the Asherah poles out of Judah." }]
+    },
+    {
+      number: 18,
+      summary: "Jehoshaphat allies with Ahab of Israel and joins him to fight for Ramoth-gilead. Four hundred court prophets promise victory. But Micaiah is summoned and tells the truth: Ahab will die and Israel will scatter. He describes a vision of God sending a lying spirit into the false prophets' mouths. Ahab goes to battle in disguise but is struck by a random arrow. He bleeds to death in his chariot and dogs lick his blood, as Elijah had prophesied.",
+      key_verses: [{ ref: "2 Chronicles 18:13", text: "But Micaiah said, As the LORD lives, what my God says, that I will speak." }]
+    },
+    {
+      number: 19,
+      summary: "When Jehoshaphat returns home safely, the prophet Jehu rebukes him for allying with Ahab: you love those who hate God. Nevertheless there is good in you, for you removed the Asherah poles and set your heart to seek God. Jehoshaphat then makes a tour through the land and appoints judges in every fortified city, charging them to judge not for man but for God, with fear of the LORD and faithfulness.",
+      key_verses: [{ ref: "2 Chronicles 19:7", text: "Now then, let the fear of the LORD be upon you. Be careful what you do, for there is no injustice with the LORD our God, or partiality or taking bribes." }]
+    },
+    {
+      number: 20,
+      summary: "Moab, Ammon, and others come against Jehoshaphat. He is afraid but sets his face to seek God and proclaims a fast throughout Judah. He prays publicly: we are powerless against this great horde; we do not know what to do, but our eyes are on you. God speaks through a Levite: do not be afraid; the battle is not yours but God's. Jehoshaphat appoints singers to go before the army praising God. When they begin singing, God sets ambushes among the enemy armies and they destroy each other. Judah collects three days worth of spoil.",
+      key_verses: [{ ref: "2 Chronicles 20:15", text: "Thus says the LORD to you: Do not be afraid and do not be dismayed at this great horde, for the battle is not yours but God's." }]
+    },
+    {
+      number: 21,
+      summary: "Jehoram becomes king of Judah, murders all his brothers, and leads Judah into the sins of Ahab's house, having married Ahab's daughter. The prophet Elijah sends a letter prophesying that a plague will strike his people, his family, and himself with a severe bowel disease. Edom and Libnah revolt. The Philistines and Arabians raid and carry off his sons and wives. Jehoram dies of the foretold disease, unmourned. His son Ahaziah succeeds him.",
+      key_verses: [{ ref: "2 Chronicles 21:20", text: "He departed with no one's regret. They buried him in the city of David, but not in the tombs of the kings." }]
+    },
+    {
+      number: 22,
+      summary: "Ahaziah of Judah walks in the ways of Ahab's house, counseled by his mother Athaliah. He is killed during Jehu's purge of Ahab's house in Israel. Athaliah seizes the throne of Judah and kills all the royal family. But Jehosheba, the king's sister, hides the infant Joash in the house of God for six years while Athaliah rules the land.",
+      key_verses: [{ ref: "2 Chronicles 22:12", text: "And he remained with them six years, hidden in the house of God, while Athaliah reigned over the land." }]
+    },
+    {
+      number: 23,
+      summary: "The priest Jehoiada organizes the commanders and Levites and reveals the king's son Joash. On the sabbath, the guards take their posts at every gate of the temple, armed with David's weapons from the storehouse. Joash is brought out, crowned, and anointed while the people shout, Long live the king! Athaliah tears her garments and cries treason but is brought out of the temple and executed. Jehoiada makes a covenant between God, the king, and the people.",
+      key_verses: [{ ref: "2 Chronicles 23:3", text: "And all the assembly made a covenant with the king in the house of God. And Jehoiada said to them, Behold, the king's son! Let him reign, as the LORD spoke concerning the sons of David." }]
+    },
+    {
+      number: 24,
+      summary: "Joash reigns forty years and does right while Jehoiada the priest lives. He organizes a collection to repair the temple, which succeeds beautifully. But when Jehoiada dies at one hundred thirty years old, the officials of Judah persuade Joash to abandon the house of God and return to serving Asherah poles. When Zechariah the son of Jehoiada prophesies against them, the king orders him stoned in the temple court. Syria attacks and defeats Judah. Joash's servants conspire against him and he is assassinated.",
+      key_verses: [{ ref: "2 Chronicles 24:20", text: "Thus says God: Why do you break the commandments of the LORD, so that you cannot prosper? Because you have forsaken the LORD, he has forsaken you." }]
+    },
+    {
+      number: 25,
+      summary: "Amaziah executes his father's assassins but not their sons, obeying the law of Moses. He hires a hundred thousand Israelite mercenaries, but a man of God warns him not to take Israel into battle for God is not with Ephraim. He dismisses them and wins a great victory over Edom. But he brings back the gods of Edom and worships them. A prophet rebukes him. When he later challenges Joash of Israel, Joash warns him with a parable; Amaziah insists, is defeated, and Jerusalem's wall is broken down.",
+      key_verses: [{ ref: "2 Chronicles 25:8", text: "For God has power to help or to cast down." }]
+    },
+    {
+      number: 26,
+      summary: "Uzziah is made king at sixteen and reigns fifty-two years. He seeks God in the days of Zechariah and God makes him prosper. He defeats the Philistines, Arabs, and Meunites. He builds towers and digs many cisterns and his fame spreads far. But when he is strong, his heart is lifted up with pride. He enters the temple to burn incense, a role reserved for priests alone. When the priests confront him and leprosy breaks out on his forehead, he is thrust out. He is a leper until the day of his death.",
+      key_verses: [{ ref: "2 Chronicles 26:5", text: "He set himself to seek God in the days of Zechariah, who instructed him in the fear of God, and as long as he sought the LORD, God made him prosper." }]
+    },
+    {
+      number: 27,
+      summary: "Jotham reigns sixteen years and does right, building extensively and defeating the Ammonites. The Chronicler gives him a high commendation: he ordered his ways before the LORD his God. However the people still corrupt themselves. Jotham grows mighty. He is succeeded by his son Ahaz, whose reign will prove to be one of Judah's darkest.",
+      key_verses: [{ ref: "2 Chronicles 27:6", text: "So Jotham became mighty, because he ordered his ways before the LORD his God." }]
+    },
+    {
+      number: 28,
+      summary: "Ahaz does evil, making cast images for the Baals and burning his sons in fire. God delivers Judah into the hands of Syria and Israel. Israel kills one hundred twenty thousand in one day and takes two hundred thousand captive — until the prophet Oded confronts them and insists the captives be released. Ahaz is attacked from every side. Instead of seeking God he sends the temple treasures to Assyria for help. He multiplies high places and sacrifices to other gods. He dies and is not buried in the royal tombs.",
+      key_verses: [{ ref: "2 Chronicles 28:22", text: "In the time of his distress he became yet more faithless to the LORD — this same King Ahaz." }]
+    },
+    {
+      number: 29,
+      summary: "Hezekiah becomes king at twenty-five and in the first month of his reign he opens the temple doors and calls the Levites to consecrate themselves and the temple, which Ahaz had closed and defiled. The Levites carry out all the unclean things from the sanctuary. After sixteen days the temple is consecrated. Hezekiah leads the priests and people in a great burnt offering with music and singing. The assembly brings sacrifices and thank offerings. Worship is restored to Jerusalem.",
+      key_verses: [{ ref: "2 Chronicles 29:36", text: "And Hezekiah and all the people rejoiced because God had provided for the people, for the thing came about suddenly." }]
+    },
+    {
+      number: 30,
+      summary: "Hezekiah sends letters throughout all Israel and Judah inviting everyone to Jerusalem to celebrate the Passover — a feast that had not been properly observed for a long time. Some in the north mock the messengers, but many humble themselves and come. So many come that the priests have not consecrated themselves sufficiently; Hezekiah prays for those who have not purified themselves and God hears and heals the people. They celebrate for seven days, then another seven days, with great joy.",
+      key_verses: [{ ref: "2 Chronicles 30:9", text: "For if you return to the LORD, your brothers and your children will find compassion with their captors and return to this land. For the LORD your God is gracious and merciful and will not turn away his face from you, if you return to him." }]
+    },
+    {
+      number: 31,
+      summary: "After the Passover, the people go out and break down pillars, cut down Asherah poles, and demolish high places throughout Judah, Benjamin, Ephraim, and Manasseh. Hezekiah organizes the priests and Levites for their divisions and duties. He restores the portions due to the priests by commandment. When he commands the people to give the firstfruits and tithes, they bring so much it is heaped in great piles. The surplus is stored in chambers of the temple.",
+      key_verses: [{ ref: "2 Chronicles 31:21", text: "And every work that he undertook in the service of the house of God and in accordance with the law and the commandments, seeking his God, he did with all his heart, and prospered." }]
+    },
+    {
+      number: 32,
+      summary: "Sennacherib of Assyria invades Judah and surrounds Jerusalem. Hezekiah stops the water sources outside the city, fortifies the wall, and encourages the people: be strong and courageous; there are more with us than with him — he has an arm of flesh, but we have the LORD our God. Sennacherib's officers mock God openly. Hezekiah and Isaiah pray; an angel strikes down the Assyrian army. Sennacherib returns home and is killed by his own sons. Hezekiah falls ill but recovers, though pride enters his heart for a time.",
+      key_verses: [{ ref: "2 Chronicles 32:8", text: "With him is an arm of flesh, but with us is the LORD our God, to help us and to fight our battles. And the people took confidence from the words of Hezekiah king of Judah." }]
+    },
+    {
+      number: 33,
+      summary: "Manasseh reigns fifty-five years and does more evil than the nations God drove out before Israel. He rebuilds the high places, worships Baal and the host of heaven, sets an idol in the temple, and leads Judah astray. The Assyrians take him captive with hooks. In his affliction he humbles himself greatly before God, prays, and God restores him to Jerusalem. He removes the idols and commands Judah to serve God, though the people still sacrifice at the high places. His son Amon reigns wickedly and is assassinated.",
+      key_verses: [{ ref: "2 Chronicles 33:12-13", text: "And when he was in distress, he entreated the favor of the LORD his God and humbled himself greatly before the God of his fathers. He prayed to him, and God was moved by his entreaty and heard his plea and brought him again to Jerusalem into his kingdom." }]
+    },
+    {
+      number: 34,
+      summary: "Josiah becomes king at eight years old. At sixteen he begins to seek God; at twenty he begins to purge Judah of idols, personally overseeing the destruction of altars and images. At twenty-six he repairs the temple. During the repairs, Hilkiah finds the Book of the Law. When it is read to Josiah he tears his robes. He sends to the prophetess Huldah who confirms judgment on Judah — but tells Josiah that because he humbled himself, he will be gathered in peace before the disaster comes.",
+      key_verses: [{ ref: "2 Chronicles 34:27", text: "Because your heart was tender and you humbled yourself before God when you heard his words against this place and its inhabitants, and you have humbled yourself before me and have torn your clothes and wept before me, I also have heard you, declares the LORD." }]
+    },
+    {
+      number: 35,
+      summary: "Josiah celebrates a Passover unlike any since the days of Samuel the prophet — vast quantities of animals are slaughtered and the Levites and priests serve in their divisions. Josiah later goes out to stop Pharaoh Neco who is marching through the land. Neco sends a message that he is not fighting Judah but another nation, and warns Josiah not to interfere or God himself will destroy him. Josiah does not listen and is shot by archers at Megiddo. He is carried to Jerusalem and dies. All Judah and Jerusalem mourn him.",
+      key_verses: [{ ref: "2 Chronicles 35:25", text: "Jeremiah also uttered a lament for Josiah; and all the singing men and singing women have spoken of Josiah in their laments to this day." }]
+    },
+    {
+      number: 36,
+      summary: "Four kings reign rapidly as Judah disintegrates: Jehoahaz, Jehoiakim, Jehoiachin, and Zedekiah. Each does evil. Nebuchadnezzar comes against Jerusalem in waves — deporting Jehoiachin with the temple vessels, and finally besieging and destroying the city under Zedekiah. The temple is burned, the walls broken down, the people carried to Babylon. The land keeps its sabbath rests until the seventy years are complete. The book ends with Cyrus king of Persia issuing a decree: let any of God's people among you go up to Jerusalem and rebuild the house of the LORD.",
+      key_verses: [{ ref: "2 Chronicles 36:23", text: "Thus says Cyrus king of Persia, The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has charged me to build him a house at Jerusalem, which is in Judah. Whoever is among you of all his people, may the LORD his God be with him. Let him go up." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "ezra",
+  name: "Ezra",
+  testament: "old",
+  category: "Historical Books",
+  summary: "Ezra records two great returns from Babylonian exile. The first, under Zerubbabel, begins with Cyrus's decree and culminates in the rebuilding and dedication of the temple after decades of opposition. The second, led by the priest and scribe Ezra himself, focuses on teaching the Law and dealing with the crisis of intermarriage with foreign peoples. The book is a story of restoration — not just of a building, but of a community seeking to live according to God's word.",
+  themes: ["Return from exile", "Rebuilding and restoration", "The word of God", "Covenant faithfulness", "Opposition and perseverance", "Repentance and renewal"],
+  chapters: [
+    {
+      number: 1,
+      summary: "In the first year of Cyrus king of Persia, God stirs his spirit to fulfill Jeremiah's prophecy. Cyrus issues a proclamation throughout his kingdom: God has charged him to build a temple in Jerusalem; let all of God's people go up, and let their neighbors support them with silver, gold, goods, and animals. The heads of the families of Judah and Benjamin, priests, Levites, and all whose spirit God has stirred, prepare to go. Cyrus also brings out the vessels of the temple that Nebuchadnezzar had taken.",
+      key_verses: [{ ref: "Ezra 1:3", text: "Whoever is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of the LORD, the God of Israel — he is the God who is in Jerusalem." }]
+    },
+    {
+      number: 2,
+      summary: "A detailed list records the exiles returning from Babylon with Zerubbabel and Jeshua — nearly fifty thousand people in total, along with their servants and their animals. The priests, Levites, singers, gatekeepers, and temple servants are all counted. When they arrive in Jerusalem, some of the family heads contribute gold and garments for the treasury of the house of God. The people settle in their towns.",
+      key_verses: [{ ref: "Ezra 2:64", text: "The whole assembly together was 42,360, besides their male and female servants, of whom there were 7,337." }]
+    },
+    {
+      number: 3,
+      summary: "In the seventh month, the people gather in Jerusalem and Jeshua and Zerubbabel rebuild the altar of burnt offerings. Despite their fear of the surrounding peoples, they begin offering burnt offerings as required in the Law. They celebrate the Feast of Tabernacles. In the second year they lay the foundation of the temple with great ceremony. The Levites lead in praise and the people shout with a great shout. But many of the older priests weep loudly when they see the foundation — remembering Solomon's temple — and the sound of weeping and rejoicing mingles together.",
+      key_verses: [{ ref: "Ezra 3:11", text: "And they sang responsively, praising and giving thanks to the LORD, For he is good, for his steadfast love endures forever toward Israel. And all the people shouted with a great shout when they praised the LORD." }]
+    },
+    {
+      number: 4,
+      summary: "The adversaries of Judah offer to help build the temple, claiming they have been worshipping the same God. Zerubbabel and the leaders refuse — this is not their work to share. The adversaries then set out to discourage and frighten the builders and write letters to the Persian king alleging that Jerusalem is a rebellious city. The king orders the work stopped. The temple construction halts until the second year of King Darius.",
+      key_verses: [{ ref: "Ezra 4:3", text: "But Zerubbabel, Jeshua, and the rest of the heads of fathers' houses in Israel said to them, You have nothing to do with us in building a house to our God; but we alone will build to the LORD, the God of Israel." }]
+    },
+    {
+      number: 5,
+      summary: "The prophets Haggai and Zechariah prophesy to the Jews in Judah and Jerusalem, stirring them to rebuild. Zerubbabel and Jeshua rise up and begin to build again. The governor of the province west of the Euphrates writes to Darius asking whether Cyrus really authorized this work. He lists the claims of the Jewish elders. While awaiting a reply, the building continues — for the eye of God is on the elders and they are not stopped.",
+      key_verses: [{ ref: "Ezra 5:5", text: "But the eye of their God was on the elders of the Jews, and they did not stop them until the report reached Darius and an answer was returned by letter about it." }]
+    },
+    {
+      number: 6,
+      summary: "King Darius orders a search of the archives and finds the original decree of Cyrus. He issues a new command: let the work proceed, paid from the royal treasury; let the priests receive daily provisions without fail; let anyone who alters this decree be impaled on a beam from their own house. The temple is completed in the sixth year of Darius. The Israelites celebrate the dedication with joy and observe the Passover — priests and Levites together, purified, the returned exiles eating with all who had separated themselves from the uncleanness of the peoples.",
+      key_verses: [{ ref: "Ezra 6:16", text: "And the people of Israel, the priests and the Levites, and the rest of the returned exiles, celebrated the dedication of this house of God with joy." }]
+    },
+    {
+      number: 7,
+      summary: "In the seventh year of Artaxerxes king of Persia, Ezra the priest and scribe — a man skilled in the Law of Moses and with the hand of God upon him — leads a second group from Babylon. Artaxerxes gives him an extraordinary letter: authorizing Ezra to appoint judges and teach the Law, to take silver and gold for the temple, and to exempt priests and Levites from taxation. Ezra praises God who has put it in the king's heart to beautify the house of God.",
+      key_verses: [{ ref: "Ezra 7:10", text: "For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel." }]
+    },
+    {
+      number: 8,
+      summary: "A list of the family heads and their numbers who travel with Ezra from Babylon is given. At the river Ahava, Ezra discovers no Levites have come and sends for them. He then proclaims a fast that all may humble themselves before God and ask for safe passage for themselves, their children, and their goods. He is ashamed to ask the king for an armed escort after saying God's hand is on all who seek him. They fast and pray, and God answers. They arrive safely in Jerusalem and deliver the silver and gold to the temple treasury.",
+      key_verses: [{ ref: "Ezra 8:22", text: "For I was ashamed to ask the king for a band of soldiers and horsemen to protect us against the enemy on our way, since we had told the king, The hand of our God is for good on all who seek him." }]
+    },
+    {
+      number: 9,
+      summary: "The officials inform Ezra that the people of Israel, including priests and Levites, have not separated themselves from the surrounding peoples but have intermarried with them. When Ezra hears this, he tears his garment and cloak, pulls hair from his head and beard, and sits in shock until evening. He then falls on his knees and prays, pouring out a confession: they have done what God forbade, despite being shown such grace after the exile. Our iniquities have risen higher than our heads; our guilt is great to the heavens.",
+      key_verses: [{ ref: "Ezra 9:6", text: "O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has mounted up to the heavens." }]
+    },
+    {
+      number: 10,
+      summary: "A large assembly gathers weeping before Ezra as he prays and confesses. Shecaniah steps forward and proposes they make a covenant to put away all foreign wives and their children, according to the Law. Ezra rises and makes the leading priests, Levites, and all Israel swear to do this. A commission examines the cases over three months. The chapter ends with a list of the priests, Levites, and laypeople who had married foreign women — a sobering inventory of how far the community had drifted.",
+      key_verses: [{ ref: "Ezra 10:11", text: "Now then make confession to the LORD, the God of your fathers and do his will. Separate yourselves from the peoples of the land and from the foreign wives." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "nehemiah",
+  name: "Nehemiah",
+  testament: "old",
+  category: "Historical Books",
+  summary: "Nehemiah tells the story of a royal cupbearer who returns to Jerusalem with the king's blessing to rebuild its broken walls. In fifty-two days, despite fierce opposition from enemies who mock, threaten, and scheme, the walls are completed. The book then describes the spiritual renewal of the community: Ezra reads the Law, the people weep and celebrate, confess their sins, and renew the covenant. Nehemiah later returns for a second term as governor to address ongoing failures. It is a story of prayer, courage, and persistent reform.",
+  themes: ["Prayer and dependence on God", "Rebuilding and renewal", "Opposition and perseverance", "The word of God", "Covenant community", "Leadership and integrity"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Nehemiah, cupbearer to the Persian king Artaxerxes, receives news from his brother that Jerusalem's walls are broken down and its gates burned. He sits down and weeps for days, mourning and fasting and praying. His prayer confesses Israel's sin, recalls God's promise to gather his scattered people if they return to him, and asks for favor before the king. This prayer is the foundation on which everything in the book is built.",
+      key_verses: [{ ref: "Nehemiah 1:11", text: "O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man." }]
+    },
+    {
+      number: 2,
+      summary: "Four months after his prayer, Nehemiah brings wine to the king with a sad face. The king asks what he wants. Nehemiah prays silently, then asks permission to go to Jerusalem and rebuild it. The king grants his request and gives him letters of safe passage and an order for timber. When Nehemiah arrives he surveys the ruined walls by night, inspecting quietly before sharing his plans. He calls on the people to rise and build. The enemies — Sanballat, Tobiah, and Geshem — mock and accuse them of rebellion.",
+      key_verses: [{ ref: "Nehemiah 2:20", text: "The God of heaven will make us prosper, and we his servants will arise and build, but you have no portion or right or claim in Jerusalem." }]
+    },
+    {
+      number: 3,
+      summary: "A detailed account records who rebuilt which section of the wall — priests, goldsmiths, merchants, rulers of districts, and ordinary men and women. Each gate and section is assigned to a family or group, many rebuilding the section near their own house. The careful catalogue honors everyone who contributed to the work, from the high priest Eliashib at the Sheep Gate to the various clans of Judah working along the southern wall.",
+      key_verses: [{ ref: "Nehemiah 3:1", text: "Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate." }]
+    },
+    {
+      number: 4,
+      summary: "When Sanballat and Tobiah hear that the wall is being rebuilt, they are furious and mock the builders publicly. Nehemiah prays that God will turn their taunts back on them. When the wall reaches half its height, the enemies plot to attack Jerusalem. Nehemiah posts guards at the lowest points of the wall and arms the workers. From that day on, half the men work while the other half hold spears and shields. Everyone sleeps in their clothes with weapons at hand.",
+      key_verses: [{ ref: "Nehemiah 4:14", text: "Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your homes." }]
+    },
+    {
+      number: 5,
+      summary: "A serious internal crisis erupts: the poorer people are being economically exploited by the wealthy, mortgaging their fields and selling their children into servitude because of the famine. Nehemiah is angry and calls an assembly. He rebukes the nobles for charging interest to fellow Jews and demands they return everything they have taken. They agree and swear to do so. Nehemiah himself, as governor, refuses to draw on the food allowance he was entitled to, not wanting to burden the people.",
+      key_verses: [{ ref: "Nehemiah 5:15", text: "But the former governors who were before me laid heavy burdens on the people and took from them for their daily ration forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God." }]
+    },
+    {
+      number: 6,
+      summary: "With only the gates remaining to be hung, the enemies send repeated invitations to meet Nehemiah in a village, intending to harm him. He refuses each time: I am doing a great work and cannot come down. They send an open letter accusing him of plotting to make himself king. Nehemiah denies it and prays for strength. A man invites him to hide in the temple, claiming his life is in danger — but Nehemiah recognizes it as a trap to make him sin. The wall is finished in fifty-two days.",
+      key_verses: [{ ref: "Nehemiah 6:15-16", text: "So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days. And when all our enemies heard of it, all the nations around us were afraid and fell greatly in their own esteem, for they perceived that this work had been accomplished with the help of our God." }]
+    },
+    {
+      number: 7,
+      summary: "After the wall is complete, Nehemiah appoints gatekeepers, singers, and Levites and puts his brother Hanani in charge of Jerusalem. He instructs that the gates not be opened until the sun is hot and that guards be posted. He finds the genealogical record of the first return and reads out the list of exiles who returned with Zerubbabel — nearly identical to the list in Ezra 2 — as the people begin to settle in the city.",
+      key_verses: [{ ref: "Nehemiah 7:2", text: "I gave my brother Hanani and Hananiah the governor of the castle charge over Jerusalem, for he was a more faithful and God-fearing man than many." }]
+    },
+    {
+      number: 8,
+      summary: "All the people gather in the open square and ask Ezra the scribe to bring the Book of the Law. He reads it aloud from early morning until midday while the Levites help the people understand the meaning. When the people hear the Law they weep. Nehemiah and Ezra tell them not to grieve, for this day is holy — the joy of the LORD is your strength. The next day they discover the command for the Feast of Tabernacles, which they celebrate with great joy, making booths of branches for the first time since Joshua's day.",
+      key_verses: [{ ref: "Nehemiah 8:10", text: "Do not be grieved, for the joy of the LORD is your strength." }]
+    },
+    {
+      number: 9,
+      summary: "The Israelites gather for a great assembly of confession and worship. Standing for a quarter of the day they hear the Law read; for another quarter they confess and worship. The Levites lead a sweeping prayer reviewing God's faithfulness from creation — Abraham, Egypt, the wilderness, the giving of the Law, the conquest — and Israel's repeated unfaithfulness and God's repeated mercy. The prayer acknowledges their current state as servants in their own land, under foreign rule, and pleads for God's mercy.",
+      key_verses: [{ ref: "Nehemiah 9:17", text: "But you are a God ready to forgive, gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them." }]
+    },
+    {
+      number: 10,
+      summary: "The people make a firm covenant in writing, sealed by the leaders, Levites, and priests. They pledge to walk in God's Law as given by Moses, to not intermarry with the peoples of the land, to keep the sabbath, to observe the sabbath year, and to faithfully bring their tithes, firstfruits, firstborn animals and sons to God's house. They will not neglect the house of their God.",
+      key_verses: [{ ref: "Nehemiah 10:29", text: "They join with their brothers, their nobles, and enter into a curse and an oath to walk in God's Law that was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord and his rules and his statutes." }]
+    },
+    {
+      number: 11,
+      summary: "One in ten of the people from the surrounding towns is chosen by lot to live in Jerusalem, the holy city, while the rest remain in their towns. Those who volunteer to live in Jerusalem are blessed. Lists record those who settled in Jerusalem — heads of the province, priests, Levites, gatekeepers, and temple servants — along with the towns where the rest of Judah and Benjamin settled.",
+      key_verses: [{ ref: "Nehemiah 11:2", text: "And the people blessed all the men who willingly offered to live in Jerusalem." }]
+    },
+    {
+      number: 12,
+      summary: "A list of priests and Levites who returned with Zerubbabel is given. The dedication of the wall of Jerusalem is celebrated with great joy — two large choirs process in opposite directions along the top of the wall, converging at the temple. The celebration is so loud that the joy of Jerusalem is heard far away. Nehemiah also assigns duties for the offerings, tithes, and firstfruits, restoring the Levites to their proper portions which had been neglected.",
+      key_verses: [{ ref: "Nehemiah 12:43", text: "And they offered great sacrifices that day and rejoiced, for God had made them rejoice with great joy; the women and children also rejoiced. And the joy of Jerusalem was heard far away." }]
+    },
+    {
+      number: 13,
+      summary: "After a period away at the Persian court, Nehemiah returns to Jerusalem and finds things have deteriorated: Tobiah the enemy has been given a room in the temple courts, the Levites have not received their portions and have gone back to their fields, people are treading winepresses on the sabbath, and men have married foreign women — their children cannot even speak Hebrew. Nehemiah confronts each abuse with characteristic energy: he throws Tobiah's furniture out, rebukes the leaders, closes the city gates on the sabbath, and rebukes those who have intermarried. The book ends with his prayer: remember me, O God, for good.",
+      key_verses: [{ ref: "Nehemiah 13:31", text: "Remember me, O my God, for good." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "esther",
+  name: "Esther",
+  testament: "old",
+  category: "Historical Books",
+  summary: "Esther is set in the Persian court of King Ahasuerus and tells of a Jewish woman who becomes queen and saves her people from annihilation. When the powerful official Haman plots to exterminate all Jews in the empire, Mordecai urges Esther to use her position to intervene, even at the risk of her life. The book is remarkable for never mentioning God by name, yet his providence is felt on every page — in the timing of coincidences, the sleeplessness of a king, and the reversal of fortunes. The feast of Purim is established to commemorate this deliverance.",
+  themes: ["Providence and reversal", "Courage and identity", "Justice", "The protection of God's people", "Community and solidarity"],
+  chapters: [
+    {
+      number: 1,
+      summary: "King Ahasuerus of Persia holds a lavish banquet lasting one hundred and eighty days to display his wealth and glory. During a seven-day feast for all the men of Susa, he commands Queen Vashti to appear before the guests to display her beauty. She refuses. The king's counselors warn that her defiance will spread throughout the empire and all wives will despise their husbands. The king deposes Vashti and issues a decree that every man should be master in his own home.",
+      key_verses: [{ ref: "Esther 1:19", text: "If it please the king, let a royal order go out from him, and let it be written among the laws of the Persians and the Medes so that it may not be repealed, that Vashti is never again to come before King Ahasuerus." }]
+    },
+    {
+      number: 2,
+      summary: "The king's servants suggest gathering beautiful young women from all the provinces to find a new queen. Among them is Esther, a young Jewish woman raised by her older cousin Mordecai, who had told her to conceal her heritage. Esther wins favor with everyone who sees her. When she is brought to the king she wins his heart more than all the others, and he crowns her queen. Meanwhile Mordecai, sitting at the king's gate, overhears a plot to assassinate the king and reports it through Esther. The plotters are hanged and the matter is recorded.",
+      key_verses: [{ ref: "Esther 2:17", text: "The king loved Esther more than all the women, and she won grace and favor in his sight more than all the virgins, so that he set the royal crown on her head and made her queen instead of Vashti." }]
+    },
+    {
+      number: 3,
+      summary: "Haman, an Agagite, is promoted to a seat above all the officials. All the king's servants bow to him — except Mordecai, who refuses. When Haman discovers Mordecai is a Jew, he is enraged beyond punishing just one man and plots to destroy all Jews in the entire empire. He casts lots — purim — to determine the best day and then goes to the king with a plan: there is a certain people whose customs differ from everyone else and who do not obey the king's laws; let an order be written to destroy them. The king agrees and gives Haman his signet ring. The decree is sent throughout the empire.",
+      key_verses: [{ ref: "Esther 3:13", text: "Letters were sent by couriers to all the king's provinces with instruction to destroy, to kill, and to annihilate all Jews, young and old, women and children, in one day." }]
+    },
+    {
+      number: 4,
+      summary: "When Mordecai learns what has been decreed he tears his clothes, puts on sackcloth and ashes, and goes crying loudly through the city. Jews throughout the provinces mourn and fast. Esther sends to find out what is wrong. Mordecai sends word urging her to go to the king to plead for her people. She replies that anyone who approaches the king without being called risks death unless he holds out his golden scepter. Mordecai answers with the words that define the book: who knows whether you have not come to the kingdom for such a time as this? Esther calls for a three-day fast and resolves: if I perish, I perish.",
+      key_verses: [{ ref: "Esther 4:14", text: "For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?" }]
+    },
+    {
+      number: 5,
+      summary: "On the third day Esther dresses in royal robes and stands in the inner court. The king sees her, is pleased, and holds out his golden scepter. He asks what she wants — up to half the kingdom. She invites the king and Haman to a banquet she has prepared. At the banquet the king asks again what she wants; she invites them both to a second banquet the next day. Haman leaves in high spirits, but the sight of Mordecai at the gate who will not bow enrages him. His wife and friends suggest building a gallows seventy-five feet high to hang Mordecai on, and Haman is delighted.",
+      key_verses: [{ ref: "Esther 5:2", text: "And when the king saw Queen Esther standing in the court, she won favor in his sight, and he held out to Esther the golden scepter that was in his hand." }]
+    },
+    {
+      number: 6,
+      summary: "That night the king cannot sleep and has the chronicles read to him. He hears about Mordecai uncovering the assassination plot and asks what honor has been given him. Nothing has been done. Haman arrives to ask for permission to hang Mordecai and the king asks him what should be done for a man the king wishes to honor. Thinking the king means him, Haman describes a magnificent public honor. The king tells him to do exactly that for Mordecai the Jew. Haman has to lead Mordecai through the city square crying, This is what is done for the man the king wishes to honor. His wife and counselors tell him: if Mordecai is of Jewish origin, you will not prevail against him.",
+      key_verses: [{ ref: "Esther 6:11", text: "So Haman took the robes and the horse, and he dressed Mordecai and led him through the open square of the city, proclaiming before him, Thus shall it be done to the man whom the king delights to honor." }]
+    },
+    {
+      number: 7,
+      summary: "At Esther's second banquet the king again asks what she wants. She reveals that she and her people have been sold for destruction. The king demands to know who has done this. Esther identifies Haman. The king rises in fury and goes into the garden. Haman throws himself on Esther's couch to beg for his life; when the king returns and sees this he thinks Haman is assaulting the queen. A servant notes that Haman has built a gallows for Mordecai. The king orders Haman hanged on it. Then the king's anger subsides.",
+      key_verses: [{ ref: "Esther 7:6", text: "And Esther said, A foe and enemy! This wicked Haman! Then Haman was terrified before the king and the queen." }]
+    },
+    {
+      number: 8,
+      summary: "The king gives Esther Haman's house and gives Mordecai his signet ring. Esther falls at the king's feet weeping and begs him to counter the evil decree. The king tells her and Mordecai to write whatever they see fit in the king's name — a decree cannot be revoked, but a new one can be issued. Mordecai writes a decree permitting the Jews throughout the empire to gather and defend their lives and attack their enemies. Couriers ride out on swift horses. In Susa there is joy and celebration. Many people of other nationalities become Jews, for the fear of the Jews had fallen on them.",
+      key_verses: [{ ref: "Esther 8:17", text: "And in every province and in every city, wherever the king's command and his edict reached, there was gladness and joy among the Jews, a feast and a holiday." }]
+    },
+    {
+      number: 9,
+      summary: "On the day of the decree, the Jews assemble in their cities throughout the empire and defend themselves. Five hundred men and the ten sons of Haman are killed in Susa alone. The king asks Esther if she has any further request; she asks for one more day. In total, seventy-five thousand enemies of the Jews are killed throughout the empire. Mordecai and Esther write to establish the feast of Purim — named after the lots Haman cast — to be celebrated every year on the fourteenth and fifteenth of Adar with feasting, joy, and giving gifts to the poor.",
+      key_verses: [{ ref: "Esther 9:22", text: "As the days on which the Jews got relief from their enemies, and as the month that had been turned for them from sorrow into gladness and from mourning into a holiday." }]
+    },
+    {
+      number: 10,
+      summary: "A brief closing note records that King Ahasuerus imposed tax throughout the empire, and that the account of Mordecai's greatness is written in the chronicles of Media and Persia. Mordecai the Jew is second only to the king, great among the Jews and popular with his many brothers, for he sought the welfare of his people and spoke peace to all his people.",
+      key_verses: [{ ref: "Esther 10:3", text: "For Mordecai the Jew was second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he sought the welfare of his people and spoke peace to all his people." }]
+    }
+  ]
+});
