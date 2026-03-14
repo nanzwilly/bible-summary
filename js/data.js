@@ -1118,3 +1118,983 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+BIBLE_DATA.books.push({
+  id: "job",
+  name: "Job",
+  testament: "old",
+  category: "Wisdom & Poetry",
+  summary: "Job is one of the most profound books in all of Scripture — a searching exploration of suffering, justice, and the nature of God. Job is a blameless and upright man whose world collapses in a single day. Three friends insist his suffering must be punishment for secret sin. Job refuses to accept false confessions and demands to argue his case before God. After a young challenger named Elihu speaks, God himself appears in the whirlwind and silences everyone with the overwhelming reality of his majesty. Job is restored, but more importantly he has encountered God himself.",
+  themes: ["Suffering and the righteous", "The justice of God", "Pride and humility before God", "True wisdom", "The limits of human understanding", "Restoration"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Job is introduced as blameless, upright, fearing God, and immensely prosperous. He regularly offers sacrifices for his children in case they have sinned. In the heavenly court, Satan challenges God: Job only fears you because you have blessed him so richly. Remove the blessing and he will curse you to your face. God allows Satan to test Job. In one day, raiders take his oxen and donkeys, fire burns his sheep, his camels are stolen, and a great wind collapses the house on his ten children. Job tears his robe, shaves his head, and worships.",
+      key_verses: [{ ref: "Job 1:21", text: "Naked I came from my mother's womb, and naked shall I return. The LORD gave, and the LORD has taken away; blessed be the name of the LORD." }]
+    },
+    {
+      number: 2,
+      summary: "Satan returns and argues that a man will give everything for his life; touch his bone and flesh and he will curse God. God allows Satan to afflict Job's body, but not to kill him. Job is struck with terrible sores from the sole of his foot to the crown of his head. He sits in ashes scraping himself with a piece of pottery. His wife says: curse God and die. Job replies that we accept good from God but not trouble? Three friends — Eliphaz, Bildad, and Zophar — come and sit with him in silence for seven days, for his suffering is very great.",
+      key_verses: [{ ref: "Job 2:10", text: "Shall we receive good from God, and shall we not receive evil?" }]
+    },
+    {
+      number: 3,
+      summary: "After seven days of silence, Job opens his mouth and curses the day of his birth. Let the day perish on which I was born. Why did I not die at birth? Why is light given to him who is in misery? He longs for death as a laborer waits for his wages. He has no rest, no quiet, only trouble. This raw lament opens the great dialogue of the book.",
+      key_verses: [{ ref: "Job 3:3", text: "Let the day perish on which I was born, and the night that said, A man is conceived." }]
+    },
+    {
+      number: 4,
+      summary: "Eliphaz speaks first, gently at first: you have instructed many, but now it comes to you and you are impatient. Think — who that was innocent ever perished? The wicked are cut down. He recounts a terrifying night vision: a spirit passed before his face and a still voice asked, Can a man be more righteous than God? Even his angels he charges with error. How much more those who dwell in houses of clay!",
+      key_verses: [{ ref: "Job 4:7", text: "Who that was innocent ever perished? Or where were the upright cut off?" }]
+    },
+    {
+      number: 5,
+      summary: "Eliphaz continues: call out if you like, but to which of the holy ones will you turn? Resentment kills a fool, and vexation slays the simple. He recommends Job accept God's discipline, for God wounds and also binds up, strikes and also heals. If Job returns to God, he will be protected from famine, war, and disaster, and will come to his grave in ripe old age. These things Eliphaz says he has searched out and knows to be true.",
+      key_verses: [{ ref: "Job 5:17", text: "Behold, blessed is the one whom God reproves; therefore despise not the discipline of the Almighty." }]
+    },
+    {
+      number: 6,
+      summary: "Job responds: if my anguish were weighed on scales it would be heavier than the sand of the sea — no wonder my words are rash. He wishes God would just cut him off. He turns on his friends: you have proven as unreliable as a wadi, full of water in winter but dried up when travelers need it most. He has not asked them for anything. Have I said, deliver me from the adversary? He demands honesty from them: what have I done wrong?",
+      key_verses: [{ ref: "Job 6:14", text: "He who withholds kindness from a friend forsakes the fear of the Almighty." }]
+    },
+    {
+      number: 7,
+      summary: "Job compares his life to a soldier's hard service and a laborer waiting for his wages. His nights are sleepless and his flesh covered with worms. His days pass faster than a weaver's shuttle. He turns to address God directly: why have you made me your target? Even if I have sinned, what does it matter to you, O watcher of mankind? I will soon be gone — why not pardon my transgression before it is too late?",
+      key_verses: [{ ref: "Job 7:17", text: "What is man, that you make so much of him, and that you set your heart on him?" }]
+    },
+    {
+      number: 8,
+      summary: "Bildad speaks bluntly: does God pervert justice? If your children sinned against him, he delivered them up. If you seek God and plead with the Almighty, if you are pure and upright, he will restore you. Ask the former generation — the godless person is like a plant without water, clinging briefly to a rock before withering. God will not reject a blameless man, nor take the hand of evildoers.",
+      key_verses: [{ ref: "Job 8:20", text: "Behold, God will not reject a blameless man, nor take the hand of evildoers." }]
+    },
+    {
+      number: 9,
+      summary: "Job agrees: how can a man be in the right before God? If one wished to contend with him, one could not answer him once in a thousand times. He is mighty in strength, who has resisted him and succeeded? God moves mountains and shakes the earth. If I summoned him and he answered, I could not believe he was listening to my voice. There is no umpire between us who might lay his hand on us both.",
+      key_verses: [{ ref: "Job 9:33", text: "There is no arbiter between us, who might lay his hand on us both." }]
+    },
+    {
+      number: 10,
+      summary: "Job continues his complaint directly to God: do not condemn me — tell me why you contend against me. Does it seem good to you to oppress, to despise the work of your hands? You shaped me like clay. Your hands fashioned and made me; now you destroy me. You granted me life and steadfast love; yet these things you hid in your heart. Why then did you bring me forth from the womb?",
+      key_verses: [{ ref: "Job 10:12", text: "You have granted me life and steadfast love, and your care has preserved my spirit." }]
+    },
+    {
+      number: 11,
+      summary: "Zophar speaks most harshly of the three: should your babble silence men? You say your doctrine is pure and you are clean in God's eyes — oh that God would speak and open his lips against you! Know that God exacts of you less than your iniquity deserves. Can you find out the deep things of God? Stretch out your hands to him, put iniquity far away, and then you will lift up your face without shame.",
+      key_verses: [{ ref: "Job 11:7", text: "Can you find out the deep things of God? Can you find out the limit of the Almighty?" }]
+    },
+    {
+      number: 12,
+      summary: "Job responds with biting sarcasm: no doubt you are the people, and wisdom will die with you! But he has understanding as well as they. The hand of the LORD has done this — God controls everything, wisdom and might are his. He brings princes to nothing, makes nations great and destroys them. He uncovers deep things out of darkness. Job knows all this as well as his friends.",
+      key_verses: [{ ref: "Job 12:13", text: "With God are wisdom and might; he has counsel and understanding." }]
+    },
+    {
+      number: 13,
+      summary: "Job has seen and heard everything his friends have and is not inferior to them. But he wants to speak to the Almighty and argue his case before God. His friends are worthless physicians; if they would just be silent, that would be wisdom. He will defend his ways to God's face — though God may slay him, he will hope in him. He calls out to God: call, and I will answer; or let me speak, and you reply to me.",
+      key_verses: [{ ref: "Job 13:15", text: "Though he slay me, I will hope in him; yet I will argue my ways to his face." }]
+    },
+    {
+      number: 14,
+      summary: "Job reflects on human mortality with tender sadness: man born of woman is few of days and full of trouble, like a flower that springs up and withers. You have appointed his bounds and he cannot pass them. A tree has hope — if it is cut down it may sprout again at the scent of water. But a man lies down and rises not. Job asks the aching question: if a man dies, shall he live again? He holds onto a fragile hope that God might hide him in Sheol and remember him.",
+      key_verses: [{ ref: "Job 14:14", text: "If a man dies, shall he live again? All the days of my service I would wait, till my renewal should come." }]
+    },
+    {
+      number: 15,
+      summary: "Eliphaz's second speech is harsher: your own mouth condemns you, your own lips testify against you. Were you the first man born? Were you present in the council of God? What do you know that we do not? The wicked man writhes in pain all his days; he reaches out his hand against God and runs at him with a thick-bossed shield. He will not be rich; his wealth will not endure. Darkness is laid up for his treasures.",
+      key_verses: [{ ref: "Job 15:2", text: "Should a wise man answer with windy knowledge, and fill his belly with the east wind?" }]
+    },
+    {
+      number: 16,
+      summary: "Job calls his friends miserable comforters — if they were in his position he could say just the same things. God has torn him and gnashed his teeth against him; people mock and strike his cheek and mass themselves against him. Yet he says: even now, behold, my witness is in heaven; my advocate is on high. He weeps before God as a man pleads for his neighbor. He has few years left before the path of no return.",
+      key_verses: [{ ref: "Job 16:19", text: "Even now, behold, my witness is in heaven, and he who testifies for me is on high." }]
+    },
+    {
+      number: 17,
+      summary: "My spirit is broken, my days are extinct. Mockers are all around me. Where then is my hope? My days are past, my plans are broken off, the desires of my heart. If I hope for Sheol as my house and spread my couch in darkness, if I call the pit my father and the worm my mother and sister — where then is my hope? Down to the bars of Sheol shall it descend.",
+      key_verses: [{ ref: "Job 17:11", text: "My days are past; my plans are broken off, the desires of my heart." }]
+    },
+    {
+      number: 18,
+      summary: "Bildad's second speech catalogues the fate of the wicked: his light is put out, his steps are shortened by his own counsel, he is thrown into a net, terrors frighten him, his roots dry up beneath, his branches wither above. He is driven from light into darkness, chased out of the world. Such is the dwelling of him who knows not God. The implication for Job is unmistakable.",
+      key_verses: [{ ref: "Job 18:17", text: "His memory perishes from the earth, and he has no name in the street." }]
+    },
+    {
+      number: 19,
+      summary: "Job cries that God has wronged him, driven him away, called him an adversary. His family has abandoned him, his close friends have forgotten him, his breath is strange to his wife, young children despise him. Then, against all this desolation, one of the most stunning declarations in Scripture: I know that my Redeemer lives, and at the last he will stand upon the earth. After my skin has been destroyed, yet in my flesh I shall see God.",
+      key_verses: [{ ref: "Job 19:25-26", text: "For I know that my Redeemer lives, and at the last he will stand upon the earth. And after my skin has been thus destroyed, yet in my flesh I shall see God." }]
+    },
+    {
+      number: 20,
+      summary: "Zophar's second speech: the exulting of the wicked is brief and the joy of the godless is but for a moment. Though his pride mounts up to the heavens, he will perish forever. He swallows down riches but will vomit them up. In the fullness of his abundance he will be in distress; every hand of the wicked will come against him. This is the wicked man's portion from God. Again the friends are describing Job.",
+      key_verses: [{ ref: "Job 20:4-5", text: "Do you not know this from of old, since man was placed on earth, that the exulting of the wicked is short, and the joy of the godless but for a moment?" }]
+    },
+    {
+      number: 21,
+      summary: "Job challenges the conventional wisdom directly: look at me and be appalled. Why do the wicked live, reach old age, and grow mighty? Their children are established before them, their houses are safe from fear, and their bull never fails to breed. They say to God, Depart from us! Yet how often does disaster come upon them? They die in comfort and sleep well. Job's friends comfort him with empty words — how little is left of their answers!",
+      key_verses: [{ ref: "Job 21:7", text: "Why do the wicked live, reach old age, and grow mighty in power?" }]
+    },
+    {
+      number: 22,
+      summary: "Eliphaz's third speech becomes openly accusatory: is not your evil abundant? Without cause you have exacted pledges from your brothers, you have stripped the naked of their clothing, you have given no water to the weary and no bread to the hungry. Therefore snares are all around you and sudden terror overwhelms you. Return to the Almighty and be built up; remove injustice far from your tents. If you return, God will restore you and light will shine on your ways.",
+      key_verses: [{ ref: "Job 22:21", text: "Agree with God, and be at peace; thereby good will come to you." }]
+    },
+    {
+      number: 23,
+      summary: "Job longs to find God to lay his case before him. He searches east and west, north and south but cannot find him. Yet God knows the way he takes. He holds Job's path; when God has tried him, he will come out as gold. Job is not terrified of him — he would present his case and fill his mouth with arguments. But God is unchangeable; he does what he desires. Therefore Job is terrified and afraid before him.",
+      key_verses: [{ ref: "Job 23:10", text: "But he knows the way that I take; when he has tried me, I shall come out as gold." }]
+    },
+    {
+      number: 24,
+      summary: "Why doesn't God set times for judgment so that those who know him may see his day? The wicked move boundary markers, steal fields, oppress the fatherless and widow. The poor go out early and labor all day in the heat while the wealthy sleep in their beds. The murderer rises in the dark, the adulterer watches for twilight. Yet God seems to give them security. Their way is exalted in the earth.",
+      key_verses: [{ ref: "Job 24:1", text: "Why are not times of judgment kept by the Almighty, and why do those who know him never see his days?" }]
+    },
+    {
+      number: 25,
+      summary: "Bildad's brief final speech: dominion and fear are with God; he makes peace in his high heaven. His armies are beyond number. Can a man be righteous before God? Can one born of woman be pure? Even the moon is not bright and the stars are not pure in his eyes — how much less man, who is a maggot; the son of man, who is a worm. These are the last words of the three friends.",
+      key_verses: [{ ref: "Job 25:4", text: "How then can man be in the right before God? How can he who is born of woman be pure?" }]
+    },
+    {
+      number: 26,
+      summary: "Job responds to Bildad with sharp sarcasm: how you have helped one who has no power! How you have counseled one who has no wisdom! He then offers his own meditation on God's majesty: God stretches out the north over the void and hangs the earth on nothing. He binds up the waters in his clouds, and the cloud is not split open under them. He draws a circle on the face of the waters. These are but the outskirts of his ways — how small a whisper do we hear of him!",
+      key_verses: [{ ref: "Job 26:14", text: "Behold, these are but the outskirts of his ways, and how small a whisper do we hear of him! But the thunder of his power who can understand?" }]
+    },
+    {
+      number: 27,
+      summary: "Job maintains his integrity: as long as breath is in me, my lips will not speak falsehood. I hold fast my righteousness and will not let it go. Let my enemy be as the wicked and my adversary as the unrighteous. He then describes the fate of the godless man: though he heap up silver like dust and piles up clothing, the righteous will wear it and the innocent will divide the silver. His house is flimsy as a moth's cocoon.",
+      key_verses: [{ ref: "Job 27:5", text: "Far be it from me to say that you are right; till I die I will not put away my integrity from me." }]
+    },
+    {
+      number: 28,
+      summary: "One of the most beautiful poems in all of Scripture meditates on where wisdom is found. Man mines silver and gold from the earth, turns over mountains, and shines a light in darkness to find precious stones. But where is wisdom? It is not found in the land of the living; the deep says, It is not in me. It is hidden from the eyes of all living. God understands its way and established it when he fixed the foundations of the earth. Then he said: the fear of the LORD, that is wisdom.",
+      key_verses: [{ ref: "Job 28:28", text: "And he said to man, Behold, the fear of the Lord, that is wisdom, and to turn away from evil is understanding." }]
+    },
+    {
+      number: 29,
+      summary: "Job recalls his former days with deep longing: when God watched over me, when his lamp shone upon my head, when I was in my prime and my children were around me. When I went to the gate of the city, the young men saw me and withdrew, the aged rose and stood. I delivered the poor who cried for help and the fatherless. I put on righteousness and it clothed me. I was eyes to the blind and feet to the lame.",
+      key_verses: [{ ref: "Job 29:2", text: "Oh, that I were as in the months of old, as in the days when God watched over me." }]
+    },
+    {
+      number: 30,
+      summary: "But now they mock him — the sons of outcasts who were driven from the land. They laugh at him, spit in his face, loosen his tent ropes, advance as through a wide breach. God has cast him into the mire. He cries to God but is not answered. He expected good, and evil came; he waited for light, and darkness came. His insides are in turmoil and will not be still. He weeps before the congregation of the assembly.",
+      key_verses: [{ ref: "Job 30:26", text: "But when I hoped for good, evil came, and when I waited for light, darkness came." }]
+    },
+    {
+      number: 31,
+      summary: "Job's oath of innocence is a sweeping moral inventory. He has made a covenant with his eyes not to look at a virgin. If he has walked with falsehood, if his heart has gone after his eyes, if he has refused justice to his servants, if he has not shared his bread with the hungry, if he has made gold his trust, if he has gloated over his enemy's ruin, if he has concealed his transgressions — then let God answer him. The words of Job are ended.",
+      key_verses: [{ ref: "Job 31:28", text: "This also would be an iniquity to be punished by the judges, for I would have been false to God above." }]
+    },
+    {
+      number: 32,
+      summary: "The three friends stop answering because Job is righteous in his own eyes. Then Elihu son of Barakel speaks — he had waited because he was younger. Now he is angry at Job for justifying himself rather than God, and angry at the three friends for condemning Job without answering him. He says: it is not age that gives wisdom; the spirit in a man, the breath of the Almighty, gives understanding. He has waited long enough and must speak.",
+      key_verses: [{ ref: "Job 32:8", text: "But it is the spirit in man, the breath of the Almighty, that makes him understand." }]
+    },
+    {
+      number: 33,
+      summary: "Elihu addresses Job: you said you are clean and without transgression, yet God finds occasions against you. But you are wrong — God is greater than man. God does speak, in one way or another, though man does not perceive it. He speaks through dreams at night when he opens the ears of men. He speaks through suffering to warn a man from his pride and to ransom him from the pit. If there is an angel as a mediator, one who declares the man upright, God restores him.",
+      key_verses: [{ ref: "Job 33:29-30", text: "Behold, God does all these things, twice, three times, with a man, to bring back his soul from the pit, that he may be lighted with the light of life." }]
+    },
+    {
+      number: 34,
+      summary: "Elihu argues that God cannot do wickedness; the Almighty will not pervert justice. He gives to a man his work according to his ways. If God were to withdraw his breath, all flesh would perish. Shall one who hates justice govern? Will you condemn the righteous, mighty One? He says to kings: you are worthless. Yet God does not keep the wicked alive and gives justice to the afflicted. Job speaks without knowledge and his words are without insight.",
+      key_verses: [{ ref: "Job 34:12", text: "Of a truth, God will not do wickedly, and the Almighty will not pervert justice." }]
+    },
+    {
+      number: 35,
+      summary: "Elihu continues: your righteousness does not benefit God, nor does your sin harm him. Your wickedness concerns a man like yourself, and your righteousness a son of man. People cry out under oppression, but no one says, Where is God my Maker? God does not hear an empty cry, nor does the Almighty regard it. Job has opened his mouth in vain and multiplied words without knowledge.",
+      key_verses: [{ ref: "Job 35:10", text: "But none says, Where is God my Maker, who gives songs in the night?" }]
+    },
+    {
+      number: 36,
+      summary: "Elihu insists God is mighty but does not despise anyone. He does not keep the wicked alive but gives justice to the afflicted. He opens the ears of the righteous through affliction and tells them to return from iniquity. If they listen and serve him, they complete their days in prosperity. But if they do not listen, they perish. Job must beware of turning to iniquity. Elihu then turns to the majesty of God: behold, God is great and we do not know him.",
+      key_verses: [{ ref: "Job 36:22", text: "Behold, God is exalted in his power; who is a teacher like him?" }]
+    },
+    {
+      number: 37,
+      summary: "Elihu describes God's power in the weather: his voice thunders, he sends snow and rain, he drives the storm clouds, the sky turns golden at his breath. God commands the winter cold and the summer heat. He has scattered the north wind and brought cold out of the north. At this Elihu stops, overwhelmed: can you beat out the skies, hard as a cast metal mirror? God is clothed in awesome majesty. He does not regard any who are wise in their own conceit.",
+      key_verses: [{ ref: "Job 37:23", text: "The Almighty — we cannot find him; he is great in power; justice and abundant righteousness he will not violate." }]
+    },
+    {
+      number: 38,
+      summary: "God speaks from the whirlwind: who is this that darkens counsel with words without knowledge? Where were you when I laid the foundation of the earth? Who shut in the sea with doors when it burst out from the womb? Have you entered the springs of the sea? Have you comprehended the expanse of the earth? Where is the way to the dwelling of light? Can you bind the chains of the Pleiades or loose the belt of Orion? Who has put wisdom in the clouds? God fires question after question that Job cannot answer.",
+      key_verses: [{ ref: "Job 38:4", text: "Where were you when I laid the foundation of the earth? Tell me, if you have understanding." }]
+    },
+    {
+      number: 39,
+      summary: "God continues with the animals: do you know when the mountain goats give birth? Who has let the wild donkey go free? Will the wild ox consent to serve you? The ostrich leaves her eggs in the earth and forgets that a foot may crush them — yet when she rises to flee she laughs at horse and rider. Did you clothe his neck with a mane? He paws in the valley and exults in his strength. Is it by your understanding that the hawk soars and spreads his wings? The whole natural world speaks of God's wisdom and power.",
+      key_verses: [{ ref: "Job 39:26", text: "Is it by your understanding that the hawk soars and spreads his wings toward the south?" }]
+    },
+    {
+      number: 40,
+      summary: "God challenges Job: shall a faultfinder contend with the Almighty? He who argues with God, let him answer. Job puts his hand over his mouth — he has spoken once and twice, but will say no more. God speaks again: do you have an arm like God? Can you abase the proud and tread down the wicked? Then even God will acknowledge that his own right hand can save him. God then describes Behemoth — a creature of enormous power who eats grass like an ox, whose bones are like bronze tubes and his limbs like bars of iron.",
+      key_verses: [{ ref: "Job 40:4", text: "Behold, I am of small account; what shall I answer you? I lay my hand on my mouth." }]
+    },
+    {
+      number: 41,
+      summary: "God describes Leviathan — a fearsome sea creature utterly beyond human control. Can you draw him out with a hook? Will he speak softly to you? Will you play with him as with a bird? His back is made of rows of shields, his breath kindles coals, and out of his mouth go flaming torches. No one on earth is his equal — he is made without fear. He is king over all the sons of pride. The description humbles Job completely and demonstrates that the God who governs such creatures governs all things.",
+      key_verses: [{ ref: "Job 41:34", text: "He sees everything that is high; he is king over all the sons of pride." }]
+    },
+    {
+      number: 42,
+      summary: "Job repents in dust and ashes: he had spoken of things too wonderful, things he did not understand. Before he had heard of God, but now his eye has seen him. God turns to Eliphaz and his two friends: you have not spoken of me what is right, as my servant Job has. They must offer sacrifices and Job will pray for them. Job prays for his friends and God restores his fortunes — twice as much as before. His brothers and sisters comfort him. He has seven more sons and three daughters, the most beautiful women in the land. Job lives one hundred and forty more years and sees his children and grandchildren to four generations.",
+      key_verses: [{ ref: "Job 42:5", text: "I had heard of you by the hearing of the ear, but now my eye sees you." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "psalms",
+  name: "Psalms",
+  testament: "old",
+  category: "Wisdom & Poetry",
+  summary: "The book of Psalms is Israel's great hymnbook and prayer book — one hundred and fifty poems spanning the full range of human experience before God. Psalms of praise and lament, trust and despair, penitence and thanksgiving, royal celebration and wisdom reflection are all gathered here. Many are attributed to David, others to Asaph, the sons of Korah, Solomon, Moses, and unknown authors. Arranged in five books mirroring the Pentateuch, the Psalms have shaped the worship and prayer of God's people across three thousand years.",
+  themes: ["Praise and worship", "Lament and trust", "God's steadfast love", "The righteous and the wicked", "The king and the Messiah", "Creation and God's majesty", "Repentance and forgiveness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The opening psalm sets out two ways of life: the blessed person who meditates on God's law day and night is like a tree planted by streams of water — fruitful and unfading. The wicked are like chaff driven by the wind. The LORD knows the way of the righteous, but the way of the wicked will perish. This psalm serves as a gateway to the entire Psalter.",
+      key_verses: [{ ref: "Psalm 1:1-2", text: "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the LORD, and on his law he meditates day and night." }]
+    },
+    {
+      number: 2,
+      summary: "A royal psalm describing the nations' futile rebellion against God and his anointed king. God laughs at their plotting and declares: I have set my King on Zion, my holy hill. The decree is quoted: you are my Son; today I have begotten you. The nations are warned to kiss the Son lest he be angry. This psalm is foundational to the New Testament's understanding of Jesus as the Messiah.",
+      key_verses: [{ ref: "Psalm 2:7", text: "I will tell of the decree: The LORD said to me, You are my Son; today I have begotten you." }]
+    },
+    {
+      number: 3,
+      summary: "A psalm of David when he fled from his son Absalom. Many are rising against him and saying God will not save him. But David cries to God and God answers from his holy hill. He lies down and sleeps and wakes, for the LORD sustains him. He is not afraid of ten thousand enemies. Salvation belongs to the LORD.",
+      key_verses: [{ ref: "Psalm 3:5", text: "I lay down and slept; I woke again, for the LORD sustained me." }]
+    },
+    {
+      number: 4,
+      summary: "An evening prayer of trust. God has given David relief in past distress. He urges the people to be angry and not sin, to offer right sacrifices and trust the LORD. Many say, Who will show us good? David answers: you have put more joy in my heart than they have when their grain and wine abound. In peace he lies down and sleeps, for God alone makes him dwell in safety.",
+      key_verses: [{ ref: "Psalm 4:8", text: "In peace I will both lie down and sleep; for you alone, O LORD, make me dwell in safety." }]
+    },
+    {
+      number: 5,
+      summary: "A morning prayer. David lays his requests before God at dawn and waits. God does not delight in evil; the arrogant cannot stand before him. David, in the abundance of God's steadfast love, enters the house of God in reverence. He asks God to lead him in righteousness, for there is no truth in the enemies' mouths. Let all who take refuge in God rejoice.",
+      key_verses: [{ ref: "Psalm 5:3", text: "O LORD, in the morning you hear my voice; in the morning I prepare a sacrifice for you and watch." }]
+    },
+    {
+      number: 6,
+      summary: "The first of the seven penitential psalms. David is faint and deeply troubled — how long, O LORD? He is weary with moaning and floods his bed with tears. Yet he suddenly turns: depart from me, all you workers of evil, for the LORD has heard my plea. The LORD accepts his prayer. His enemies will be ashamed and terrified.",
+      key_verses: [{ ref: "Psalm 6:9", text: "The LORD has heard my plea; the LORD accepts my prayer." }]
+    },
+    {
+      number: 7,
+      summary: "David protests his innocence before God: if there is wrong in my hands, let the enemy trample my life. He calls on God as righteous judge to vindicate the upright and bring wickedness to an end. God tests the hearts and minds. Whoever digs a pit will fall into it; his violence will return upon his own head. David will give thanks to the LORD for his righteousness.",
+      key_verses: [{ ref: "Psalm 7:11", text: "God is a righteous judge, and a God who feels indignation every day." }]
+    },
+    {
+      number: 8,
+      summary: "A creation psalm celebrating both God's majesty and humanity's dignity. The glory of God is set above the heavens, yet he is mindful of frail, mortal humanity. You have crowned him with glory and honor and given him dominion over all creation — sheep and oxen, beasts of the field, birds of the air, and fish of the sea. The psalm opens and closes with the same majestic line: O LORD, our Lord, how majestic is your name in all the earth!",
+      key_verses: [{ ref: "Psalm 8:4", text: "What is man that you are mindful of him, and the son of man that you care for him?" }]
+    },
+    {
+      number: 9,
+      summary: "A thanksgiving for God's justice over the nations. David praises God for defending his cause, rebuking the nations, and blotting out their names forever. God sits enthroned forever, judging the world with righteousness. He is a stronghold for the oppressed in times of trouble. The nations have sunk in the pit they made. The needy shall not always be forgotten.",
+      key_verses: [{ ref: "Psalm 9:9", text: "The LORD is a stronghold for the oppressed, a stronghold in times of trouble." }]
+    },
+    {
+      number: 10,
+      summary: "A lament asking why God seems distant while the wicked prosper and prey on the poor. The wicked say in his heart, There is no God. He lurks to seize the poor and catches them in his net. The helpless are crushed. But God does see — he notes mischief and vexation and will break the arm of the wicked. He is king forever; he will incline his ear to the fatherless and the oppressed.",
+      key_verses: [{ ref: "Psalm 10:17", text: "O LORD, you hear the desire of the afflicted; you will strengthen their heart; you will incline your ear." }]
+    },
+    {
+      number: 11,
+      summary: "When the foundations of society are being destroyed and enemies lurk in the dark, the psalmist is urged to flee like a bird to the mountains. But David's answer is: I take refuge in the LORD. God is in his holy temple; his eyes see, he tests the righteous. He rains coals on the wicked. He is righteous and loves righteous deeds; the upright shall behold his face.",
+      key_verses: [{ ref: "Psalm 11:7", text: "For the LORD is righteous; he loves righteous deeds; the upright shall behold his face." }]
+    },
+    {
+      number: 12,
+      summary: "A lament about a society where faithfulness has vanished. Everyone lies and flatters with a double heart. God will protect the poor and needy from those who puff them down. The words of the LORD are pure — silver refined seven times. Though the wicked strut about and vileness is exalted, God will guard his people.",
+      key_verses: [{ ref: "Psalm 12:6", text: "The words of the LORD are pure words, like silver refined in a furnace on the ground, purified seven times." }]
+    },
+    {
+      number: 13,
+      summary: "A brief but intense lament: how long, O LORD? Will you forget me forever? How long must I take counsel in my soul and have sorrow in my heart all the day? The enemies exalt over him. But it turns on a coin of trust: I have trusted in your steadfast love; my heart shall rejoice in your salvation. I will sing to the LORD, for he has dealt bountifully with me.",
+      key_verses: [{ ref: "Psalm 13:5", text: "But I have trusted in your steadfast love; my heart shall rejoice in your salvation." }]
+    },
+    {
+      number: 14,
+      summary: "The fool says in his heart, There is no God. God looks down from heaven to see if any are wise, if any seek after God. All have turned aside; none does good, not even one. The wicked devour God's people as they eat bread. But God is with the righteous generation. Salvation will come from Zion and Jacob will rejoice.",
+      key_verses: [{ ref: "Psalm 14:1", text: "The fool says in his heart, There is no God. They are corrupt, they do abominable deeds; there is none who does good." }]
+    },
+    {
+      number: 15,
+      summary: "A wisdom psalm asking who may dwell on God's holy mountain. The answer: one who walks blamelessly, speaks truth, does not slander, honors those who fear God, keeps an oath even when it hurts, does not lend at interest or take bribes against the innocent. Such a person shall never be moved.",
+      key_verses: [{ ref: "Psalm 15:1", text: "O LORD, who shall sojourn in your tent? Who shall dwell on your holy hill?" }]
+    },
+    {
+      number: 16,
+      summary: "A psalm of trust and contentment. God is David's portion — his inheritance falls in pleasant places. He blesses God who gives him counsel; even at night his heart instructs him. He will not be shaken for God is at his right hand. His heart is glad and his whole being rejoices. God will not abandon him to Sheol or let his holy one see corruption. In God's presence is fullness of joy.",
+      key_verses: [{ ref: "Psalm 16:11", text: "You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore." }]
+    },
+    {
+      number: 17,
+      summary: "A prayer of innocence and protection. David asks God to vindicate him — his steps have held fast to God's paths, his feet have not slipped. He asks God to guard him as the apple of his eye and hide him in the shadow of his wings from the wicked who surround him. The wicked have more than enough in this life. As for David: when he awakes he will be satisfied beholding God's likeness.",
+      key_verses: [{ ref: "Psalm 17:15", text: "As for me, I shall behold your face in righteousness; when I awake, I shall be satisfied with your likeness." }]
+    },
+    {
+      number: 18,
+      summary: "David's great thanksgiving psalm — the same as 2 Samuel 22 — for deliverance from all his enemies and from Saul. He calls God his rock, fortress, deliverer, shield, and stronghold. In his distress he cried and God heard; the earth shook and trembled, God descended in fire and smoke. God rescued him from deep waters and rewarded his righteousness. By God he can run through a troop and leap over a wall. God's way is perfect.",
+      key_verses: [{ ref: "Psalm 18:2", text: "The LORD is my rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold." }]
+    },
+    {
+      number: 19,
+      summary: "Two celebrations in one psalm: creation declares God's glory — the heavens pour forth speech day after day and night after night without a word — and God's law is perfect, reviving the soul. The law of the LORD is more desirable than gold, sweeter than honey. By it the psalmist is warned and in keeping it there is great reward. The psalm closes with a prayer: let the words of my mouth and the meditation of my heart be acceptable to you.",
+      key_verses: [{ ref: "Psalm 19:14", text: "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O LORD, my rock and my redeemer." }]
+    },
+    {
+      number: 20,
+      summary: "A royal prayer for the king before battle. May the LORD answer you in the day of trouble; may he send you help from the sanctuary. Some trust in chariots and some in horses, but we trust in the name of the LORD our God. Those nations will collapse and fall, but we shall rise and stand upright. May the king answer us when we call.",
+      key_verses: [{ ref: "Psalm 20:7", text: "Some trust in chariots and some in horses, but we trust in the name of the LORD our God." }]
+    },
+    {
+      number: 21,
+      summary: "A royal thanksgiving: the king rejoices in God's strength. God has given him his heart's desire and has not withheld what his lips asked. God set a crown of fine gold on his head. The king's glory is great through God's salvation. The enemies of God will be destroyed in the day of his anger. God is exalted in his strength.",
+      key_verses: [{ ref: "Psalm 21:1", text: "O LORD, in your strength the king rejoices, and in your salvation how greatly he exults!" }]
+    },
+    {
+      number: 22,
+      summary: "The great psalm of abandonment and vindication. It opens in anguish — My God, my God, why have you forsaken me? — and rehearses Israel's history of trusting God. Yet the psalmist is scorned, encircled by enemies like bulls and lions. From great suffering he cries and God does not hide his face but hears. The psalm pivots to praise: all the ends of the earth will turn to the LORD. Future generations will proclaim his righteousness. This psalm is quoted extensively in the New Testament at the crucifixion.",
+      key_verses: [{ ref: "Psalm 22:1", text: "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?" }]
+    },
+    {
+      number: 23,
+      summary: "The most beloved of all psalms. The LORD is my shepherd — he provides rest, leads beside still waters, restores the soul, guides in right paths. Even through the valley of the shadow of death there is no fear, for God is present with rod and staff. He prepares a table in the presence of enemies, anoints with oil, and the cup overflows. Goodness and mercy will follow all the days of life, and the psalmist will dwell in the house of the LORD forever.",
+      key_verses: [{ ref: "Psalm 23:1", text: "The LORD is my shepherd; I shall not want." }]
+    },
+    {
+      number: 24,
+      summary: "The earth belongs to the LORD — he founded it on the seas. Who may ascend his holy hill? One with clean hands and a pure heart who does not lift his soul to what is false. The psalm then celebrates a triumphant procession: Lift up your heads, O gates! And the King of glory shall come in. Who is the King of glory? The LORD, strong and mighty in battle — the LORD of hosts.",
+      key_verses: [{ ref: "Psalm 24:1", text: "The earth is the LORD's and the fullness thereof, the world and those who dwell therein." }]
+    },
+    {
+      number: 25,
+      summary: "A prayer of trust and instruction. David lifts his soul to God, trusts him, and asks not to be put to shame. He asks God to show him his paths and lead him in truth. He remembers the sins and transgressions of his youth and asks God not to remember them. Good and upright is the LORD — he instructs sinners in the way and leads the humble in what is right.",
+      key_verses: [{ ref: "Psalm 25:7", text: "Remember not the sins of my youth or my transgressions; according to your steadfast love remember me, for the sake of your goodness, O LORD!" }]
+    },
+    {
+      number: 26,
+      summary: "A psalm of integrity: David asks God to vindicate him, for he has walked in his integrity. He has not sat with the worthless or gone with hypocrites. He loves the beauty of God's house. He walks in his integrity and asks to stand on level ground among the worshipping assembly. He will bless the LORD.",
+      key_verses: [{ ref: "Psalm 26:8", text: "O LORD, I love the habitation of your house and the place where your glory dwells." }]
+    },
+    {
+      number: 27,
+      summary: "One of the great psalms of confidence. The LORD is my light and salvation — whom shall I fear? One thing David has asked: to dwell in the house of the LORD all the days of his life and to gaze upon his beauty. In the day of trouble God will hide him. Even if father and mother forsake him, the LORD will take him in. He counsels his own heart: wait for the LORD; be strong, and let your heart take courage.",
+      key_verses: [{ ref: "Psalm 27:1", text: "The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?" }]
+    },
+    {
+      number: 28,
+      summary: "A prayer for help against the wicked: do not drag me away with evildoers who speak peace but plan evil. God is the strength of his people and the saving refuge of his anointed. The LORD is the strength and shield of his people. David's heart exults and with his song he gives thanks. Be their shepherd and carry them forever.",
+      key_verses: [{ ref: "Psalm 28:7", text: "The LORD is my strength and my shield; in him my heart trusts, and I am helped; my heart exults, and with my song I give thanks to him." }]
+    },
+    {
+      number: 29,
+      summary: "A thunderstorm psalm celebrating the voice of the LORD. The voice of the LORD is powerful and majestic — it breaks the cedars, flashes flames of fire, shakes the wilderness, strips the forest bare. In his temple all cry, Glory! The LORD sits enthroned over the flood as king forever. May the LORD give strength to his people and bless them with peace.",
+      key_verses: [{ ref: "Psalm 29:11", text: "May the LORD give strength to his people! May the LORD bless his people with peace!" }]
+    },
+    {
+      number: 30,
+      summary: "A thanksgiving for recovery from near death. David extols God who healed him and did not let his enemies rejoice. He had said in his prosperity that he would never be moved — then God hid his face and he was dismayed. But he cried and God restored him. Weeping may tarry for the night, but joy comes with the morning. God turned his mourning into dancing and clothed him with gladness.",
+      key_verses: [{ ref: "Psalm 30:5", text: "Weeping may tarry for the night, but joy comes with the morning." }]
+    },
+    {
+      number: 31,
+      summary: "A prayer of refuge in great distress. Into your hand I commit my spirit — you have redeemed me. David is like a broken vessel; enemies slander him and terror is on every side. But he trusts in God: my times are in your hand. How abundant is your goodness stored up for those who fear you! Love the LORD, all his saints. He preserves the faithful.",
+      key_verses: [{ ref: "Psalm 31:5", text: "Into your hand I commit my spirit; you have redeemed me, O LORD, faithful God." }]
+    },
+    {
+      number: 32,
+      summary: "A psalm of forgiveness. Blessed is the one whose transgression is forgiven, whose sin is covered. When David kept silent about his sin, his bones wasted away; when he confessed, God forgave the iniquity. God is a hiding place, preserving from trouble and surrounding with shouts of deliverance. Many sorrows for the wicked, but steadfast love surrounds those who trust in God. Be glad, O righteous, and shout for joy!",
+      key_verses: [{ ref: "Psalm 32:1", text: "Blessed is the one whose transgression is forgiven, whose sin is covered." }]
+    },
+    {
+      number: 33,
+      summary: "A call to praise God as Creator, ruler of history, and shepherd of his people. The word of the LORD is upright and all his work is done in faithfulness. He spoke and the world came to be. The LORD looks down from heaven on all the children of man. A king is not saved by a great army; a warrior is not delivered by great strength. The eye of the LORD is on those who fear him, to deliver their soul from death.",
+      key_verses: [{ ref: "Psalm 33:20", text: "Our soul waits for the LORD; he is our help and our shield." }]
+    },
+    {
+      number: 34,
+      summary: "A psalm of David when he feigned madness before Abimelech. He will bless the LORD at all times. The poor man cried and the LORD heard him and saved him from all his troubles. The angel of the LORD encamps around those who fear him and delivers them. Taste and see that the LORD is good — the young lions suffer want and hunger but those who seek the LORD lack no good thing. The LORD is near to the brokenhearted.",
+      key_verses: [{ ref: "Psalm 34:8", text: "Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in him!" }]
+    },
+    {
+      number: 35,
+      summary: "A prayer for God to contend against David's enemies who have plotted against him without cause. He asks God to shame and confuse those who seek his life. While he prayed for them when they were sick and mourned as for a brother, they repaid him evil for good. But David's soul shall rejoice in the LORD and exult in his salvation. Who is like you, LORD, who delivers the weak from those too strong for them?",
+      key_verses: [{ ref: "Psalm 35:10", text: "All my bones shall say, O LORD, who is like you, delivering the poor from him who is too strong for him?" }]
+    },
+    {
+      number: 36,
+      summary: "The contrast between human wickedness and divine love. Transgression speaks to the wicked deep in their heart; there is no fear of God before their eyes. They plot evil on their beds. But God's steadfast love extends to the heavens, his faithfulness to the clouds. How precious is your steadfast love, O God! Humans take refuge in the shadow of your wings and feast at your house.",
+      key_verses: [{ ref: "Psalm 36:7", text: "How precious is your steadfast love, O God! The children of mankind take refuge in the shadow of your wings." }]
+    },
+    {
+      number: 37,
+      summary: "A wisdom psalm counseling patience before the apparent prosperity of the wicked. Do not fret because of evildoers; they will soon fade like grass. Trust in the LORD and do good. Delight yourself in him and he will give you the desires of your heart. Commit your way to the LORD. The meek shall inherit the land. The little that the righteous has is better than the abundance of the wicked.",
+      key_verses: [{ ref: "Psalm 37:4", text: "Delight yourself in the LORD, and he will give you the desires of your heart." }]
+    },
+    {
+      number: 38,
+      summary: "A psalm of painful affliction under God's discipline. David's wounds stink and fester because of his sin. He is bowed down and utterly prostrate. His strength is dried up and even his friends stand aloof. His enemies are vigorous and many. Yet he does not answer them — for you, O LORD, do I wait; it is you, O Lord my God, who will answer. Do not forsake me, O LORD; make haste to help me.",
+      key_verses: [{ ref: "Psalm 38:9", text: "O Lord, all my longing is before you; my sighing is not hidden from you." }]
+    },
+    {
+      number: 39,
+      summary: "A meditation on human transience. David resolves to guard his mouth so as not to sin — he will muzzle himself before the wicked. But he cannot stay silent. He reflects: life is like a breath, a shadow, a vapor. Man heaps up wealth and does not know who will gather it. And now, O Lord, what do I wait for? My hope is in you. Remove your discipline from me before I depart and am no more.",
+      key_verses: [{ ref: "Psalm 39:7", text: "And now, O Lord, for what do I wait? My hope is in you." }]
+    },
+    {
+      number: 40,
+      summary: "David waited patiently for the LORD who drew him up from the pit, out of the miry bog, and set his feet on a rock. He put a new song in his mouth. Sacrifice and offering God did not desire — then David said: I delight to do your will, O my God; your law is within my heart. The psalm then turns to a cry for help: troubles surround him, innumerable. But God is the helper and deliverer. Make no delay.",
+      key_verses: [{ ref: "Psalm 40:8", text: "I delight to do your will, O my God; your law is within my heart." }]
+    },
+    {
+      number: 41,
+      summary: "Blessed is the one who considers the poor — the LORD delivers him in the day of trouble. David is sick and his enemies speak evil: he will not rise again. Even his close friend who ate his bread has lifted his heel against him. Yet he calls on God to be gracious. God upholds him and sets him in his presence forever. Blessed be the LORD. This psalm closes Book I of the Psalter.",
+      key_verses: [{ ref: "Psalm 41:9", text: "Even my close friend in whom I trusted, who ate my bread, has lifted his heel against me." }]
+    },
+    {
+      number: 42,
+      summary: "As a deer pants for flowing streams, so the psalmist's soul pants for God. He thirsts for God, the living God. Tears have been his food while enemies taunt, Where is your God? He pours out his soul remembering how he used to lead the procession to the house of God with shouts of joy. Why are you cast down, O my soul? Hope in God, for I shall again praise him, my salvation and my God. This refrain returns three times.",
+      key_verses: [{ ref: "Psalm 42:1-2", text: "As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God." }]
+    },
+    {
+      number: 43,
+      summary: "A continuation of Psalm 42, possibly originally one poem. The psalmist asks God to vindicate him against an ungodly people — to send light and truth to lead him to God's holy mountain. He will go to the altar of God, to God his exceeding joy. Why are you cast down, O my soul? Hope in God, for I shall again praise him.",
+      key_verses: [{ ref: "Psalm 43:3", text: "Send out your light and your truth; let them lead me; let them bring me to your holy hill and to your dwelling!" }]
+    },
+    {
+      number: 44,
+      summary: "A national lament. We have heard with our ears, O God, what our fathers told us — the deeds you did in their days. You drove out the nations and planted them. Yet now you have rejected and disgraced us; you sold your people for a trifle. We have not forgotten you or been false to your covenant. Rise up, come to our help! Redeem us for the sake of your steadfast love.",
+      key_verses: [{ ref: "Psalm 44:26", text: "Rise up; come to our help! Redeem us for the sake of your steadfast love!" }]
+    },
+    {
+      number: 45,
+      summary: "A royal wedding psalm addressed to the king. Your throne, O God, is forever and ever; the scepter of your kingdom is a scepter of uprightness. You love righteousness and hate wickedness. Daughters of kings are among your honored women; the queen stands at your right hand in gold of Ophir. The daughters of the king are glorious — let them be led to the king with joy.",
+      key_verses: [{ ref: "Psalm 45:6", text: "Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness." }]
+    },
+    {
+      number: 46,
+      summary: "God is our refuge and strength, a very present help in trouble. Therefore we will not fear though the earth gives way and mountains fall into the sea. The LORD of hosts is with us; the God of Jacob is our fortress. He makes wars cease to the end of the earth and breaks the bow in pieces. Be still and know that I am God. This psalm inspired Luther's great hymn A Mighty Fortress.",
+      key_verses: [{ ref: "Psalm 46:10", text: "Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!" }]
+    },
+    {
+      number: 47,
+      summary: "A joyful enthronement psalm. Clap your hands, all peoples; shout to God with loud songs of joy! God is king over all the earth. He has gone up with a shout, with the sound of a trumpet. Sing praises to God, sing praises! For God is the King of all the earth. The princes of the peoples gather as the people of the God of Abraham.",
+      key_verses: [{ ref: "Psalm 47:7", text: "For God is the King of all the earth; sing praises with a psalm!" }]
+    },
+    {
+      number: 48,
+      summary: "Great is the LORD and greatly to be praised in the city of God. Mount Zion is beautiful in elevation and is the joy of all the earth. God is in her citadels and has shown himself a sure defense. Kings assembled and were astounded — panic seized them. God will guide his people forever. Walk about Zion, count her towers, consider her ramparts, that you may tell the next generation.",
+      key_verses: [{ ref: "Psalm 48:1", text: "Great is the LORD and greatly to be praised in the city of our God! His holy mountain." }]
+    },
+    {
+      number: 49,
+      summary: "A wisdom psalm addressed to all peoples. Hear this, all nations — why should I fear in times of trouble? Those who trust in their wealth cannot ransom themselves. Even the wise die; they leave their wealth to others. Man in his pomp will not remain; he is like the beasts that perish. But God will ransom my soul from the power of Sheol. Do not be afraid when a man grows rich — he will carry nothing away when he dies.",
+      key_verses: [{ ref: "Psalm 49:15", text: "But God will ransom my soul from the power of Sheol, for he will receive me." }]
+    },
+    {
+      number: 50,
+      summary: "God speaks in a theophany of fire and tempest, summoning the earth. He does not rebuke for lack of sacrifices, but declares: I will not accept a bull from your house — every beast of the forest is mine. If I were hungry, I would not tell you. Offer to God a sacrifice of thanksgiving, call on him in the day of trouble, and he will deliver you. But to the wicked: what right have you to recite my statutes?",
+      key_verses: [{ ref: "Psalm 50:14", text: "Offer to God a sacrifice of thanksgiving, and perform your vows to the Most High." }]
+    },
+    {
+      number: 51,
+      summary: "David's great penitential psalm, written after Nathan confronted him about Bathsheba and Uriah. Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Against you, you only, have I sinned. Create in me a clean heart and renew a right spirit within me. Do not take your Holy Spirit from me. A broken and contrite heart, O God, you will not despise.",
+      key_verses: [{ ref: "Psalm 51:10", text: "Create in me a clean heart, O God, and renew a right spirit within me." }]
+    },
+    {
+      number: 52,
+      summary: "A psalm against a boastful enemy — written when Doeg the Edomite informed Saul of David's location. Why do you boast of evil, O mighty man? Your tongue is like a sharp razor. You love evil more than good and lying more than truth. God will break you down forever; he will tear you from your tent. The righteous shall see and fear and laugh. But David is like a green olive tree in the house of God, trusting in God's steadfast love forever.",
+      key_verses: [{ ref: "Psalm 52:8", text: "But I am like a green olive tree in the house of God. I trust in the steadfast love of God forever and ever." }]
+    },
+    {
+      number: 53,
+      summary: "A near repeat of Psalm 14, with minor variations. The fool says in his heart, There is no God. God looks down from heaven to find any who are wise. All have turned away; there is none who does good, not even one. The evildoers eat up God's people as they eat bread. There they are in great terror where there is no terror. God scatters the bones of those who encamp against his people. Oh, that salvation for Israel would come out of Zion!",
+      key_verses: [{ ref: "Psalm 53:6", text: "Oh, that salvation for Israel would come out of Zion! When God restores the fortunes of his people, let Jacob rejoice, let Israel be glad." }]
+    },
+    {
+      number: 54,
+      summary: "A brief plea for rescue — when the Ziphites betrayed David's location to Saul. Save me, O God, by your name; vindicate me by your might. Strangers have risen against me; ruthless men seek my life. But God is my helper; the Lord is the upholder of my life. He will return the evil to my enemies. David will freely sacrifice to God and give thanks for his deliverance.",
+      key_verses: [{ ref: "Psalm 54:4", text: "Behold, God is my helper; the Lord is the upholder of my life." }]
+    },
+    {
+      number: 55,
+      summary: "A psalm of anguish at betrayal by a close companion. David is terrified and his heart is in anguish. He wishes he had wings like a dove to fly away and be at rest. The city is full of violence and trouble. But worst of all: it is you — his equal, his companion, his familiar friend with whom he walked to the house of God. Cast your burden on the LORD and he will sustain you.",
+      key_verses: [{ ref: "Psalm 55:22", text: "Cast your burden on the LORD, and he will sustain you; he will never permit the righteous to be moved." }]
+    },
+    {
+      number: 56,
+      summary: "A psalm of trust in the face of enemies — from when the Philistines seized David at Gath. When he is afraid he trusts in God. In God, whose word he praises, he will not be afraid of mere flesh. God has counted his tossings and collected his tears in a bottle. He will walk before God in the light of life. What can man do to him?",
+      key_verses: [{ ref: "Psalm 56:3", text: "When I am afraid, I put my trust in you." }]
+    },
+    {
+      number: 57,
+      summary: "A prayer from the cave — when David fled Saul. Be merciful to me, O God, until these calamities pass. He lies in the midst of lions and fiery beasts. His heart is steadfast. He will awake the dawn with his song — his soul will sing to God among the nations. For your steadfast love is great to the heavens and your faithfulness to the clouds. Be exalted, O God, above the heavens!",
+      key_verses: [{ ref: "Psalm 57:10", text: "For your steadfast love is great to the heavens, your faithfulness to the clouds." }]
+    },
+    {
+      number: 58,
+      summary: "A fierce protest against unjust rulers. Do you rulers judge uprightly? No — you devise wrongs in your hearts. The wicked go astray from the womb; they are poisonous like a deaf asp that stops its ear. Break the teeth of these lions, O God. Let them vanish like water that runs away. People will say: surely there is a reward for the righteous; surely there is a God who judges on earth.",
+      key_verses: [{ ref: "Psalm 58:11", text: "Mankind will say, Surely there is a reward for the righteous; surely there is a God who judges on earth." }]
+    },
+    {
+      number: 59,
+      summary: "David's prayer when Saul sent men to watch his house in order to kill him. Deliver him from evildoers; they lie in wait for his life and there is no transgression or sin in him. He looks at his enemies with contempt — God holds them in derision. David sings of God's strength in the morning; God is his fortress and his God of steadfast love.",
+      key_verses: [{ ref: "Psalm 59:17", text: "O my Strength, I will sing praises to you, for you, O God, are my fortress, the God who shows me steadfast love." }]
+    },
+    {
+      number: 60,
+      summary: "A national lament after military defeat — O God, you have rejected us and been angry. You have made your people see hard things. But for those who fear you, a banner has been raised. Give us help against the foe, for human help is worthless. With God we shall do valiantly; it is he who will tread down our foes.",
+      key_verses: [{ ref: "Psalm 60:12", text: "With God we shall do valiantly; it is he who will tread down our foes." }]
+    },
+    {
+      number: 61,
+      summary: "A prayer of longing for God's presence. Hear my cry, O God; listen to my prayer. From the end of the earth I call when my heart is faint — lead me to the rock that is higher than I. David longs to take refuge in the shelter of God's wings forever. He will dwell in God's tent and trust under the cover of his wings. The king will praise God's name forever.",
+      key_verses: [{ ref: "Psalm 61:2", text: "From the end of the earth I call to you when my heart is faint. Lead me to the rock that is higher than I." }]
+    },
+    {
+      number: 62,
+      summary: "A psalm of calm waiting. My soul waits in silence for God alone — from him comes my salvation. He alone is my rock and my fortress. How long will you assail a man, batter him? Pour out your heart before God; he is a refuge. Riches and power are nothing. God has spoken: power belongs to God, and steadfast love belongs to him. He repays a man according to his work.",
+      key_verses: [{ ref: "Psalm 62:5", text: "For God alone, O my soul, wait in silence, for my hope is from him." }]
+    },
+    {
+      number: 63,
+      summary: "A psalm of thirst for God in the wilderness of Judah. O God, you are my God; earnestly I seek you. My soul thirsts for you, my flesh faints for you, as in a dry and weary land with no water. Your steadfast love is better than life. David meditates on God in the night watches and his soul clings to him. Those who seek his life will go into the depths of the earth.",
+      key_verses: [{ ref: "Psalm 63:1", text: "O God, you are my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water." }]
+    },
+    {
+      number: 64,
+      summary: "A prayer for protection from the secret plots of the wicked, who sharpen their tongues like swords and aim bitter words like arrows. But God will shoot his arrow at them suddenly and their own tongue will be turned against them. All people will see and declare the work of God. The righteous will exult and take refuge in the LORD.",
+      key_verses: [{ ref: "Psalm 64:10", text: "Let the righteous one rejoice in the LORD and take refuge in him! Let all the upright in heart exult!" }]
+    },
+    {
+      number: 65,
+      summary: "A hymn of praise for God's grace and the abundance of creation. To God belong praise and vows in Zion. Blessed is the one you choose to dwell in your courts. By awesome deeds you answer with righteousness. You silence the roaring of the seas and the tumult of the peoples. You visit the earth and water it, enriching it greatly. You crown the year with your bounty and the pastures overflow.",
+      key_verses: [{ ref: "Psalm 65:11", text: "You crown the year with your bounty; your wagon tracks overflow with abundance." }]
+    },
+    {
+      number: 66,
+      summary: "Shout for joy to God, all the earth! Come and see what God has done — awesome in deeds toward the children of man. He turned the sea into dry land and the people passed through the river on foot. He tests us as silver is tested. He brought us out to a place of abundance. David recounts answered prayer: if I had cherished sin in my heart, the LORD would not have listened. But God has listened and attended to my prayer.",
+      key_verses: [{ ref: "Psalm 66:5", text: "Come and see what God has done: he is awesome in his deeds toward the children of man." }]
+    },
+    {
+      number: 67,
+      summary: "A brief prayer for blessing and mission. May God be gracious and bless us — that his way may be known on earth and his saving power among all nations. Let the peoples praise you, O God; let all the peoples praise you! The earth has yielded its increase. May God bless us and all the ends of the earth fear him.",
+      key_verses: [{ ref: "Psalm 67:2", text: "That your way may be known on earth, your saving power among all nations." }]
+    },
+    {
+      number: 68,
+      summary: "A great processional hymn celebrating God's victory march through history. Let God arise and his enemies scatter! Father of the fatherless, defender of widows — God settles the solitary in a home. He provides rain for the weary land. Sing to God, kingdoms of the earth — he rides through the ancient heavens. God is awesome from his sanctuary. He gives power and strength to his people.",
+      key_verses: [{ ref: "Psalm 68:19", text: "Blessed be the Lord, who daily bears us up; God is our salvation." }]
+    },
+    {
+      number: 69,
+      summary: "An intense lament for one sinking in the mire, hated without cause. Zeal for your house has consumed me — the insults of those who insult you fall on me. He cries from the depths and asks God not to hide his face. This psalm is extensively quoted in the New Testament, applied to the suffering of Christ. Yet it ends in praise: God saves Zion and rebuilds the cities of Judah.",
+      key_verses: [{ ref: "Psalm 69:9", text: "For zeal for your house has consumed me, and the reproaches of those who reproach you have fallen on me." }]
+    },
+    {
+      number: 70,
+      summary: "A brief cry for urgent help — nearly identical to Psalm 40:13-17. Make haste, O God, to deliver me! O LORD, make haste to help me. Let those be put to shame who seek my life. May all who seek you rejoice and be glad in you. As for me, I am poor and needy — hasten to me, O God!",
+      key_verses: [{ ref: "Psalm 70:5", text: "But I am poor and needy; hasten to me, O God! You are my help and my deliverer." }]
+    },
+    {
+      number: 71,
+      summary: "A prayer of an elderly man who has trusted God from youth. In you, O LORD, do I take refuge. You who made me see many troubles and calamities will revive me again. Even to old age and gray hairs, do not forsake me, O God, until I declare your might to another generation. My mouth will tell of your righteous acts all the day, for what I owe cannot be numbered.",
+      key_verses: [{ ref: "Psalm 71:18", text: "So even to old age and gray hairs, O God, do not forsake me, until I proclaim your might to another generation, your power to all those to come." }]
+    },
+    {
+      number: 72,
+      summary: "A royal psalm, likely Solomon's prayer for his own reign. Give the king your justice, O God. May he judge your people with righteousness and defend the cause of the poor. May he have dominion from sea to sea. May all kings bow down before him. He delivers the needy who cry for help. His name shall endure forever. Blessed be the LORD God, the God of Israel, who alone does wondrous things. This psalm closes Book II.",
+      key_verses: [{ ref: "Psalm 72:19", text: "Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen!" }]
+    },
+    {
+      number: 73,
+      summary: "Asaph's near-fall: God is good to Israel, but his feet had almost stumbled when he saw the prosperity of the wicked. They seem to have no pangs until death. He had kept his heart pure for nothing. But when he went into the sanctuary of God he understood their end. They are set in slippery places and destroyed in a moment. Whom have I in heaven but you? My flesh and heart may fail, but God is the strength of my heart and my portion forever.",
+      key_verses: [{ ref: "Psalm 73:26", text: "My flesh and my heart may fail, but God is the strength of my heart and my portion forever." }]
+    },
+    {
+      number: 74,
+      summary: "A community lament after the destruction of the sanctuary. O God, why do you cast us off forever? Your foes have roared in the midst of your meeting place; they smashed all the carved wood with axes. They burned your sanctuary to the ground. How long will the enemy mock? Remember Mount Zion where you dwelt. Arise, O God, defend your cause; remember how the foolish mock all day long.",
+      key_verses: [{ ref: "Psalm 74:12", text: "Yet God my King is from of old, working salvation in the midst of the earth." }]
+    },
+    {
+      number: 75,
+      summary: "A psalm of thanksgiving declaring that God alone is judge. We give thanks to you, O God. When the earth totters and all its inhabitants, it is God who keeps its pillars steady. He puts down one and lifts up another. From God's hand is a cup of foaming wine — all the wicked of the earth shall drain it down. But he will cut off all the horns of the wicked and the horns of the righteous shall be lifted up.",
+      key_verses: [{ ref: "Psalm 75:7", text: "But it is God who executes judgment, putting down one and lifting up another." }]
+    },
+    {
+      number: 76,
+      summary: "In Judah God is known; his name is great in Israel. His dwelling is in Zion. There he broke the flashing arrows, shield, sword, and weapons of war. He is more glorious and majestic than the mountains. At your rebuke, O God of Jacob, both rider and horse lay stunned. When you arose to execute judgment, all the humble of the earth feared. Vow and perform your vows to the LORD your God.",
+      key_verses: [{ ref: "Psalm 76:11", text: "Make your vows to the LORD your God and perform them; let all around him bring gifts to him who is to be feared." }]
+    },
+    {
+      number: 77,
+      summary: "Asaph cries to God in the night and will not be comforted. Has God forgotten to be gracious? Has his steadfast love forever ceased? But then he remembers God's deeds of old — the wonderful works in the days of Abraham, Moses, and the Exodus. Your way was through the sea, your path through the great waters, yet your footprints were unseen. You led your people like a flock by the hand of Moses and Aaron.",
+      key_verses: [{ ref: "Psalm 77:14", text: "You are the God who works wonders; you have made known your might among the peoples." }]
+    },
+    {
+      number: 78,
+      summary: "A great historical psalm by Asaph reviewing Israel's history as a lesson for the next generation. Give ear, O my people, to my teaching. We will tell the coming generation the glorious deeds of the LORD. The psalm recounts the Exodus, the wilderness wandering, the people's rebellion and God's patient mercy, the loss of the ark to the Philistines, and finally God's choice of David from tending sheep to shepherd Jacob his people.",
+      key_verses: [{ ref: "Psalm 78:4", text: "We will not hide them from their children, but tell to the coming generation the glorious deeds of the LORD, and his might, and the wonders that he has done." }]
+    },
+    {
+      number: 79,
+      summary: "A national lament after the destruction of Jerusalem. O God, the nations have come into your inheritance; they have defiled your holy temple; they have laid Jerusalem in ruins. They have poured out blood like water. Our neighbors mock us. Help us, O God of our salvation, for the glory of your name. Let the groaning of the prisoners come before you. Return sevenfold upon our neighbors the taunts they have hurled at you.",
+      key_verses: [{ ref: "Psalm 79:9", text: "Help us, O God of our salvation, for the glory of your name; deliver us, and atone for our sins, for your name's sake!" }]
+    },
+    {
+      number: 80,
+      summary: "A communal lament pleading for restoration. Give ear, O Shepherd of Israel. You brought a vine out of Egypt and planted it; it filled the land. Now you have broken down its walls and the boar from the forest ravages it. Restore us, O God of hosts! Let your face shine that we may be saved! This refrain appears three times, bookending the psalm. Revive us and we will call upon your name.",
+      key_verses: [{ ref: "Psalm 80:19", text: "Restore us, O LORD God of hosts! Let your face shine, that we may be saved!" }]
+    },
+    {
+      number: 81,
+      summary: "Sing aloud to God our strength; make a joyful noise to the God of Jacob! It is a statute for Israel. God recounts his acts: I relieved your shoulder of the burden, I answered you in the secret place of thunder. But my people did not listen to my voice. Oh, that my people would listen to me! I would feed you with the finest wheat and satisfy you with honey from the rock.",
+      key_verses: [{ ref: "Psalm 81:13", text: "Oh, that my people would listen to me, that Israel would walk in my ways!" }]
+    },
+    {
+      number: 82,
+      summary: "God stands in the divine assembly and renders judgment among the gods. How long will you judge unjustly and show partiality to the wicked? Give justice to the weak and the fatherless; rescue the poor and needy. They have neither knowledge nor understanding — all the foundations of the earth are shaken. Arise, O God, judge the earth; for you shall inherit all the nations.",
+      key_verses: [{ ref: "Psalm 82:3-4", text: "Give justice to the weak and the fatherless; maintain the right of the afflicted and the destitute. Rescue the weak and the needy; deliver them from the hand of the wicked." }]
+    },
+    {
+      number: 83,
+      summary: "A prayer against a coalition of enemies surrounding Israel. O God, do not keep silence; do not be still. Your enemies are conspiring together — Edom, Moab, Ammon, Amalek, Philistia, Tyre, Assyria. They want to cut off the name of Israel. Deal with them as you dealt with Sisera and Midian. Let them be put to shame that they may seek your name. Let them know that you alone are the Most High over all the earth.",
+      key_verses: [{ ref: "Psalm 83:18", text: "That they may know that you alone, whose name is the LORD, are the Most High over all the earth." }]
+    },
+    {
+      number: 84,
+      summary: "How lovely is your dwelling place, O LORD of hosts! The psalmist longs for the courts of the LORD; his soul faints with longing. Even the sparrow finds a home near your altar. Blessed are those who dwell in your house. A day in your courts is better than a thousand elsewhere. The LORD is a sun and shield; he bestows favor and honor and withholds no good thing from those who walk uprightly.",
+      key_verses: [{ ref: "Psalm 84:10", text: "For a day in your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness." }]
+    },
+    {
+      number: 85,
+      summary: "A prayer for national restoration. You were favorable to your land, O LORD; you restored the fortunes of Jacob. You forgave the iniquity of your people. Restore us again, O God of our salvation! Show us your steadfast love, O LORD, and grant us your salvation. Steadfast love and faithfulness meet; righteousness and peace kiss each other.",
+      key_verses: [{ ref: "Psalm 85:10", text: "Steadfast love and faithfulness meet; righteousness and peace kiss each other." }]
+    },
+    {
+      number: 86,
+      summary: "A prayer of David in distress: incline your ear, O LORD, and answer me, for I am poor and needy. Gladden the soul of your servant. For you, O Lord, are good and forgiving, abounding in steadfast love to all who call upon you. There is none like you among the gods. All nations shall come and worship before you. You have delivered my soul from the depths of Sheol. You, O Lord, are a God merciful and gracious.",
+      key_verses: [{ ref: "Psalm 86:15", text: "But you, O Lord, are a God merciful and gracious, slow to anger and abounding in steadfast love and faithfulness." }]
+    },
+    {
+      number: 87,
+      summary: "A brief but striking psalm about Zion. His foundation is on the holy mountain — the LORD loves the gates of Zion more than all the dwellings of Jacob. Glorious things of you are spoken, O city of God. Of Zion it will be said: this one and that one were born in her. The LORD records as he registers the peoples: this one was born there. Singers and dancers alike say: all my springs are in you.",
+      key_verses: [{ ref: "Psalm 87:3", text: "Glorious things of you are spoken, O city of God." }]
+    },
+    {
+      number: 88,
+      summary: "The darkest psalm in the Psalter, with no resolution. The psalmist is at the brink of Sheol, counted among those who go down to the pit. God's wrath lies heavy upon him; his companions are in darkness. From his youth he has suffered and is close to death. He cries day and night but there is no answer. The psalm ends with: darkness is my closest friend. Yet he still cries to God.",
+      key_verses: [{ ref: "Psalm 88:1-2", text: "O LORD, God of my salvation; I cry out day and night before you. Let my prayer come before you; incline your ear to my cry!" }]
+    },
+    {
+      number: 89,
+      summary: "A long psalm in three movements: a celebration of God's covenant with David (his throne will be established forever), a glorious hymn to God's greatness and faithfulness, and then a devastating lament — God has renounced the covenant, cast off the anointed, and the enemies exult. How long will you hide yourself? Where are your former deeds of steadfast love? The psalm closes Book III on a note of unresolved tension.",
+      key_verses: [{ ref: "Psalm 89:1", text: "I will sing of the steadfast love of the LORD, forever; with my mouth I will make known your faithfulness to all generations." }]
+    },
+    {
+      number: 90,
+      summary: "The only psalm attributed to Moses — a meditation on God's eternity against human frailty. Before the mountains were born or you had formed the earth, from everlasting to everlasting you are God. You return man to dust. A thousand years in your sight are like a watch in the night. Our years come to an end like a sigh. The years of our life are seventy. Teach us to number our days so that we may gain a heart of wisdom.",
+      key_verses: [{ ref: "Psalm 90:12", text: "So teach us to number our days that we may get a heart of wisdom." }]
+    },
+    {
+      number: 91,
+      summary: "A great psalm of protection and trust. He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. He is your refuge and your fortress; his faithfulness is a shield. No evil shall be allowed to befall you; he will command his angels to guard you in all your ways. Because he holds fast to me in love, I will deliver him. I will be with him in trouble; I will rescue him and honor him. This psalm was quoted by Satan when tempting Jesus.",
+      key_verses: [{ ref: "Psalm 91:1-2", text: "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, My refuge and my fortress, my God, in whom I trust." }]
+    },
+    {
+      number: 92,
+      summary: "It is good to give thanks to the LORD and to sing praises to your name. To declare your steadfast love in the morning and your faithfulness by night. God's works are great and his thoughts very deep. The righteous flourish like the palm tree and grow like a cedar — in old age they still bear fruit. They are full of sap and green, to declare that the LORD is upright; there is no unrighteousness in him.",
+      key_verses: [{ ref: "Psalm 92:14", text: "They still bear fruit in old age; they are ever full of sap and green, to declare that the LORD is upright." }]
+    },
+    {
+      number: 93,
+      summary: "A brief enthronement psalm: the LORD reigns! He is robed in majesty and armed with strength. The world is established; it shall never be moved. The floods have lifted up their voice; the floods lift up their roaring. But mightier than the thunder of many waters, mightier than the waves of the sea, the LORD on high is mighty! Your decrees are very trustworthy, O LORD, forevermore.",
+      key_verses: [{ ref: "Psalm 93:4", text: "Mightier than the thunders of many waters, mightier than the waves of the sea, the LORD on high is mighty!" }]
+    },
+    {
+      number: 94,
+      summary: "A prayer calling on God as judge to avenge the oppression of the innocent. O LORD, God of vengeance — how long shall the wicked exult? They crush your people and afflict your heritage. They say, The LORD does not see. But he who planted the ear, does he not hear? He who formed the eye, does he not see? The LORD will not forsake his people; justice will return to the righteous.",
+      key_verses: [{ ref: "Psalm 94:9", text: "He who planted the ear, does he not hear? He who formed the eye, does he not see?" }]
+    },
+    {
+      number: 95,
+      summary: "An invitation to worship with both joy and sobriety. Come, let us sing for joy to the LORD; let us make a joyful noise to the rock of our salvation! For he is a great God. Come, let us worship and bow down; we are the people of his pasture. Then the warning: do not harden your hearts as at Meribah and Massah. That generation went astray in their hearts and did not know my ways. They shall not enter my rest.",
+      key_verses: [{ ref: "Psalm 95:6", text: "Oh come, let us worship and bow down; let us kneel before the LORD, our Maker!" }]
+    },
+    {
+      number: 96,
+      summary: "Sing to the LORD a new song! Declare his glory among the nations, his marvelous works among all the peoples. The gods of the peoples are worthless idols, but the LORD made the heavens. Splendor and majesty are before him. Ascribe to the LORD glory and strength. He will judge the world in righteousness and the peoples in his faithfulness.",
+      key_verses: [{ ref: "Psalm 96:3", text: "Declare his glory among the nations, his marvelous works among all the peoples!" }]
+    },
+    {
+      number: 97,
+      summary: "The LORD reigns! Let the earth rejoice and the coastlands be glad. Clouds and thick darkness surround him; fire goes before him and burns up his adversaries. His lightnings light up the world; the earth trembles. The mountains melt like wax before him. The heavens proclaim his righteousness and all the peoples see his glory. Rejoice in the LORD, O you righteous!",
+      key_verses: [{ ref: "Psalm 97:12", text: "Rejoice in the LORD, O you righteous, and give thanks to his holy name!" }]
+    },
+    {
+      number: 98,
+      summary: "Sing to the LORD a new song for he has done marvelous things. His right hand and his holy arm have worked salvation. He has remembered his steadfast love and faithfulness to Israel. All the ends of the earth have seen the salvation of our God. Make a joyful noise! Let the rivers clap their hands and the hills sing for joy before the LORD who comes to judge the earth with righteousness.",
+      key_verses: [{ ref: "Psalm 98:3", text: "He has remembered his steadfast love and faithfulness to the house of Israel. All the ends of the earth have seen the salvation of our God." }]
+    },
+    {
+      number: 99,
+      summary: "The LORD reigns — let the peoples tremble! He sits enthroned above the cherubim. Great is the LORD in Zion. Let them praise your great and awesome name: Holy is he! He loves justice and has established equity. Moses, Aaron, and Samuel called on his name and he answered them from the pillar of cloud. Holy is the LORD our God!",
+      key_verses: [{ ref: "Psalm 99:9", text: "Exalt the LORD our God, and worship at his holy mountain; for the LORD our God is holy!" }]
+    },
+    {
+      number: 100,
+      summary: "A brief, joyful psalm of praise for all the earth. Make a joyful noise to the LORD, all the earth! Serve the LORD with gladness and come into his presence with singing. Know that the LORD, he is God — it is he who made us, and we are his; we are his people, and the sheep of his pasture. Enter his gates with thanksgiving, his courts with praise! For the LORD is good; his steadfast love endures forever.",
+      key_verses: [{ ref: "Psalm 100:3", text: "Know that the LORD, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture." }]
+    },
+    {
+      number: 101,
+      summary: "David's covenant of integrity as king. I will sing of steadfast love and justice; to you, O LORD, I will make music. I will walk with integrity of heart within my house. No one who practices deceit shall dwell in my house; no one who utters lies shall continue before my eyes. Morning by morning I will destroy all the wicked in the land, cutting off all the evildoers from the city of the LORD.",
+      key_verses: [{ ref: "Psalm 101:2", text: "I will ponder the way that is blameless. Oh when will you come to me? I will walk with integrity of heart within my house." }]
+    },
+    {
+      number: 102,
+      summary: "A prayer of an afflicted man in desperate distress. His days pass away like smoke; his bones burn like a furnace. He eats ashes like bread. But you, O LORD, are enthroned forever; your name endures to all generations. You will arise and have pity on Zion. You will rebuild and appear in glory. The children of your servants shall dwell secure; their offspring shall be established before you.",
+      key_verses: [{ ref: "Psalm 102:27", text: "But you are the same, and your years have no end." }]
+    },
+    {
+      number: 103,
+      summary: "Bless the LORD, O my soul — one of the great hymns of praise. Do not forget his benefits: he forgives all iniquity, heals all diseases, redeems life from the pit, crowns with steadfast love. He does not deal with us as our sins deserve. As a father shows compassion to his children, so the LORD shows compassion to those who fear him. He knows our frame and remembers that we are dust. His steadfast love is from everlasting to everlasting.",
+      key_verses: [{ ref: "Psalm 103:11-12", text: "For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him; as far as the east is from the west, so far does he remove our transgressions from us." }]
+    },
+    {
+      number: 104,
+      summary: "A magnificent creation hymn in the tradition of Genesis 1. God stretches out the heavens like a tent, lays the beams of his chambers on the waters, makes the clouds his chariot. He makes springs pour water into the valleys, waters the mountains, makes grass grow for livestock and plants for man. The sea is vast with creatures beyond number. You open your hand and they are filled with good things. May the glory of the LORD endure forever!",
+      key_verses: [{ ref: "Psalm 104:24", text: "O LORD, how manifold are your works! In wisdom have you made them all; the earth is full of your creatures." }]
+    },
+    {
+      number: 105,
+      summary: "A historical psalm of praise. Give thanks to the LORD; make known his deeds among the peoples. He is the LORD our God; his judgments are in all the earth. He remembers his covenant — made with Abraham, confirmed to Jacob. He sent Joseph ahead of them to Egypt. He sent Moses and Aaron and struck Egypt with plagues. He brought out his people with joy and they inherited the labor of the nations. All so they might keep his statutes.",
+      key_verses: [{ ref: "Psalm 105:8", text: "He remembers his covenant forever, the word that he commanded, for a thousand generations." }]
+    },
+    {
+      number: 106,
+      summary: "A confession of Israel's persistent sin alongside God's persistent mercy. Praise the LORD! Give thanks for his steadfast love. Yet the people sinned at the sea, craved intensely in the wilderness, became envious of Moses, worshipped the calf, did not destroy the nations but mingled with them and served their idols. Nevertheless God delivered them time and again for his name's sake. Save us, O LORD our God, and gather us from among the nations. This closes Book IV.",
+      key_verses: [{ ref: "Psalm 106:1", text: "Praise the LORD! Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!" }]
+    },
+    {
+      number: 107,
+      summary: "A sweeping thanksgiving opened with Oh give thanks to the LORD, for he is good! Four scenes of deliverance follow: wanderers in the desert who cried to God and were led to a city; prisoners in darkness who cried and he brought them out; sick people who cried and he healed them; sailors in a storm who cried and he stilled the sea. Let those who are wise observe these things and consider the steadfast love of the LORD.",
+      key_verses: [{ ref: "Psalm 107:1", text: "Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!" }]
+    },
+    {
+      number: 108,
+      summary: "A psalm of confident praise combined from Psalms 57 and 60. My heart is steadfast — I will sing and make melody with all my being! I will awake the dawn. Your steadfast love is great above the heavens. Be exalted, O God, above the heavens! With God we shall do valiantly; it is he who will tread down our foes.",
+      key_verses: [{ ref: "Psalm 108:13", text: "With God we shall do valiantly; it is he who will tread down our foes." }]
+    },
+    {
+      number: 109,
+      summary: "A passionate imprecatory psalm against enemies who repay good with evil and accusation. While he loves them, they accuse him. May their days be few and his children be fatherless — the psalmist voices the depth of his anguish. Yet he is poor and needy and his heart is stricken within him. Help me, O LORD my God. Let them know that this is your hand. He will give great thanks to the LORD and praise him among the throng.",
+      key_verses: [{ ref: "Psalm 109:21", text: "But you, O GOD my Lord, deal on my behalf for your name's sake; because your steadfast love is good, deliver me!" }]
+    },
+    {
+      number: 110,
+      summary: "A messianic psalm quoted more often in the New Testament than any other. The LORD says to my Lord: sit at my right hand until I make your enemies your footstool. He will send out his scepter from Zion. His people will offer themselves freely. You are a priest forever after the order of Melchizedek. He will shatter kings on the day of his wrath. The New Testament applies this to Jesus as the risen and exalted Christ.",
+      key_verses: [{ ref: "Psalm 110:4", text: "The LORD has sworn and will not change his mind, You are a priest forever after the order of Melchizedek." }]
+    },
+    {
+      number: 111,
+      summary: "An acrostic psalm of praise. I will give thanks to the LORD with my whole heart. His works are great, sought out by all who delight in them. He has shown his people the power of his works and given them the heritage of the nations. He sent redemption to his people; he has commanded his covenant forever. The fear of the LORD is the beginning of wisdom.",
+      key_verses: [{ ref: "Psalm 111:10", text: "The fear of the LORD is the beginning of wisdom; all those who practice it have a good understanding." }]
+    },
+    {
+      number: 112,
+      summary: "The companion to Psalm 111, describing the blessed life of one who fears God. He is gracious, merciful, and righteous. He has distributed to the poor; his righteousness endures forever. He is not afraid of bad news; his heart is firm, trusting in the LORD. He has given generously to the poor; his righteousness endures and his horn is exalted in honor. The wicked will see and be angry, but his desire will come to nothing.",
+      key_verses: [{ ref: "Psalm 112:1", text: "Blessed is the man who fears the LORD, who greatly delights in his commandments!" }]
+    },
+    {
+      number: 113,
+      summary: "Praise the LORD! Praise the name of the LORD from the rising of the sun to its setting. Who is like the LORD our God, who is seated on high, who looks far down on the heavens and earth? He raises the poor from the dust and lifts the needy from the ash heap to seat them among princes. He gives the barren woman a home as a joyful mother. Praise the LORD!",
+      key_verses: [{ ref: "Psalm 113:7", text: "He raises the poor from the dust and lifts the needy from the ash heap." }]
+    },
+    {
+      number: 114,
+      summary: "A brief, vivid poem about the Exodus. When Israel came out of Egypt, Judah became God's sanctuary and Israel his dominion. The sea looked and fled; the Jordan turned back; the mountains skipped like rams. What ails you, O sea, that you flee? Tremble, O earth, at the presence of the LORD, at the presence of the God of Jacob, who turns the rock into a pool of water.",
+      key_verses: [{ ref: "Psalm 114:7", text: "Tremble, O earth, at the presence of the Lord, at the presence of the God of Jacob." }]
+    },
+    {
+      number: 115,
+      summary: "Not to us, O LORD, not to us, but to your name give glory. Where is their God? — say the nations. Our God is in the heavens; he does all that he pleases. The idols of the nations have mouths but cannot speak, eyes but cannot see, ears but cannot hear. Those who make them become like them. But Israel trusts in the LORD; he is their help and shield. The dead do not praise the LORD, but we will bless him from this time forth.",
+      key_verses: [{ ref: "Psalm 115:1", text: "Not to us, O LORD, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness!" }]
+    },
+    {
+      number: 116,
+      summary: "A thanksgiving for answered prayer in near-death. I love the LORD because he has heard my voice and my pleas. The snares of death encompassed me. I called on the name of the LORD. Gracious is the LORD, and righteous; he saved me. Precious in the sight of the LORD is the death of his saints. What shall I render to the LORD for all his benefits? I will lift the cup of salvation and call on the name of the LORD.",
+      key_verses: [{ ref: "Psalm 116:15", text: "Precious in the sight of the LORD is the death of his saints." }]
+    },
+    {
+      number: 117,
+      summary: "The shortest psalm — two verses — yet one of the most expansive: Praise the LORD, all nations! Extol him, all peoples! For great is his steadfast love toward us, and the faithfulness of the LORD endures forever. Praise the LORD! Paul quotes this psalm in Romans as evidence that the Gentiles were always included in God's plan of salvation.",
+      key_verses: [{ ref: "Psalm 117:1-2", text: "Praise the LORD, all nations! Extol him, all peoples! For great is his steadfast love toward us, and the faithfulness of the LORD endures forever. Praise the LORD!" }]
+    },
+    {
+      number: 118,
+      summary: "A great processional psalm of thanksgiving. Give thanks to the LORD, for he is good — his steadfast love endures forever. The LORD is my strength and my song; he has become my salvation. The stone that the builders rejected has become the cornerstone — this is the LORD's doing; it is marvelous. This is the day that the LORD has made; let us rejoice and be glad in it. Blessed is he who comes in the name of the LORD!",
+      key_verses: [{ ref: "Psalm 118:24", text: "This is the day that the LORD has made; let us rejoice and be glad in it." }]
+    },
+    {
+      number: 119,
+      summary: "The longest chapter in the Bible — 176 verses in 22 sections, each corresponding to a letter of the Hebrew alphabet. Every verse in each section begins with that letter, and nearly every verse contains a reference to God's word, law, statutes, or commandments. The psalm is a sustained, meditative celebration of God's word as the psalmist's guide, comfort, delight, and life. Your word is a lamp to my feet and a light to my path.",
+      key_verses: [{ ref: "Psalm 119:105", text: "Your word is a lamp to my feet and a light to my path." }]
+    },
+    {
+      number: 120,
+      summary: "The first of fifteen Songs of Ascents — sung by pilgrims going up to Jerusalem. The psalmist is distressed by those who speak lies and love war. Too long have I had my dwelling among those who hate peace. I am for peace, but when I speak they are for war. He cries to the LORD and is answered.",
+      key_verses: [{ ref: "Psalm 120:7", text: "I am for peace, but when I speak, they are for war!" }]
+    },
+    {
+      number: 121,
+      summary: "A pilgrim psalm of protection. I lift up my eyes to the hills — from where does my help come? My help comes from the LORD, who made heaven and earth. He will not let your foot be moved; he who keeps you will not slumber. The sun shall not strike you by day nor the moon by night. The LORD will keep your going out and your coming in from this time forth and forevermore.",
+      key_verses: [{ ref: "Psalm 121:1-2", text: "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, who made heaven and earth." }]
+    },
+    {
+      number: 122,
+      summary: "A psalm of joy at arriving in Jerusalem. I was glad when they said to me, Let us go to the house of the LORD! Our feet have been standing within your gates, O Jerusalem — built as a city that is bound firmly together. For the sake of the house of the LORD our God, David seeks the good of Jerusalem. Pray for the peace of Jerusalem: may those who love you be secure.",
+      key_verses: [{ ref: "Psalm 122:1", text: "I was glad when they said to me, Let us go to the house of the LORD!" }]
+    },
+    {
+      number: 123,
+      summary: "A brief communal prayer of humility. To you I lift up my eyes, O you who are enthroned in the heavens. As the eyes of servants look to the hand of their master, so our eyes look to the LORD our God, till he has mercy upon us. Have mercy upon us, O LORD, for we have had more than enough of contempt and scorn from those who are at ease.",
+      key_verses: [{ ref: "Psalm 123:2", text: "Behold, as the eyes of servants look to the hand of their master, as the eyes of a maidservant to the hand of her mistress, so our eyes look to the LORD our God, till he has mercy upon us." }]
+    },
+    {
+      number: 124,
+      summary: "A communal thanksgiving. If it had not been the LORD who was on our side — let Israel now say — they would have swallowed us alive. Blessed be the LORD, who has not given us as prey to their teeth. We have escaped like a bird from the snare of the fowlers; the snare is broken and we have escaped! Our help is in the name of the LORD, who made heaven and earth.",
+      key_verses: [{ ref: "Psalm 124:8", text: "Our help is in the name of the LORD, who made heaven and earth." }]
+    },
+    {
+      number: 125,
+      summary: "A brief psalm of stability and trust. Those who trust in the LORD are like Mount Zion, which cannot be moved but abides forever. As the mountains surround Jerusalem, so the LORD surrounds his people from this time forth and forevermore. The scepter of wickedness shall not rest over the land of the righteous. Do good, O LORD, to those who are good and to those who are upright in their hearts.",
+      key_verses: [{ ref: "Psalm 125:2", text: "As the mountains surround Jerusalem, so the LORD surrounds his people, from this time forth and forevermore." }]
+    },
+    {
+      number: 126,
+      summary: "A song of restoration and hope. When the LORD restored the fortunes of Zion, we were like those who dream. Then our mouth was filled with laughter and our tongue with shouts of joy. The nations said: the LORD has done great things for them. Those who sow in tears shall reap with shouts of joy! He who goes out weeping, bearing seed for sowing, shall come home with shouts of joy, bringing his sheaves with him.",
+      key_verses: [{ ref: "Psalm 126:5-6", text: "Those who sow in tears shall reap with shouts of joy! He who goes out weeping, bearing the seed for sowing, shall come home with shouts of joy, bringing his sheaves with him." }]
+    },
+    {
+      number: 127,
+      summary: "Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain. It is in vain to rise up early and sit up late eating the bread of anxious toil — for he gives sleep to his beloved. Behold, children are a heritage from the LORD; the fruit of the womb is a reward. Like arrows in the hand of a warrior are the children of one's youth.",
+      key_verses: [{ ref: "Psalm 127:1", text: "Unless the LORD builds the house, those who build it labor in vain." }]
+    },
+    {
+      number: 128,
+      summary: "Blessed is everyone who fears the LORD and walks in his ways. You shall eat the fruit of your labor; you shall be blessed and it shall go well with you. Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table. May you see your children's children! Peace be upon Israel.",
+      key_verses: [{ ref: "Psalm 128:1", text: "Blessed is everyone who fears the LORD, who walks in his ways!" }]
+    },
+    {
+      number: 129,
+      summary: "Greatly have they afflicted me from my youth — yet they have not prevailed against me. The plowers plowed upon my back and made their furrows long. Yet the LORD is righteous; he has cut the cords of the wicked. May those who hate Zion be put to shame. May they be like grass on the housetops that withers before it grows up, which the reaper does not fill his hand.",
+      key_verses: [{ ref: "Psalm 129:4", text: "The LORD is righteous; he has cut the cords of the wicked." }]
+    },
+    {
+      number: 130,
+      summary: "Out of the depths I cry to you, O LORD! If you were to mark iniquities, who could stand? But with you there is forgiveness, that you may be feared. My soul waits for the LORD more than watchmen wait for the morning. O Israel, hope in the LORD! For with the LORD there is steadfast love and with him is plentiful redemption. He will redeem Israel from all his iniquities.",
+      key_verses: [{ ref: "Psalm 130:3-4", text: "If you, O LORD, should mark iniquities, O Lord, who could stand? But with you there is forgiveness, that you may be feared." }]
+    },
+    {
+      number: 131,
+      summary: "One of the shortest and most tender psalms. My heart is not lifted up; my eyes are not raised too high. I have calmed and quieted my soul, like a weaned child with its mother — like a weaned child is my soul within me. O Israel, hope in the LORD from this time forth and forevermore. A model of humility in three verses.",
+      key_verses: [{ ref: "Psalm 131:2", text: "But I have calmed and quieted my soul, like a weaned child with its mother; like a weaned child is my soul within me." }]
+    },
+    {
+      number: 132,
+      summary: "A royal psalm remembering David's oath to find a place for the LORD and his covenant. David said: I will not give sleep to my eyes or slumber to my eyelids until I find a place for the Mighty One of Jacob. God responds: I will not go back on my oath to David. His line will endure if they keep my covenant. I have chosen Zion for my dwelling. Here I will dwell, for I have desired it.",
+      key_verses: [{ ref: "Psalm 132:14", text: "This is my resting place forever; here I will dwell, for I have desired it." }]
+    },
+    {
+      number: 133,
+      summary: "Behold, how good and pleasant it is when brothers dwell in unity! It is like the precious oil on the head, running down into the beard of Aaron, running down on the collar of his robes. It is like the dew of Hermon, falling on the mountains of Zion! For there the LORD has commanded the blessing — life forevermore.",
+      key_verses: [{ ref: "Psalm 133:1", text: "Behold, how good and pleasant it is when brothers dwell in unity!" }]
+    },
+    {
+      number: 134,
+      summary: "The final Song of Ascents — a brief exchange of blessing. Come, bless the LORD, all you servants of the LORD, who stand by night in the house of the LORD! Lift up your hands in the holy place and bless the LORD! And the response: may the LORD bless you from Zion, he who made heaven and earth.",
+      key_verses: [{ ref: "Psalm 134:3", text: "May the LORD bless you from Zion, he who made heaven and earth!" }]
+    },
+    {
+      number: 135,
+      summary: "Praise the name of the LORD; give praise, servants of the LORD. The LORD has chosen Jacob for himself. Whatever the LORD pleases, he does — in heaven and on earth, in the seas and all deeps. He struck down the firstborn of Egypt, great kings like Sihon and Og. The idols of the nations are silver and gold, the work of human hands. O Israel, bless the LORD!",
+      key_verses: [{ ref: "Psalm 135:6", text: "Whatever the LORD pleases, he does, in heaven and on earth, in the seas and all deeps." }]
+    },
+    {
+      number: 136,
+      summary: "A great litany of praise in which every verse ends with the refrain: for his steadfast love endures forever. The psalm moves through creation, the Exodus, the wilderness, the conquest, and ends with God remembering us in our low estate. It is a comprehensive theology of God's love woven through all of history — twenty-six times affirming that his steadfast love endures forever.",
+      key_verses: [{ ref: "Psalm 136:26", text: "Give thanks to the God of heaven, for his steadfast love endures forever." }]
+    },
+    {
+      number: 137,
+      summary: "By the rivers of Babylon — there we sat down and wept when we remembered Zion. Our captors asked for songs of joy: sing us one of the songs of Zion! But how shall we sing the LORD's song in a foreign land? If I forget you, O Jerusalem, let my right hand forget its skill. The psalm ends with a fierce lament against Babylon, the destroyer of Jerusalem.",
+      key_verses: [{ ref: "Psalm 137:4", text: "How shall we sing the LORD's song in a foreign land?" }]
+    },
+    {
+      number: 138,
+      summary: "I give you thanks, O LORD, with my whole heart. On the day I called you answered me; my strength of soul you increased. All the kings of the earth shall give you thanks when they hear the words of your mouth. Though the LORD is high, he regards the lowly; but the haughty he knows from afar. The LORD will fulfill his purpose for me; your steadfast love endures forever.",
+      key_verses: [{ ref: "Psalm 138:6", text: "For though the LORD is high, he regards the lowly, but the haughty he knows from afar." }]
+    },
+    {
+      number: 139,
+      summary: "O LORD, you have searched me and known me — you know when I sit down and when I rise; you discern my thoughts from afar. Where shall I go from your Spirit? If I ascend to heaven you are there; if I make my bed in Sheol you are there. I praise you, for I am fearfully and wonderfully made. Your eyes saw my unformed substance. Search me, O God, and know my heart; lead me in the way everlasting.",
+      key_verses: [{ ref: "Psalm 139:14", text: "I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well." }]
+    },
+    {
+      number: 140,
+      summary: "A prayer for deliverance from violent men who stir up wars and plan evil. They sharpen their tongues like a serpent; viper's venom is under their lips. Guard me from violent men, O LORD. The mischief of their lips will overwhelm them. He maintains the cause of the afflicted and executes justice for the needy. The righteous shall give thanks to God's name.",
+      key_verses: [{ ref: "Psalm 140:12", text: "I know that the LORD will maintain the cause of the afflicted, and will execute justice for the needy." }]
+    },
+    {
+      number: 141,
+      summary: "O LORD, I call upon you; hasten to me! Let my prayer be counted as incense before you. Set a guard over my mouth, O LORD. Let me not turn to evil or partake of wicked deeds. Let the righteous rebuke me — it is an act of kindness. But my eyes are toward you, O GOD my Lord; in you I take refuge. My prayer is continually against the deeds of the wicked.",
+      key_verses: [{ ref: "Psalm 141:2", text: "Let my prayer be counted as incense before you, and the lifting up of my hands as the evening sacrifice!" }]
+    },
+    {
+      number: 142,
+      summary: "A maskil of David from the cave — when he fled Saul. I cry aloud to the LORD; I pour out my complaint before him. No one cares for my soul. I cry to you, O LORD; I say you are my refuge, my portion in the land of the living. Bring me out of prison that I may give thanks to your name! The righteous will surround me, for you will deal bountifully with me.",
+      key_verses: [{ ref: "Psalm 142:5", text: "I cry to you, O LORD; I say, You are my refuge, my portion in the land of the living." }]
+    },
+    {
+      number: 143,
+      summary: "Hear my prayer, O LORD. The enemy has crushed my life to the ground; he has made me sit in darkness. My spirit faints. I stretch out my hands to you — my soul thirsts for you like a parched land. Cause me to hear your steadfast love in the morning, for in you I trust. Teach me to do your will, for you are my God! Let your good Spirit lead me on level ground.",
+      key_verses: [{ ref: "Psalm 143:10", text: "Teach me to do your will, for you are my God! Let your good Spirit lead me on level ground!" }]
+    },
+    {
+      number: 144,
+      summary: "Blessed be the LORD, my rock, who trains my hands for war. He is my steadfast love and my fortress, my stronghold and my deliverer. What is man that you regard him? His days are like a shadow. Part the heavens and come down; rescue me from the hands of foreigners. Blessed are the people whose God is the LORD!",
+      key_verses: [{ ref: "Psalm 144:15", text: "Blessed are the people whose God is the LORD!" }]
+    },
+    {
+      number: 145,
+      summary: "David's great acrostic psalm of praise, covering every letter of the Hebrew alphabet. I will extol you, my God and King. Every day I will bless you. The LORD is gracious and merciful, slow to anger and abounding in steadfast love. The LORD is near to all who call on him. He fulfills the desire of those who fear him; he also hears their cry and saves them. The LORD watches over all who love him.",
+      key_verses: [{ ref: "Psalm 145:18", text: "The LORD is near to all who call on him, to all who call on him in truth." }]
+    },
+    {
+      number: 146,
+      summary: "Praise the LORD! Do not put your trust in princes, in a son of man in whom there is no salvation. When his breath departs, his plans perish. Blessed is he whose help is the God of Jacob. The LORD executes justice for the oppressed; he gives food to the hungry; he sets the prisoners free; he opens the eyes of the blind. The LORD will reign forever. Praise the LORD!",
+      key_verses: [{ ref: "Psalm 146:3", text: "Put not your trust in princes, in a son of man, in whom there is no salvation." }]
+    },
+    {
+      number: 147,
+      summary: "Praise the LORD! It is good to sing praises to our God. He heals the brokenhearted and binds up their wounds. He determines the number of the stars and calls them each by name. His understanding is beyond measure. He gathers the outcasts of Israel. He gives to the beasts their food, to the young ravens when they cry. He has not dealt so with any other nation; they do not know his rules.",
+      key_verses: [{ ref: "Psalm 147:3", text: "He heals the brokenhearted and binds up their wounds." }]
+    },
+    {
+      number: 148,
+      summary: "A cosmic call to praise from every part of creation. Praise the LORD from the heavens — sun, moon, and stars! Praise the LORD from the earth — sea monsters, fire and hail, snow and mist, mountains, fruit trees and cedars, wild animals, kings and peoples, young men and maidens, old men and children! Let them all praise the name of the LORD, for his name alone is exalted. His glory is above earth and heaven.",
+      key_verses: [{ ref: "Psalm 148:13", text: "Let them praise the name of the LORD, for his name alone is exalted; his majesty is above earth and heaven." }]
+    },
+    {
+      number: 149,
+      summary: "Sing to the LORD a new song, his praise in the assembly of the godly! Let Israel be glad in his Maker. He adorns the humble with salvation. Let the high praises of God be in their throats and two-edged swords in their hands — to execute vengeance on the nations and bind their kings with chains. This is honor for all his godly ones. Praise the LORD!",
+      key_verses: [{ ref: "Psalm 149:4", text: "For the LORD takes pleasure in his people; he adorns the humble with salvation." }]
+    },
+    {
+      number: 150,
+      summary: "The grand doxology that closes the entire Psalter. Praise God in his sanctuary! Praise him for his mighty deeds! Praise him with trumpet sound, with lute and harp, with tambourine and dance, with strings and pipe, with loud clashing cymbals! Let everything that has breath praise the LORD! Praise the LORD!",
+      key_verses: [{ ref: "Psalm 150:6", text: "Let everything that has breath praise the LORD! Praise the LORD!" }]
+    }
+  ]
+});
