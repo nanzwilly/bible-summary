@@ -2098,3 +2098,288 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+BIBLE_DATA.books.push({
+  id: "proverbs",
+  name: "Proverbs",
+  testament: "old",
+  category: "Wisdom & Poetry",
+  summary: "Proverbs is Israel's great collection of practical wisdom for everyday life — how to speak, work, relate, lead, and fear God well. Most is attributed to Solomon, though the final chapters include words of Agur and King Lemuel's mother. The book opens with extended poems on Wisdom calling out in the streets and the dangers of folly, then moves into hundreds of short, memorable sayings organized by contrast and comparison. Its foundation is stated plainly at the start: the fear of the LORD is the beginning of wisdom.",
+  themes: ["The fear of the LORD", "Wisdom vs folly", "Words and speech", "Work and diligence", "Family and relationships", "Justice and integrity", "The path of life"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The book opens by stating its purpose: to impart wisdom, instruction, and understanding to the young and inexperienced. The foundation is laid at once — the fear of the LORD is the beginning of knowledge. A father urges his son not to follow sinners who lie in wait for blood. Then Wisdom herself speaks in the streets, calling aloud in the public squares. She warns those who have ignored her that when disaster comes she will laugh — they chose to hate knowledge.",
+      key_verses: [{ ref: "Proverbs 1:7", text: "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction." }]
+    },
+    {
+      number: 2,
+      summary: "If you receive wisdom's words and search for her like hidden treasure, then you will understand the fear of the LORD and find the knowledge of God. Wisdom will guard your path and preserve you from the way of evil men and the seductive words of the adulteress. Those who are upright will inhabit the land, but the wicked and faithless will be cut off from it.",
+      key_verses: [{ ref: "Proverbs 2:6", text: "For the LORD gives wisdom; from his mouth come knowledge and understanding." }]
+    },
+    {
+      number: 3,
+      summary: "A rich chapter of instruction: let not steadfast love and faithfulness leave you — bind them around your neck. Trust in the LORD with all your heart and lean not on your own understanding; in all your ways acknowledge him and he will make your paths straight. Do not be wise in your own eyes. Honor the LORD with your firstfruits. Do not withhold good from those to whom it is due. Happy is the one who finds wisdom — she is a tree of life.",
+      key_verses: [{ ref: "Proverbs 3:5-6", text: "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths." }]
+    },
+    {
+      number: 4,
+      summary: "A father urges his son: get wisdom — get insight; do not forget or turn away from the words of my mouth. Wisdom is the principal thing; love her and she will guard you. The path of the righteous is like the light of dawn, shining brighter and brighter until full day. The way of the wicked is like deep darkness. Above all else, guard your heart, for everything you do flows from it.",
+      key_verses: [{ ref: "Proverbs 4:23", text: "Keep your heart with all vigilance, for from it flow the springs of life." }]
+    },
+    {
+      number: 5,
+      summary: "A warning against the adulteress whose lips drip honey but whose end is bitter as wormwood. Her feet go down to death; her steps follow the path to Sheol. Stay far from her door. Then a positive exhortation: rejoice in the wife of your youth. Let her breasts fill you with delight; be intoxicated always in her love. Why should you be captivated by a forbidden woman?",
+      key_verses: [{ ref: "Proverbs 5:18", text: "Let your fountain be blessed, and rejoice in the wife of your youth." }]
+    },
+    {
+      number: 6,
+      summary: "Four warnings: against pledging surety for a neighbor's debt; against laziness — go to the ant, you sluggard, and consider her ways; against the scoundrel who plots evil; and against the six things God hates — haughty eyes, a lying tongue, hands that shed innocent blood, a heart that devises wicked plans, feet that make haste to run to evil, a false witness, and one who sows discord. Then another extended warning against adultery — it destroys a man completely.",
+      key_verses: [{ ref: "Proverbs 6:6", text: "Go to the ant, O sluggard; consider her ways, and be wise." }]
+    },
+    {
+      number: 7,
+      summary: "A father describes watching a young man without sense walk toward the adulteress's house at twilight. She seizes him with her smooth words — come, let us take our fill of love; my husband has gone on a long journey. He follows her as an ox goes to the slaughter, not knowing it will cost him his life. Her house is the way to Sheol, going down to the chambers of death.",
+      key_verses: [{ ref: "Proverbs 7:27", text: "Her house is the way to Sheol, going down to the chambers of death." }]
+    },
+    {
+      number: 8,
+      summary: "Wisdom speaks in her own voice — she calls from the heights of the city and at the crossroads. Her words are righteous and true; what she says is better than silver and gold. She was beside God at the creation of the world, a master craftsman delighting in his work, rejoicing before him always. Whoever finds her finds life. Whoever hates her loves death.",
+      key_verses: [{ ref: "Proverbs 8:35", text: "For whoever finds me finds life and obtains favor from the LORD." }]
+    },
+    {
+      number: 9,
+      summary: "Wisdom has built her house, set her table, and sent her servants to call everyone in: come, eat my bread and drink my wine. Leave your simple ways and live. Folly also calls out from the same heights, inviting the simple to stolen water and bread eaten in secret. But the guests of Folly do not know that the dead are there and that her guests are in the depths of Sheol. The fear of the LORD is the beginning of wisdom.",
+      key_verses: [{ ref: "Proverbs 9:10", text: "The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is insight." }]
+    },
+    {
+      number: 10,
+      summary: "The main collection of Solomon's proverbs begins — short, antithetical sayings contrasting the wise and foolish, righteous and wicked. A wise son brings joy to his father but a foolish son is grief to his mother. Ill-gotten treasures profit nothing but righteousness delivers from death. Hatred stirs up strife but love covers all offenses. The mouth of the righteous is a fountain of life.",
+      key_verses: [{ ref: "Proverbs 10:12", text: "Hatred stirs up strife, but love covers all offenses." }]
+    },
+    {
+      number: 11,
+      summary: "More contrasting proverbs on integrity and its rewards. Dishonest scales are an abomination to God but accurate weights delight him. The righteousness of the blameless keeps his way straight but the wicked falls by his own wickedness. A gracious woman gets honor. The generous will prosper and those who refresh others will themselves be refreshed. Whoever trusts in his riches will fall.",
+      key_verses: [{ ref: "Proverbs 11:25", text: "Whoever brings blessing will be enriched, and one who waters will himself be watered." }]
+    },
+    {
+      number: 12,
+      summary: "Whoever loves discipline loves knowledge — but he who hates reproof is stupid. The righteous care for the needs of their animals. The diligent will rule but the lazy will be put to forced labor. Truthful lips endure forever but a lying tongue lasts only a moment. Anxiety in a man's heart weighs him down, but a good word makes him glad.",
+      key_verses: [{ ref: "Proverbs 12:17", text: "Whoever speaks the truth gives honest evidence, but a false witness utters deceit." }]
+    },
+    {
+      number: 13,
+      summary: "A wise son heeds his father's instruction but a mocker does not listen to rebuke. Hope deferred makes the heart sick, but a longing fulfilled is a tree of life. Whoever walks with the wise becomes wise, but the companion of fools will suffer harm. Discipline your children — do not withhold it from them; if you strike with the rod they will not die. Good people leave an inheritance for their grandchildren.",
+      key_verses: [{ ref: "Proverbs 13:12", text: "Hope deferred makes the heart sick, but a desire fulfilled is a tree of life." }]
+    },
+    {
+      number: 14,
+      summary: "The wise woman builds her house but the foolish one tears it down with her own hands. Where there are no oxen the stable is clean, but much revenue comes by the strength of the ox. A truthful witness does not deceive. The poor are disliked even by their neighbors but the rich have many friends. The fear of the LORD is a fountain of life. A tranquil heart gives life to the flesh.",
+      key_verses: [{ ref: "Proverbs 14:34", text: "Righteousness exalts a nation, but sin is a reproach to any people." }]
+    },
+    {
+      number: 15,
+      summary: "A soft answer turns away wrath but a harsh word stirs up anger. The tongue of the wise commends knowledge but the mouths of fools pour out folly. The LORD is far from the wicked but he hears the prayer of the righteous. Better a little with the fear of the LORD than great treasure and trouble with it. Better a meal of vegetables where there is love than a fattened ox with hatred.",
+      key_verses: [{ ref: "Proverbs 15:1", text: "A soft answer turns away wrath, but a harsh word stirs up anger." }]
+    },
+    {
+      number: 16,
+      summary: "Plans belong to the human heart but the answer of the tongue is from the LORD. Commit your work to the LORD and your plans will be established. Pride goes before destruction and a haughty spirit before a fall. Better to be of humble spirit with the lowly than to divide the spoil with the proud. Gracious words are like a honeycomb, sweet to the soul and healing to the bones. The heart of man plans his way but the LORD establishes his steps.",
+      key_verses: [{ ref: "Proverbs 16:18", text: "Pride goes before destruction, and a haughty spirit before a fall." }]
+    },
+    {
+      number: 17,
+      summary: "Better a dry crust eaten in peace than a house full of feasting with strife. A cheerful heart is good medicine, but a crushed spirit dries up the bones. Children's children are the crown of the aged, and parents are the pride of their children. A friend loves at all times, and a brother is born for a time of adversity. Even a fool who keeps silent is considered wise; close his lips and he is deemed intelligent.",
+      key_verses: [{ ref: "Proverbs 17:22", text: "A joyful heart is good medicine, but a crushed spirit dries up the bones." }]
+    },
+    {
+      number: 18,
+      summary: "An unfriendly person pursues selfish ends and rejects all sound judgment. The words of the mouth are deep waters; the fountain of wisdom is a rushing stream. The name of the LORD is a strong tower — the righteous run to it and are safe. Before a downfall the heart is haughty but humility comes before honor. One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother.",
+      key_verses: [{ ref: "Proverbs 18:24", text: "A man of many companions may come to ruin, but there is a friend who sticks closer than a brother." }]
+    },
+    {
+      number: 19,
+      summary: "Better to be poor and walk with integrity than to be a fool and perverse in speech. Many seek the favor of a generous person; everyone is a friend to one who gives gifts. A man's own folly leads him astray, yet his heart rages against the LORD. A wife from the LORD is a prudent wife. Listen to advice and accept instruction so that you may gain wisdom in the future.",
+      key_verses: [{ ref: "Proverbs 19:14", text: "House and wealth are inherited from fathers, but a prudent wife is from the LORD." }]
+    },
+    {
+      number: 20,
+      summary: "Wine is a mocker and beer a brawler — whoever is led astray by them is not wise. It is to a man's honor to avoid strife but every fool is quick to quarrel. The purposes of a person's heart are deep waters, but one who has insight draws them out. The lamp of the LORD searches the spirit of a man; it searches out his inmost being. Do not say I will repay evil — wait for the LORD and he will deliver you.",
+      key_verses: [{ ref: "Proverbs 20:27", text: "The spirit of man is the lamp of the LORD, searching all his innermost parts." }]
+    },
+    {
+      number: 21,
+      summary: "The king's heart is in the hand of the LORD like rivers of water — he directs it where he will. Every way of a man is right in his own eyes, but the LORD weighs the heart. To do righteousness and justice is more acceptable to the LORD than sacrifice. The horse is made ready for the day of battle but victory belongs to the LORD. Better to live in a desert than with a quarrelsome and nagging wife.",
+      key_verses: [{ ref: "Proverbs 21:31", text: "The horse is made ready for the day of battle, but the victory belongs to the LORD." }]
+    },
+    {
+      number: 22,
+      summary: "A good name is more desirable than great riches; to be esteemed is better than silver or gold. Rich and poor have this in common: the LORD is the Maker of them all. Train up a child in the way he should go — even when he is old he will not depart from it. The thirty sayings of the wise begin here: words of knowledge and instruction for the one who sends answers back to those who ask.",
+      key_verses: [{ ref: "Proverbs 22:1", text: "A good name is to be chosen rather than great riches, and favor is better than silver or gold." }]
+    },
+    {
+      number: 23,
+      summary: "Do not eat the bread of a stingy man; do not toil to acquire wealth — be discerning enough to desist. Do not withhold discipline from a child. Buy truth and do not sell it — wisdom, instruction, and insight as well. Who has woe? Who has sorrow? Those who linger over wine. Do not look at wine when it is red — in the end it bites like a serpent.",
+      key_verses: [{ ref: "Proverbs 23:23", text: "Buy truth, and do not sell it; buy wisdom, instruction, and understanding." }]
+    },
+    {
+      number: 24,
+      summary: "Do not envy wicked men or desire their company. By wisdom a house is built and by understanding it is established. The righteous fall seven times and rise again but the wicked stumble in calamity. Do not rejoice when your enemy falls. Do not say I will do to him what he has done to me. The sluggard's field is overgrown with thorns and its wall is in ruins — a little sleep, a little slumber, and poverty will come like a bandit.",
+      key_verses: [{ ref: "Proverbs 24:16", text: "For the righteous falls seven times and rises again, but the wicked stumble in times of calamity." }]
+    },
+    {
+      number: 25,
+      summary: "More proverbs of Solomon, collected by the men of Hezekiah. It is the glory of God to conceal a matter; to search out a matter is the glory of kings. Like cold water to a thirsty soul is good news from a distant land. A word aptly spoken is like apples of gold in settings of silver. If your enemy is hungry, give him food to eat — you will heap burning coals on his head and the LORD will reward you.",
+      key_verses: [{ ref: "Proverbs 25:11", text: "A word fitly spoken is like apples of gold in a setting of silver." }]
+    },
+    {
+      number: 26,
+      summary: "Like snow in summer and rain in harvest, honor is not fitting for a fool. Do not answer a fool according to his folly lest you become like him — yet do answer a fool lest he be wise in his own eyes. Like a dog that returns to its vomit is a fool who repeats his folly. The sluggard says there is a lion in the road. Where there is no wood the fire goes out; where there is no gossip a quarrel dies down.",
+      key_verses: [{ ref: "Proverbs 26:11", text: "Like a dog that returns to his vomit is a fool who repeats his folly." }]
+    },
+    {
+      number: 27,
+      summary: "Do not boast about tomorrow — you do not know what a day may bring. Let another praise you and not your own mouth. Iron sharpens iron, and one person sharpens another. Know well the condition of your flocks; pay attention to your herds. The prudent see danger and take refuge but the simple keep going and suffer for it. As water reflects the face, so one's life reflects the heart.",
+      key_verses: [{ ref: "Proverbs 27:17", text: "Iron sharpens iron, and one man sharpens another." }]
+    },
+    {
+      number: 28,
+      summary: "The wicked flee when no one pursues, but the righteous are as bold as a lion. Whoever conceals his transgressions will not prosper but he who confesses and forsakes them will find mercy. Blessed is the one who fears the LORD always, but whoever hardens his heart will fall into calamity. The one who gives to the poor will not lack but the one who closes his eyes to poverty will receive many curses.",
+      key_verses: [{ ref: "Proverbs 28:13", text: "Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy." }]
+    },
+    {
+      number: 29,
+      summary: "A man who remains stiff-necked after many rebukes will suddenly be destroyed without remedy. When the righteous thrive, the people rejoice; when the wicked rule, the people groan. Where there is no vision the people perish. Discipline your children and they will give you peace. The fear of man lays a snare but whoever trusts in the LORD is kept safe.",
+      key_verses: [{ ref: "Proverbs 29:18", text: "Where there is no prophetic vision the people cast off restraint, but blessed is he who keeps the law." }]
+    },
+    {
+      number: 30,
+      summary: "The words of Agur: I am weary, O God, and worn out. I have not learned wisdom. Two things I ask of you: remove falsehood from me, and give me neither poverty nor riches. The leech has two daughters crying, Give! Give! Four things are never satisfied: Sheol, the barren womb, dry earth, and fire. Four things are small but wise: ants, badgers, locusts, and lizards. Three things that are too wonderful: the eagle, the serpent, and a man with a young woman.",
+      key_verses: [{ ref: "Proverbs 30:8-9", text: "Give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, Who is the LORD? or lest I be poor and steal and profane the name of my God." }]
+    },
+    {
+      number: 31,
+      summary: "The words of King Lemuel, taught to him by his mother: do not give your strength to women or your ways to those who destroy kings. Speak up for those who cannot speak for themselves; judge righteously and defend the rights of the poor and needy. The final poem is an acrostic portrait of a wife of noble character — she works hard, provides for her household, opens her arms to the poor, speaks with wisdom, and fears the LORD. Charm is deceptive and beauty is fleeting, but a woman who fears the LORD is to be praised.",
+      key_verses: [{ ref: "Proverbs 31:30", text: "Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "ecclesiastes",
+  name: "Ecclesiastes",
+  testament: "old",
+  category: "Wisdom & Poetry",
+  summary: "Ecclesiastes is the most unsettling book in the wisdom literature — a philosopher-king's meditation on the meaning of life under the sun. The Teacher (Qohelet) subjects everything to rigorous examination: pleasure, work, wisdom, wealth, power, legacy. His verdict is repeated like a refrain: all is vanity, a chasing after wind. Yet this is not nihilism — it is the honest clearing away of false foundations so that the reader can stand on the one thing that endures: fear God and keep his commandments.",
+  themes: ["Vanity and meaning", "The limits of human wisdom", "Accepting life as God's gift", "Death as the great equalizer", "Fear of God", "The mystery of time and eternity"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Vanity of vanities, says the Teacher — all is vanity. Generations come and go; the sun rises and sets; the wind blows in its circuits; rivers run to the sea yet the sea is never full. There is nothing new under the sun. The Teacher applied his heart to seek and search out all that is done under heaven. He has seen all the works done under the sun and they are all vanity and a chasing after wind. In much wisdom is much grief.",
+      key_verses: [{ ref: "Ecclesiastes 1:2", text: "Vanity of vanities, says the Preacher, vanity of vanities! All is vanity." }]
+    },
+    {
+      number: 2,
+      summary: "The Teacher experiments with pleasure, laughter, wine, great building projects, vineyards, gardens, pools, singers, and silver and gold. He withholds nothing from his heart. Yet when he surveys all his works, they are all vanity and a chasing after wind. He turns to consider wisdom over folly and madness — wisdom has advantages, yet the wise man dies just like the fool. He hates all his toil because he must leave it to one who comes after him. The best a man can do is eat and drink and find enjoyment in his toil — this too is from God.",
+      key_verses: [{ ref: "Ecclesiastes 2:24", text: "There is nothing better for a person than that he should eat and drink and find enjoyment in his toil. This also, I saw, is from the hand of God." }]
+    },
+    {
+      number: 3,
+      summary: "For everything there is a season and a time for every matter under heaven — a time to be born and a time to die, a time to plant and a time to uproot, a time to weep and a time to laugh, a time to mourn and a time to dance, a time for war and a time for peace. God has made everything beautiful in its time and set eternity in the human heart. There is nothing better for people than to be happy and do good while they live.",
+      key_verses: [{ ref: "Ecclesiastes 3:11", text: "He has made everything beautiful in its time. He has also set eternity in the human heart, yet no one can fathom what God has done from beginning to end." }]
+    },
+    {
+      number: 4,
+      summary: "The Teacher observes oppression — the tears of the oppressed with no one to comfort them. Better to be dead than living; better still to have never been born. All toil comes from envy of one's neighbor — this too is vanity. Two are better than one; if one falls the other can help him up. A cord of three strands is not quickly broken. The popularity of a new king gives way to those who come after — this too is vanity.",
+      key_verses: [{ ref: "Ecclesiastes 4:9", text: "Two are better than one, because they have a good reward for their toil." }]
+    },
+    {
+      number: 5,
+      summary: "Guard your steps when you go to the house of God. Do not be rash with your mouth before God — God is in heaven and you are on earth; let your words be few. When you make a vow to God, do not delay to fulfill it. Whoever loves money will not be satisfied with money. Sweet is the sleep of a laborer whether he eats little or much, but the abundance of the rich will not let him sleep. As he came from his mother's womb he shall go again — he takes nothing for his toil.",
+      key_verses: [{ ref: "Ecclesiastes 5:2", text: "Be not rash with your mouth, nor let your heart be hasty to utter a word before God, for God is in heaven and you are on earth. Therefore let your words be few." }]
+    },
+    {
+      number: 6,
+      summary: "A man may accumulate great wealth and honor but not enjoy it — a stranger enjoys it instead. This is vanity and a grievous evil. Even if a man lives two thousand years but does not enjoy good, all go to the same place. All his labor is for his mouth yet his appetite is never satisfied. The wise man has no advantage over the fool in this — what does the poor man have who knows how to walk before the living?",
+      key_verses: [{ ref: "Ecclesiastes 6:12", text: "For who knows what is good for man while he lives the few days of his vain life, which he passes like a shadow?" }]
+    },
+    {
+      number: 7,
+      summary: "A good name is better than precious ointment, and the day of death better than the day of birth. It is better to go to the house of mourning than the house of feasting. Sorrow is better than laughter, for by sadness of face the heart is made glad. The end of a thing is better than its beginning. Wisdom is good with an inheritance and profits those who see the sun. Do not say, Why were the former days better than these? — that is not wisdom.",
+      key_verses: [{ ref: "Ecclesiastes 7:1", text: "A good name is better than precious ointment, and the day of death than the day of birth." }]
+    },
+    {
+      number: 8,
+      summary: "Obey the king's command for the sake of your oath before God. Though a sinner does evil a hundred times and his days are prolonged, I know it will go well with those who fear God. But the wicked will not prolong their days. The Teacher cannot find out all the work done under the sun — however hard he works to discover it, he cannot find it. Not even the wise can fully understand.",
+      key_verses: [{ ref: "Ecclesiastes 8:12", text: "Though a sinner does evil a hundred times and prolongs his life, yet I know that it will be well with those who fear God." }]
+    },
+    {
+      number: 9,
+      summary: "The righteous and the wise and their deeds are in the hand of God. The same event happens to all — to the righteous and the wicked, to the pure and the impure. This is an evil in all that is done under the sun: the same fate comes to all. But whoever is joined to all the living has hope — a living dog is better than a dead lion. Whatever your hand finds to do, do it with all your might, for there is no work or thought in Sheol. Time and chance happen to them all.",
+      key_verses: [{ ref: "Ecclesiastes 9:10", text: "Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom." }]
+    },
+    {
+      number: 10,
+      summary: "Dead flies make a perfumer's ointment give off a stench — so a little folly outweighs wisdom and honor. The heart of the wise inclines to the right but the heart of a fool to the left. If a ruler's anger rises against you, do not leave your post — calmness can lay great offenses to rest. Whoever digs a pit will fall into it; whoever breaks through a wall will be bitten by a snake. Words from the mouth of the wise bring them favor but the lips of a fool consume them.",
+      key_verses: [{ ref: "Ecclesiastes 10:1", text: "Dead flies make the perfumer's ointment give off a stench; so a little folly outweighs wisdom and honor." }]
+    },
+    {
+      number: 11,
+      summary: "Cast your bread upon the waters — you will find it after many days. Sow your seed in the morning and do not let your hands be idle in the evening, for you do not know which will succeed. Light is sweet and it is good for the eyes to see the sun. Let the young person rejoice in their youth, but know that for all these things God will bring you into judgment. Banish anxiety from your heart and remove vexation from your body, for youth and the dawn of life are vanity.",
+      key_verses: [{ ref: "Ecclesiastes 11:1", text: "Cast your bread upon the waters, for you will find it after many days." }]
+    },
+    {
+      number: 12,
+      summary: "Remember your Creator in the days of your youth, before the evil days come and you find no pleasure in them — before the silver cord is snapped and the golden bowl is broken and the dust returns to the earth and the spirit to God who gave it. Vanity of vanities — all is vanity. The Teacher sought to find words of delight and to write upright words of truth. The conclusion of the whole matter: fear God and keep his commandments, for this is the whole duty of man.",
+      key_verses: [{ ref: "Ecclesiastes 12:13", text: "The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man." }]
+    }
+  ]
+});
+BIBLE_DATA.books.push({
+  id: "songofsolomon",
+  name: "Song of Solomon",
+  testament: "old",
+  category: "Wisdom & Poetry",
+  summary: "The Song of Solomon — also called the Song of Songs — is a collection of lyric love poems celebrating the beauty and delight of romantic love between a man and a woman. Its place in Scripture affirms that human love, desire, and intimacy are gifts of God to be celebrated, not suppressed. Throughout church history it has also been read as an allegory of the love between God and his people, or between Christ and the church. The book has no narrative plot — it moves between the voices of the beloved, her lover, and a chorus of companions.",
+  themes: ["The beauty of love", "Desire and longing", "Delight in the beloved", "Love as strong as death", "Commitment and belonging"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The beloved opens with longing — let him kiss me with the kisses of his mouth! She describes herself as dark but lovely, like the tents of Kedar. She has been made to work in the vineyards under the sun. She asks where her lover pastures his flock at noon. The lover responds with lavish praise: her cheeks are lovely with ornaments, her neck with strings of jewels. Together they celebrate the beauty of their love — the beams of their house are cedar and their rafters are pine.",
+      key_verses: [{ ref: "Song of Solomon 1:2", text: "Let him kiss me with the kisses of his mouth! For your love is better than wine." }]
+    },
+    {
+      number: 2,
+      summary: "The beloved says: I am a rose of Sharon, a lily of the valleys. The lover responds: like a lily among thorns is my darling among the young women. He is like a gazelle, leaping across the mountains. He calls her to come away — winter is past, the rain is over and gone, flowers appear, the time of singing has come. She is his dove, hidden in the clefts of the rock. She warns the daughters of Jerusalem: do not stir up love until it so desires.",
+      key_verses: [{ ref: "Song of Solomon 2:11-12", text: "For behold, the winter is past; the rain is over and gone. The flowers appear on the earth, the time of singing has come." }]
+    },
+    {
+      number: 3,
+      summary: "The beloved searches for her lover through the city at night — she cannot find him until she reaches the watchmen, then finds him and will not let him go. The poem then shifts to a vision of Solomon's wedding procession: a great palanquin of cedar and gold, surrounded by sixty mighty warriors who guard against the terrors of the night. King Solomon himself comes crowned on his wedding day — the day his heart rejoiced.",
+      key_verses: [{ ref: "Song of Solomon 3:4", text: "I found him whom my soul loves. I held him, and would not let him go." }]
+    },
+    {
+      number: 4,
+      summary: "The lover offers an extended poem of praise for his beloved — her eyes are like doves, her hair like a flock of goats, her lips like a scarlet thread, her neck like the tower of David. She is altogether beautiful and without blemish. He calls her his bride, coming down from Lebanon. Her love is better than wine, the fragrance of her garments better than spices. She is a garden locked, a spring enclosed, a sealed fountain. He calls the winds to blow through his garden and spread its fragrance.",
+      key_verses: [{ ref: "Song of Solomon 4:7", text: "You are altogether beautiful, my love; there is no flaw in you." }]
+    },
+    {
+      number: 5,
+      summary: "The lover comes to his garden. But the beloved hesitates to rise and open the door — and when she does he is gone. She goes out seeking him and the watchmen find her and strike her. She implores the daughters of Jerusalem to help her find him and describes him in vivid, admiring terms: his head is the finest gold, his eyes like doves, his speech is most sweet — he is altogether desirable. This is my beloved and this is my friend.",
+      key_verses: [{ ref: "Song of Solomon 5:16", text: "His mouth is most sweet, and he is altogether desirable. This is my beloved and this is my friend, O daughters of Jerusalem." }]
+    },
+    {
+      number: 6,
+      summary: "The daughters of Jerusalem ask where her beloved has gone. She knows: he has gone to his garden to gather lilies — I am my beloved's and my beloved is mine. The lover returns to praise her: you are beautiful as Tirzah, lovely as Jerusalem, awesome as an army with banners. There are sixty queens and eighty concubines but she is unique — the favorite of her mother, praised by queens and concubines alike. Who is this woman looking down like the dawn?",
+      key_verses: [{ ref: "Song of Solomon 6:3", text: "I am my beloved's and my beloved is mine; he grazes among the lilies." }]
+    },
+    {
+      number: 7,
+      summary: "How graceful are your feet in sandals, O noble daughter! The lover praises her from feet to head in a poem of delight — her navel, her waist, her neck, her eyes, her nose, her head like Carmel. He declares: I am my beloved's and his desire is for me. She invites him to come away into the country and spend the night among the vineyards — there she will give him her love. The mandrakes give their fragrance and over their doors are all choice fruits, which she has kept for him.",
+      key_verses: [{ ref: "Song of Solomon 7:10", text: "I am my beloved's, and his desire is for me." }]
+    },
+    {
+      number: 8,
+      summary: "The beloved wishes her lover were her brother so she could embrace him openly without shame. She leans on him coming up from the wilderness. She makes him swear not to stir up love until it is ready. Love is as strong as death; jealousy is fierce as the grave. Many waters cannot quench love; rivers cannot sweep it away. If one offered all the wealth of his house for love it would be utterly scorned. The book closes with the beloved's voice: make haste, my beloved, and be like a gazelle on the mountains of spices.",
+      key_verses: [{ ref: "Song of Solomon 8:6-7", text: "Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Many waters cannot quench love, neither can floods drown it." }]
+    }
+  ]
+});
