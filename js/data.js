@@ -2383,3 +2383,344 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+BIBLE_DATA.books.push({
+  id: "isaiah",
+  name: "Isaiah",
+  testament: "old",
+  category: "Major Prophets",
+  summary: "Isaiah is the largest and most quoted prophetic book in the Bible, spanning the reigns of four Judean kings. It contains sweeping pronouncements of judgment against Judah and the nations, alongside some of Scripture's most luminous prophecies of messianic hope. The book's famous servant songs point to a coming figure who will suffer for others' sins and bring salvation to all nations. Isaiah's vision moves from the darkness of Israel's rebellion to the radiant promise of new heavens and a new earth.",
+  themes: ["Holiness of God", "Judgment and redemption", "The Servant of the Lord", "Messianic hope", "Comfort for God's people", "Idolatry condemned", "New creation"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God indicts Judah for rebellion and spiritual corruption despite all his care. The people offer sacrifices but their hands are full of blood. God calls them to reason together — if they repent, sins will be washed white as snow; if they refuse, they will be devoured. Jerusalem has become a harlot city.",
+      key_verses: [{ ref: "Isaiah 1:18", text: "Come now, let us reason together, says the LORD: though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool." }]
+    },
+    {
+      number: 2,
+      summary: "Isaiah envisions the end times when all nations will stream to God's mountain to learn his ways and war will cease. Then he warns of a coming Day of the LORD against human pride — every lofty tower and haughty person will be brought low before God's majesty.",
+      key_verses: [{ ref: "Isaiah 2:4", text: "He shall judge between the nations, and shall decide disputes for many peoples; and they shall beat their swords into plowshares, and their spears into pruning hooks." }]
+    },
+    {
+      number: 3,
+      summary: "God strips Jerusalem of its leaders, warriors, and every support. Anarchy follows — the young oppress the old, the base man insults the honorable. Isaiah rebukes the proud women of Zion who walk with outstretched necks and flirting eyes; their finery will be replaced with sackcloth.",
+      key_verses: [{ ref: "Isaiah 3:15", text: "What do you mean by crushing my people, by grinding the face of the poor? declares the Lord GOD of hosts." }]
+    },
+    {
+      number: 4,
+      summary: "After judgment, a remnant survives and Jerusalem is purified. The Branch of the LORD will be beautiful and glorious. God will create a canopy of cloud and fire over Zion — a new Exodus — and the washed remnant will dwell safely in his presence.",
+      key_verses: [{ ref: "Isaiah 4:2", text: "In that day the branch of the LORD shall be beautiful and glorious, and the fruit of the land shall be the pride and honor of the survivors of Israel." }]
+    },
+    {
+      number: 5,
+      summary: "The Song of the Vineyard: God planted Israel as a prized vine, but it yielded only wild grapes. He will let the vineyard be trampled. Isaiah then pronounces six woes on those who amass land, chase strong drink, mock God, call evil good, and pervert justice. Assyria is summoned as God's instrument of judgment.",
+      key_verses: [{ ref: "Isaiah 5:20", text: "Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!" }]
+    },
+    {
+      number: 6,
+      summary: "In the year King Uzziah dies, Isaiah sees the LORD enthroned in the temple, surrounded by seraphim crying 'Holy, holy, holy.' Undone by his own uncleanness, Isaiah is cleansed by a burning coal. He hears God's call and volunteers. His mission will be to preach to a people who will not understand — until the land is emptied and a holy stump remains.",
+      key_verses: [{ ref: "Isaiah 6:8", text: "And I heard the voice of the Lord saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here I am! Send me.'" }]
+    },
+    {
+      number: 7,
+      summary: "During the Syro-Ephraimite crisis, God tells fearful King Ahaz to ask for a sign. Ahaz refuses. Isaiah gives the sign anyway: a virgin will conceive and bear a son called Immanuel — and before the child knows right from wrong, the threatening kings will be destroyed. Ahaz's refusal will bring Assyrian devastation instead of deliverance.",
+      key_verses: [{ ref: "Isaiah 7:14", text: "Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel." }]
+    },
+    {
+      number: 8,
+      summary: "Isaiah names his son Maher-shalal-hash-baz ('swift to the spoil') as another sign of coming Assyrian conquest. He warns against fearing what the people fear or consulting mediums. Those who reject God's word will find only darkness and distress. The prophet seals his testimony and waits on God.",
+      key_verses: [{ ref: "Isaiah 8:20", text: "To the teaching and to the testimony! If they will not speak according to this word, it is because they have no dawn." }]
+    },
+    {
+      number: 9,
+      summary: "Light breaks into Galilee's darkness. A child is born, a son is given: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace. His government and peace will increase forever on David's throne. Yet God's anger still stretches over Israel for its unrepentant pride, and judgment by Assyria and civil strife will follow.",
+      key_verses: [{ ref: "Isaiah 9:6", text: "For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace." }]
+    },
+    {
+      number: 10,
+      summary: "Woe to those who decree unjust laws and deprive the poor. Assyria is God's rod of anger, but Assyria boasts of its own greatness. God will judge Assyria when its work against Jerusalem is done. A remnant of Israel will return. The oppressor's yoke will be broken — as it was broken at Midian.",
+      key_verses: [{ ref: "Isaiah 10:15", text: "Shall the axe boast over him who hews with it, or the saw magnify itself against him who wields it?" }]
+    },
+    {
+      number: 11,
+      summary: "A shoot from the stump of Jesse will arise, filled with the Spirit of God — wisdom, understanding, counsel, might, knowledge, and fear of the LORD. He will judge the poor with righteousness and slay the wicked with the breath of his lips. Wolf and lamb, lion and calf will dwell together. God will gather his scattered people from the ends of the earth.",
+      key_verses: [{ ref: "Isaiah 11:2", text: "And the Spirit of the LORD shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the LORD." }]
+    },
+    {
+      number: 12,
+      summary: "Two short songs of thanksgiving follow the messianic promises. God's anger has turned away; he has become salvation. The people draw water from the wells of salvation with joy. They are called to make his deeds known among the nations, for he has done glorious things.",
+      key_verses: [{ ref: "Isaiah 12:2", text: "Behold, God is my salvation; I will trust, and will not be afraid; for the LORD GOD is my strength and my song, and he has become my salvation." }]
+    },
+    {
+      number: 13,
+      summary: "The first of a series of oracles against nations: Babylon is pronounced doomed. The Day of the LORD is near — armies are mustered against her. Babylon's glory will be like Sodom and Gomorrah. The stars will not shine, the sun will be darkened. The great city will become a desolate haunt of jackals and owls.",
+      key_verses: [{ ref: "Isaiah 13:11", text: "I will punish the world for its evil, and the wicked for their iniquity; I will put an end to the pomp of the arrogant, and lay low the pompous pride of the ruthless." }]
+    },
+    {
+      number: 14,
+      summary: "God will restore Israel and they will taunt fallen Babylon. The king of Babylon — who said 'I will ascend to heaven, I will raise my throne above the stars of God' — is brought down to Sheol. His corpse is cast out unburied while kings lie in honor. God will also break Assyria in his land and crush the Philistines.",
+      key_verses: [{ ref: "Isaiah 14:12", text: "How you are fallen from heaven, O Day Star, son of Dawn! How you are cut down to the ground, you who laid the nations low!" }]
+    },
+    {
+      number: 15,
+      summary: "An oracle against Moab. In a single night Ar and Kir are laid waste. The Moabites flee to the high places weeping; their heads are shaved, their beards cut off. The streams of Nimrim are desolate. The chapter opens with raw lamentation over Moab's swift destruction.",
+      key_verses: [{ ref: "Isaiah 15:1", text: "An oracle concerning Moab. Because Ar of Moab is laid waste in a night, Moab is undone; because Kir of Moab is laid waste in a night, Moab is undone." }]
+    },
+    {
+      number: 16,
+      summary: "Moab's fugitives seek refuge but find none. Isaiah weeps for Moab's shattered vineyards and silenced joy. The Moabites are urged to send tribute and shelter the outcasts of Judah. A ruler from David's line will reign in steadfast love. Yet Moab's pride and boasting make the oracle of doom certain — within three years.",
+      key_verses: [{ ref: "Isaiah 16:5", text: "Then a throne will be established in steadfast love, and on it will sit in faithfulness in the tent of David one who judges and seeks justice and is swift to do righteousness." }]
+    },
+    {
+      number: 17,
+      summary: "Damascus and Ephraim (northern Israel) are linked in judgment: Damascus will cease to be a city, and Israel's glory will waste away. Yet a remnant will return to the Holy One of Israel. The nations that attack Jerusalem will be like a sea that God rebukes at evening — by morning they are gone.",
+      key_verses: [{ ref: "Isaiah 17:7", text: "In that day man will look to his Maker, and his eyes will look on the Holy One of Israel." }]
+    },
+    {
+      number: 18,
+      summary: "An oracle to the land of buzzing wings beyond the rivers of Cush (Ethiopia). Envoys go on the river in papyrus boats. God watches quietly, then acts at harvest time to cut off the sprouting branches. Afterward, the tall smooth-skinned Cushites will bring tribute to Mount Zion.",
+      key_verses: [{ ref: "Isaiah 18:7", text: "At that time gifts will be brought to the LORD of hosts from a people tall and smooth, from a people feared near and far, a nation mighty and conquering." }]
+    },
+    {
+      number: 19,
+      summary: "The oracle against Egypt: God rides a swift cloud into Egypt, stirring up civil war and confusion. The Nile dries up; the papyrus withers; fishermen mourn. Egypt's counselors give foolish advice. Yet a day comes when Egypt will know the LORD — five cities will speak the language of Canaan, and Egypt, Assyria, and Israel will be a blessing in the earth.",
+      key_verses: [{ ref: "Isaiah 19:22", text: "And the LORD will strike Egypt, striking and healing, and they will return to the LORD, and he will listen to their pleas for mercy and heal them." }]
+    },
+    {
+      number: 20,
+      summary: "As a sign against trusting in Egypt and Cush, God commands Isaiah to walk naked and barefoot for three years. Just as Isaiah is stripped, so Egypt and Cush will be led away captive by Assyria — a warning to those who relied on them for deliverance from Assyria.",
+      key_verses: [{ ref: "Isaiah 20:3", text: "As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush..." }]
+    },
+    {
+      number: 21,
+      summary: "Three brief oracles: the fall of Babylon is announced like a terrible vision to the watchman — 'Fallen, fallen is Babylon!' An oracle against Dumah (Edom) offers a cryptic watchman dialogue. An oracle against Arabia speaks of Kedar's glory failing within a year.",
+      key_verses: [{ ref: "Isaiah 21:9", text: "And behold, here come riders, horsemen in pairs! And he answered, 'Fallen, fallen is Babylon; and all the carved images of her gods he has shattered to the ground.'" }]
+    },
+    {
+      number: 22,
+      summary: "The oracle of the Valley of Vision (Jerusalem): in the midst of invasion the people feast rather than mourn. Isaiah weeps bitterly. Shebna the steward is rebuked for carving himself a grand tomb — he will be hurled away in disgrace. Eliakim, a faithful servant, will be given the key of the house of David.",
+      key_verses: [{ ref: "Isaiah 22:22", text: "And I will place on his shoulder the key of the house of David. He shall open, and none shall shut; and he shall shut, and none shall open." }]
+    },
+    {
+      number: 23,
+      summary: "The oracle against Tyre: ships from Tarshish howl at her destruction. The great trading city is silenced. Tyre was the merchant of nations, but God has purposed it to humble the proud. After seventy years Tyre will be remembered again, but her profits will be dedicated to the LORD's people.",
+      key_verses: [{ ref: "Isaiah 23:9", text: "The LORD of hosts has purposed it, to defile the pompous pride of all glory, to dishonor all the honored of the earth." }]
+    },
+    {
+      number: 24,
+      summary: "The great apocalyptic judgment: God lays the earth waste, scatters its inhabitants, and makes no distinction between priest and people, master and servant. The earth mourns, the wine dries up, the joyful cities are desolate. Only a remnant remains to give a faint cry of praise from the ends of the earth. The LORD of hosts will reign on Mount Zion.",
+      key_verses: [{ ref: "Isaiah 24:23", text: "Then the moon will be confounded and the sun ashamed, for the LORD of hosts reigns on Mount Zion and in Jerusalem, and his glory will be before his elders." }]
+    },
+    {
+      number: 25,
+      summary: "A song of praise after the apocalyptic judgment. God has been a refuge for the poor and needy. He will spread a lavish feast on his mountain for all peoples, swallow up death forever, and wipe every tear from their faces. Moab's pride will be trampled down like straw in a dung pit.",
+      key_verses: [{ ref: "Isaiah 25:8", text: "He will swallow up death forever; and the Lord GOD will wipe away tears from all faces, and the reproach of his people he will take away from all the earth." }]
+    },
+    {
+      number: 26,
+      summary: "Judah's song of trust: the city of God stands firm while the lofty city falls. God keeps those in perfect peace whose minds are stayed on him. The dead will live, their bodies will rise — Isaiah's remarkable glimpse of resurrection. God's people are called to hide until his wrath passes.",
+      key_verses: [{ ref: "Isaiah 26:3", text: "You keep him in perfect peace whose mind is stayed on you, because he trusts in you." }]
+    },
+    {
+      number: 27,
+      summary: "On that day God will punish Leviathan, the fleeing serpent. Israel is God's pleasant vineyard — he tends it carefully. God's anger against Israel has limits; their iniquity will be purged. The scattered Israelites will be gathered one by one from Assyria and Egypt to worship on the holy mountain.",
+      key_verses: [{ ref: "Isaiah 27:3", text: "I, the LORD, am its keeper; every moment I water it. Lest anyone punish it, I keep it night and day." }]
+    },
+    {
+      number: 28,
+      summary: "Woe to Ephraim's proud drunkards — their garland will be trampled. God speaks to priests and prophets reeling with wine who mock Isaiah's simple teaching. Isaiah announces a cornerstone in Zion — a sure foundation. The scoffing rulers' covenant with death will be annulled when God's overwhelming judgment passes through.",
+      key_verses: [{ ref: "Isaiah 28:16", text: "Behold, I am the one who has laid as a foundation in Zion a stone, a tested stone, a precious cornerstone, of a sure foundation: 'Whoever believes will not be in haste.'" }]
+    },
+    {
+      number: 29,
+      summary: "Woe to Ariel (Jerusalem) — God will besiege his own city, and it will be brought low, speaking from the dust. Yet the multitude of nations attacking her will vanish like a dream. The people honor God with lips but not hearts — their worship is human commandments. The deaf will hear and the blind will see.",
+      key_verses: [{ ref: "Isaiah 29:13", text: "Because this people draw near with their mouth and honor me with their lips, while their hearts are far from me, and their fear of me is a commandment taught by men." }]
+    },
+    {
+      number: 30,
+      summary: "Woe to those who go down to Egypt for help without asking God. Egypt is a help that is worthless and empty. Israel refused to hear God's instruction, wanting smooth things instead of truth. Yet God waits to be gracious. His voice will be heard, and the people's hearts will rejoice as he strikes down Assyria.",
+      key_verses: [{ ref: "Isaiah 30:18", text: "Therefore the LORD waits to be gracious to you, and therefore he exalts himself to show mercy to you. For the LORD is a God of justice; blessed are all those who wait for him." }]
+    },
+    {
+      number: 31,
+      summary: "Woe to those who trust in Egypt's horses and chariots rather than looking to the Holy One of Israel. Egyptians are men, not God; their horses are flesh, not spirit. God will protect Jerusalem like a hovering bird. Israel must turn from idols. Assyria will fall by a sword — not of man — and its young men will flee.",
+      key_verses: [{ ref: "Isaiah 31:3", text: "The Egyptians are man, and not God, and their horses are flesh, and not spirit." }]
+    },
+    {
+      number: 32,
+      summary: "A king will reign in righteousness; princes will rule with justice. The eyes of those who see will not be closed. Complacent women of Jerusalem are warned — within a year they will tremble. Desolation will come. But ultimately the Spirit will be poured out from on high, righteousness will dwell in the fruitful field, and the people will have quietness and confidence forever.",
+      key_verses: [{ ref: "Isaiah 32:17", text: "And the effect of righteousness will be peace, and the result of righteousness, quietness and trust forever." }]
+    },
+    {
+      number: 33,
+      summary: "Woe to the destroyer — Assyria will be destroyed when it finishes destroying. Isaiah calls on God to be their arm every morning. When God rises, the nations flee. Jerusalem will be a city of mooring stakes that cannot be moved, a place of broad rivers where the LORD in his majesty is king, judge, and lawgiver. The sick who dwell there will be forgiven.",
+      key_verses: [{ ref: "Isaiah 33:22", text: "For the LORD is our judge; the LORD is our lawgiver; the LORD is our king; he will save us." }]
+    },
+    {
+      number: 34,
+      summary: "All nations are summoned to hear God's anger as he devotes them to destruction. The sword of the LORD is sated with Edom's blood. Edom's land will become burning pitch, smoking day and night forever. Thorns and jackals will inherit it. The chaos creatures — owl, raven, jackal — will possess it, for God's mouth has commanded it.",
+      key_verses: [{ ref: "Isaiah 34:16", text: "Seek and read from the book of the LORD: not one of these shall be missing; none shall be without her mate. For the mouth of the LORD has commanded, and his Spirit has gathered them." }]
+    },
+    {
+      number: 35,
+      summary: "The desert blooms: crocus flowers spring up in the wilderness, Lebanon's glory and Carmel's majesty are given to it. The blind see, the deaf hear, the lame leap, the mute sing. A Highway of Holiness will stretch through it — the unclean shall not pass over it — and the ransomed of the LORD shall return to Zion with everlasting joy.",
+      key_verses: [{ ref: "Isaiah 35:10", text: "And the ransomed of the LORD shall return and come to Zion with singing; everlasting joy shall be upon their heads; they shall obtain gladness and joy, and sorrow and sighing shall flee away." }]
+    },
+    {
+      number: 36,
+      summary: "The historical narrative begins: Sennacherib's field commander, the Rabshakeh, stands at Jerusalem's walls with a vast army. He mocks Judah's trust in Egypt and in God. In fluent Hebrew he calls the city to surrender, promising exile to a good land. He argues that no god of any nation has saved its people from Assyria. The people remain silent.",
+      key_verses: [{ ref: "Isaiah 36:20", text: "Who among all the gods of these lands have delivered their lands out of my hand, that the LORD should deliver Jerusalem out of my hand?" }]
+    },
+    {
+      number: 37,
+      summary: "Hezekiah tears his clothes and goes to the temple. He sends to Isaiah, who promises that Sennacherib will hear a rumor and return home to die. A second Assyrian threat comes by letter. Hezekiah spreads the letter before the LORD and prays passionately. Isaiah prophesies that Sennacherib will not enter Jerusalem. That night the angel of the LORD strikes 185,000 Assyrian soldiers dead. Sennacherib returns to Nineveh, where his sons assassinate him.",
+      key_verses: [{ ref: "Isaiah 37:35", text: "For I will defend this city to save it, for my own sake and for the sake of my servant David." }]
+    },
+    {
+      number: 38,
+      summary: "Hezekiah is told he will die from his illness. He prays and weeps bitterly, and God adds fifteen years to his life. The sundial shadow goes back ten steps as a sign. Hezekiah writes a psalm of thanksgiving describing his descent toward Sheol and God's rescue — 'the living, the living, he thanks you.'",
+      key_verses: [{ ref: "Isaiah 38:17", text: "Behold, it was for my welfare that I had great bitterness; but in love you have delivered my life from the pit of destruction, for you have cast all my sins behind your back." }]
+    },
+    {
+      number: 39,
+      summary: "Babylonian envoys visit Hezekiah, who proudly shows them all his treasures. Isaiah confronts him: everything he showed them will one day be carried to Babylon, and some of his own sons will be taken to serve in Babylon's palace. Hezekiah accepts the word — at least there will be peace in his days.",
+      key_verses: [{ ref: "Isaiah 39:8", text: "Then Hezekiah said to Isaiah, 'The word of the LORD that you have spoken is good.' For he thought, 'There will be peace and security in my days.'" }]
+    },
+    {
+      number: 40,
+      summary: "The great turning point: 'Comfort, comfort my people.' A voice cries in the wilderness to prepare the LORD's way; every valley will be lifted, every mountain made low. The word of God stands forever. God tenderly feeds his flock like a shepherd. Who has measured the waters in his hollow? To whom will you compare God? He gives power to the faint, and those who wait on him will soar on eagles' wings.",
+      key_verses: [{ ref: "Isaiah 40:31", text: "But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint." }]
+    },
+    {
+      number: 41,
+      summary: "God challenges the coastlands and nations: who stirred up the one from the east (Cyrus) whose victories are swift? The nations are afraid, but God says to Israel: 'Fear not, for I am with you; I am your God.' He challenges the idols to declare the future — they cannot. Israel is God's servant chosen from the ends of the earth.",
+      key_verses: [{ ref: "Isaiah 41:10", text: "Fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand." }]
+    },
+    {
+      number: 42,
+      summary: "The first Servant Song: God presents his Servant who will bring justice to the nations — not by shouting, but gently, not breaking the bruised reed or quenching a smoldering wick. He will open blind eyes, bring prisoners from dungeons. God will not give his glory to another. But Israel has been blind and deaf — a servant who cannot hear God's instruction.",
+      key_verses: [{ ref: "Isaiah 42:3", text: "A bruised reed he will not break, and a faintly burning wick he will not quench; he will faithfully bring forth justice." }]
+    },
+    {
+      number: 43,
+      summary: "'Fear not, for I have redeemed you; I have called you by name, you are mine.' When Israel passes through waters or fire, God will be there. He is the only Savior; there is no other. He declares new things — forget the former; behold, he is doing something new. Yet Israel has burdened him with sins. For his own sake he blots out their transgressions.",
+      key_verses: [{ ref: "Isaiah 43:1", text: "Fear not, for I have redeemed you; I have called you by name, you are mine." }]
+    },
+    {
+      number: 44,
+      summary: "God will pour his Spirit on Jacob's descendants and they will flourish like grass. God is the first and last — who is like him? The absurdity of idolatry: a man cuts a tree, uses half to warm himself and bake bread, then bows down to the other half saying 'deliver me, for you are my god.' God has swept away Israel's transgressions like a cloud — return to him.",
+      key_verses: [{ ref: "Isaiah 44:22", text: "I have blotted out your transgressions like a cloud and your sins like mist; return to me, for I have redeemed you." }]
+    },
+    {
+      number: 45,
+      summary: "God calls Cyrus by name — his anointed, though Cyrus does not know him — to subdue nations and open doors before him. God makes him do this for Israel's sake. He forms light and darkness, peace and calamity. The nations will bow before God. To him every knee shall bow and every tongue swear allegiance.",
+      key_verses: [{ ref: "Isaiah 45:23", text: "By myself I have sworn; from my mouth has gone out in righteousness a word that shall not return: 'To me every knee shall bow, every tongue shall swear allegiance.'" }]
+    },
+    {
+      number: 46,
+      summary: "Babylon's gods Bel and Nebo stoop and bow — they are carried as burdens on weary animals. But God has carried Israel from birth to old age and will continue to carry them. He is incomparable. He declares the end from the beginning. He brings Cyrus from the east to accomplish his purpose for Zion.",
+      key_verses: [{ ref: "Isaiah 46:4", text: "Even to your old age I am he, and to gray hairs I will carry you. I have made, and I will bear; I will carry and will save." }]
+    },
+    {
+      number: 47,
+      summary: "Virgin Daughter Babylon is told to sit in the dust — she will no longer be called tender and delicate. She took no mercy when she punished Israel; she boasted 'I shall be mistress forever.' She trusted in her sorceries and enchantments. Her advisers cannot save her. The fire will burn her — coal to warm herself, not a flame to sit before.",
+      key_verses: [{ ref: "Isaiah 47:10", text: "You felt secure in your wickedness; you said, 'No one sees me'; your wisdom and your knowledge led you astray." }]
+    },
+    {
+      number: 48,
+      summary: "God told Israel the former things long ago so they could not say their idols did them. He is doing new things. He has refined Israel, though not as silver — more like in the furnace of affliction. For his own name's sake he does not cut them off. 'Go out from Babylon, flee from Chaldea!' If they had obeyed, their peace would have been like a river.",
+      key_verses: [{ ref: "Isaiah 48:18", text: "Oh that you had paid attention to my commandments! Then your peace would have been like a river, and your righteousness like the waves of the sea." }]
+    },
+    {
+      number: 49,
+      summary: "The second Servant Song: the Servant was formed from the womb to bring Jacob back to God. But his mission extends further — he will be a light for the nations, God's salvation to the ends of the earth. Zion says God has forgotten her. God answers: can a mother forget her nursing child? Even if she could, he will not forget. He has engraved Jerusalem on the palms of his hands.",
+      key_verses: [{ ref: "Isaiah 49:15-16", text: "Can a woman forget her nursing child, that she should have no compassion on the son of her womb? Even these may forget, yet I will not forget you. Behold, I have engraved you on the palms of my hands." }]
+    },
+    {
+      number: 50,
+      summary: "God asks: did Israel's sin cause the separation, not God's abandonment? The third Servant Song: the Servant has an instructed tongue to sustain the weary. He did not hide his face from shame and spitting — he set his face like flint. Who will contend with the Servant? God helps him. Those who fear God but walk in darkness should trust and rely on God.",
+      key_verses: [{ ref: "Isaiah 50:7", text: "But the Lord GOD helps me; therefore I have not been disgraced; therefore I have set my face like a flint, and I know that I shall not be put to shame." }]
+    },
+    {
+      number: 51,
+      summary: "Look to Abraham and Sarah — from one man God multiplied a nation. God's salvation is near; his righteousness will never fail though heavens vanish. The redeemed will return to Zion with joy. God challenges: you fear mortal man and forget the LORD who made heavens and earth. Jerusalem has drunk the cup of staggering — God will take it from her hand and give it to her tormentors.",
+      key_verses: [{ ref: "Isaiah 51:11", text: "And the ransomed of the LORD shall return and come to Zion with singing; everlasting joy shall be upon their heads." }]
+    },
+    {
+      number: 52,
+      summary: "Jerusalem is told to awake, shake off the dust, and put on her beautiful garments. The feet of those who bring good news — who say 'Your God reigns!' — are beautiful on the mountains. God has comforted his people and redeemed Jerusalem. All ends of the earth will see his salvation. The Servant is introduced — marred more than any man — yet he will startle many nations, and kings will shut their mouths.",
+      key_verses: [{ ref: "Isaiah 52:7", text: "How beautiful upon the mountains are the feet of him who brings good news, who publishes peace, who brings good news of happiness, who publishes salvation, who says to Zion, 'Your God reigns.'" }]
+    },
+    {
+      number: 53,
+      summary: "The fourth and greatest Servant Song: the Servant grew up like a root from dry ground, despised and rejected, a man of sorrows. He bore our griefs and carried our sorrows. He was pierced for our transgressions, crushed for our iniquities; upon him was the chastisement that brought us peace. He was silent before his shearers like a sheep. By his knowledge he justifies many, bearing their iniquities. He makes intercession for the transgressors.",
+      key_verses: [{ ref: "Isaiah 53:5", text: "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed." }]
+    },
+    {
+      number: 54,
+      summary: "Sing, barren one! Israel's shame is forgotten. God is her husband and redeemer. As he swore not to flood the earth again, so he swears his steadfast love will not depart from her. The city will be rebuilt with sapphires and rubies. All her children will be taught by God and great will be their peace. No weapon formed against her will prosper.",
+      key_verses: [{ ref: "Isaiah 54:17", text: "No weapon that is fashioned against you shall succeed, and you shall refute every tongue that rises against you in judgment." }]
+    },
+    {
+      number: 55,
+      summary: "The great invitation: 'Come, everyone who thirsts, come to the waters! Buy without money, without price.' Seek the LORD while he may be found. God's thoughts are higher than human thoughts as heavens are higher than earth. His word that goes out will not return empty — it accomplishes what he purposes. The mountains will break into singing as Israel goes out with joy.",
+      key_verses: [{ ref: "Isaiah 55:11", text: "So shall my word be that goes out from my mouth; it shall not return to me empty, but it shall accomplish that which I purpose, and shall succeed in the thing for which I sent it." }]
+    },
+    {
+      number: 56,
+      summary: "Salvation is near. Foreigners who join themselves to the LORD and keep the Sabbath will be brought to his holy mountain — his house will be called a house of prayer for all peoples. But Israel's watchmen are blind and its shepherds are greedy dogs who understand nothing.",
+      key_verses: [{ ref: "Isaiah 56:7", text: "These I will bring to my holy mountain, and make them joyful in my house of prayer; their burnt offerings and their sacrifices will be accepted on my altar; for my house shall be called a house of prayer for all peoples." }]
+    },
+    {
+      number: 57,
+      summary: "The righteous perish unnoticed. God condemns Israel's idolatry and spiritual adultery — she has gone to bed with idols, multiplied her ways and prostituted herself on every high hill. Yet God dwells with the contrite and lowly in spirit. There is no peace for the wicked — they are like a tossing sea that casts up mire and dirt.",
+      key_verses: [{ ref: "Isaiah 57:15", text: "For thus says the One who is high and lifted up, who inhabits eternity, whose name is Holy: 'I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit.'" }]
+    },
+    {
+      number: 58,
+      summary: "God rebukes Israel's fasting: they fast while oppressing workers and quarreling. The true fast God chooses is to loose unjust bonds, share bread with the hungry, and house the homeless. Then their light will break like dawn and their healing will come quickly. True Sabbath observance — delighting in the LORD, not pursuing one's own affairs — brings blessing.",
+      key_verses: [{ ref: "Isaiah 58:6", text: "Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke?" }]
+    },
+    {
+      number: 59,
+      summary: "Sin is the barrier — God's hand is not too short to save, but Israel's iniquities have separated them from God. Their hands are full of blood, their lips speak lies. Justice is far from them. God saw no one to intercede and was appalled, so his own arm brought salvation. He puts on righteousness as armor. The Redeemer will come to Zion for those who turn from transgression.",
+      key_verses: [{ ref: "Isaiah 59:2", text: "But your iniquities have made a separation between you and your God, and your sins have hidden his face from you so that he does not hear." }]
+    },
+    {
+      number: 60,
+      summary: "Arise, shine, for your light has come! The glory of the LORD rises upon Jerusalem. Nations and kings will come to her brightness. Foreigners will build her walls. The sun and moon will no longer be Jerusalem's light — the LORD himself will be her everlasting light and her days of mourning will end. The smallest will become a clan and the least a mighty nation.",
+      key_verses: [{ ref: "Isaiah 60:1", text: "Arise, shine, for your light has come, and the glory of the LORD has risen upon you." }]
+    },
+    {
+      number: 61,
+      summary: "The Spirit of the Lord GOD is upon the Servant to bring good news to the poor, bind up the brokenhearted, proclaim liberty to captives, and the year of the LORD's favor. They will be called oaks of righteousness. Ancient ruins will be rebuilt. The people will be called priests of the LORD. God loves justice and will make an everlasting covenant with them.",
+      key_verses: [{ ref: "Isaiah 61:1", text: "The Spirit of the Lord GOD is upon me, because the LORD has anointed me to bring good news to the poor; he has sent me to bind up the brokenhearted, to proclaim liberty to the captives." }]
+    },
+    {
+      number: 62,
+      summary: "For Zion's sake God will not keep silent. Jerusalem's righteousness will shine like a burning torch. She will be called Hephzibah ('my delight is in her') and her land called Beulah ('married'). Watchmen on Jerusalem's walls are told to give God no rest until he makes her a praise in the earth. A highway is prepared and the banner raised for the peoples.",
+      key_verses: [{ ref: "Isaiah 62:5", text: "As the bridegroom rejoices over the bride, so shall your God rejoice over you." }]
+    },
+    {
+      number: 63,
+      summary: "A dramatic vision of a warrior with garments stained red returning from Edom — God treading the nations in his wrath, for their redemption day had come. Isaiah then recounts God's steadfast love in the Exodus, how they grieved his Holy Spirit, and how he carried them all the days of old. The chapter closes in lament: God seems to have hardened their heart.",
+      key_verses: [{ ref: "Isaiah 63:9", text: "In all their affliction he was afflicted, and the angel of his presence saved them; in his love and in his pity he redeemed them." }]
+    },
+    {
+      number: 64,
+      summary: "A passionate communal prayer: would that God would tear open the heavens and come down! No eye has seen, no ear heard, what God has prepared for those who wait. But Israel has sinned — they are all unclean, their righteousness like a polluted garment. Yet God is their Father; they are the clay, he the potter. God is urged not to hold their sin against them forever — Zion is a wilderness.",
+      key_verses: [{ ref: "Isaiah 64:8", text: "But now, O LORD, you are our Father; we are the clay, and you are our potter; we are all the work of your hand." }]
+    },
+    {
+      number: 65,
+      summary: "God answers: he was ready to be found but Israel did not seek him. He spread out his hands to a rebellious people. He will punish those who offer sacrifices in gardens and burn incense on bricks. But his servant will eat while the rebellious hunger. God announces new heavens and a new earth — the former things will not be remembered. In it, long life returns, the wolf and lamb feed together, and nothing destroys on God's holy mountain.",
+      key_verses: [{ ref: "Isaiah 65:17", text: "For behold, I create new heavens and a new earth, and the former things shall not be remembered or come into mind." }]
+    },
+    {
+      number: 66,
+      summary: "Heaven is God's throne and earth his footstool — what temple can contain him? He looks to the humble and contrite who trembles at his word. Jerusalem will experience sudden birth — a nation in a day. God will comfort her as a mother comforts her child. His servants will rejoice while his enemies face judgment. All flesh will come to worship before God, and they will go out and look on the corpses of the rebellious. The book closes with the vision of all nations gathered to see God's glory.",
+      key_verses: [{ ref: "Isaiah 66:2", text: "But this is the one to whom I will look: he who is humble and contrite in spirit and trembles at my word." }]
+    }
+  ]
+});
