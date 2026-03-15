@@ -2996,3 +2996,40 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "lamentations",
+  name: "Lamentations",
+  testament: "old",
+  category: "Major Prophets",
+  summary: "Lamentations is a collection of five poems of grief over the destruction of Jerusalem by Babylon in 586 BC. Attributed to Jeremiah, the book gives raw voice to communal devastation — the city lies in ruins, the people are starving and in exile, the temple is gone. Yet in the very center of the book, amid the deepest grief, springs one of Scripture's most enduring declarations of hope: 'The steadfast love of the LORD never ceases; his mercies never come to an end.' Lamentations models honest, faith-filled lament as a legitimate response to catastrophe.",
+  themes: ["Grief and mourning over Jerusalem", "God's judgment acknowledged as just", "Steadfast love and mercy of God", "Hope in the midst of suffering", "Communal lament", "Call for God to restore"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Jerusalem is personified as a weeping widow, once great among nations, now a slave. Her roads to Zion mourn because no one comes to the appointed feasts. Her enemies have become her masters. The city's sins are the cause of her downfall, yet she cries out for God to look upon her affliction. There is no one to comfort her — all her friends have betrayed her, her lovers have become her enemies.",
+      key_verses: [{ ref: "Lamentations 1:12", text: "Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the LORD inflicted on the day of his fierce anger." }]
+    },
+    {
+      number: 2,
+      summary: "God himself is described as the enemy who has destroyed Jerusalem without mercy — he has swallowed up Israel, thrown down its strongholds, cut off the horn of Israel. The false prophets gave no warning. The elders of Zion sit in silence with dust on their heads. The poet urges Jerusalem to cry out to God day and night, pouring out her heart like water, for children faint with hunger at every street corner.",
+      key_verses: [{ ref: "Lamentations 2:19", text: "Arise, cry out in the night, at the beginning of the night watches! Pour out your heart like water before the presence of the Lord! Lift your hands to him for the lives of your children." }]
+    },
+    {
+      number: 3,
+      summary: "The longest and central poem, structured as an individual lament. The speaker describes being driven into darkness, walled in, weighed down — God has become like a bear lying in wait. Yet in the depths of despair comes the pivot: 'This I call to mind, and therefore I have hope.' The steadfast love of the LORD never ceases; his mercies are new every morning. The chapter closes calling on God to see their affliction and repay their enemies.",
+      key_verses: [{ ref: "Lamentations 3:22-23", text: "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness." }]
+    },
+    {
+      number: 4,
+      summary: "A comparison of Jerusalem's former glory with its present ruin. The gold has grown dim; the precious sons of Zion are now worth no more than earthen pots. Starvation is so severe that compassionate women have boiled their own children for food. The sin of Jerusalem was greater even than Sodom's. Kings and nations could not believe that enemy and foe would enter her gates. The punishment of Zion's iniquity is complete.",
+      key_verses: [{ ref: "Lamentations 4:22", text: "The punishment of your iniquity, O daughter of Zion, is accomplished; he will keep you in exile no longer." }]
+    },
+    {
+      number: 5,
+      summary: "The final poem is a communal prayer: remember, O LORD, what has befallen us — our inheritance turned over to strangers, our fathers dead, we are orphans. Servants rule over us; we get our bread at the risk of our lives. Mount Zion lies desolate, foxes prowl over it. Yet the LORD reigns forever. The book closes with a desperate cry: restore us, unless you have utterly rejected us.",
+      key_verses: [{ ref: "Lamentations 5:19-21", text: "But you, O LORD, reign forever; your throne endures to all generations. Why do you forget us forever, why do you forsake us for so many days? Restore us to yourself, O LORD, that we may be restored!" }]
+    }
+  ]
+});
