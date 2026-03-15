@@ -2724,3 +2724,275 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "jeremiah",
+  name: "Jeremiah",
+  testament: "old",
+  category: "Major Prophets",
+  summary: "Jeremiah prophesied in Jerusalem's darkest hour, from King Josiah's reign through the Babylonian destruction of the city in 586 BC. Called 'the weeping prophet,' he delivered God's devastating judgments while suffering intense personal anguish, imprisonment, and rejection. Yet woven through the doom are extraordinary promises: a new covenant written on the heart, a return from exile after seventy years, and a righteous Branch from David's line. Jeremiah's life itself — faithful suffering in obedience to God — became a living embodiment of his message.",
+  themes: ["Judgment for covenant unfaithfulness", "The new covenant", "True vs. false prophecy", "Jeremiah's personal suffering", "Return from exile", "God's sovereignty over nations", "The heart as the seat of religion"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God calls Jeremiah before he was formed in the womb, appointing him a prophet to the nations. Jeremiah protests his youth, but God touches his mouth and puts his words in it. Two visions confirm the call: an almond branch (God is watching to perform his word) and a boiling pot tilting from the north (disaster is coming). God promises to be with Jeremiah and to make him a fortified city against all opposition.",
+      key_verses: [{ ref: "Jeremiah 1:5", text: "Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations." }]
+    },
+    {
+      number: 2,
+      summary: "God brings a lawsuit against Israel: what did your fathers find wrong with me that they went far from me? Israel exchanged their Glory for worthless idols. Has any nation changed its gods? Yet Israel has forsaken the living God, the fountain of living waters, and hewed out broken cisterns that hold no water. Their spiritual adultery is brazen — they say to a tree, 'You are my father,' and to a stone, 'You gave me birth.'",
+      key_verses: [{ ref: "Jeremiah 2:13", text: "For my people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water." }]
+    },
+    {
+      number: 3,
+      summary: "Though a man divorces his wife and she goes to another, God still calls faithless Israel to return. Israel's apostasy is more shameless than Judah's. Yet God calls: 'Return, faithless Israel — I will not look on you in anger, for I am merciful.' If Israel returns with a true heart and not just words, the nations will be blessed through her. In those days Jerusalem will be called God's throne.",
+      key_verses: [{ ref: "Jeremiah 3:22", text: "Return, O faithless sons; I will heal your faithlessness. Behold, we come to you, for you are the LORD our God." }]
+    },
+    {
+      number: 4,
+      summary: "God calls Jerusalem to circumcise its heart or face his wrath. A great destroyer from the north is announced — lion, violent wind, chariots swift as clouds. Jeremiah sees the vision and cries out in anguish: the whole land is waste, the heavens are black. Jerusalem is told to wash its heart of evil. The coming disaster is the fruit of its own choices.",
+      key_verses: [{ ref: "Jeremiah 4:4", text: "Circumcise yourselves to the LORD; remove the foreskin of your hearts, O men of Judah and inhabitants of Jerusalem." }]
+    },
+    {
+      number: 5,
+      summary: "God tells Jeremiah to search Jerusalem's streets for even one honest person — he cannot find one. Rich and poor alike have broken the yoke. A lion from the forest, a wolf from the desert, will ravage them for their unfaithfulness. They have spoken falsely of the LORD, saying he will do nothing. A foreign nation whose language Israel does not understand will devour its harvest. Yet even then God will not make a full end.",
+      key_verses: [{ ref: "Jeremiah 5:1", text: "Run to and fro through the streets of Jerusalem, look and take note! Search her squares to see if you can find a man, one who does justice and seeks truth, that I may pardon her." }]
+    },
+    {
+      number: 6,
+      summary: "Flee Jerusalem! Evil looms from the north. Armies encamp against the city, each man taking his post. Jeremiah tried to warn them, but the prophets healed the people's wounds lightly, saying 'Peace, peace' when there is no peace. The people stand at the crossroads — God tells them to ask for the ancient paths and find rest. They refuse. Jeremiah is appointed as an assayer to test them — they are all rejected silver.",
+      key_verses: [{ ref: "Jeremiah 6:16", text: "Thus says the LORD: Stand by the roads, and look, and ask for the ancient paths, where the good way is; and walk in it, and find rest for your souls." }]
+    },
+    {
+      number: 7,
+      summary: "The Temple Sermon: Jeremiah stands at the temple gate and announces that the people cannot trust in deceptive words: 'the temple of the LORD, the temple of the LORD, the temple of the LORD.' God does not need the temple if they keep oppressing the stranger, shedding innocent blood, and burning incense to Baal. Has the temple become a den of robbers? God will do to it what he did to Shiloh. They even burn their children in the Valley of Hinnom.",
+      key_verses: [{ ref: "Jeremiah 7:11", text: "Has this house, which is called by my name, become a den of robbers in your eyes? Behold, I myself have seen it, declares the LORD." }]
+    },
+    {
+      number: 8,
+      summary: "The bones of Jerusalem's leaders will be brought out and spread before the stars they worshiped. The people do not repent — even a horse knows where it belongs, but Israel does not know the LORD's ordinances. The prophets and priests handle the law but know it not, saying 'peace, peace' where there is none. Jeremiah laments: is there no balm in Gilead? Is there no physician? Why is the wound of my people not healed?",
+      key_verses: [{ ref: "Jeremiah 8:22", text: "Is there no balm in Gilead? Is there no physician there? Why then has the health of the daughter of my people not been restored?" }]
+    },
+    {
+      number: 9,
+      summary: "Jeremiah wishes his head were a spring of water so he could weep day and night for the slain. His people are deceitful — one speaks peace to his neighbor but lies in his heart. God calls for mourning women to wail over the land. Let not the wise glory in wisdom or the mighty in might: whoever boasts, boast in knowing God — that he shows steadfast love, justice, and righteousness. Circumcision of the heart matters, not the flesh.",
+      key_verses: [{ ref: "Jeremiah 9:24", text: "Let him who boasts boast in this, that he understands and knows me, that I am the LORD who practices steadfast love, justice, and righteousness in the earth." }]
+    },
+    {
+      number: 10,
+      summary: "A polemic against idolatry: the nations' idols are cut from a forest, decorated with silver and gold — like a scarecrow in a cucumber field, they cannot speak or walk. But the LORD is the living God and everlasting King, who made the earth by his power. Jeremiah intercedes: discipline us, but with justice, not in anger, or you will bring us to nothing. Pour your wrath on the nations instead.",
+      key_verses: [{ ref: "Jeremiah 10:10", text: "But the LORD is the true God; he is the living God and the everlasting King. At his wrath the earth quakes, and the nations cannot endure his indignation." }]
+    },
+    {
+      number: 11,
+      summary: "God reminds Jeremiah of the covenant made at the Exodus and repeatedly broken. He is told not to pray for the people — he will not hear them. The men of Jeremiah's hometown Anathoth conspire to kill him if he keeps prophesying. God assures Jeremiah that the men of Anathoth will face punishment; none of them will survive.",
+      key_verses: [{ ref: "Jeremiah 11:4", text: "Obey my voice, and do all that I command you. So shall you be my people, and I will be your God." }]
+    },
+    {
+      number: 12,
+      summary: "Jeremiah's first personal lament: why do the wicked prosper? He plants but they reap. God answers with a challenge: if Jeremiah has trouble running with men, how will he run with horses? Even God's own house — the land — is suffering because of Israel's wickedness. Yet God promises that after judgment he will return each nation to its own land, and if they learn his ways, they will be built up.",
+      key_verses: [{ ref: "Jeremiah 12:5", text: "If you have raced with men on foot, and they have wearied you, how will you compete with horses?" }]
+    },
+    {
+      number: 13,
+      summary: "Two object lessons: Jeremiah buries a linen belt at the Euphrates and retrieves it ruined — so God will ruin the pride of Judah. The wineskins illustration: as a wineskin is filled with wine, God will fill the people with drunkenness and smash them against each other. Judah cannot change anymore than a leopard can change its spots. Jerusalem will be stripped like a woman exposed — the fruit of trusting foreign gods.",
+      key_verses: [{ ref: "Jeremiah 13:23", text: "Can the Ethiopian change his skin or the leopard his spots? Then also you can do good who are accustomed to do evil." }]
+    },
+    {
+      number: 14,
+      summary: "A severe drought devastates the land — nobles send servants for water and find none, farmers are dismayed, even the deer abandons her fawn. Jeremiah intercedes passionately, but God tells him not to pray for the people. False prophets promise peace and rain; God says he did not send them. Jeremiah weeps before God, who is Israel's only hope — though the nation's sin is great.",
+      key_verses: [{ ref: "Jeremiah 14:9", text: "Yet you, O LORD, are in the midst of us, and we are called by your name; do not leave us." }]
+    },
+    {
+      number: 15,
+      summary: "Even if Moses and Samuel stood before God, he would not relent — Judah will face four kinds of doom: sword, dogs, birds, and beasts. Jeremiah laments bitterly that he was ever born. He has eaten God's words with joy, but now his pain is unceasing. God calls him back to faithfulness: if he returns to God, he will stand before him again, and God will make him a fortified bronze wall.",
+      key_verses: [{ ref: "Jeremiah 15:16", text: "Your words were found, and I ate them, and your words became to me a joy and the delight of my heart, for I am called by your name, O LORD, God of hosts." }]
+    },
+    {
+      number: 16,
+      summary: "God commands Jeremiah not to marry or have children — the coming disaster will be so severe that families will perish miserably. He must not attend funerals or feasts — signs that normal life is ending. The exile is the consequence of forsaking God. Yet beyond the judgment, God promises a second Exodus — he will bring Israel back from all the lands where he scattered them. Nations will come and confess that their ancestors' idols were worthless.",
+      key_verses: [{ ref: "Jeremiah 16:19", text: "O LORD, my strength and my stronghold, my refuge in the day of trouble, to you shall the nations come from the ends of the earth and say: Our fathers have inherited nothing but lies." }]
+    },
+    {
+      number: 17,
+      summary: "The sin of Judah is engraved on their heart with an iron pen. Cursed is the man who trusts in man; blessed is the man who trusts in the LORD — like a tree by water, bearing fruit even in drought. The heart is deceitful above all things — who can know it? God searches the heart. Those who forsake God will be put to shame. Jeremiah prays for healing and asks God to shame those who shame him. He urges faithful Sabbath observance as the key to Jerusalem's future.",
+      key_verses: [{ ref: "Jeremiah 17:9", text: "The heart is deceitful above all things, and desperately sick; who can understand it?" }]
+    },
+    {
+      number: 18,
+      summary: "At the potter's house, Jeremiah watches the potter rework a marred vessel into another shape. God declares he is like that potter with Israel — he can build up or tear down a nation. If a nation repents, God relents of his judgment. Israel is urged to repent, but they say there is no hope and refuse. Jeremiah's enemies plot against him; he cries out to God to destroy them.",
+      key_verses: [{ ref: "Jeremiah 18:6", text: "O house of Israel, can I not do with you as this potter has done? declares the LORD. Behold, like the clay in the potter's hand, so are you in my hand." }]
+    },
+    {
+      number: 19,
+      summary: "Jeremiah goes to the Valley of Hinnom and breaks a clay flask in front of the elders, declaring that God will break Jerusalem just as a flask is broken beyond repair — because they have filled the valley with innocent blood and burned their children as offerings to Baal. The city will become a place of slaughter. He returns to the temple court and proclaims the same message there.",
+      key_verses: [{ ref: "Jeremiah 19:11", text: "So will I break this people and this city, as one breaks a potter's vessel, so that it can never be mended." }]
+    },
+    {
+      number: 20,
+      summary: "Pashhur the priest has Jeremiah beaten and put in stocks. Jeremiah renames him 'Terror on Every Side' and prophesies he will die in Babylon. Then comes Jeremiah's darkest lament: he curses the day he was born. God's word is like fire shut up in his bones — he cannot hold it in. Yet he praises God who delivers the needy — a sharp contrast to his despair, showing his inner war between faith and anguish.",
+      key_verses: [{ ref: "Jeremiah 20:9", text: "If I say, 'I will not mention him, or speak any more in his name,' there is in my heart as it were a burning fire shut up in my bones, and I am weary with holding it in, and I cannot." }]
+    },
+    {
+      number: 21,
+      summary: "King Zedekiah sends to ask if God will work a miracle against Nebuchadnezzar. Jeremiah's answer is stark: God himself will fight against Jerusalem. Those who stay in the city will die; those who go out and surrender to Babylon will live. The royal house of David is called to execute justice, or God's wrath will burn unquenchably.",
+      key_verses: [{ ref: "Jeremiah 21:8", text: "And to this people you shall say: Thus says the LORD: Behold, I set before you the way of life and the way of death." }]
+    },
+    {
+      number: 22,
+      summary: "God sends oracles against Jerusalem's kings. Shallum (Jehoahaz) went into exile and will die there — no one will mourn him. Jehoiakim built his palace by unrighteousness, using his neighbor's labor without pay, competing in cedar with his father. He will be buried like a donkey. Coniah (Jehoiachin) is flung like a discarded pot into the land he does not know. None of his offspring will sit on David's throne.",
+      key_verses: [{ ref: "Jeremiah 22:16", text: "He judged the cause of the poor and needy; then it was well. Is not this to know me? declares the LORD." }]
+    },
+    {
+      number: 23,
+      summary: "Woe to the shepherds who destroy and scatter the sheep. God will gather the remnant from all countries and raise up shepherds who will care for them properly. Then he will raise up for David a righteous Branch — a King who will reign wisely and execute justice. His name will be 'The LORD is our Righteousness.' God also rebukes false prophets who speak dreams and steal words from one another, leading the people into error.",
+      key_verses: [{ ref: "Jeremiah 23:5-6", text: "Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely, and shall execute justice and righteousness in the land. And this is the name by which he will be called: The LORD is our righteousness." }]
+    },
+    {
+      number: 24,
+      summary: "The vision of two baskets of figs before the temple: one basket has very good figs, the other so bad they cannot be eaten. The good figs represent the exiles taken to Babylon under Jehoiachin — God will watch over them for good, bring them back, and give them a heart to know him. The bad figs represent Zedekiah and those remaining in the land or fled to Egypt — God will make them a horror and a curse.",
+      key_verses: [{ ref: "Jeremiah 24:7", text: "I will give them a heart to know that I am the LORD, and they shall be my people and I will be their God, for they shall return to me with their whole heart." }]
+    },
+    {
+      number: 25,
+      summary: "After twenty-three years of prophesying, Jeremiah declares that because the people did not listen, God will send Nebuchadnezzar against Judah. The land will be desolate for seventy years. After seventy years, Babylon too will be punished. God hands Jeremiah a cup of wine representing his wrath — Jeremiah must make all the nations drink it. The LORD will roar from on high against all the inhabitants of the earth.",
+      key_verses: [{ ref: "Jeremiah 25:11", text: "This whole land shall become a ruin and a waste, and these nations shall serve the king of Babylon seventy years." }]
+    },
+    {
+      number: 26,
+      summary: "After the temple sermon, priests, prophets, and people seize Jeremiah and demand his death. The officials intervene and recall that Micah the Morasthite said the same thing in Hezekiah's day — and Hezekiah did not kill him but repented. This saves Jeremiah's life. Another prophet, Uriah, was not so fortunate — he fled to Egypt but was brought back and killed by Jehoiakim.",
+      key_verses: [{ ref: "Jeremiah 26:13", text: "Now therefore mend your ways and your deeds, and obey the voice of the LORD your God, and the LORD will relent of the disaster that he has pronounced against you." }]
+    },
+    {
+      number: 27,
+      summary: "Jeremiah makes yoke-bars and sends them to surrounding nations with a message: God made the earth and gives it to whoever he pleases. Now he has given all lands to Nebuchadnezzar. Whatever nation will not submit to the yoke of Babylon will be punished by sword, famine, and pestilence. Jeremiah tells Zedekiah and the people in Jerusalem the same: do not listen to prophets who say Babylon will not prevail — they are lying.",
+      key_verses: [{ ref: "Jeremiah 27:5", text: "It is I who by my great power and my outstretched arm have made the earth, with the men and animals that are on the earth, and I give it to whoever it seems right to me." }]
+    },
+    {
+      number: 28,
+      summary: "The false prophet Hananiah breaks Jeremiah's wooden yoke-bars and declares that within two years God will break Babylon's yoke and return all the exiles. Jeremiah, though he wishes it were true, rebukes him: a prophet of peace is only validated by events. Hananiah made Israel trust in a lie and promoted rebellion against God. God tells Jeremiah to say: you broke wooden bars but have made iron bars in their place. Hananiah dies within the year.",
+      key_verses: [{ ref: "Jeremiah 28:9", text: "As for the prophet who prophesies peace, when the word of that prophet comes to pass, then it will be known that the LORD has truly sent the prophet." }]
+    },
+    {
+      number: 29,
+      summary: "Jeremiah sends a letter to the exiles in Babylon: build houses, plant gardens, marry, multiply — seek the peace of the city where I sent you and pray for it. Do not listen to prophets saying the exile will be short. After seventy years God will visit and fulfill his promise to bring them back. His plans for them are for welfare and not for evil, to give them a future and a hope.",
+      key_verses: [{ ref: "Jeremiah 29:11", text: "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope." }]
+    },
+    {
+      number: 30,
+      summary: "The Book of Consolation begins: God tells Jeremiah to write down his promises of restoration. Though judgment is severe — Jacob is in anguish — God will save him. The yoke will be broken; they will serve the LORD and David their king. God will restore health to his people and bring them back from captivity. Jerusalem will be rebuilt. God will make a full end of the nations but will not make a full end of Israel.",
+      key_verses: [{ ref: "Jeremiah 30:17", text: "For I will restore health to you, and your wounds I will heal, declares the LORD, because they have called you an outcast: 'It is Zion, for whom no one cares!'" }]
+    },
+    {
+      number: 31,
+      summary: "The climax of the Book of Consolation. God will rebuild Israel with everlasting love. Rachel weeps for her children but is comforted — they will return from the enemy's land. A new covenant is coming: not like the Mosaic covenant they broke, but one written on the heart. God will forgive their iniquity and remember their sin no more. Jerusalem will be rebuilt and never again be uprooted.",
+      key_verses: [{ ref: "Jeremiah 31:33", text: "But this is the covenant that I will make with the house of Israel after those days, declares the LORD: I will put my law within them, and I will write it on their hearts. And I will be their God, and they shall be my people." }]
+    },
+    {
+      number: 32,
+      summary: "While Jerusalem is besieged and Jeremiah is imprisoned for his prophecy of defeat, God commands him to buy his cousin's field at Anathoth. Jeremiah obeys as a sign that houses and fields will again be bought in this land. He prays in bewilderment: God made everything, but why buy a field now? God answers: he is giving the city to Babylon, but afterward he will regather his people and make an everlasting covenant with them.",
+      key_verses: [{ ref: "Jeremiah 32:27", text: "Behold, I am the LORD, the God of all flesh. Is anything too hard for me?" }]
+    },
+    {
+      number: 33,
+      summary: "While still confined, Jeremiah receives further promises of restoration. God will bring health and healing to Jerusalem. He will cleanse them of all their iniquity. The city will be a name of joy, praise, and glory. The promise to David will not be broken — a righteous Branch will execute justice. The covenant with David and the Levites is as unbreakable as the covenant with day and night.",
+      key_verses: [{ ref: "Jeremiah 33:3", text: "Call to me and I will answer you, and will tell you great and hidden things that you have not known." }]
+    },
+    {
+      number: 34,
+      summary: "God sends word to King Zedekiah: Jerusalem will be burned, but Zedekiah will die peacefully and be mourned. Then the officials make a covenant to free Hebrew slaves as required by the law, but quickly reverse course and take them back. God responds: you proclaimed freedom but have not obeyed, so he now proclaims freedom for them to the sword, pestilence, and famine.",
+      key_verses: [{ ref: "Jeremiah 34:17", text: "Therefore, thus says the LORD: You have not obeyed me by proclaiming liberty, every one to his brother and to his neighbor; behold, I proclaim to you liberty to the sword, to pestilence, and to famine." }]
+    },
+    {
+      number: 35,
+      summary: "Jeremiah invites the Rechabites into the temple and offers them wine. They refuse — their ancestor Jonadab commanded them never to drink wine or build houses, and they have obeyed for generations. God holds them up as a model of obedience: they kept their ancestor's command, but Judah has not kept God's commands despite repeated calling. The Rechabites will always have a man standing before God.",
+      key_verses: [{ ref: "Jeremiah 35:16", text: "The sons of Jonadab the son of Rechab have kept the command that their father gave them, but this people has not obeyed me." }]
+    },
+    {
+      number: 36,
+      summary: "God dictates his words to Jeremiah, who has Baruch write them on a scroll and read them at the temple. The scroll is brought to the king's officials and finally to King Jehoiakim himself. As Jehudi reads column after column, Jehoiakim cuts the scroll with a penknife and throws it into the fire — he has no fear and does not tear his garments. God tells Jeremiah to take another scroll and write all the words again — plus a new oracle of doom for Jehoiakim.",
+      key_verses: [{ ref: "Jeremiah 36:23", text: "As Jehudi read three or four columns, the king would cut them off with a penknife and throw them into the fire in the fire pot." }]
+    },
+    {
+      number: 37,
+      summary: "Zedekiah sends to ask Jeremiah to pray for relief from the Babylonian army, which has temporarily withdrawn to deal with an Egyptian force. Jeremiah says: the Egyptians will return home and Babylon will come back and burn the city. While trying to leave Jerusalem, Jeremiah is arrested as a deserter and beaten, then put in a dungeon cell. Zedekiah secretly releases him to a less harsh confinement in the court of the guard.",
+      key_verses: [{ ref: "Jeremiah 37:17", text: "King Zedekiah... secretly asked him, 'Is there any word from the LORD?' Jeremiah said, 'There is.' Then he said, 'You shall be delivered into the hand of the king of Babylon.'" }]
+    },
+    {
+      number: 38,
+      summary: "Officials have Jeremiah thrown into a muddy cistern to die. A Cushite court official, Ebed-melech, intercedes and receives permission from Zedekiah to pull Jeremiah out with ropes and rags. Zedekiah holds a secret interview with Jeremiah: surrender to Babylon and you will live; do not surrender and the city will be burned. Zedekiah fears the mockery of those who have already deserted and does not act.",
+      key_verses: [{ ref: "Jeremiah 38:20", text: "Jeremiah said, 'You shall not be given to them. Obey now the voice of the LORD in what I say to you, and it shall be well with you, and your life shall be spared.'" }]
+    },
+    {
+      number: 39,
+      summary: "Jerusalem falls. Nebuchadnezzar's officers sit in the middle gate; Zedekiah flees at night with his army but is captured in the plains of Jericho. His sons are slaughtered before him, his eyes are put out, he is bound in chains and taken to Babylon. The city is burned. Jeremiah is released from prison by Babylonian command. Ebed-melech who saved Jeremiah is also promised he will not fall by the sword.",
+      key_verses: [{ ref: "Jeremiah 39:18", text: "I will surely save you, and you shall not fall by the sword, but you shall have your life as a prize of war, because you have put your trust in me, declares the LORD." }]
+    },
+    {
+      number: 40,
+      summary: "The Babylonian commander gives Jeremiah his freedom — choose to go to Babylon or stay in the land. Jeremiah chooses to remain. He goes to Gedaliah, appointed governor over the remaining people in Judah. Military leaders who were still in the open country gather to Gedaliah, who assures them: do not be afraid to serve the Babylonians, dwell in the land, and it will go well for you. A plot to assassinate Gedaliah is warned, but he dismisses it.",
+      key_verses: [{ ref: "Jeremiah 40:10", text: "As for me, I will dwell at Mizpah, to represent you before the Chaldeans who will come to us. But as for you, gather wine and summer fruits and oil, and store them in your vessels." }]
+    },
+    {
+      number: 41,
+      summary: "Ishmael, of royal descent, murders Gedaliah and his men at Mizpah, then kills seventy of eighty pilgrims coming from the north, and takes the remaining people captive toward Ammon. The army officer Johanan intercepts him and rescues the captives — but Ishmael escapes with eight men to Ammon. The rescued people, fearing Babylonian reprisals for Gedaliah's death, prepare to flee to Egypt.",
+      key_verses: [{ ref: "Jeremiah 41:10", text: "Ishmael then took captive all the rest of the people who were in Mizpah... and set out to cross over to the Ammonites." }]
+    },
+    {
+      number: 42,
+      summary: "All the commanders and people approach Jeremiah, swearing to obey whatever God says about whether to go to Egypt. Jeremiah delivers God's answer after ten days: stay in the land and God will build and plant you. If you go to Egypt, the sword and famine you fear will overtake you there. But Jeremiah suspects they have already decided to disobey, and warns that Egypt will be their ruin.",
+      key_verses: [{ ref: "Jeremiah 42:10", text: "If you will remain in this land, then I will build you up and not pull you down; I will plant you, and not pluck you up; for I relent of the disaster that I did to you." }]
+    },
+    {
+      number: 43,
+      summary: "Just as Jeremiah predicted, the leaders accuse him of lying and call Baruch a foreign agent. They take everyone to Egypt, including Jeremiah and Baruch. At Tahpanhes in Egypt, God commands Jeremiah to bury large stones at Pharaoh's palace entrance. On these stones Nebuchadnezzar will set his throne when he comes to conquer Egypt — and the people who fled to Egypt for safety will find no escape.",
+      key_verses: [{ ref: "Jeremiah 43:10", text: "I will send and take Nebuchadnezzar the king of Babylon, my servant, and I will set his throne above these stones that I have hidden, and he will spread his royal canopy over them." }]
+    },
+    {
+      number: 44,
+      summary: "Jeremiah delivers his last recorded oracle in Egypt. The Jews there are burning incense to the Queen of Heaven as they did back in Jerusalem — and they defiantly say that when they worshiped the Queen of Heaven they had plenty; since they stopped they have lacked everything. Jeremiah declares they have fulfilled their own doom. A small remnant will return to Judah, and Pharaoh Hophra will fall as a sign.",
+      key_verses: [{ ref: "Jeremiah 44:4", text: "Yet I persistently sent to you all my servants the prophets, saying, 'Oh, do not do this abomination that I hate!'" }]
+    },
+    {
+      number: 45,
+      summary: "A brief personal word to Baruch, Jeremiah's secretary. Baruch had written down Jeremiah's dictation and cried out in anguish at the sorrows added to his pain. God asks: should you seek great things for yourself? Do not seek them. The whole land is going to ruin, but wherever Baruch goes, God will give him his life as a prize of war.",
+      key_verses: [{ ref: "Jeremiah 45:5", text: "And do you seek great things for yourself? Seek them not, for behold, I am bringing disaster upon all flesh, declares the LORD. But I will give you your life as a prize of war in all places to which you may go." }]
+    },
+    {
+      number: 46,
+      summary: "Oracles against the nations begin with Egypt. At the Battle of Carchemish, Egypt's army is routed by Babylon — their valiant warriors stumble and flee. The mighty are overthrown. Yet there is hope for Israel: God will save them from that distant land, discipline them justly, and make a full end of the nations that held them captive while preserving Israel.",
+      key_verses: [{ ref: "Jeremiah 46:28", text: "Fear not, O Jacob my servant, declares the LORD, for I am with you. I will make a full end of all the nations to which I have driven you, but of you I will not make a full end." }]
+    },
+    {
+      number: 47,
+      summary: "The oracle against Philistia: waters are rising from the north, overflowing the land. The fathers do not look back for their children; all hands go limp. The sword of the LORD — when will you be quiet? God answers: he has commanded it; it cannot rest while Ashkelon and Gaza remain standing.",
+      key_verses: [{ ref: "Jeremiah 47:4", text: "Because of the day that is coming to destroy all the Philistines, to cut off from Tyre and Sidon every helper that remains." }]
+    },
+    {
+      number: 48,
+      summary: "A long and mournful oracle against Moab. City after city falls. Moab has been at ease since youth — it has not been emptied from vessel to vessel; therefore its flavor is unchanged and its scent is not changed. But now it will be broken. Chemosh goes into exile with its priests. Moab is mocked for trusting in its achievements and treasures. Yet at the end of days, God will restore Moab's fortunes.",
+      key_verses: [{ ref: "Jeremiah 48:10", text: "Cursed is he who does the work of the LORD with slackness, and cursed is he who keeps back his sword from bloodshed." }]
+    },
+    {
+      number: 49,
+      summary: "A collection of oracles against remaining nations: Ammon will be dispossessed and her cities burned, but her fortunes will be restored. Edom will be terrified and become a horror — smaller than the least of nations, but God's orphans and widows can trust in him. Damascus, Kedar, and Hazor will be scattered. Elam's bow will be broken and its people scattered to the winds, though God will restore Elam's fortunes in the latter days.",
+      key_verses: [{ ref: "Jeremiah 49:11", text: "Leave your fatherless children; I will keep them alive; and let your widows trust in me." }]
+    },
+    {
+      number: 50,
+      summary: "The great oracle against Babylon begins. Bel is put to shame, Merodach is dismayed. A nation from the north will attack Babylon and desolate it. Israel and Judah will seek the LORD and the road to Zion, their sins forgiven. The people are told to flee Babylon before it falls. Babylon, who struck many nations, will itself be struck. God has not forsaken Israel or Judah despite their sin.",
+      key_verses: [{ ref: "Jeremiah 50:20", text: "In those days and in that time, declares the LORD, iniquity shall be sought in Israel, and there shall be none, and sin in Judah, and none shall be found, for I will pardon those whom I leave as a remnant." }]
+    },
+    {
+      number: 51,
+      summary: "God will raise against Babylon a destroying wind. Her warriors have ceased to fight; her walls are fallen. God has repaid her for all she did to Zion. Jeremiah tells the exiles: when all this takes place, remember the LORD in the far country. The scroll of all this doom is tied to a stone and cast into the Euphrates — so shall Babylon sink, never to rise again. Here Jeremiah's words end.",
+      key_verses: [{ ref: "Jeremiah 51:64", text: "And you shall say, 'Thus shall Babylon sink, to rise no more, because of the disaster that I am bringing upon her, and they shall be exhausted.' Thus far are the words of Jeremiah." }]
+    },
+    {
+      number: 52,
+      summary: "A historical appendix: the detailed account of Jerusalem's fall. Zedekiah rebels against Babylon; after a siege of a year and a half Jerusalem is breached. Zedekiah is captured, his sons killed, his eyes put out. The temple, palace, and houses are burned to the ground. The bronze pillars, the sea, and all the temple vessels are carried to Babylon. Different waves of deportees are listed. The chapter closes with the release of the exiled King Jehoiachin from prison after thirty-seven years.",
+      key_verses: [{ ref: "Jeremiah 52:31", text: "In the thirty-seventh year of the exile of Jehoiachin king of Judah... Evil-merodach king of Babylon... graciously freed Jehoiachin king of Judah and brought him out of prison." }]
+    }
+  ]
+});
