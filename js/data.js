@@ -3836,3 +3836,155 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "matthew",
+  name: "Matthew",
+  testament: "new",
+  category: "Gospels",
+  summary: "Matthew's Gospel presents Jesus as the promised King of Israel, the fulfillment of the entire Old Testament. Written with a Jewish audience in mind, it is structured around five great teaching discourses — mirroring the five books of Moses — and constantly echoes the phrase 'this was to fulfill what was spoken by the prophet.' Matthew begins with a royal genealogy and ends with the risen King commissioning his followers to make disciples of all nations. At its heart is the Sermon on the Mount, the most comprehensive account of Jesus' ethical teaching in all of Scripture.",
+  themes: ["Jesus as the fulfillment of the Old Testament", "The Kingdom of Heaven", "Discipleship", "Jesus as the new Moses", "Judgment and righteousness", "The Great Commission", "God with us (Immanuel)"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The book opens with the genealogy of Jesus Christ, son of David, son of Abraham — fourteen generations from Abraham to David, fourteen from David to the Babylonian exile, fourteen from the exile to Christ. Mary is found to be with child from the Holy Spirit. Joseph, a just man, plans to divorce her quietly, but an angel appears in a dream: 'Do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.' She will bear a son, and he shall be called Jesus — for he will save his people from their sins. This fulfills Isaiah's prophecy of Immanuel.",
+      key_verses: [{ ref: "Matthew 1:21", text: "She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." }]
+    },
+    {
+      number: 2,
+      summary: "Wise men from the east arrive in Jerusalem seeking the one born king of the Jews, having seen his star. King Herod, troubled, summons them and directs them to Bethlehem. They find the child, worship him, and present gold, frankincense, and myrrh. Warned in a dream, they return home another way. Joseph flees with the family to Egypt — fulfilling 'Out of Egypt I called my son.' Herod massacres the boys of Bethlehem under two. After Herod's death the family returns and settles in Nazareth.",
+      key_verses: [{ ref: "Matthew 2:11", text: "And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh." }]
+    },
+    {
+      number: 3,
+      summary: "John the Baptist appears in the wilderness of Judea: 'Repent, for the kingdom of heaven is at hand.' He baptizes in the Jordan and boldly confronts the Pharisees and Sadducees — do not say Abraham is your father; every tree that does not bear fruit will be cut down. Jesus comes from Galilee to be baptized. John protests, but Jesus insists: 'it is fitting to fulfill all righteousness.' As he comes up from the water, the Spirit descends like a dove and a voice from heaven says: 'This is my beloved Son, with whom I am well pleased.'",
+      key_verses: [{ ref: "Matthew 3:17", text: "And behold, a voice from heaven said, 'This is my beloved Son, with whom I am well pleased.'" }]
+    },
+    {
+      number: 4,
+      summary: "The Spirit leads Jesus into the wilderness to be tempted by the devil for forty days and nights. Three temptations — turn stones to bread, throw yourself from the temple, worship me for all the kingdoms of the world — are each defeated with Scripture. Jesus then returns to Galilee and begins his public ministry, fulfilling Isaiah's prophecy of light in Galilee. He calls his first disciples by the Sea of Galilee: Simon Peter and Andrew, then James and John — all fishermen who immediately leave their nets. He goes throughout Galilee teaching, proclaiming the gospel, and healing every disease.",
+      key_verses: [{ ref: "Matthew 4:19", text: "And he said to them, 'Follow me, and I will make you fishers of men.'" }]
+    },
+    {
+      number: 5,
+      summary: "The Sermon on the Mount begins. Jesus opens with the Beatitudes: blessed are the poor in spirit, the mourning, the meek, those who hunger for righteousness, the merciful, the pure in heart, the peacemakers, and the persecuted. His disciples are the salt of the earth and the light of the world. Jesus has come not to abolish the Law but to fulfill it. He raises the ethical bar radically: anger is like murder, lust is like adultery. Love your enemies and pray for those who persecute you, for God sends rain on the just and unjust alike.",
+      key_verses: [{ ref: "Matthew 5:3", text: "Blessed are the poor in spirit, for theirs is the kingdom of heaven." }]
+    },
+    {
+      number: 6,
+      summary: "The Sermon continues with practical religion: give, pray, and fast — but do so secretly, not for public display. In the middle Jesus gives the Lord's Prayer as a model: Our Father in heaven, hallowed be your name, your kingdom come, your will be done on earth as in heaven. He warns against serving both God and money and instructs his disciples not to be anxious about food and clothing — look at the birds and the lilies. Seek first the kingdom of God and his righteousness, and all these things will be added to you.",
+      key_verses: [{ ref: "Matthew 6:33", text: "But seek first the kingdom of God and his righteousness, and all these things will be added to you." }]
+    },
+    {
+      number: 7,
+      summary: "The Sermon concludes: do not judge, lest you be judged — first remove the log from your own eye. Ask and it will be given; seek and you will find; knock and the door will be opened. The Golden Rule: do to others what you would have them do to you. Enter through the narrow gate. Beware of false prophets who come as wolves in sheep's clothing — you will know them by their fruits. Not everyone who says 'Lord, Lord' will enter the kingdom, but the one who does the Father's will. Those who hear these words and act on them are like a wise man who built his house on rock.",
+      key_verses: [{ ref: "Matthew 7:12", text: "So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets." }]
+    },
+    {
+      number: 8,
+      summary: "A series of miracles follows the Sermon. Jesus heals a leper with a touch, saying 'I will; be clean.' He heals the centurion's paralyzed servant from a distance — marveling at the Roman's faith, he declares that many from east and west will sit at table in the kingdom while the sons of the kingdom are cast out. He heals Peter's mother-in-law and casts out many demons. He calms a violent storm on the sea with a word — 'What sort of man is this that even winds and sea obey him?' He casts demons into pigs in the region of the Gadarenes.",
+      key_verses: [{ ref: "Matthew 8:27", text: "And the men marveled, saying, 'What sort of man is this, that even winds and sea obey him?'" }]
+    },
+    {
+      number: 9,
+      summary: "Jesus heals a paralyzed man, forgiving his sins first — scandalizing the scribes. He calls Matthew the tax collector and eats with tax collectors and sinners: 'Those who are well have no need of a physician.' He raises Jairus' daughter to life and heals a woman who had bled for twelve years who touched his garment in faith. He heals two blind men and a mute demoniac. Seeing the crowds, he is moved with compassion — they are like sheep without a shepherd. He tells his disciples to pray for workers for the harvest.",
+      key_verses: [{ ref: "Matthew 9:36", text: "When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd." }]
+    },
+    {
+      number: 10,
+      summary: "Jesus calls and sends out the Twelve — Peter, Andrew, James, John, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot. They are to go only to the lost sheep of Israel, proclaiming the kingdom and healing. He warns of persecution: they will be dragged before councils and governors. Do not fear those who kill the body. Whoever acknowledges him before men, he will acknowledge before the Father. Whoever loses his life for his sake will find it.",
+      key_verses: [{ ref: "Matthew 10:39", text: "Whoever finds his life will lose it, and whoever loses his life for my sake will find it." }]
+    },
+    {
+      number: 11,
+      summary: "John the Baptist, in prison, sends disciples to ask: are you the one who is to come? Jesus points to his miracles. He declares John the greatest man born of woman, yet the least in the kingdom is greater than he. The cities where his miracles were done — Chorazin, Bethsaida, Capernaum — are rebuked for their unrepentance. Then comes the great invitation: 'Come to me, all who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and lowly in heart.'",
+      key_verses: [{ ref: "Matthew 11:28-29", text: "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls." }]
+    },
+    {
+      number: 12,
+      summary: "Conflict with the Pharisees escalates: they challenge Jesus about his disciples plucking grain on the Sabbath and about healing a man's withered hand on the Sabbath. Jesus declares himself Lord of the Sabbath. They accuse him of casting out demons by Beelzebul; he exposes their logic as absurd. The unforgivable sin — blasphemy against the Holy Spirit — is attributing the Spirit's work to Satan. The Pharisees demand a sign; he gives only the sign of Jonah. As Jonah was three days in the fish, the Son of Man will be three days in the heart of the earth.",
+      key_verses: [{ ref: "Matthew 12:30", text: "Whoever is not with me is against me, and whoever does not gather with me scatters." }]
+    },
+    {
+      number: 13,
+      summary: "The great parable chapter: Jesus teaches the crowds from a boat. The Parable of the Sower — seed falls on four soils; only the good soil bears fruit. He explains why he speaks in parables: to reveal truth to those with ears to hear. The Parable of the Weeds — good and evil grow together until the harvest. Mustard Seed and Leaven — the kingdom starts small and spreads. Hidden Treasure and Pearl of Great Price — the kingdom is worth everything. The Dragnet. He returns to Nazareth and is rejected — a prophet is not honored in his hometown.",
+      key_verses: [{ ref: "Matthew 13:44", text: "The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field." }]
+    },
+    {
+      number: 14,
+      summary: "Herod Antipas executes John the Baptist to fulfill a rash oath to his stepdaughter. Jesus withdraws but the crowds follow, and he feeds five thousand people from five loaves and two fish — twelve baskets of fragments remain. That night he walks on the water to his disciples' storm-tossed boat. Peter steps out and begins to walk toward Jesus, then sinks in fear. Jesus catches him: 'O you of little faith, why did you doubt?' The disciples worship him: 'Truly you are the Son of God.'",
+      key_verses: [{ ref: "Matthew 14:31", text: "Jesus immediately reached out his hand and took hold of him, saying to him, 'O you of little faith, why did you doubt?'" }]
+    },
+    {
+      number: 15,
+      summary: "Pharisees challenge Jesus about his disciples' failure to wash hands. He rebukes them: they honor God with lips while their hearts are far from him, and they replace God's commands with human traditions. It is not what goes into the mouth that defiles but what comes out — from the heart come evil thoughts, murder, adultery, slander. A Canaanite woman begs for her demon-oppressed daughter; Jesus tests her faith and heals the daughter, marveling at her persistence. He feeds four thousand people from seven loaves.",
+      key_verses: [{ ref: "Matthew 15:28", text: "Then Jesus answered her, 'O woman, great is your faith! Be it done for you as you desire.' And her daughter was healed instantly." }]
+    },
+    {
+      number: 16,
+      summary: "The Pharisees and Sadducees demand a sign; Jesus refuses. He warns about their corrupting teaching — the yeast of the Pharisees. At Caesarea Philippi, Jesus asks who the disciples say he is. Peter declares: 'You are the Christ, the Son of the living God.' Jesus blesses Peter and says on this rock he will build his church, and the gates of hell will not prevail against it. He then predicts his death and resurrection for the first time. When Peter rebukes him, Jesus rebukes Peter sharply: 'Get behind me, Satan.'",
+      key_verses: [{ ref: "Matthew 16:16", text: "Simon Peter replied, 'You are the Christ, the Son of the living God.'" }]
+    },
+    {
+      number: 17,
+      summary: "Six days later Jesus takes Peter, James, and John up a high mountain. He is transfigured before them — his face shines like the sun, his clothes become white as light. Moses and Elijah appear talking with him. A bright cloud overshadows them and a voice says: 'This is my beloved Son; listen to him.' Coming down, Jesus heals a boy the other disciples could not heal — only through prayer can such things happen. He predicts his death and resurrection a second time. He and Peter pay the temple tax with a coin found in a fish's mouth.",
+      key_verses: [{ ref: "Matthew 17:5", text: "He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, 'This is my beloved Son, with whom I am well pleased; listen to him.'" }]
+    },
+    {
+      number: 18,
+      summary: "Teaching on community life: greatness in the kingdom belongs to the humble like a child. Causing a little one to stumble warrants severe judgment. If your hand or eye causes you to sin, cut it off. The Parable of the Lost Sheep — God leaves the ninety-nine to find the one. Instructions for handling sin in the community: go privately, then with witnesses, then before the church. Whatever is bound or loosed on earth reflects heaven's judgment. The Parable of the Unmerciful Servant: forgive your brother not seven times but seventy times seven.",
+      key_verses: [{ ref: "Matthew 18:22", text: "Jesus said to him, 'I do not say to you seven times, but seventy-seven times.'" }]
+    },
+    {
+      number: 19,
+      summary: "Jesus teaches on divorce: what God has joined together let no man separate. He blesses children the disciples tried to turn away. A rich young man asks about eternal life; he has kept all the commandments but cannot bring himself to sell everything and follow Jesus. Jesus says it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom — but with God all things are possible. Peter asks what reward the disciples will receive; Jesus promises thrones for the Twelve and hundredfold returns for all who have left things for his sake.",
+      key_verses: [{ ref: "Matthew 19:26", text: "But Jesus looked at them and said, 'With man this is impossible, but with God all things are possible.'" }]
+    },
+    {
+      number: 20,
+      summary: "The Parable of the Workers in the Vineyard: those hired at the last hour receive the same wage as those hired first — God's grace is not proportional to human effort. Jesus predicts his death and resurrection a third time, in detail. The mother of James and John asks for her sons to sit at Jesus' right and left; Jesus says greatness is measured by service, not position. Whoever would be great must be your servant — just as the Son of Man came not to be served but to serve, and to give his life as a ransom for many. Two blind men at Jericho receive their sight.",
+      key_verses: [{ ref: "Matthew 20:28", text: "The Son of Man came not to be served but to serve, and to give his life as a ransom for many." }]
+    },
+    {
+      number: 21,
+      summary: "The Triumphal Entry: Jesus rides into Jerusalem on a donkey, fulfilling Zechariah's prophecy. The crowds spread cloaks and branches, crying 'Hosanna to the Son of David!' Jesus drives out the merchants and money-changers from the temple: 'My house shall be called a house of prayer, but you make it a den of robbers.' He curses a fruitless fig tree, which withers — a sign of judgment on Israel. He is challenged about his authority; he responds with two parables: the Two Sons and the Wicked Tenants, both indicting the religious leaders.",
+      key_verses: [{ ref: "Matthew 21:13", text: "He said to them, 'It is written, My house shall be called a house of prayer, but you make it a den of robbers.'" }]
+    },
+    {
+      number: 22,
+      summary: "The Parable of the Wedding Banquet: the invited guests refuse to come; the invitation goes to all, good and bad; but one without a wedding garment is cast out — many are called, few chosen. Three attempts to trap Jesus: paying taxes to Caesar ('Give to Caesar what is Caesar's and to God what is God's'), the resurrection (he affirms it, for God is God of the living), and the greatest commandment. Jesus answers: love God with all your heart, soul, and mind — and love your neighbor as yourself. He then silences them by asking whose son the Messiah is.",
+      key_verses: [{ ref: "Matthew 22:37-39", text: "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself." }]
+    },
+    {
+      number: 23,
+      summary: "Jesus pronounces seven woes against the scribes and Pharisees before the assembled crowd and his disciples. They are blind guides, hypocrites, whitewashed tombs — clean on the outside, full of dead bones within. They tithe mint and dill but neglect justice, mercy, and faithfulness. They kill prophets and shut the kingdom in people's faces. The chapter ends with Jesus weeping over Jerusalem: 'How often would I have gathered your children together as a hen gathers her brood... and you were not willing.'",
+      key_verses: [{ ref: "Matthew 23:37", text: "O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!" }]
+    },
+    {
+      number: 24,
+      summary: "On the Mount of Olives, Jesus gives the Olivet Discourse about the end times. The temple will be destroyed — not one stone left on another. There will be wars, famines, and earthquakes — the beginning of birth pains. The gospel must be proclaimed to all nations. The abomination of desolation will appear. The Son of Man will come on the clouds with great power and glory; the angels will gather the elect. But no one knows the day or the hour — not even the Son, only the Father. Keep watch, for you do not know when your Lord is coming.",
+      key_verses: [{ ref: "Matthew 24:36", text: "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only." }]
+    },
+    {
+      number: 25,
+      summary: "Three parables about readiness for the kingdom's consummation. The Ten Virgins: five wise bring extra oil; five foolish do not — the door is shut to those not ready. The Parable of the Talents: servants who invest their master's money are rewarded; the one who buries it out of fear is rebuked. The Sheep and Goats: the Son of Man separates the nations — those who fed the hungry, welcomed the stranger, clothed the naked, and visited the sick and imprisoned inherit the kingdom. Whatever you did to the least of these you did to me.",
+      key_verses: [{ ref: "Matthew 25:40", text: "And the King will answer them, 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'" }]
+    },
+    {
+      number: 26,
+      summary: "The Passion begins. A woman anoints Jesus with expensive perfume — he praises her. Judas agrees to betray Jesus for thirty pieces of silver. At the Last Supper Jesus institutes the Eucharist: the bread is his body, the cup is his blood of the new covenant, poured out for many for the forgiveness of sins. In Gethsemane he agonizes in prayer: 'not as I will, but as you will.' Judas arrives with a crowd; Jesus is arrested. Peter denies him three times before the rooster crows, then weeps bitterly. The Sanhedrin condemns Jesus for claiming to be the Son of God.",
+      key_verses: [{ ref: "Matthew 26:39", text: "And going a little farther he fell on his face and prayed, saying, 'My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.'" }]
+    },
+    {
+      number: 27,
+      summary: "Judas, seized with remorse, returns the silver and hangs himself. Jesus stands before Pilate, who finds no guilt but hands him over to satisfy the crowd. The soldiers mock him with a crown of thorns and a purple robe, then lead him to Golgotha. At nine in the morning they crucify him with two robbers. At noon darkness covers the land for three hours. At three Jesus cries: 'My God, my God, why have you forsaken me?' and breathes his last. The temple curtain tears in two from top to bottom. The centurion declares: 'Truly this was the Son of God!' Joseph of Arimathea buries Jesus in his own tomb.",
+      key_verses: [{ ref: "Matthew 27:54", text: "When the centurion and those who were with him, keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, 'Truly this was the Son of God!'" }]
+    },
+    {
+      number: 28,
+      summary: "On the first day of the week, Mary Magdalene and the other Mary come to the tomb. There is a great earthquake; an angel rolls back the stone and sits on it — his face like lightning, his clothes white as snow. The guards tremble and become like dead men. The angel tells the women: he is not here, he has risen! They run with fear and great joy to tell the disciples. Jesus himself meets them; they clasp his feet and worship him. He appears on a mountain in Galilee and gives the Great Commission: go and make disciples of all nations, baptizing them and teaching them to obey everything he commanded — and he will be with them always, to the very end of the age.",
+      key_verses: [{ ref: "Matthew 28:19-20", text: "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age." }]
+    }
+  ]
+});
