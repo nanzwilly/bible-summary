@@ -3285,3 +3285,290 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "daniel",
+  name: "Daniel",
+  testament: "old",
+  category: "Major Prophets",
+  summary: "Daniel combines gripping court narratives with sweeping apocalyptic visions, set against the backdrop of Babylonian and Persian exile. The first half presents Daniel and his three friends remaining faithful to God despite intense pressure — refusing the king's food, surviving the furnace and the lions' den. The second half records Daniel's visions of world empires, the Ancient of Days, the seventy weeks, and the time of the end. The book's central message is that God rules over all earthly kingdoms and his purposes will prevail.",
+  themes: ["Faithfulness under pressure", "God's sovereignty over nations", "Apocalyptic visions", "Prayer and fasting", "The coming kingdom of God", "Angels and spiritual warfare", "Resurrection hope"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Daniel and three friends — Hananiah, Mishael, and Azariah — are among the young Judeans chosen for Nebuchadnezzar's court training. They refuse to defile themselves with the king's food and wine. After ten days on vegetables and water, they look healthier than all the others. God gives them wisdom and understanding far beyond all the magicians and enchanters in the kingdom.",
+      key_verses: [{ ref: "Daniel 1:8", text: "But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself." }]
+    },
+    {
+      number: 2,
+      summary: "Nebuchadnezzar has a troubling dream and demands that the wise men tell him both the dream and its interpretation — on pain of death. Only Daniel can help, after a night of prayer with his friends. The dream is of a great statue with a gold head, silver chest, bronze belly, iron legs, and clay-iron feet — representing successive world empires. A stone cut without hands strikes the feet and becomes a mountain filling the earth — God's eternal kingdom.",
+      key_verses: [{ ref: "Daniel 2:44", text: "And in the days of those kings the God of heaven will set up a kingdom that shall never be destroyed, nor shall the kingdom be left to another people." }]
+    },
+    {
+      number: 3,
+      summary: "Nebuchadnezzar builds a gold statue ninety feet high and commands all officials to bow when the music plays. Shadrach, Meshach, and Abednego refuse. The furious king has them thrown into a furnace so hot it kills the soldiers who throw them in. The king looks and sees four figures walking unharmed — the fourth like a son of the gods. He calls them out and promotes them. No word is spoken against their God.",
+      key_verses: [{ ref: "Daniel 3:17-18", text: "If this be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king. But if not, be it known to you, O king, that we will not serve your gods." }]
+    },
+    {
+      number: 4,
+      summary: "Nebuchadnezzar recounts his own humbling in a royal letter. He dreamed of a great tree cut down, with a band of iron around its stump — a warning to humble himself. Daniel interprets: the king himself is the tree, and he will be driven from men to live like a beast for seven periods until he knows that the Most High rules. Twelve months later it happens exactly. When Nebuchadnezzar lifts his eyes to heaven and praises God, his reason returns.",
+      key_verses: [{ ref: "Daniel 4:37", text: "Now I, Nebuchadnezzar, praise and extol and honor the King of heaven, for all his works are right and his ways are just; and those who walk in pride he is able to humble." }]
+    },
+    {
+      number: 5,
+      summary: "King Belshazzar holds a great feast using the vessels taken from Jerusalem's temple. Suddenly a human hand writes on the wall: Mene, Mene, Tekel, Parsin. Daniel is summoned. He rebukes the king for not humbling himself like Nebuchadnezzar and interprets: God has numbered your days, you have been weighed and found wanting, your kingdom is divided and given to the Medes and Persians. That very night Belshazzar is killed.",
+      key_verses: [{ ref: "Daniel 5:27", text: "Tekel: you have been weighed in the balances and found wanting." }]
+    },
+    {
+      number: 6,
+      summary: "Under the Medes, Daniel is appointed one of three high officials and his excellence provokes jealousy. Rivals trick King Darius into signing a law that no one may pray to any god except the king for thirty days. Daniel prays three times a day as before and is thrown into the lions' den. God shuts the lions' mouths. In the morning Darius runs to the den and finds Daniel unharmed. His accusers are thrown in and immediately devoured.",
+      key_verses: [{ ref: "Daniel 6:22", text: "My God sent his angel and shut the lions' mouths, and they have not harmed me, because I was found blameless before him." }]
+    },
+    {
+      number: 7,
+      summary: "Daniel's first vision: four great beasts rise from the sea — a lion with eagle wings, a bear with three ribs in its mouth, a four-headed leopard, and a terrifying beast with iron teeth and ten horns. Then the Ancient of Days takes his throne — his garment white as snow, hair like pure wool — and the court is seated. The beasts are judged; dominion is given to one like a Son of Man coming on the clouds, whose kingdom will never pass away.",
+      key_verses: [{ ref: "Daniel 7:13-14", text: "And behold, with the clouds of heaven there came one like a son of man... And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him." }]
+    },
+    {
+      number: 8,
+      summary: "A vision of a ram with two horns (Medo-Persia) charging westward, then a goat with a conspicuous horn (Greece, Alexander) that shatters the ram. The great horn breaks and four others arise. From one comes a little horn that grows great, removes the daily sacrifice, and tramples the sanctuary. Gabriel explains the vision: it concerns the time of the end. Daniel is overwhelmed and lies sick for days.",
+      key_verses: [{ ref: "Daniel 8:25", text: "By his cunning he shall make deceit prosper under his hand, and in his own mind he shall become great. Without warning he shall destroy many. And he shall even rise up against the Prince of princes, and he shall be broken — but by no human hand." }]
+    },
+    {
+      number: 9,
+      summary: "Meditating on Jeremiah's seventy years, Daniel prays a great confession on behalf of his people — their sins, rebellion, and refusal to hear God's prophets. While he is still praying, Gabriel arrives at the hour of the evening sacrifice with the revelation of the seventy weeks: seventy weeks of years are decreed for Israel to finish transgression, atone for iniquity, bring in everlasting righteousness, and anoint the Most Holy Place.",
+      key_verses: [{ ref: "Daniel 9:19", text: "O Lord, hear; O Lord, forgive. O Lord, pay attention and act. Delay not, for your own sake, O my God, because your city and your people are called by your name." }]
+    },
+    {
+      number: 10,
+      summary: "Daniel fasts three weeks, then sees a glorious man by the Tigris whose face is like lightning and voice like a multitude. Daniel collapses. A hand touches him and raises him. The heavenly messenger explains he was delayed twenty-one days by the prince of Persia until Michael came to help — a glimpse into spiritual warfare behind world events. He has come to give Daniel understanding of what will befall Israel in the latter days.",
+      key_verses: [{ ref: "Daniel 10:12-13", text: "Fear not, Daniel, for from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words. The prince of the kingdom of Persia withstood me twenty-one days." }]
+    },
+    {
+      number: 11,
+      summary: "A detailed angelic account of history from Persia through Greece to the conflicts between the kings of the north (Syria) and south (Egypt), culminating in a willful king who exalts himself above every god and desecrates the sanctuary. He will come to his end with no one to help him. The account is so precise that critics have debated whether it is prophecy or history — the text presents it as prophetic revelation.",
+      key_verses: [{ ref: "Daniel 11:32", text: "He shall seduce with flattery those who violate the covenant, but the people who know their God shall stand firm and take action." }]
+    },
+    {
+      number: 12,
+      summary: "Michael the great prince stands up for God's people in a time of trouble unlike any before. Many who sleep in the dust will awake — some to everlasting life, some to shame. The wise will shine like the stars forever. Daniel is told to seal the book until the time of the end. He asks how long — the answer is cryptic: a time, times, and half a time. Daniel is told to go his way; he will rest and rise to his inheritance at the end of the days.",
+      key_verses: [{ ref: "Daniel 12:3", text: "And those who are wise shall shine like the brightness of the sky above; and those who turn many to righteousness, like the stars forever and ever." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "hosea",
+  name: "Hosea",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Hosea prophesied to the northern kingdom of Israel in its final decades before the Assyrian conquest of 722 BC. His marriage to an unfaithful woman named Gomer became a living parable of God's relationship with Israel — a husband who loves faithfully despite repeated betrayal. The book moves between anguished accusation and tender invitation, between threat of destruction and promise of restoration. Hosea's most enduring themes are the steadfast love (hesed) of God and the call for Israel to return with genuine repentance.",
+  themes: ["God's faithful love despite betrayal", "Spiritual adultery and idolatry", "The call to repentance", "Knowledge of God", "Judgment and restoration", "God as husband and father"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God commands Hosea to marry a woman of whoredom — Gomer daughter of Diblaim. She bears three children whose names are signs: Jezreel (judgment on the house of Jehu), Lo-Ruhamah ('no mercy'), and Lo-Ammi ('not my people'). Yet the chapter ends with a stunning reversal: in the place where they were called 'not my people,' they will be called 'children of the living God.'",
+      key_verses: [{ ref: "Hosea 1:10", text: "And in the place where it was said to them, 'You are not my people,' it shall be said to them, 'Children of the living God.'" }]
+    },
+    {
+      number: 2,
+      summary: "God pleads with Israel to plead with their mother — she is not his wife and he is not her husband. She chased after her lovers (the Baals), thinking they gave her grain and wine. God will block her path with thorns so she returns. Then he will allure her into the wilderness and speak tenderly. In that day she will call him 'my husband' not 'my master.' He will betroth her forever in righteousness, steadfast love, and faithfulness.",
+      key_verses: [{ ref: "Hosea 2:19", text: "And I will betroth you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy." }]
+    },
+    {
+      number: 3,
+      summary: "God commands Hosea to love his wife again, though she is an adulteress — just as God loves Israel though she turns to other gods. Hosea buys Gomer back for fifteen shekels of silver and a measure of barley. She must dwell with him and not play the whore. Afterward the children of Israel will return and seek the LORD and David their king, and come in fear to the LORD in the latter days.",
+      key_verses: [{ ref: "Hosea 3:5", text: "Afterward the children of Israel shall return and seek the LORD their God, and David their king, and they shall come in fear to the LORD and to his goodness in the latter days." }]
+    },
+    {
+      number: 4,
+      summary: "God brings a charge against the inhabitants of Israel: there is no faithfulness or steadfast love, no knowledge of God in the land. Swearing, lying, murder, stealing, and adultery break out; bloodshed follows bloodshed. The priests are at fault — they feed on the sin of the people and set their heart on their iniquity. My people are destroyed for lack of knowledge, because they rejected knowledge.",
+      key_verses: [{ ref: "Hosea 4:6", text: "My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me." }]
+    },
+    {
+      number: 5,
+      summary: "Judgment is pronounced on priests, Israel, and the house of the king — all have been a snare at Mizpah and a net spread on Tabor. Israel's pride testifies against her; Ephraim stumbles in her guilt. They go with their flocks to seek the LORD, but he has withdrawn. In their distress they seek him, but he will not be found. He will be like a lion to Ephraim until they acknowledge their guilt and seek his face.",
+      key_verses: [{ ref: "Hosea 5:15", text: "I will return again to my place, until they acknowledge their guilt and seek my face, and in their distress earnestly seek me." }]
+    },
+    {
+      number: 6,
+      summary: "A call to return: 'Come, let us return to the LORD; he has torn us, but he will heal us.' God rebukes the response — their love is like a morning cloud, like the dew that goes early away. God desires steadfast love, not sacrifice, and knowledge of God more than burnt offerings. Gilead is a city of evildoers, and the priests are like bandits who murder on the road to Shechem.",
+      key_verses: [{ ref: "Hosea 6:6", text: "For I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings." }]
+    },
+    {
+      number: 7,
+      summary: "Israel's wickedness surrounds God when he would heal them. They are all adulterers, as hot as an oven. Their king falls by their drunkenness; their princes rage. Ephraim is like a silly dove — calling to Egypt, going to Assyria. Like a wild donkey wandering alone, they have hired lovers among the nations. Though God would redeem them, they speak lies against him. They return but not upward.",
+      key_verses: [{ ref: "Hosea 7:11", text: "Ephraim is like a dove, silly and without sense, calling to Egypt, going to Assyria." }]
+    },
+    {
+      number: 8,
+      summary: "Set the trumpet to your lips! An eagle over the house of the LORD — Israel has transgressed the covenant. They set up kings but not through God; they made idols from silver and gold. Israel has sown the wind and shall reap the whirlwind. They go up to Assyria, a wild donkey wandering alone. Because Israel has forgotten his Maker and built palaces, God will send fire upon his cities.",
+      key_verses: [{ ref: "Hosea 8:7", text: "For they sow the wind, and they shall reap the whirlwind. The standing grain has no heads; it shall yield no flour; if it were to yield, strangers would devour it." }]
+    },
+    {
+      number: 9,
+      summary: "Israel must not rejoice like the nations — she has played the whore against her God. The days of punishment have come. The prophet is a fool, the man of the spirit is mad — because of their great iniquity. Ephraim's glory will fly away like a bird. Even if they bring up children, God will bereave them. The time of reckoning has come. God loves Israel — but they went to Baal-peor and became as detestable as the thing they loved.",
+      key_verses: [{ ref: "Hosea 9:10", text: "Like grapes in the wilderness, I found Israel. Like the first fruit on the fig tree in its first season, I saw your fathers. But they came to Baal-peor and consecrated themselves to the thing of shame." }]
+    },
+    {
+      number: 10,
+      summary: "Israel is a luxuriant vine that produces fruit for itself — the more it prospered the more altars it built. The calf of Beth-aven will be carried to Assyria. Israel is a trained heifer that loved to thresh — but God will put a yoke on her neck. Sow righteousness, reap steadfast love; break up your fallow ground. But Israel trusted in your own ways, in your mighty warriors, and battle will engulf the people.",
+      key_verses: [{ ref: "Hosea 10:12", text: "Sow for yourselves righteousness; reap steadfast love; break up your fallow ground, for it is the time to seek the LORD, that he may come and rain righteousness upon you." }]
+    },
+    {
+      number: 11,
+      summary: "One of Scripture's most tender passages: 'When Israel was a child, I loved him, and out of Egypt I called my son.' God taught Ephraim to walk, took him up in his arms — yet the more he called, the more they went away. God's heart recoils; his compassion grows warm and tender. He will not execute his burning anger; he is God, not man. He will roar like a lion and his children will come from the west, trembling from Egypt and Assyria.",
+      key_verses: [{ ref: "Hosea 11:1", text: "When Israel was a child, I loved him, and out of Egypt I called my son." }]
+    },
+    {
+      number: 12,
+      summary: "Ephraim feeds on wind and pursues the east wind — lies and violence. Jacob's history is recalled: he struggled with God in the womb and in manhood, he wept and sought his favor. God spoke through the prophets — but Ephraim has deeply offended. The LORD is the God of hosts; the LORD is his memorial name. Return to your God; hold fast to love and justice, and wait for your God continually.",
+      key_verses: [{ ref: "Hosea 12:6", text: "So you, by the help of your God, return, hold fast to love and justice, and wait continually for your God." }]
+    },
+    {
+      number: 13,
+      summary: "Ephraim was exalted in Israel, but when he offended through Baal, he died. Now they sin more and make idols. God declares: I am the LORD your God from the land of Egypt — you knew no God but me; there is no savior besides me. I will ransom them from the power of Sheol; I will redeem them from Death. O Death, where are your plagues? O Sheol, where is your sting? Samaria shall bear her guilt and fall by the sword.",
+      key_verses: [{ ref: "Hosea 13:14", text: "I shall ransom them from the power of Sheol; I shall redeem them from Death. O Death, where are your plagues? O Sheol, where is your sting?" }]
+    },
+    {
+      number: 14,
+      summary: "The final call to return: Israel has stumbled in its iniquity. Return to the LORD, say to him: 'Take away all iniquity; receive us graciously.' God promises to heal their apostasy and love them freely. He will be like the dew to Israel — it shall blossom like the lily. Whoever is wise, let him understand these things; the ways of the LORD are right, and the upright walk in them, but transgressors stumble.",
+      key_verses: [{ ref: "Hosea 14:4", text: "I will heal their apostasy; I will love them freely, for my anger has turned from them." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "joel",
+  name: "Joel",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Joel uses a devastating locust plague as the launching point for a sweeping vision of the Day of the LORD — a day of darkness and destruction, but also of repentance and restoration. God calls his people to return with fasting and mourning, and promises to restore the years the locusts have eaten. The book's most famous prophecy — that God will pour out his Spirit on all flesh — was cited by Peter at Pentecost as its fulfillment.",
+  themes: ["The Day of the LORD", "Repentance and fasting", "God's Spirit poured out on all", "Restoration after judgment", "Judgment on the nations"],
+  chapters: [
+    {
+      number: 1,
+      summary: "A catastrophic locust plague has stripped the land bare — what the cutting locust left, the swarming locust has eaten. The grain offering and drink offering are cut off from the house of the LORD. Joel calls priests to lament and put on sackcloth; farmers mourn for the ruined harvest. He calls a solemn assembly at the house of God. The day of the LORD is near — as destruction from the Almighty it comes.",
+      key_verses: [{ ref: "Joel 1:15", text: "Alas for the day! For the day of the LORD is near, and as destruction from the Almighty it comes." }]
+    },
+    {
+      number: 2,
+      summary: "Blow the trumpet in Zion — a great and powerful army advances like a locust horde, darkening the sun and moon. Yet even now God calls: return with all your heart, with fasting and weeping. God is gracious and merciful, slow to anger. He relents of disaster. If they return, he will restore the grain, the wine, the oil. He will pour out his Spirit on all flesh — sons and daughters will prophesy, old men dream dreams. Everyone who calls on the LORD's name will be saved.",
+      key_verses: [{ ref: "Joel 2:28", text: "And it shall come to pass afterward, that I will pour out my Spirit on all flesh; your sons and your daughters shall prophesy, your old men shall dream dreams, and your young men shall see visions." }]
+    },
+    {
+      number: 3,
+      summary: "In those days God will restore Judah's fortunes. The nations are summoned to the Valley of Jehoshaphat for judgment — they sold his people, scattered them, and divided his land. Beat your plowshares into swords: the nations must go up to fight. God will roar from Zion; the heavens and earth will shake. But the LORD will be a refuge for his people. Judah will be inhabited forever; Egypt and Edom will become desolate.",
+      key_verses: [{ ref: "Joel 3:16", text: "The LORD roars from Zion, and utters his voice from Jerusalem, and the heavens and the earth quake. But the LORD is a refuge to his people, a stronghold to the people of Israel." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "amos",
+  name: "Amos",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Amos was a shepherd and fig-tree farmer from the southern town of Tekoa who was sent by God to prophesy in the prosperous northern kingdom of Israel around 760 BC. His message was unsparing: the wealthy elite were crushing the poor, perverting justice, and trusting in their own prosperity while maintaining empty religious ritual. The Day of the LORD they eagerly anticipated would be darkness and not light. Yet the book closes with a stunning promise of Davidic restoration and abundance.",
+  themes: ["Justice for the poor and oppressed", "The danger of empty religion", "The Day of the LORD as judgment", "Privilege brings greater responsibility", "Restoration of the Davidic line"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Amos opens with a thunderclap: the LORD roars from Zion. He then pronounces judgment on Israel's neighbors in a widening circle — Damascus (threshed Gilead with iron sledges), Gaza (deported whole communities to Edom), Tyre (delivered captives to Edom, broke a covenant of brotherhood), Edom (pursued his brother with the sword), and Ammon (ripped open pregnant women in Gilead to enlarge their territory).",
+      key_verses: [{ ref: "Amos 1:3", text: "Thus says the LORD: 'For three transgressions of Damascus, and for four, I will not revoke the punishment, because they have threshed Gilead with threshing sledges of iron.'" }]
+    },
+    {
+      number: 2,
+      summary: "The oracle circle continues with Moab, then pivots to Judah (despised the law of the LORD), and finally arrives at Israel — the real target. Israel sold the righteous for silver and the needy for a pair of sandals; they trampled the poor and profaned God's holy name. God brought them out of Egypt, raised up prophets from their sons — but they commanded the prophets not to prophesy. God will crush them like a cart full of sheaves.",
+      key_verses: [{ ref: "Amos 2:7", text: "They trample the head of the poor into the dust of the earth and turn aside the way of the afflicted." }]
+    },
+    {
+      number: 3,
+      summary: "Hear this word, Israel: you only have I known of all the families of the earth — therefore I will punish you for all your iniquities. The lion has roared — who will not fear? The Lord GOD has spoken — who can but prophesy? God will punish the altars of Bethel; the great houses will be struck down. The prophet uses a series of questions to insist that this disaster is God's work, not chance.",
+      key_verses: [{ ref: "Amos 3:2", text: "You only have I known of all the families of the earth; therefore I will punish you for all your iniquities." }]
+    },
+    {
+      number: 4,
+      summary: "The women of Samaria are mocked as 'cows of Bashan' who oppress the poor and crush the needy. Come to Bethel and transgress — multiply your transgressions! God recounts five escalating judgments he sent: famine, drought, blight and locusts, pestilence and sword, and overthrow like Sodom — yet after each one: 'you did not return to me.' Therefore he will deal with Israel in a way he has never done before.",
+      key_verses: [{ ref: "Amos 4:12", text: "Therefore thus I will do to you, O Israel; because I will do this to you, prepare to meet your God, O Israel!" }]
+    },
+    {
+      number: 5,
+      summary: "A lament: the virgin Israel has fallen, forsaken on her land. Seek the LORD and live! Seek good, not evil, that you may live. They hate the one who reproves in the gate and abhor the one who speaks the truth. The Day of the LORD they desire will be darkness, not light — as when a man flees from a lion and meets a bear. God hates and despises their feasts; let justice roll down like waters and righteousness like an ever-flowing stream.",
+      key_verses: [{ ref: "Amos 5:24", text: "But let justice roll down like waters, and righteousness like an ever-flowing stream." }]
+    },
+    {
+      number: 6,
+      summary: "Woe to those who are at ease in Zion and feel secure on the mountain of Samaria — lying on beds of ivory, eating lambs from the flock, drinking wine in bowls, anointing themselves with the finest oils, but not grieving over the ruin of Joseph. Therefore they will be among the first to go into exile. God abhors the pride of Jacob; he will deliver up the city with all that is in it.",
+      key_verses: [{ ref: "Amos 6:1", text: "Woe to those who are at ease in Zion, and to those who feel secure on the mountain of Samaria." }]
+    },
+    {
+      number: 7,
+      summary: "Three visions: locusts strip the land bare — Amos intercedes and God relents. A judgment of fire — Amos intercedes and God relents. A plumb line held against Israel — this time God will not relent. Then the priest Amaziah tells Amos to go back to Judah and stop prophesying at Bethel. Amos replies: I was no prophet by training — God took me from following the flock. Amaziah himself will die in exile.",
+      key_verses: [{ ref: "Amos 7:14-15", text: "Then Amos answered and said to Amaziah, 'I was no prophet, nor a prophet's son, but I was a herdsman and a dresser of sycamore figs. But the LORD took me from following the flock.'" }]
+    },
+    {
+      number: 8,
+      summary: "The vision of a basket of summer fruit: the end has come upon Israel. The merchants who trample the needy and make the ephah small and the shekel great — God will never forget their deeds. The sun will go down at noon; the land will mourn. A famine is coming — not of bread or water, but of hearing the words of the LORD. They will wander from sea to sea seeking it and not find it.",
+      key_verses: [{ ref: "Amos 8:11", text: "Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land — not a famine of bread, nor a thirst for water, but of hearing the words of the LORD." }]
+    },
+    {
+      number: 9,
+      summary: "God stands by the altar commanding destruction — no one will escape. Though they dig to Sheol or climb to heaven, he will find them. Yet God will not utterly destroy the house of Jacob. He will shake Israel among the nations as with a sieve. Then the fallen booth of David will be raised up; Israel will rebuild the ruined cities and plant vineyards. The mountains shall drip sweet wine and the hills shall flow with it — they will never again be uprooted.",
+      key_verses: [{ ref: "Amos 9:11", text: "In that day I will raise up the booth of David that is fallen and repair its breaches, and raise up its ruins and rebuild it as in the days of old." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "obadiah",
+  name: "Obadiah",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Obadiah is the shortest book in the Old Testament — a single chapter of 21 verses — and its entire focus is the condemnation of Edom, the nation descended from Esau. When Babylon destroyed Jerusalem, Edom stood by, gloated, and even handed over survivors. The book pronounces God's judgment on Edom's pride and betrayal, and closes with the assurance that the house of Jacob will possess its inheritance and 'the kingdom shall be the LORD's.'",
+  themes: ["Judgment on Edom for betraying Judah", "Pride goes before destruction", "God's justice for his people", "The coming kingdom of God"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God declares judgment on Edom, whose pride in its mountain strongholds has deceived it: 'Who will bring me down to the ground?' God will bring it down. On the day Edom stood aside when Jerusalem fell, watched strangers carry off Jacob's wealth, and even handed over survivors — that day sealed Edom's fate. As Edom did, so it will be done. Jacob's house will be a fire, Edom stubble — and the kingdom shall be the LORD's.",
+      key_verses: [{ ref: "Obadiah 1:15", text: "For the day of the LORD is near upon all the nations. As you have done, it shall be done to you; your deeds shall return on your own head." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "jonah",
+  name: "Jonah",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Jonah is unlike any other prophetic book — it is a narrative about the prophet rather than a collection of his oracles. Jonah flees from God's call to preach to Nineveh, the Assyrian capital and Israel's feared enemy. The book uses irony throughout: pagan sailors and Ninevites respond to God while the prophet sulks. At its heart the book asks whether God's mercy extends to Israel's enemies — and answers with an unmistakable yes.",
+  themes: ["The universality of God's mercy", "Reluctant obedience", "Repentance and forgiveness", "God's sovereignty over nature and nations", "Human prejudice vs. divine compassion"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God commands Jonah to go to Nineveh and cry against its wickedness. Jonah flees in the opposite direction, boarding a ship to Tarshish. God hurls a great wind onto the sea. The terrified sailors pray and cast lots — the lot falls on Jonah. He confesses he is fleeing from the LORD and tells them to throw him into the sea. They reluctantly do so; the sea grows calm. They offer a sacrifice and make vows. A great fish swallows Jonah.",
+      key_verses: [{ ref: "Jonah 1:3", text: "But Jonah rose to flee to Tarshish from the presence of the LORD. He went down to Joppa and found a ship going to Tarshish." }]
+    },
+    {
+      number: 2,
+      summary: "From inside the fish, Jonah prays a psalm of thanksgiving: in his distress he called to God, and God heard him. Weeds wrapped around his head at the roots of the mountains; he descended to the land whose bars closed upon him forever — yet God brought up his life from the pit. Salvation belongs to the LORD. The fish vomits Jonah onto dry land.",
+      key_verses: [{ ref: "Jonah 2:9", text: "But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!" }]
+    },
+    {
+      number: 3,
+      summary: "God sends Jonah to Nineveh a second time. Jonah walks one day's journey into the city declaring: 'Yet forty days, and Nineveh shall be overthrown.' The Ninevites believe God; they declare a fast and put on sackcloth, from the greatest to the least. Even the king rises from his throne, removes his robe, and sits in ashes. When God sees that they turn from their evil, he relents of the disaster he planned.",
+      key_verses: [{ ref: "Jonah 3:10", text: "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it." }]
+    },
+    {
+      number: 4,
+      summary: "Jonah is furious that God spared Nineveh — he knew God was gracious and merciful and would relent, which is why he fled. He asks to die. God appoints a plant to give him shade, then a worm to kill it, then a scorching wind. Jonah rages over the plant. God's final word: you cared about a plant you did not make — should I not care about Nineveh, with more than 120,000 people who do not know their right hand from their left?",
+      key_verses: [{ ref: "Jonah 4:11", text: "And should not I pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left, and also much cattle?" }]
+    }
+  ]
+});
