@@ -3572,3 +3572,267 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "micah",
+  name: "Micah",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Micah was a rural prophet from Moresheth who prophesied during the reigns of Jotham, Ahaz, and Hezekiah. He directed his message against both the northern kingdom of Samaria and the southern kingdom of Judah, condemning corrupt leaders, false prophets, and those who exploited the poor. Yet Micah also contains some of Scripture's most luminous promises — the ruler from Bethlehem, the nations streaming to God's mountain, and the incomparable question: 'What does the LORD require of you but to do justice, love kindness, and walk humbly with your God?'",
+  themes: ["Justice for the poor", "Corrupt leadership condemned", "Bethlehem and the messianic ruler", "The mountain of the LORD", "God's incomparable mercy", "Judgment and restoration"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The LORD comes out of his holy temple — mountains melt beneath him like wax before fire. He is coming for the transgression of Jacob and for the sins of the house of Israel. Samaria will be made a heap of rubble. The disaster will reach to Jerusalem's very gate. Micah laments with wailing and mourning, going barefoot — the wound is incurable.",
+      key_verses: [{ ref: "Micah 1:3", text: "For behold, the LORD is coming out of his place, and will come down and tread upon the high places of the earth." }]
+    },
+    {
+      number: 2,
+      summary: "Woe to those who lie awake devising wickedness — at morning light they do it, because it is in the power of their hand. They covet fields and seize them, houses and take them. God devises disaster against them. The false prophets tell the people what they want to hear. Yet God promises: I will surely gather the remnant of Israel — the one who breaks open the way will go before them.",
+      key_verses: [{ ref: "Micah 2:2", text: "They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance." }]
+    },
+    {
+      number: 3,
+      summary: "Micah rebukes the rulers who hate good and love evil, who tear the skin from his people. He condemns prophets who cry 'peace' when their mouths are filled but declare war against those who give nothing. Because of Jerusalem's corrupt leaders and false prophets who build the city with bloodshed, Zion shall be plowed as a field and Jerusalem a heap of ruins.",
+      key_verses: [{ ref: "Micah 3:12", text: "Therefore because of you Zion shall be plowed as a field; Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height." }]
+    },
+    {
+      number: 4,
+      summary: "In the latter days the mountain of the LORD's house will be established as the highest — all nations will stream to it to learn his ways. He will judge between many peoples; they will beat their swords into plowshares. Every man will sit under his vine and fig tree, and none will make them afraid. Though Zion will go to Babylon first, God will ransom her there and redeem her from her enemies.",
+      key_verses: [{ ref: "Micah 4:3", text: "He shall judge between many peoples, and shall decide disputes for strong nations far away; and they shall beat their swords into plowshares, and their spears into pruning hooks." }]
+    },
+    {
+      number: 5,
+      summary: "But you, Bethlehem Ephrathah, too small to be among the clans of Judah — from you will come one who is to be ruler in Israel, whose coming forth is from ancient days. He will shepherd his flock in the strength of the LORD, and his greatness will reach to the ends of the earth. He will be their peace. The remnant of Jacob among the nations will be like a lion among the beasts of the forest.",
+      key_verses: [{ ref: "Micah 5:2", text: "But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days." }]
+    },
+    {
+      number: 6,
+      summary: "God brings a lawsuit against Israel — rise, plead your case before the mountains. What have I done to you? I brought you out of Egypt, redeemed you from slavery. The people ask: what will satisfy God — thousands of rams, rivers of oil, even a firstborn child? Micah delivers one of Scripture's greatest summaries: he has told you what is good — to do justice, love kindness, and walk humbly with your God.",
+      key_verses: [{ ref: "Micah 6:8", text: "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?" }]
+    },
+    {
+      number: 7,
+      summary: "Micah laments: the godly has perished from the earth; the best of them is like a brier. Put no trust in a neighbor — a man's enemies are the men of his own house. But as for Micah, he will look to the LORD and wait for the God of his salvation. When he falls he will rise; when he sits in darkness the LORD will be his light. God will show his wondrous deeds and cast their sins into the depths of the sea.",
+      key_verses: [{ ref: "Micah 7:18-19", text: "Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance? He does not retain his anger forever, because he delights in steadfast love. He will again have compassion on us; he will tread our iniquities underfoot. You will cast all our sins into the depths of the sea." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "nahum",
+  name: "Nahum",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Nahum prophesied the fall of Nineveh, the capital of Assyria, which had oppressed Israel and the ancient Near East for over a century. Unlike Jonah's message of repentance, Nahum brings only doom — Nineveh's time is up. The book is remarkable for its vivid, almost cinematic poetry describing the city's violent end. It is a reminder that while God is slow to anger, he will by no means clear the guilty, and that his power to deliver his people from oppressors is absolute.",
+  themes: ["God's justice against oppressors", "The fall of Assyria/Nineveh", "God as refuge for his people", "Divine wrath and power", "The end of cruelty"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The LORD is a jealous and avenging God — slow to anger but great in power; he will by no means clear the guilty. Who can endure his indignation? His wrath is poured out like fire; rocks are broken into pieces before him. Yet the LORD is good, a stronghold in the day of trouble, and he knows those who take refuge in him. From Nineveh an evil counselor has come — but he will be cut off.",
+      key_verses: [{ ref: "Nahum 1:7", text: "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him." }]
+    },
+    {
+      number: 2,
+      summary: "The attacker advances against Nineveh — man the ramparts, watch the road. The city's gates are thrown open, the palace collapses. Nineveh is like a pool whose waters drain away. 'Halt, halt!' they cry, but no one turns back. Where now is the lions' den? Nineveh had preyed on nations without limit. The LORD of hosts has spoken: I am against you. I will burn your chariots in smoke and the sword will devour your young lions.",
+      key_verses: [{ ref: "Nahum 2:13", text: "Behold, I am against you, declares the LORD of hosts, and I will burn your chariots in smoke, and the sword shall devour your young lions." }]
+    },
+    {
+      number: 3,
+      summary: "Woe to the bloody city — full of lies and plunder, never without victims. Crack of whip, rumble of wheel, galloping horse, bounding chariot! Nineveh played the harlot, the mistress of sorceries, who betrayed nations with her wares. Are you better than Thebes? She was carried into exile. Your shepherds slumber, your people are scattered on the mountains, your wound is grievous — all who hear the news clap their hands over you.",
+      key_verses: [{ ref: "Nahum 3:19", text: "There is no easing your hurt; your wound is grievous. All who hear the news about you clap their hands over you. For upon whom has not come your unceasing evil?" }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "habakkuk",
+  name: "Habakkuk",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Habakkuk is unique among the prophets — rather than proclaiming God's word to the people, it records the prophet's wrestling match with God. Habakkuk begins with a raw complaint: why does God tolerate injustice in Judah? God's answer — that he is raising up Babylon as his instrument — only deepens the crisis. Habakkuk's second complaint is anguished: how can God use a nation more wicked than Judah? The resolution comes not in a tidy answer but in a declaration of radical trust and a vision of God's ultimate triumph.",
+  themes: ["Honest complaint and lament before God", "The righteous live by faith", "God's sovereignty over evil nations", "Trust in God despite circumstances", "Divine wrath and mercy"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Habakkuk's first complaint: O LORD, how long shall I cry for help before you listen? The law is paralyzed; justice never goes forth; the wicked surround the righteous. God answers: I am raising up the Chaldeans (Babylon) — that bitter and hasty nation — to carry out judgment. Habakkuk's second complaint: you are too pure to look at evil — so why do you tolerate the treacherous Babylonians swallowing nations like fish with no one to stop them?",
+      key_verses: [{ ref: "Habakkuk 1:5", text: "Look among the nations, and see; wonder and be astounded. For I am doing a work in your days that you would not believe if told." }]
+    },
+    {
+      number: 2,
+      summary: "Habakkuk stands at his watchpost to wait for God's answer. God tells him to write the vision plainly on tablets so that a herald may run with it: it awaits its appointed time, it will not delay. The righteous shall live by faith. God then pronounces five woes on Babylon: woe to the plunderer, the one who builds unjustly with blood, who builds a city on violence, who makes his neighbor drunk. But the LORD is in his holy temple — let all the earth keep silence before him.",
+      key_verses: [{ ref: "Habakkuk 2:4", text: "Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith." }]
+    },
+    {
+      number: 3,
+      summary: "Habakkuk's prayer-poem: God came from Teman, the Holy One from Mount Paran — his glory covered the heavens, his radiance was like the sunlight. He split the earth with rivers; the mountains saw him and writhed. He went out for the salvation of his people. Habakkuk trembles but declares: though the fig tree does not blossom, the vine has no fruit, the olive fails, the fields yield nothing — yet I will rejoice in the LORD and take joy in the God of my salvation.",
+      key_verses: [{ ref: "Habakkuk 3:17-18", text: "Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food... yet I will rejoice in the LORD; I will take joy in the God of my salvation." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "zephaniah",
+  name: "Zephaniah",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Zephaniah prophesied in the reign of King Josiah, before Josiah's great reform, calling Judah to repentance in the face of the coming Day of the LORD. His vision of that Day is among the most comprehensive in the prophets — a sweeping judgment on Judah and all the nations. Yet the book ends with one of the Old Testament's most joyful passages: God himself will rejoice over his restored people with loud singing.",
+  themes: ["The Day of the LORD", "Universal judgment", "Seeking humility and righteousness", "The humble remnant", "God's joy over his people", "Restoration of Jerusalem"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God will sweep away everything from the face of the earth — man and beast, birds and fish. He will stretch out his hand against Judah and Jerusalem for their idolatry, those who bow to the host of heaven, those who have turned back from following the LORD. The great day of the LORD is near and coming fast — a day of wrath, distress, anguish, ruin, devastation, darkness and gloom. Even their silver and gold will not deliver them.",
+      key_verses: [{ ref: "Zephaniah 1:14", text: "The great day of the LORD is near, near and hastening fast; the sound of the day of the LORD is bitter; the mighty man cries aloud there." }]
+    },
+    {
+      number: 2,
+      summary: "Gather together, O shameless nation — seek the LORD, seek humility, before the anger of the LORD comes upon you. Oracles against the nations: Philistia will become a pasture for sheep; Moab and Ammon, who taunted and magnified themselves against Israel, will become like Sodom; Cush will be slain by the sword; Assyria and the great city Nineveh will become a desolation, a place where owls hoot in the windows.",
+      key_verses: [{ ref: "Zephaniah 2:3", text: "Seek the LORD, all you humble of the land, who do his just commands; seek righteousness; seek humility; perhaps you may be hidden on the day of the anger of the LORD." }]
+    },
+    {
+      number: 3,
+      summary: "Woe to the rebellious, defiled, oppressing city — Jerusalem. Her officials are roaring lions; her prophets are fickle traitors; her priests profane the sacred. Yet God within her is righteous and does no injustice. He will leave in her midst a humble and lowly people who take refuge in the LORD. Then God will restore the fortunes of his people, quiet them with his love, and exult over them with loud singing.",
+      key_verses: [{ ref: "Zephaniah 3:17", text: "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "haggai",
+  name: "Haggai",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Haggai prophesied in 520 BC to the returned exiles in Jerusalem who had come back from Babylon but left the LORD's temple in ruins while building their own panelled houses. He gave four precise messages urging them to rebuild the temple, promising God's presence with them and declaring that the glory of the latter temple would surpass even Solomon's. Zerubbabel the governor and Joshua the priest responded, and work on the temple resumed.",
+  themes: ["Prioritizing God over personal comfort", "The glory of the temple", "God's presence with his people", "Covenantal blessing", "Zerubbabel as God's signet ring"],
+  chapters: [
+    {
+      number: 1,
+      summary: "In the second year of Darius, God speaks through Haggai: this people says the time has not yet come to rebuild the house of the LORD — yet they live in panelled houses while God's house lies in ruins. Consider your ways: you plant much but harvest little, eat but never have enough, drink but never have your fill. Why? Because my house lies in ruins while you busy yourselves with your own houses. Zerubbabel, Joshua, and all the people obey — and work on the temple resumes.",
+      key_verses: [{ ref: "Haggai 1:7-8", text: "Thus says the LORD of hosts: Consider your ways. Go up to the hills and bring wood and build the house, that I may take pleasure in it and that I may be glorified, says the LORD." }]
+    },
+    {
+      number: 2,
+      summary: "Who among you remembers this house in its former glory? How does it look to you now? Like nothing. Yet God says: take courage, work, for I am with you. In a little while he will shake the heavens and earth, the nations, and fill this house with his glory — the latter glory will be greater than the former. A question about holiness and uncleanness: this people and this nation is unclean, but from this day on God will bless. Zerubbabel is called God's signet ring — a sign of God's chosen purposes.",
+      key_verses: [{ ref: "Haggai 2:9", text: "The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "zechariah",
+  name: "Zechariah",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Zechariah was a contemporary of Haggai who prophesied to the returned exiles in Jerusalem. His book is the longest of the Minor Prophets and among the most complex, combining eight vivid night visions, prophetic oracles, and two extended apocalyptic sections. It contains more messianic prophecy than any other minor prophet — the humble king on a donkey, thirty pieces of silver, the pierced one, and the shepherd struck down. The book's sweeping conclusion envisions the LORD becoming king over all the earth.",
+  themes: ["Messianic prophecy", "The restoration of Jerusalem", "God's Spirit at work", "The humble king", "The pierced one", "The LORD king over all the earth", "Cleansing and holiness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Return to me and I will return to you — says the LORD of hosts. The first night vision: a man on a red horse stands among myrtle trees in a glen; behind him are red, sorrel, and white horses — God's patrol of the earth. The earth is at rest, but Jerusalem has been punished for seventy years. God is exceedingly jealous for Jerusalem and angry with the complacent nations. He will return with compassion; Jerusalem will be chosen again.",
+      key_verses: [{ ref: "Zechariah 1:3", text: "Therefore say to them, Thus declares the LORD of hosts: Return to me, says the LORD of hosts, and I will return to you, says the LORD of hosts." }]
+    },
+    {
+      number: 2,
+      summary: "Vision of four horns and four craftsmen: the horns are the nations that scattered Judah; the craftsmen come to terrify and throw them down. Then a man with a measuring line goes to measure Jerusalem. An angel says: Jerusalem will be inhabited as unwalled villages, for she will have so many people. God himself will be a wall of fire around her and glory within her. Sing and rejoice, daughter of Zion — God is coming to dwell in your midst.",
+      key_verses: [{ ref: "Zechariah 2:10", text: "Sing and rejoice, O daughter of Zion, for behold, I come and I will dwell in your midst, declares the LORD." }]
+    },
+    {
+      number: 3,
+      summary: "Joshua the high priest stands before the angel of the LORD with Satan accusing him. God rebukes Satan — is not Joshua a brand plucked from the fire? His filthy garments are removed and he is clothed in pure vestments and a clean turban. He is given access to the courts of heaven if he walks in God's ways. God declares: I will bring my servant the Branch. I will remove the iniquity of the land in a single day.",
+      key_verses: [{ ref: "Zechariah 3:9", text: "For behold, on the stone that I have set before Joshua, on a single stone with seven eyes, I will engrave its inscription, declares the LORD of hosts, and I will remove the iniquity of this land in a single day." }]
+    },
+    {
+      number: 4,
+      summary: "A vision of a golden lampstand with seven lamps and two olive trees on either side. The angel explains: these are the word of the LORD to Zerubbabel — not by might, nor by power, but by my Spirit, says the LORD of hosts. Who are you, O great mountain? Before Zerubbabel you shall become a plain. His hands have laid the temple's foundation; his hands will complete it. The two olive trees are the two anointed ones who stand by the Lord of the whole earth.",
+      key_verses: [{ ref: "Zechariah 4:6", text: "Not by might, nor by power, but by my Spirit, says the LORD of hosts." }]
+    },
+    {
+      number: 5,
+      summary: "Two visions of judgment: a flying scroll — thirty feet long, fifteen feet wide — curses every thief and everyone who swears falsely; it enters the house of the wrongdoer and consumes it. Then a woman sitting in a basket represents wickedness — two women with stork wings carry the basket to Babylon, where a house is built for it. Wickedness is removed from the land and given its own home in exile.",
+      key_verses: [{ ref: "Zechariah 5:3", text: "This is the curse that goes out over the face of the whole land. For everyone who steals shall be cleaned out according to what is on one side, and everyone who swears falsely shall be cleaned out according to what is on the other side." }]
+    },
+    {
+      number: 6,
+      summary: "The eighth vision: four chariots with horses of different colors patrol the earth, representing God's rule over the whole world. Then Zechariah is told to crown Joshua the high priest as a symbolic act. He will bear royal honor and be a priest on his throne — a man called the Branch will build the temple of the LORD. This is a priestly-royal figure: king and priest united in one person.",
+      key_verses: [{ ref: "Zechariah 6:12-13", text: "Behold, the man whose name is the Branch: for he shall branch out from his place, and he shall build the temple of the LORD. It is he who shall build the temple of the LORD and shall bear royal honor, and shall sit and rule on his throne." }]
+    },
+    {
+      number: 7,
+      summary: "A delegation from Bethel asks the priests whether they should continue fasting in the fifth month, as they have done for decades. God's answer through Zechariah: was that fasting really for me? Render true judgments, show kindness and mercy to one another, do not oppress the widow or orphan — this is what I said before, and they refused to listen. Therefore the pleasant land became desolate.",
+      key_verses: [{ ref: "Zechariah 7:9", text: "Thus says the LORD of hosts, Render true judgments, show kindness and mercy to one another, do not oppress the widow, the fatherless, the sojourner, or the poor." }]
+    },
+    {
+      number: 8,
+      summary: "God declares ten promises of restoration: he is jealous for Zion with great jealousy; he will dwell in Jerusalem; old men and women will sit in its streets; boys and girls will play there. He will save his people from east and west and bring them home. Let your hands be strong. Ten men from the nations will grab the robe of a Jew saying: let us go with you, for we have heard that God is with you.",
+      key_verses: [{ ref: "Zechariah 8:23", text: "In those days ten men from the nations of every tongue shall take hold of the robe of a Jew, saying, 'Let us go with you, for we have heard that God is with you.'" }]
+    },
+    {
+      number: 9,
+      summary: "An oracle: God will deal with the city-states of Syria, Philistia, Tyre, and Sidon. Then comes the prophecy of the messianic king: Rejoice greatly, O daughter of Zion! Behold your king is coming — righteous and having salvation, humble and mounted on a donkey. He will cut off the war chariot and the battle bow; he will speak peace to the nations. His rule will be from sea to sea. God will free the prisoners from the waterless pit through the blood of the covenant.",
+      key_verses: [{ ref: "Zechariah 9:9", text: "Rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem! Behold, your king is coming to you; righteous and having salvation is he, humble and mounted on a donkey." }]
+    },
+    {
+      number: 10,
+      summary: "Ask rain from the LORD in the season of spring rain. The diviners and dreamers speak falsehood — the people wander like sheep without a shepherd. God will strengthen the house of Judah and Joseph. He will bring them back from Egypt and Assyria, gathering them in. They will pass through the sea of trouble; the waves of the sea will be struck down; all the depths of the Nile will dry up.",
+      key_verses: [{ ref: "Zechariah 10:12", text: "I will make them strong in the LORD, and they shall walk in his name, declares the LORD." }]
+    },
+    {
+      number: 11,
+      summary: "A mysterious passage: Zechariah acts as a shepherd to a flock doomed for slaughter. He takes two staffs named Favor and Union. He breaks the staff Favor, annulling the covenant with the peoples. He asks for his wages and is paid thirty pieces of silver — the price the LORD tells him to throw to the potter in the temple. He breaks the staff Union, breaking the brotherhood between Judah and Israel. Then a worthless shepherd who will not care for the flock is announced.",
+      key_verses: [{ ref: "Zechariah 11:13", text: "Then the LORD said to me, 'Throw it to the potter' — the lordly price at which I was priced by them. So I took the thirty pieces of silver and threw them into the house of the LORD, to the potter." }]
+    },
+    {
+      number: 12,
+      summary: "An oracle: God will make Jerusalem a heavy stone for all nations — all who lift it will be severely injured. The clans of Judah will devour the nations around them. Then God will pour out a spirit of grace and supplication — they will look on him whom they have pierced, and they will mourn for him as one mourns for an only child. On that day the mourning will be as great as the mourning for Hadad-rimmon in the plain of Megiddo.",
+      key_verses: [{ ref: "Zechariah 12:10", text: "And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and pleas for mercy, so that, when they look on me, on him whom they have pierced, they shall mourn for him." }]
+    },
+    {
+      number: 13,
+      summary: "On that day a fountain will be opened for the house of David and the inhabitants of Jerusalem to cleanse them from sin and uncleanness. The idols will be cut off; the prophets will be ashamed. Then: 'Awake, O sword, against my shepherd, against the man who stands next to me' — declares the LORD of hosts. The shepherd will be struck and the sheep will scatter. Two-thirds of the land will perish, but a third will be refined like silver. They will call on the LORD's name, and he will answer: 'They are my people.' And they will say: 'The LORD is my God.'",
+      key_verses: [{ ref: "Zechariah 13:9", text: "I will put this third into the fire, and refine them as one refines silver, and test them as gold is tested. They will call upon my name, and I will answer them. I will say, 'They are my people'; and they will say, 'The LORD is my God.'" }]
+    },
+    {
+      number: 14,
+      summary: "The great climax: a day is coming when all nations will gather against Jerusalem. The LORD's feet will stand on the Mount of Olives, which will split in two. Living waters will flow from Jerusalem — half to the eastern sea, half to the western. The LORD will be king over all the earth — on that day the LORD will be one and his name one. The survivors among the nations will go up to Jerusalem to worship and keep the Feast of Booths. Everything will be holy to the LORD.",
+      key_verses: [{ ref: "Zechariah 14:9", text: "And the LORD will be king over all the earth. On that day the LORD will be one and his name one." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "malachi",
+  name: "Malachi",
+  testament: "old",
+  category: "Minor Prophets",
+  summary: "Malachi is the last book of the Old Testament, written to a community of returned exiles who have grown spiritually complacent over a century after returning from Babylon. The priests offer blemished sacrifices; the people withhold tithes; men divorce faithful wives to marry foreign women. God is not pleased. Yet the book closes with glorious promise: the messenger who prepares the way, the sun of righteousness rising with healing in its wings, and the return of Elijah before the great day of the LORD — a promise pointing forward to John the Baptist.",
+  themes: ["Spiritual complacency and half-hearted worship", "Priestly faithfulness", "God's love for Israel", "The coming messenger", "Tithing and faithfulness", "Elijah and the Day of the LORD"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God opens with his declaration of love: I have loved you. Israel asks: how? God points to Esau (Edom) whom he has made desolate versus Jacob whom he has blessed. Then he rebukes the priests for offering blind, lame, and sick animals as sacrifices — would you present such gifts to your governor? Better to shut the temple doors than to offer these worthless sacrifices. From the rising to the setting of the sun, God's name will be great among the nations — but the priests have profaned it.",
+      key_verses: [{ ref: "Malachi 1:11", text: "For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering." }]
+    },
+    {
+      number: 2,
+      summary: "God warns the priests: if they do not listen and honor his name, he will curse their blessings. A true priest should give instruction in truth and walk with God in peace. But the priests have corrupted the covenant of Levi. God also condemns the men of Judah who have broken faith with the wife of their youth and divorced them to marry daughters of foreign gods. The LORD hates divorce — it covers one's garment with violence. Do not be faithless.",
+      key_verses: [{ ref: "Malachi 2:16", text: "For the man who does not love his wife but divorces her, says the LORD, the God of Israel, covers his garment with violence, says the LORD of hosts. So guard yourselves in your spirit, and do not be faithless." }]
+    },
+    {
+      number: 3,
+      summary: "God will send his messenger to prepare the way, and then the Lord whom they seek will suddenly come to his temple. He will sit as a refiner of silver, purifying the sons of Levi until they bring offerings in righteousness. God charges them with robbing him in tithes and offerings. Bring the full tithe into the storehouse, and see if he will not open the windows of heaven and pour down a blessing. A book of remembrance is written for those who feared God and esteemed his name.",
+      key_verses: [{ ref: "Malachi 3:10", text: "Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the LORD of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need." }]
+    },
+    {
+      number: 4,
+      summary: "Behold, the day is coming, burning like an oven — all the arrogant and evildoers will be stubble. But for those who fear God's name, the sun of righteousness will rise with healing in its wings, and they shall leap like calves released from the stall. Remember the law of Moses. Behold, God will send the prophet Elijah before the great and awesome day of the LORD — he will turn the hearts of fathers to children and children to fathers, lest God strike the land with a curse.",
+      key_verses: [{ ref: "Malachi 4:2", text: "But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall." }]
+    }
+  ]
+});
