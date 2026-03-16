@@ -3033,3 +3033,255 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "ezekiel",
+  name: "Ezekiel",
+  testament: "old",
+  category: "Major Prophets",
+  summary: "Ezekiel prophesied among the exiles in Babylon before and after Jerusalem's fall in 586 BC. A priest turned prophet, he received dramatic visions and acted out elaborate sign-acts to communicate God's word. The book moves in three phases: judgment on Jerusalem and Judah, judgment on surrounding nations, and a sweeping vision of Israel's future restoration. Ezekiel's most celebrated passages include the vision of dry bones returning to life, the promise of a new heart and new spirit, and an intricate blueprint of a restored temple from which a life-giving river flows to heal the land.",
+  themes: ["The glory of God", "Individual responsibility", "Judgment on sin", "Restoration and renewal", "The new heart and new spirit", "God's honor among the nations", "The returning glory"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Ezekiel's inaugural vision by the Chebar canal in Babylon: a stormy wind from the north with a great cloud and flashing fire. Four living creatures emerge — each with four faces (human, lion, ox, eagle) and four wings. Wheels within wheels move beside them, full of eyes. Above them is an expanse like crystal; above that, a throne of sapphire; and on it a figure of dazzling radiance. Ezekiel falls on his face — he has seen the likeness of the glory of the LORD.",
+      key_verses: [{ ref: "Ezekiel 1:28", text: "Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell on my face." }]
+    },
+    {
+      number: 2,
+      summary: "God addresses Ezekiel as 'son of man' and sends him to the rebellious house of Israel — whether they hear or refuse, they will know a prophet has been among them. He is not to fear them or their words. A hand extends a scroll written on both sides with words of lamentation, mourning, and woe. Ezekiel is commanded to eat the scroll.",
+      key_verses: [{ ref: "Ezekiel 2:7", text: "And you shall speak my words to them, whether they hear or refuse to hear, for they are a rebellious house." }]
+    },
+    {
+      number: 3,
+      summary: "Ezekiel eats the scroll and it tastes sweet as honey. He is sent to his fellow exiles, a hard-headed people, but God makes him harder than flint. He sits overwhelmed at Tel-abib for seven days. God then appoints him as a watchman for the house of Israel: if he fails to warn the wicked and they die, their blood is on his hands. He is then struck mute in his house until God opens his mouth.",
+      key_verses: [{ ref: "Ezekiel 3:17", text: "Son of man, I have made you a watchman for the house of Israel. Whenever you hear a word from my mouth, you shall give them warning from me." }]
+    },
+    {
+      number: 4,
+      summary: "The first of Ezekiel's sign-acts: he draws Jerusalem on a clay tablet and builds a siege against it, then lies on his left side for 390 days bearing the iniquity of Israel, and on his right side for 40 days bearing Judah's iniquity. He eats measured siege rations — bread baked over dung — as a sign that the besieged will eat defiled bread in exile. The sign dramatizes the coming siege with terrible realism.",
+      key_verses: [{ ref: "Ezekiel 4:13", text: "And the LORD said, 'Thus shall the people of Israel eat their bread unclean, among the nations where I will drive them.'" }]
+    },
+    {
+      number: 5,
+      summary: "Ezekiel shaves his head with a sword, divides the hair into three parts: one third burned in the city, one third struck with the sword around it, one third scattered to the wind. A few hairs are tucked in his robe — the remnant. This represents Jerusalem's fate. God declares he is against her — she has defiled his sanctuary and not walked in his statutes. The result: famine, pestilence, sword, and scattering.",
+      key_verses: [{ ref: "Ezekiel 5:11", text: "Therefore, as I live, declares the Lord GOD, surely, because you have defiled my sanctuary with all your detestable things and with all your abominations, therefore I will withdraw. My eye will not spare, and I will have no pity." }]
+    },
+    {
+      number: 6,
+      summary: "A prophecy against the mountains of Israel — the high places where Israel commits idolatry. Slain bodies will fall before idols, bones will be scattered around altars. Yet a remnant will be scattered among the nations who will remember God and loathe themselves for their evil. Through all this devastation — sword, famine, and pestilence — they will know that he is the LORD.",
+      key_verses: [{ ref: "Ezekiel 6:7", text: "The slain shall fall in your midst, and you shall know that I am the LORD." }]
+    },
+    {
+      number: 7,
+      summary: "The end has come — upon all four corners of the land. Disaster upon disaster is coming; doom is awakening. The day of the LORD is near. Their silver will be cast into the streets, their gold an unclean thing. The king mourns, the prince is clothed in despair, the hands of the people tremble. Violence has grown into a rod of wickedness — none shall remain, none shall escape.",
+      key_verses: [{ ref: "Ezekiel 7:2-3", text: "An end! The end has come upon the four corners of the land. Now the end is upon you, and I will send my anger upon you; I will judge you according to your ways." }]
+    },
+    {
+      number: 8,
+      summary: "Ezekiel is transported in a vision to Jerusalem where God shows him four escalating abominations in the temple: an idol of jealousy at the north gate, seventy elders burning incense to wall carvings of creeping things, women weeping for Tammuz, and twenty-five men with their backs to the temple worshiping the sun. God asks: 'Is it a light thing to commit the abominations they commit here?' Worse abominations follow.",
+      key_verses: [{ ref: "Ezekiel 8:16", text: "And he brought me into the inner court of the house of the LORD. And behold, at the entrance of the temple... about twenty-five men, with their backs to the temple of the LORD, and their faces toward the east, worshiping the sun toward the east." }]
+    },
+    {
+      number: 9,
+      summary: "God calls six executioners with weapons and a man clothed in linen with a writing case. The man in linen is sent through Jerusalem to put a mark on the foreheads of those who sigh and groan over its abominations. The executioners follow to kill all others — young and old, women and children. They begin at the elders before the temple. Ezekiel cries out; God answers: the iniquity is very great, so judgment must be.",
+      key_verses: [{ ref: "Ezekiel 9:4", text: "Pass through the city, through Jerusalem, and put a mark on the foreheads of the men who sigh and groan over all the abominations that are committed in it." }]
+    },
+    {
+      number: 10,
+      summary: "The vision of chapter 1 returns. The man in linen fills his hands with burning coals from among the cherubim and scatters them over the city. The living creatures are identified as cherubim. The glory of the LORD begins to move — it rises from the cherubim to the threshold of the temple. The wheels and the cherubim move together as one, directed by the Spirit. The departure of God's glory from the temple has begun.",
+      key_verses: [{ ref: "Ezekiel 10:4", text: "Then the glory of the LORD went up from the cherub to the threshold of the house, and the house was filled with the cloud, and the court was filled with the brightness of the glory of the LORD." }]
+    },
+    {
+      number: 11,
+      summary: "Twenty-five leaders at the east gate are condemned for giving wicked counsel. One of them, Pelatiah, dies as Ezekiel prophesies. Ezekiel intercedes for the remnant of Israel. God responds: though scattered among nations, he will be a sanctuary to them in small measure. He will gather them back, give them an undivided heart, and put a new spirit within them — removing the heart of stone and giving a heart of flesh. The glory of God departs Jerusalem eastward.",
+      key_verses: [{ ref: "Ezekiel 11:19", text: "And I will give them one heart, and a new spirit I will put within them. I will remove the heart of stone from their flesh and give them a heart of flesh." }]
+    },
+    {
+      number: 12,
+      summary: "Two more sign-acts: Ezekiel packs exile baggage in daytime and digs through the wall at night — acting out the coming exile, including the fate of Zedekiah who will flee in darkness and be blinded. The people quote a proverb: 'The days grow long and every vision comes to nothing.' God declares: no more delay — in their days he will perform his word.",
+      key_verses: [{ ref: "Ezekiel 12:25", text: "For I am the LORD; I will speak the word that I will speak, and it will be performed. It will no longer be delayed, but in your days, O rebellious house, I will speak the word and perform it." }]
+    },
+    {
+      number: 13,
+      summary: "God speaks against false prophets who follow their own spirit and have seen nothing. They daub with whitewash the flimsy walls the people build — saying 'peace' when there is no peace. The whitewash wall will fall in the storm. God also condemns prophetesses who sew magic bands and hunt souls, telling the righteous they will live when they will not, and the wicked they will live when they will not.",
+      key_verses: [{ ref: "Ezekiel 13:10", text: "They have misled my people, saying, 'Peace,' when there is no peace, and because, when the people build a wall, these prophets smear it with whitewash." }]
+    },
+    {
+      number: 14,
+      summary: "Elders come to inquire of Ezekiel, but God refuses — they have set idols in their hearts. If a prophet is deceived and speaks, God will stretch his hand against that prophet and the inquirer alike. Even if Noah, Daniel, and Job were in Jerusalem, they could only save themselves — so far gone is the city. Four severe judgments are decreed: sword, famine, wild beasts, and pestilence. A remnant will escape to show Ezekiel that the judgment was right.",
+      key_verses: [{ ref: "Ezekiel 14:14", text: "Even if these three men, Noah, Daniel, and Job, were in it, they would deliver but their own lives by their righteousness, declares the Lord GOD." }]
+    },
+    {
+      number: 15,
+      summary: "The vine's wood is useless — more so than the wood of any other tree. You cannot even make a peg from it. If the fire has charred both ends of the vine and scorched the middle, it is fit for nothing. So Jerusalem is: she was unfaithful, so God will set his face against her and make the land desolate, and she will know that he is the LORD.",
+      key_verses: [{ ref: "Ezekiel 15:6", text: "Therefore thus says the Lord GOD: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so have I given up the inhabitants of Jerusalem." }]
+    },
+    {
+      number: 16,
+      summary: "An extended allegory of Jerusalem as a foundling girl whom God saved, adorned, and married, only to become a prostitute — giving her gifts to every passerby, paying her own lovers rather than being paid. She was worse than Samaria and Sodom. Yet God will remember the covenant made in her youth and establish an everlasting covenant with her. She will be shamed and silenced, and then know that he is the LORD.",
+      key_verses: [{ ref: "Ezekiel 16:60", text: "Yet I will remember my covenant with you in the days of your youth, and I will establish for you an everlasting covenant." }]
+    },
+    {
+      number: 17,
+      summary: "The parable of two great eagles and a vine: a great eagle (Babylon) took the top of the cedar (Jehoiachin) to Babylon. Then the vine (Zedekiah) bent toward a second eagle (Egypt) for help. Because Zedekiah broke his oath to Babylon, he will be brought to Babylon. Yet God himself will take a tender sprig from the topmost branch of the cedar and plant it on a high mountain — a messianic image of a kingdom that shelters all birds.",
+      key_verses: [{ ref: "Ezekiel 17:24", text: "I the LORD bring low the high tree, and make high the low tree, dry up the green tree, and make the dry tree flourish. I am the LORD; I have spoken, and I will do it." }]
+    },
+    {
+      number: 18,
+      summary: "The people quote a proverb: the fathers ate sour grapes and the children's teeth are set on edge. God abolishes this — every soul belongs to him and the soul that sins shall die, bearing its own iniquity. A righteous man lives. His wicked son dies. If that wicked son has a righteous son, the son lives. God takes no pleasure in the death of anyone who turns. 'Repent and live!' is the call.",
+      key_verses: [{ ref: "Ezekiel 18:32", text: "For I have no pleasure in the death of anyone, declares the Lord GOD; so turn, and live." }]
+    },
+    {
+      number: 19,
+      summary: "A lament for the princes of Israel: the mother lion raised a lion cub who became a hunter of men and was captured and taken to Egypt. She raised another cub who was taken to Babylon in a cage. Then the mother herself — once a fruitful vine — is transplanted to a dry wilderness, consumed by fire. Now she is planted in the desert, and no strong ruler's scepter has risen from her.",
+      key_verses: [{ ref: "Ezekiel 19:14", text: "Fire has gone out from the stem of its shoots, has consumed its fruit, so that there remains in it no strong stem, no scepter for ruling. This is a lamentation and has become a lamentation." }]
+    },
+    {
+      number: 20,
+      summary: "Elders inquire of God; he refuses and recites Israel's complete history of rebellion — in Egypt, in the wilderness, and in Canaan. Three times God nearly destroyed them but relented for his name's sake among the nations. Even the laws he gave them in the wilderness they did not obey. He will gather them from the nations and purge out rebels, bringing them into the wilderness to plead with them face to face. The chapter ends with the announcement of coming fire from the south.",
+      key_verses: [{ ref: "Ezekiel 20:44", text: "And you shall know that I am the LORD, when I deal with you for my name's sake, not according to your evil ways, nor according to your corrupt deeds, O house of Israel." }]
+    },
+    {
+      number: 21,
+      summary: "The sword of the LORD is drawn, polished to flash like lightning, given into the hand of the slayer. Babylon's king stands at the fork in the road and uses divination to decide which way to go — he turns toward Jerusalem. The sword will strike prince and people alike. The turban removed, the crown taken off — the exalted humbled and the humble exalted — until the rightful owner comes.",
+      key_verses: [{ ref: "Ezekiel 21:27", text: "A ruin, ruin, ruin I will make it. This also shall not be, until he comes, the one to whom judgment belongs, and I will give it to him." }]
+    },
+    {
+      number: 22,
+      summary: "God catalogs Jerusalem's sins: bloodshed, idolatry, abuse of parents, exploitation of the alien and orphan, sexual immorality, bribery, extortion. Priests have violated God's law; officials are like wolves tearing the prey; prophets daub whitewash. God sought for someone to stand in the gap before him for the land, but found no one — so he poured out his wrath.",
+      key_verses: [{ ref: "Ezekiel 22:30", text: "And I sought for a man among them who should build up the wall and stand in the breach before me for the land, that I should not destroy it, but I found none." }]
+    },
+    {
+      number: 23,
+      summary: "The allegory of two sisters: Oholah (Samaria) and Oholibah (Jerusalem). Both played the whore in Egypt from their youth. Oholah lusted after Assyria and was given into their hands. Oholibah saw what happened but multiplied her own whoring with Assyria, Babylon, and Egypt. God will bring her former lovers against her in judgment. The cup of her sister's judgment she will drink to the dregs.",
+      key_verses: [{ ref: "Ezekiel 23:35", text: "Therefore thus says the Lord GOD: Because you have forgotten me and cast me behind your back, you yourself must bear the consequences of your lewdness and whoring." }]
+    },
+    {
+      number: 24,
+      summary: "On the very day Nebuchadnezzar besieges Jerusalem, God speaks to Ezekiel. The parable of the boiling pot: Jerusalem is a rusty pot; the rust of her blood cannot be removed. Then God tells Ezekiel that his wife — the delight of his eyes — will die suddenly. He is not to mourn or weep. She dies; he obeys. This is the sign: when the temple falls, the exiles will be too overwhelmed to mourn openly. Ezekiel's mouth will then be opened.",
+      key_verses: [{ ref: "Ezekiel 24:27", text: "On that day your mouth will be opened to the fugitive, and you shall speak and be no longer mute. So you will be a sign to them, and they will know that I am the LORD." }]
+    },
+    {
+      number: 25,
+      summary: "Oracles against four neighboring nations who gloated over Jerusalem's fall. Ammon said 'Aha!' over the sanctuary — they will be given to the people of the East for plunder. Moab treated Judah like all the nations — they will fall likewise. Edom acted in vengeance — God will execute great vengeance on them. Philistia acted with malice — God will destroy them, and they will know he is the LORD.",
+      key_verses: [{ ref: "Ezekiel 25:17", text: "I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance upon them." }]
+    },
+    {
+      number: 26,
+      summary: "Tyre rejoiced at Jerusalem's fall because it would gain trade advantage. God declares Nebuchadnezzar will come against Tyre like the sea surging with its waves, breaking down her walls and towers. Her stones, timber, and soil will be thrown into the sea. Tyre will become a bare rock — a place for spreading fishing nets. Her neighbors will tremble. She will never be rebuilt.",
+      key_verses: [{ ref: "Ezekiel 26:3", text: "Behold, I am against you, O Tyre, and will bring up many nations against you, as the sea brings up its waves." }]
+    },
+    {
+      number: 27,
+      summary: "A magnificent lament for Tyre as a great merchant ship: built of the finest timbers from Lebanon, oars from Bashan oaks, deck of ivory, sail of Egyptian linen. She traded with all the nations — horses, spices, precious stones, silver, and iron. But the east wind has wrecked her on the high seas. All who traded with her stand appalled, weeping and casting dust on their heads. How are the mighty fallen!",
+      key_verses: [{ ref: "Ezekiel 27:36", text: "The merchants among the peoples hiss at you; you have come to a dreadful end and shall be no more forever." }]
+    },
+    {
+      number: 28,
+      summary: "The prince of Tyre says 'I am a god' in his pride. God declares: you are a man, not a god, and strangers will bring you to the pit. A lament follows for the king of Tyre — once the signet of perfection, full of wisdom, in Eden the garden of God. But pride led to sin and he was cast down. Then a brief oracle against Sidon. The section closes with a promise that the house of Israel will dwell securely when all who despised them are judged.",
+      key_verses: [{ ref: "Ezekiel 28:17", text: "Your heart was proud because of your beauty; you corrupted your wisdom for the sake of your splendor. I cast you to the ground; I exposed you before kings." }]
+    },
+    {
+      number: 29,
+      summary: "The oracle against Egypt begins: Pharaoh is a great dragon lying in the Nile — God will hook him through the jaw and drag him out with all the fish. Egypt will be a desolate wasteland for forty years, because Israel relied on her as a broken reed. After forty years God will restore Egypt's fortunes, but as a humble kingdom, never again to be Israel's crutch. Nebuchadnezzar will plunder Egypt as wages for his work against Tyre.",
+      key_verses: [{ ref: "Ezekiel 29:6-7", text: "Then all the inhabitants of Egypt shall know that I am the LORD. Because you have been a staff of reed to the house of Israel, when they grasped you with the hand, you broke and tore all their shoulders." }]
+    },
+    {
+      number: 30,
+      summary: "Wail for the day of Egypt! The day of the LORD is near — a day of clouds, a time of doom for the nations. Egypt, her allies, and all her hired troops will fall by the sword. God will dry up the Nile's streams. Nebuchadnezzar and his army will come to plunder Egypt and scatter her people. God will break the arms of Pharaoh while strengthening the arms of the king of Babylon.",
+      key_verses: [{ ref: "Ezekiel 30:3", text: "For the day is near, the day of the LORD is near; it will be a day of clouds, a time of doom for the nations." }]
+    },
+    {
+      number: 31,
+      summary: "A comparison between Egypt and Assyria: Assyria was like a great cedar of Lebanon, the envy of all the trees of Eden, so tall its top was among the clouds. But it grew proud, so God gave it into the hands of the nations and cut it down. It fell, and all the nations left its shade. This is a warning to Pharaoh: you too will be brought down to the realm of the dead with the uncircumcised.",
+      key_verses: [{ ref: "Ezekiel 31:10", text: "Therefore thus says the Lord GOD: Because it towered high and set its top among the clouds, and its heart was proud of its height, I will give it into the hand of a mighty one of the nations." }]
+    },
+    {
+      number: 32,
+      summary: "A lament for Pharaoh: he thought himself a lion but was only a monster thrashing in the Nile. God will spread his net over him and drag him to land — food for the birds and beasts. A cosmic darkness will come over Egypt. Then an elaborate vision of Pharaoh descending to Sheol, where Assyria, Elam, Meshech, Tubal, and Edom already lie — great powers brought low, a warning to Egypt's power.",
+      key_verses: [{ ref: "Ezekiel 32:7", text: "When I blot you out, I will cover the heavens and make their stars dark; I will cover the sun with a cloud, and the moon shall not give its light." }]
+    },
+    {
+      number: 33,
+      summary: "God recommissions Ezekiel as watchman — with the responsibility of warning the wicked clear. Then a fugitive arrives with the news: Jerusalem has fallen. God opens Ezekiel's mouth after the long muteness. The people say the land is given to them — but God will not overlook those who commit abominations. The people love to hear Ezekiel's words like a love song but do not do them.",
+      key_verses: [{ ref: "Ezekiel 33:11", text: "As I live, declares the Lord GOD, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live; turn back, turn back from your evil ways, for why will you die, O house of Israel?" }]
+    },
+    {
+      number: 34,
+      summary: "Woe to the shepherds of Israel who have been feeding themselves rather than the sheep — not strengthening the weak, healing the sick, or seeking the lost. God is against these shepherds. He himself will search for his sheep, rescue them from all places, gather them from the nations, and pasture them on Israel's mountains. He will set one shepherd over them — his servant David — and make a covenant of peace with them.",
+      key_verses: [{ ref: "Ezekiel 34:11", text: "For thus says the Lord GOD: Behold, I, I myself will search for my sheep and will seek them out." }]
+    },
+    {
+      number: 35,
+      summary: "An oracle against Mount Seir (Edom): because Edom cherished perpetual hatred and gave Israel over to the sword when calamity struck, God will make Edom a perpetual desolation. Edom said the two nations and lands will be mine — but God has heard their boasting. They will know he is the LORD.",
+      key_verses: [{ ref: "Ezekiel 35:5", text: "Because you cherished perpetual enmity and gave over the people of Israel to the power of the sword at the time of their calamity." }]
+    },
+    {
+      number: 36,
+      summary: "God speaks to the mountains of Israel with promises of restoration. The nations have taunted Israel's land — but it will soon flourish with abundant fruit for God's people. The house of Israel profaned God's name wherever they went, so God will act — not for Israel's sake but for the sake of his holy name. He will bring them back, sprinkle clean water on them, give them a new heart and a new spirit, put his Spirit within them, and they will be his people.",
+      key_verses: [{ ref: "Ezekiel 36:26", text: "And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh." }]
+    },
+    {
+      number: 37,
+      summary: "The valley of dry bones: the Spirit sets Ezekiel in a valley full of very dry bones. God asks: can these bones live? Ezekiel prophesies; the bones rattle together, sinew and flesh appear, skin covers them — but no breath. God commands Ezekiel to call the breath, and they stand on their feet, a vast army. This is the whole house of Israel, scattered and hopeless — God will bring them back to their land and put his Spirit in them. The second sign: two sticks become one, representing Judah and Israel reunited under one king, David.",
+      key_verses: [{ ref: "Ezekiel 37:3-4", text: "And he said to me, 'Son of man, can these bones live?' And I answered, 'O Lord GOD, you know.' Then he said to me, 'Prophesy over these bones, and say to them, O dry bones, hear the word of the LORD.'" }]
+    },
+    {
+      number: 38,
+      summary: "A prophecy against Gog from the land of Magog, the chief prince of Meshech and Tubal. In the latter years he will lead a vast coalition of nations against the restored, peacefully dwelling Israel. God declares he will bring Gog against his land so that the nations will know him when he is sanctified in Gog before their eyes. Gog's invasion is God's plan — to be the occasion for a great display of his power.",
+      key_verses: [{ ref: "Ezekiel 38:23", text: "So I will show my greatness and my holiness and make myself known in the eyes of many nations. Then they will know that I am the LORD." }]
+    },
+    {
+      number: 39,
+      summary: "God defeats Gog: he strikes the bow from his hand and leaves him on the mountains of Israel as food for birds and beasts. It takes seven months to bury the dead and seven years to burn the weapons. All nations will see God's judgment. Then God promises to restore Israel: he will no longer hide his face from them, for he will pour out his Spirit on the house of Israel.",
+      key_verses: [{ ref: "Ezekiel 39:29", text: "And I will not hide my face anymore from them, when I pour out my Spirit upon the house of Israel, declares the Lord GOD." }]
+    },
+    {
+      number: 40,
+      summary: "Fourteen years after Jerusalem fell, Ezekiel is carried in a vision to a very high mountain in Israel where a man with a measuring rod stands. He begins measuring a vast and precisely defined temple complex: the outer court, the outer gates on east, north, and south, then the inner gates. Every dimension is measured and recorded. The vision of the new temple — a detailed architectural blueprint — begins.",
+      key_verses: [{ ref: "Ezekiel 40:4", text: "And the man said to me, 'Son of man, look with your eyes, and hear with your ears, and set your heart upon all that I will show you, for you were brought here in order that I might show it to you.'" }]
+    },
+    {
+      number: 41,
+      summary: "The man measures the temple building itself: the nave, the inner sanctuary, the side chambers on three floors, the wooden panels carved with cherubim and palm trees alternating — each cherub has two faces, a human face and a lion face. The altar of wood stands before the inner sanctuary. Two leaves on the door of the nave and the inner sanctuary. The measurements are recorded with precision.",
+      key_verses: [{ ref: "Ezekiel 41:18", text: "It was carved of cherubim and palm trees, a palm tree between cherub and cherub. Every cherub had two faces." }]
+    },
+    {
+      number: 42,
+      summary: "The measuring continues with the chambers for the priests on the north and south sides of the temple — used for eating the most holy offerings and for changing vestments before going out to the people, so the holy garments do not touch the outer court. The man then measures the entire outer wall: 500 cubits on each side — a square set apart between the holy and the common.",
+      key_verses: [{ ref: "Ezekiel 42:20", text: "He measured it on the four sides. It had a wall around it, 500 cubits long and 500 cubits broad, to make a separation between the holy and the common." }]
+    },
+    {
+      number: 43,
+      summary: "The glory of the LORD returns from the east and enters the temple through the east gate — the same glory Ezekiel saw by the Chebar canal and when Jerusalem fell. God's voice is like the sound of many waters; the earth shines with his glory. God declares this is his throne, where he will dwell among Israel forever. The altar is described and its dimensions measured; a seven-day consecration ceremony is prescribed.",
+      key_verses: [{ ref: "Ezekiel 43:7", text: "And he said to me, 'Son of man, this is the place of my throne and the place of the soles of my feet, where I will dwell in the midst of the people of Israel forever.'" }]
+    },
+    {
+      number: 44,
+      summary: "The east gate is shut — since the LORD entered through it, no one else may. A prince may sit in it to eat before the LORD. God addresses the abomination of bringing foreigners uncircumcised in heart into his sanctuary. The Levites who went astray will serve in the outer court only. The Zadokite priests who remained faithful will serve in the inner court, eat holy food, wear linen garments, and receive no land inheritance — the LORD is their inheritance.",
+      key_verses: [{ ref: "Ezekiel 44:28", text: "They shall have no inheritance; I am their inheritance: and you shall give them no possession in Israel; I am their possession." }]
+    },
+    {
+      number: 45,
+      summary: "When the land is divided by lot, a holy portion will be set apart for the LORD — a square area for the temple and priests' homes, with a portion for Levites and a portion for the city. The prince receives land on both sides of the holy portion. Regulations are given against oppression: the prince must use just weights and measures. The Passover and the Feast of Unleavened Bread are prescribed for the prince to provide.",
+      key_verses: [{ ref: "Ezekiel 45:9", text: "Thus says the Lord GOD: Enough, O princes of Israel! Put away violence and oppression, and execute justice and righteousness." }]
+    },
+    {
+      number: 46,
+      summary: "The east gate is shut on working days but open on Sabbath and new moon — the prince enters and worships at the threshold. The people worship at the outer gate. Detailed regulations govern burnt offerings and grain offerings for Sabbath and new moon. The prince's sons inherit his land grant; his grants to servants revert at the Jubilee. The boiling rooms for cooking offerings are described.",
+      key_verses: [{ ref: "Ezekiel 46:3", text: "The people of the land shall bow down at the entrance of that gate before the LORD on the Sabbaths and on the new moons." }]
+    },
+    {
+      number: 47,
+      summary: "Water flows from under the temple threshold — a trickle at first, then ankle-deep, knee-deep, waist-deep, and finally a river too deep to cross. Along its banks grow all kinds of trees whose leaves do not wither and whose fruit is for food and their leaves for healing. The river flows into the Dead Sea and makes the salt water fresh, teeming with fish. The boundaries of the land are then described for Israel's inheritance.",
+      key_verses: [{ ref: "Ezekiel 47:9", text: "And wherever the river goes, every living creature that swarms will live, and there will be very many fish. For this water goes there, that the waters of the sea may become fresh; so everything will live where the river goes." }]
+    },
+    {
+      number: 48,
+      summary: "The twelve tribes receive their allotted portions of land — seven tribes north of the holy portion, five to the south. The holy portion in the center holds the temple, the priests' land, the Levites' land, and the city. The city has twelve gates, three on each side, named after the twelve tribes. The book ends with the new name of the city: 'The LORD is There.'",
+      key_verses: [{ ref: "Ezekiel 48:35", text: "The circumference of the city shall be 18,000 cubits. And the name of the city from that time on shall be, The LORD is There." }]
+    }
+  ]
+});
