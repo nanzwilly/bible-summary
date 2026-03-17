@@ -3988,3 +3988,1475 @@ BIBLE_DATA.books.push({
     }
   ]
 });
+
+
+BIBLE_DATA.books.push({
+  id: "mark",
+  name: "Mark",
+  testament: "new",
+  category: "Gospels",
+  summary: "Mark is the shortest and most action-packed of the four Gospels, written with urgency — the word 'immediately' appears over forty times. Likely the earliest Gospel, it presents Jesus primarily as a man of power and authority: a servant who heals, casts out demons, calms storms, and moves with purposeful speed toward the cross. Mark's Jesus is the suffering Son of God whose identity is revealed fully only at the crucifixion, when a Roman centurion declares: 'Truly this man was the Son of God.'",
+  themes: ["Jesus as servant and Son of God", "The kingdom of God breaking in", "Discipleship and its cost", "The suffering Messiah", "Faith and miracles", "Secrecy about Jesus's identity"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Mark opens without a birth narrative — John the Baptist prepares the way, then Jesus is baptized as the Spirit descends like a dove and God declares him his beloved Son. Immediately Jesus is driven into the wilderness for forty days of temptation. He returns to Galilee announcing the kingdom of God, calls his first disciples by the sea, teaches with authority in Capernaum's synagogue, casts out an unclean spirit, heals Peter's mother-in-law, and cleanses a leper. The whole region gathers at his door.",
+      key_verses: [{ ref: "Mark 1:15", text: "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." }]
+    },
+    {
+      number: 2,
+      summary: "Jesus forgives and heals a paralyzed man lowered through a roof, scandalizing the scribes. He calls Levi the tax collector, eating with sinners at his table. When questioned about fasting, he says the bridegroom is with them — new wine requires new wineskins. Two Sabbath controversies follow: disciples plucking grain, and the declaration that the Son of Man is lord even of the Sabbath.",
+      key_verses: [{ ref: "Mark 2:17", text: "Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners." }]
+    },
+    {
+      number: 3,
+      summary: "Jesus heals a man with a withered hand on the Sabbath while Pharisees plot to destroy him. Crowds press in from all over; he heals many and casts out demons. He appoints twelve apostles to be with him and to be sent out. His family thinks he is out of his mind. Scribes from Jerusalem say he casts out demons by Beelzebul — Jesus refutes this, warning about the unforgivable sin of blaspheming the Holy Spirit. His true family are those who do God's will.",
+      key_verses: [{ ref: "Mark 3:35", text: "Whoever does the will of God, he is my brother and sister and mother." }]
+    },
+    {
+      number: 4,
+      summary: "Jesus teaches in parables by the sea. The parable of the sower explains different responses to the word; the secret of the kingdom is given to the disciples. The lamp is not hidden under a basket. The seed grows secretly. The mustard seed becomes a great shrub. That evening Jesus stills a violent storm with a word — 'Peace! Be still!' — leaving the disciples asking: who then is this, that even wind and sea obey him?",
+      key_verses: [{ ref: "Mark 4:39-40", text: "And he awoke and rebuked the wind and said to the sea, 'Peace! Be still!' And the wind ceased, and there was a great calm. He said to them, 'Why are you so afraid? Have you still no faith?'" }]
+    },
+    {
+      number: 5,
+      summary: "Three dramatic miracles of restoration: a demon-possessed man in the Gerasene region, Legion, is freed and the demons enter a herd of pigs. A woman who had hemorrhaged for twelve years touches the fringe of Jesus's garment and is instantly healed — Jesus stops and calls out her faith publicly. Jairus's twelve-year-old daughter is raised from the dead with the words 'Talitha cumi' — little girl, arise.",
+      key_verses: [{ ref: "Mark 5:34", text: "And he said to her, 'Daughter, your faith has made you well; go in peace, and be healed of your disease.'" }]
+    },
+    {
+      number: 6,
+      summary: "Jesus is rejected in his hometown — he can do few miracles there because of their unbelief. He sends out the twelve two by two with authority over unclean spirits. Herod kills John the Baptist at his stepdaughter's request. The apostles return and Jesus tries to give them rest, but the crowds follow — he has compassion and teaches them, then feeds five thousand men with five loaves and two fish. Walking on water at night, Jesus gets into the boat and the wind ceases.",
+      key_verses: [{ ref: "Mark 6:34", text: "When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd." }]
+    },
+    {
+      number: 7,
+      summary: "Pharisees challenge Jesus over ritual handwashing. He rebukes their tradition that nullifies God's commandment, declaring all foods clean and teaching that it is what comes out of the heart that defiles. A Syrophoenician woman persists in faith and Jesus heals her daughter. He heals a deaf man with a speech impediment, putting his fingers in his ears, touching his tongue with spittle, and saying 'Ephphatha' — be opened.",
+      key_verses: [{ ref: "Mark 7:20-21", text: "What comes out of a person is what defiles him. For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery..." }]
+    },
+    {
+      number: 8,
+      summary: "Jesus feeds four thousand in a Gentile region. Pharisees demand a sign; he refuses and warns of their leaven. He heals a blind man in two stages at Bethsaida. Peter confesses: 'You are the Christ.' Jesus then teaches that the Son of Man must suffer, be killed, and rise — the first passion prediction. He rebukes Peter who protests: 'Get behind me, Satan.' To follow Jesus means to deny yourself, take up your cross, and follow him.",
+      key_verses: [{ ref: "Mark 8:34", text: "If anyone would come after me, let him deny himself and take up his cross and follow me." }]
+    },
+    {
+      number: 9,
+      summary: "The Transfiguration: Jesus is transformed in dazzling white on a mountain; Moses and Elijah appear; God speaks from a cloud. The disciples fail to cast out a demon from a boy — Jesus does it and teaches that this kind requires prayer. The second passion prediction. The disciples argue about who is greatest — Jesus places a child before them. Whoever is not against us is for us. Severe warnings about causing little ones to stumble.",
+      key_verses: [{ ref: "Mark 9:35", text: "If anyone would be first, he must be last of all and servant of all." }]
+    },
+    {
+      number: 10,
+      summary: "Teaching on divorce — what God has joined, let man not separate. Children welcomed as the kingdom belongs to such as these. The rich young ruler goes away sad when Jesus calls him to sell everything. The third passion prediction: Son of Man will be mocked, flogged, and killed. James and John ask for the chief seats — Jesus teaches servant leadership. Blind Bartimaeus shouts 'Son of David' and receives his sight.",
+      key_verses: [{ ref: "Mark 10:45", text: "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many." }]
+    },
+    {
+      number: 11,
+      summary: "The Triumphal Entry: Jesus rides into Jerusalem on a donkey to shouts of Hosanna. He looks around the temple and leaves. The next day he curses a fig tree bearing no fruit and drives out those buying and selling in the temple — my house shall be called a house of prayer for all nations. The fig tree is found withered. Jesus teaches on faith, prayer, and forgiveness. The chief priests question his authority; he counters with a question about John's baptism.",
+      key_verses: [{ ref: "Mark 11:17", text: "Is it not written, 'My house shall be called a house of prayer for all the nations'? But you have made it a den of robbers." }]
+    },
+    {
+      number: 12,
+      summary: "The parable of the wicked tenants — they killed the son and will be destroyed. A trap question about taxes to Caesar: give to Caesar what is Caesar's, and to God what is God's. Sadducees ask about resurrection — Jesus corrects their misunderstanding of Scripture. The greatest commandment: love God with all your heart; love your neighbor as yourself. Jesus asks how the Christ can be David's son if David calls him Lord. The widow's two copper coins exceed all others' gifts.",
+      key_verses: [{ ref: "Mark 12:30-31", text: "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. The second is this: You shall love your neighbor as yourself." }]
+    },
+    {
+      number: 13,
+      summary: "The Olivet Discourse: the disciples admire the temple buildings; Jesus says not one stone will remain. Signs before the end: wars, earthquakes, famines, persecution, the abomination of desolation, great tribulation, false christs. The Son of Man will come with great power and glory; he will gather his elect. The fig tree parable teaches discernment. No one knows the day or hour — not even the Son, only the Father. Watch, therefore.",
+      key_verses: [{ ref: "Mark 13:32-33", text: "But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. Be on guard, keep awake." }]
+    },
+    {
+      number: 14,
+      summary: "A woman anoints Jesus with expensive ointment — she has prepared him for burial. Judas agrees to betray him. The Last Supper: Jesus identifies his betrayer and institutes the Lord's Supper — this is my body, this is my blood of the covenant. In Gethsemane he prays three times for the cup to pass, while the disciples sleep. Judas arrives with a crowd; Jesus is arrested. Peter follows at a distance, then denies Jesus three times. The Sanhedrin condemns Jesus for claiming to be the Son of God.",
+      key_verses: [{ ref: "Mark 14:36", text: "Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will." }]
+    },
+    {
+      number: 15,
+      summary: "Jesus is brought to Pilate, who finds no guilt but hands him over to satisfy the crowd who choose Barabbas. Soldiers mock Jesus with a purple robe and crown of thorns. Simon of Cyrene carries the cross. At Golgotha, Jesus is crucified between two criminals. Darkness covers the land for three hours. Jesus cries out: 'My God, my God, why have you forsaken me?' and breathes his last. The temple curtain tears in two. A centurion declares: 'Truly this man was the Son of God.' Joseph of Arimathea buries him.",
+      key_verses: [{ ref: "Mark 15:39", text: "And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, 'Truly this man was the Son of God!'" }]
+    },
+    {
+      number: 16,
+      summary: "On the first day of the week, Mary Magdalene, Mary the mother of James, and Salome find the stone rolled away. A young man in white tells them: he has risen, he is not here — go, tell his disciples. They flee in trembling and astonishment. Jesus appears to Mary Magdalene, then to two disciples on a walk, then to the eleven. He commissions them: go into all the world and proclaim the gospel. Whoever believes and is baptized will be saved. Then he is taken up into heaven.",
+      key_verses: [{ ref: "Mark 16:6", text: "Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "luke",
+  name: "Luke",
+  testament: "new",
+  category: "Gospels",
+  summary: "Luke is the longest of the four Gospels, written by a physician and companion of Paul for a Gentile audience. Luke emphasizes Jesus's concern for the marginalized — the poor, women, tax collectors, Samaritans, and Gentiles. It contains parables found nowhere else: the Good Samaritan, the Prodigal Son, the Rich Man and Lazarus, Zacchaeus. Luke pairs every story with a careful eye for the Holy Spirit, prayer, and joy. Together with Acts, it forms a two-volume work tracing the gospel from Galilee to Rome.",
+  themes: ["Jesus and the outcasts", "Prayer and the Holy Spirit", "Joy and praise", "Reversal of fortunes", "Women in Jesus's ministry", "Salvation for all nations"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Luke opens with a careful prologue addressed to Theophilus. The angel Gabriel announces to the elderly Zechariah that his wife Elizabeth will bear a son, John. Six months later Gabriel visits Mary in Nazareth: she will conceive by the Holy Spirit and bear the Son of God. Mary visits Elizabeth, whose baby leaps in the womb; Mary sings the Magnificat — God has lifted the humble and filled the hungry. John is born; Zechariah's speech is restored and he sings the Benedictus.",
+      key_verses: [{ ref: "Luke 1:46-47", text: "And Mary said, 'My soul magnifies the Lord, and my spirit rejoices in God my Savior.'" }]
+    },
+    {
+      number: 2,
+      summary: "Jesus is born in Bethlehem while Mary and Joseph are there for the census; he is laid in a manger. Angels announce to shepherds: today a Savior has been born — Christ the Lord. The shepherds find him and spread the word. Eight days later Jesus is circumcised and named. At the temple, aged Simeon takes the child and declares God's salvation for all peoples; Anna the prophetess gives thanks. At age twelve Jesus stays behind in Jerusalem, found in the temple discussing with teachers, saying he must be about his Father's business.",
+      key_verses: [{ ref: "Luke 2:10-11", text: "Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord." }]
+    },
+    {
+      number: 3,
+      summary: "John the Baptist preaches a baptism of repentance in the wilderness — the word of God comes to him. He calls the crowds a brood of vipers and demands fruits of repentance, giving practical ethical instructions to soldiers, tax collectors, and common people. He announces one coming mightier who will baptize with the Holy Spirit and fire. Jesus is baptized and the Spirit descends on him as a dove; God speaks from heaven. Luke provides Jesus's genealogy tracing back to Adam and God.",
+      key_verses: [{ ref: "Luke 3:16", text: "John answered them all, saying, 'I baptize you with water, but he who is mightier than I is coming, the strap of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire.'" }]
+    },
+    {
+      number: 4,
+      summary: "Full of the Holy Spirit, Jesus is led into the wilderness and tempted by the devil for forty days — three specific temptations involving bread, world dominion, and jumping from the temple. Jesus returns to Galilee in the Spirit's power. In the Nazareth synagogue he reads from Isaiah 61 — the Spirit of the Lord is upon me — and announces its fulfillment. When he implies Gentiles are included in God's grace, the townspeople try to throw him off a cliff. He heals in Capernaum and drives out a demon.",
+      key_verses: [{ ref: "Luke 4:18", text: "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor... to proclaim liberty to the captives and recovering of sight to the blind." }]
+    },
+    {
+      number: 5,
+      summary: "By the Lake of Gennesaret, Jesus borrows Simon's boat to teach the crowd, then commands a miraculous catch of fish so large the nets begin to break. Simon falls at Jesus's feet: 'Depart from me, I am a sinful man.' Jesus calls him to catch people. He heals a leper with a touch, then forgives and heals a paralytic let down through the roof — the crowds glorify God. Jesus calls Levi from his tax booth and eats with tax collectors and sinners, defending this as a physician's purpose.",
+      key_verses: [{ ref: "Luke 5:10", text: "Do not be afraid; from now on you will be catching men." }]
+    },
+    {
+      number: 6,
+      summary: "Jesus defends his disciples for plucking grain on the Sabbath — the Son of Man is lord of the Sabbath. He heals a man with a withered hand on the Sabbath while the Pharisees watch to accuse him. He prays all night and chooses twelve apostles. The Sermon on the Plain: four beatitudes and four woes — blessed are the poor, hungry, weeping, and persecuted; woe to the rich, full, laughing. Love your enemies, do good, lend expecting nothing in return. Judge not; by your fruit you are known.",
+      key_verses: [{ ref: "Luke 6:27-28", text: "But I say to you who hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you." }]
+    },
+    {
+      number: 7,
+      summary: "A Roman centurion sends elders to ask Jesus to heal his servant — his faith amazes Jesus. At Nain, Jesus stops a funeral procession and raises a widow's only son. John the Baptist, in prison, sends disciples asking: are you the one? Jesus's answer points to his miracles. He contrasts John — greatest born of women — with the kingdom's children. A sinful woman anoints Jesus's feet with tears and perfume in a Pharisee's house; Jesus forgives her sins, saying her great love shows her great forgiveness.",
+      key_verses: [{ ref: "Luke 7:47", text: "Therefore I tell you, her sins, which are many, are forgiven — for she loved much. But he who is forgiven little, loves little." }]
+    },
+    {
+      number: 8,
+      summary: "Women travel with Jesus and support his ministry from their own resources. Parable of the sower and its explanation. Jesus's true family are those who hear and do God's word. He stills the storm. The Gerasene demoniac is freed; the demons enter pigs that plunge into the lake. Jairus begs Jesus to come to his dying daughter. A hemorrhaging woman touches his garment and is healed by faith. Jairus's daughter is found dead but Jesus raises her, telling the parents to give her something to eat.",
+      key_verses: [{ ref: "Luke 8:15", text: "As for that in the good soil, they are those who, hearing the word, hold it fast in an honest and good heart, and bear fruit with patience." }]
+    },
+    {
+      number: 9,
+      summary: "The twelve are sent out with authority to preach and heal. Herod is perplexed by reports of Jesus. Jesus feeds five thousand. Peter's confession: the Christ of God. First passion prediction: the Son of Man must suffer, be killed, and raised. Take up your cross. The Transfiguration: Jesus's face changes, Moses and Elijah appear, God speaks. The disciples fail to cast out a demon. Second passion prediction. They argue about greatness; Jesus takes a child. The cost of following Jesus.",
+      key_verses: [{ ref: "Luke 9:23", text: "And he said to all, 'If anyone would come after me, let him deny himself and take up his cross daily and follow me.'" }]
+    },
+    {
+      number: 10,
+      summary: "Jesus sends seventy-two others ahead in pairs. They return rejoicing that demons submit to his name — Jesus says he saw Satan fall like lightning. The Good Samaritan: a lawyer asks who is my neighbor; a Samaritan cares for a beaten man while a priest and Levite pass by — go and do likewise. At Mary and Martha's house, Jesus commends Mary who sits at his feet over Martha who is busy with preparations: one thing is necessary, and Mary has chosen the better part.",
+      key_verses: [{ ref: "Luke 10:27", text: "You shall love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind, and your neighbor as yourself." }]
+    },
+    {
+      number: 11,
+      summary: "A disciple asks Jesus to teach them to pray; he gives the Lord's Prayer and the parable of the friend at midnight — ask, seek, knock. Beelzebul controversy: Jesus casts out demons by the finger of God, not by Satan. The sign of Jonah is the only sign this generation will receive. The lamp of the body is the eye. At a Pharisee's dinner, Jesus pronounces six woes — three on the Pharisees (tithing mint but neglecting justice) and three on the lawyers (loading burdens on people, killing the prophets).",
+      key_verses: [{ ref: "Luke 11:9", text: "And I tell you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you." }]
+    },
+    {
+      number: 12,
+      summary: "Beware the hypocrisy of the Pharisees — everything hidden will be revealed. Do not fear those who kill the body; fear God. The rich fool builds bigger barns for his surplus and dies that night — his soul required. Do not be anxious about food or clothing; seek his kingdom. Sell your possessions and give to the needy. Be ready like servants waiting for their master's return. Jesus brings not peace but fire and division. Read the signs of the times.",
+      key_verses: [{ ref: "Luke 12:20-21", text: "But God said to him, 'Fool! This night your soul is required of you, and the things you have prepared, whose will they be?' So is the one who lays up treasure for himself and is not rich toward God." }]
+    },
+    {
+      number: 13,
+      summary: "Repent or you will likewise perish — those killed by Pilate or by a falling tower were no worse sinners. The parable of the barren fig tree: one more year. Jesus heals a bent-over woman on the Sabbath. The mustard seed and the leaven. Strive to enter through the narrow door — many will seek to enter and not be able. Some last will be first. Jerusalem, Jerusalem, you who kill the prophets — your house is forsaken.",
+      key_verses: [{ ref: "Luke 13:24", text: "Strive to enter through the narrow door. For many, I tell you, will seek to enter and will not be able." }]
+    },
+    {
+      number: 14,
+      summary: "At a Pharisee's Sabbath meal Jesus heals a man with dropsy and teaches on taking the lowest seat at a feast. Parable of the Great Banquet: the invited guests all make excuses; the host fills his table with the poor, crippled, blind, and lame from the streets. Jesus on the cost of discipleship: anyone who does not carry his cross and come after me cannot be my disciple. Count the cost. Salt that loses its taste is useless.",
+      key_verses: [{ ref: "Luke 14:27", text: "Whoever does not bear his own cross and come after me cannot be my disciple." }]
+    },
+    {
+      number: 15,
+      summary: "Three parables of the lost in response to Pharisees grumbling that Jesus welcomes sinners: the lost sheep (99 left to find one), the lost coin (sweep the whole house), the Prodigal Son. The younger son takes his inheritance early, squanders it in reckless living, comes to himself in a pigsty, and returns to his father who runs to embrace him. The father throws a feast. The older son is angry — the father gently rebukes his resentment. Heaven rejoices over one sinner who repents.",
+      key_verses: [{ ref: "Luke 15:20", text: "And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him." }]
+    },
+    {
+      number: 16,
+      summary: "The parable of the dishonest manager who is commended for shrewd use of worldly wealth — the children of this world are more shrewd in their generation than the children of light. You cannot serve God and money. The Pharisees mock Jesus. Divorce teaching. The Rich Man and Lazarus: a wealthy man feasts in luxury while Lazarus begs at his gate. Both die — Lazarus to Abraham's side, the rich man to torment. The gulf is fixed; even if someone rises from the dead, they will not believe.",
+      key_verses: [{ ref: "Luke 16:13", text: "No servant can serve two masters, for either he will hate the one and love the other... You cannot serve God and money." }]
+    },
+    {
+      number: 17,
+      summary: "Warnings about causing others to stumble — better a millstone around your neck. Forgive a brother seven times. If you had faith like a mustard seed you could move a mulberry tree. Unworthy servant teaching. Ten lepers are healed; only one Samaritan returns to give thanks. On the kingdom's coming: it is already in your midst. The days of the Son of Man will come suddenly like lightning, like the days of Noah and Lot. Whoever seeks to preserve his life will lose it.",
+      key_verses: [{ ref: "Luke 17:21", text: "Nor will they say, 'Look, here it is!' or 'There!' for behold, the kingdom of God is in the midst of you." }]
+    },
+    {
+      number: 18,
+      summary: "The persistent widow and the unjust judge — pray and do not lose heart. The Pharisee and the tax collector at prayer: the tax collector beats his breast saying 'God, be merciful to me, a sinner' and goes home justified. Receive the kingdom like a child. The rich ruler cannot bring himself to sell everything — it is easier for a camel through the eye of a needle than a rich man to enter God's kingdom. Third passion prediction. Blind Bartimaeus receives his sight and follows Jesus.",
+      key_verses: [{ ref: "Luke 18:13-14", text: "'God, be merciful to me, a sinner!' I tell you, this man went down to his house justified, rather than the other." }]
+    },
+    {
+      number: 19,
+      summary: "Zacchaeus the chief tax collector climbs a tree to see Jesus; Jesus invites himself to his house — today salvation has come to this house, for the Son of Man came to seek and save the lost. Parable of the ten minas: faithful servants receive cities; the servant who hid his mina loses it. The Triumphal Entry into Jerusalem — disciples shout praise; Pharisees tell Jesus to rebuke them; he says the stones would cry out. Jesus weeps over Jerusalem and enters the temple, driving out those who sold, for it is a house of prayer.",
+      key_verses: [{ ref: "Luke 19:10", text: "For the Son of Man came to seek and to save the lost." }]
+    },
+    {
+      number: 20,
+      summary: "The chief priests challenge Jesus's authority; he answers with a question about John's baptism. Parable of the wicked tenants. Trick question about paying taxes to Caesar — Jesus asks for a coin and turns it back on them. The Sadducees question about resurrection — Jesus says in the resurrection people neither marry nor are given in marriage. David calls the Messiah Lord — how then is he David's son? Beware of scribes who love honor and devour widows' houses.",
+      key_verses: [{ ref: "Luke 20:25", text: "He said to them, 'Then render to Caesar the things that are Caesar's, and to God the things that are God's.'" }]
+    },
+    {
+      number: 21,
+      summary: "The widow's two copper coins exceed the gifts of the rich. Prediction of the temple's destruction — not one stone upon another. Signs before the end: wars, earthquakes, plagues, signs in sun moon and stars, nations perplexed. Jerusalem will be surrounded by armies. The Son of Man will come in a cloud with great power and glory. The fig tree: when you see these things, know the kingdom is near. Watch yourselves so that day doesn't come on you suddenly like a trap.",
+      key_verses: [{ ref: "Luke 21:28", text: "Now when these things begin to take place, straighten up and raise your heads, because your redemption is drawing near." }]
+    },
+    {
+      number: 22,
+      summary: "The chief priests look for a way to kill Jesus; Satan enters Judas. At the Last Supper, Jesus gives thanks over the bread and cup: this is my body given for you; this cup is the new covenant in my blood. A dispute about greatness — the greatest must be the servant; the Son of Man is among them as one who serves. In Gethsemane he prays until his sweat falls like drops of blood; the disciples sleep. Judas betrays with a kiss; Jesus is arrested. Peter denies him three times. Jesus is mocked and beaten.",
+      key_verses: [{ ref: "Luke 22:42", text: "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done." }]
+    },
+    {
+      number: 23,
+      summary: "Jesus is brought before Pilate, who finds no guilt in him, and before Herod, who sends him back. Pilate repeatedly tries to release him but the crowd demands Barabbas. Jesus is crucified at Golgotha between two criminals — one mocks, one asks to be remembered and is promised paradise. Darkness covers the land; Jesus cries 'Father, into your hands I commit my spirit' and dies. The curtain tears. A centurion glorifies God. Joseph of Arimathea wraps Jesus in linen and lays him in a tomb.",
+      key_verses: [{ ref: "Luke 23:43", text: "And he said to him, 'Truly, I say to you, today you will be with me in paradise.'" }]
+    },
+    {
+      number: 24,
+      summary: "At dawn women find the stone rolled away and two men in dazzling clothes asking: why do you seek the living among the dead? On the road to Emmaus, the risen Jesus walks with two disciples unrecognized, explaining Scripture; they recognize him in the breaking of bread and he vanishes. He appears to the eleven, shows his hands and feet, eats fish to show he is not a ghost, and opens their minds to understand Scripture. He commissions them as witnesses and promises the Father's gift. He leads them to Bethany and is carried up into heaven; they return to Jerusalem with great joy.",
+      key_verses: [{ ref: "Luke 24:46-47", text: "Thus it is written, that the Christ should suffer and on the third day rise from the dead, and that repentance for the forgiveness of sins should be proclaimed in his name to all nations." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "john",
+  name: "John",
+  testament: "new",
+  category: "Gospels",
+  summary: "John is the most theological of the four Gospels, written so that readers may believe that Jesus is the Christ, the Son of God. Rather than parables, John records seven great signs — miracles that reveal Jesus's glory — and seven 'I am' declarations in which Jesus identifies himself with the divine name. John alone records the extended farewell discourse and High Priestly Prayer on the night of the arrest. His portrait of Jesus is simultaneously the most exalted — the eternal Word who became flesh — and the most intimate, dwelling on Jesus's love for his disciples.",
+  themes: ["Jesus as the eternal Word and Son of God", "Belief and eternal life", "The seven signs", "Light and darkness", "The Holy Spirit as Paraclete", "Love as the mark of discipleship"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The Prologue: in the beginning was the Word, and the Word was with God, and the Word was God. Through him all things were made. He became flesh and dwelt among us, full of grace and truth — we have seen his glory. John the Baptist testifies he is not the Christ but the voice crying in the wilderness. The next day he sees Jesus and declares: Behold, the Lamb of God who takes away the sin of the world. Philip finds Nathanael, who confesses Jesus as Son of God and King of Israel.",
+      key_verses: [{ ref: "John 1:14", text: "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." }]
+    },
+    {
+      number: 2,
+      summary: "At a wedding in Cana, Mary tells Jesus the wine has run out. He turns six stone jars of water — each holding twenty to thirty gallons — into wine; the master of the feast marvels at its quality. This first sign reveals his glory. In Jerusalem Jesus drives money-changers and dove-sellers from the temple: do not make my Father's house a house of trade. When challenged for a sign, he says destroy this temple and he will raise it in three days — speaking of his body.",
+      key_verses: [{ ref: "John 2:11", text: "This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him." }]
+    },
+    {
+      number: 3,
+      summary: "Nicodemus, a Pharisee, comes to Jesus at night. Jesus tells him that unless one is born again — of water and the Spirit — he cannot see the kingdom of God. The Spirit blows where it wishes. As Moses lifted the bronze snake, the Son of Man must be lifted up, so that everyone who believes may have eternal life. For God so loved the world that he gave his only Son. He who believes is not condemned; he who does not believe is condemned already. John the Baptist rejoices as the friend of the bridegroom.",
+      key_verses: [{ ref: "John 3:16", text: "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life." }]
+    },
+    {
+      number: 4,
+      summary: "Jesus stops at Jacob's well in Samaria and asks a Samaritan woman for water. He offers living water — whoever drinks will never thirst. He reveals her five husbands and current partner; she wonders if he is the Messiah. Jesus: I who speak to you am he. The disciples return shocked to find him speaking with a woman. The Samaritans come and believe — they know he is the Savior of the world. Jesus heals an official's son from a distance in Capernaum — his second sign.",
+      key_verses: [{ ref: "John 4:14", text: "But whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life." }]
+    },
+    {
+      number: 5,
+      summary: "At the pool of Bethesda, a man paralyzed for thirty-eight years is healed — rise, take up your mat. Because Jesus did this on the Sabbath, the Jewish leaders persecute him. Jesus declares the Father is always working and so is he. The Son does nothing on his own; the Father shows him everything. The Son gives life to whom he will. The one who does not honor the Son does not honor the Father. The Scriptures testify about Jesus; Moses wrote about him.",
+      key_verses: [{ ref: "John 5:24", text: "Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life." }]
+    },
+    {
+      number: 6,
+      summary: "Jesus feeds five thousand on a hillside — the fifth sign — and the crowd wants to make him king. He walks on the water to his disciples in a storm. The Bread of Life discourse: I am the bread of life; whoever comes to me will never hunger. As the living Father sent him, he lives because of the Father; whoever eats him will live because of him. This is a hard teaching — many disciples turn back. Peter: Lord, to whom shall we go? You have the words of eternal life.",
+      key_verses: [{ ref: "John 6:35", text: "Jesus said to them, 'I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst.'" }]
+    },
+    {
+      number: 7,
+      summary: "Jesus goes secretly to the Feast of Tabernacles in Jerusalem. The crowd is divided: some say he is a good man; others say he leads the crowd astray. Jesus teaches in the temple, astonishing all. On the last day of the feast he cries out: if anyone thirsts, let him come to me and drink — rivers of living water will flow from him, speaking of the Spirit. Officers sent to arrest him return empty-handed: no one ever spoke like this man. The Sanhedrin is divided.",
+      key_verses: [{ ref: "John 7:37-38", text: "If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'" }]
+    },
+    {
+      number: 8,
+      summary: "A woman caught in adultery is brought before Jesus — he writes in the dirt and says: let the one without sin cast the first stone; they leave one by one. I am the light of the world — whoever follows me will not walk in darkness. A sharp debate with the Pharisees over his origin and testimony. To those who believe: if you abide in my word you will know the truth, and the truth will set you free. Before Abraham was, I am — they take up stones, but Jesus escapes.",
+      key_verses: [{ ref: "John 8:32", text: "And you will know the truth, and the truth will set you free." }]
+    },
+    {
+      number: 9,
+      summary: "Jesus heals a man born blind — the sixth sign — on the Sabbath by making mud with spittle. The man's parents fear the Pharisees who have agreed to expel anyone confessing Jesus as Christ. The Pharisees interrogate the man twice; he grows bolder in his defense of Jesus. They expel him. Jesus finds him and the man worships him. Jesus says: I came that those who do not see may see, and those who see may become blind. The Pharisees ask: are we blind too?",
+      key_verses: [{ ref: "John 9:25", text: "He answered, 'Whether he is a sinner I do not know. One thing I do know, that though I was blind, now I see.'" }]
+    },
+    {
+      number: 10,
+      summary: "I am the good shepherd: the good shepherd lays down his life for the sheep. The hired hand flees when the wolf comes. I have other sheep not of this fold — I must bring them also. My Father loves me because I lay down my life; no one takes it from me. At the Feast of Dedication the Jews demand: if you are the Christ, tell us plainly. Jesus: I and the Father are one. They try to stone him for blasphemy. He escapes across the Jordan where many believe in him.",
+      key_verses: [{ ref: "John 10:11", text: "I am the good shepherd. The good shepherd lays down his life for the sheep." }]
+    },
+    {
+      number: 11,
+      summary: "Lazarus is ill; Jesus delays two days and then says: this illness is for the glory of God. Lazarus dies. Martha meets Jesus: I know he will rise in the resurrection. Jesus: I am the resurrection and the life — whoever believes in me, though he die, yet shall he live. Jesus weeps at the tomb. He commands the stone removed, prays aloud, and cries: Lazarus, come out. Lazarus emerges still wrapped in burial cloths. The seventh sign. The chief priests and Pharisees decide to kill Jesus; Caiaphas prophesies unknowingly that one man should die for the nation.",
+      key_verses: [{ ref: "John 11:25-26", text: "Jesus said to her, 'I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die.'" }]
+    },
+    {
+      number: 12,
+      summary: "Mary anoints Jesus's feet with expensive perfume; Judas protests. Jesus defends her — she has done this for my burial. Jesus enters Jerusalem on a donkey to palm branches and shouts of Hosanna — fulfilling Zechariah's prophecy. Greeks seek Jesus; he speaks of a grain of wheat falling into the earth and dying to bear much fruit. A voice comes from heaven. Jesus speaks of being lifted up to draw all people to himself. Despite his signs, many do not believe. He who sees Jesus sees the Father.",
+      key_verses: [{ ref: "John 12:24", text: "Truly, truly, I say to you, unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit." }]
+    },
+    {
+      number: 13,
+      summary: "At the Last Supper, Jesus wraps a towel around himself and washes his disciples' feet — a model of servant leadership. Peter protests; Jesus insists. He predicts Judas's betrayal and indicates him by giving him a morsel; Satan enters Judas and he goes out into the night. A new commandment: love one another as I have loved you — by this everyone will know you are my disciples. Peter vows to lay down his life; Jesus predicts he will deny him three times before the rooster crows.",
+      key_verses: [{ ref: "John 13:34-35", text: "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples." }]
+    },
+    {
+      number: 14,
+      summary: "Let not your hearts be troubled — I am the way, the truth, and the life; no one comes to the Father except through me. Philip asks to see the Father; Jesus says: whoever has seen me has seen the Father. I will ask the Father and he will send another Helper — the Spirit of truth — to be with you forever. Whoever loves me will keep my commandments. Peace I leave with you — not as the world gives. Let not your hearts be troubled or afraid. The Father is greater than I.",
+      key_verses: [{ ref: "John 14:6", text: "Jesus said to him, 'I am the way, and the truth, and the life. No one comes to the Father except through me.'" }]
+    },
+    {
+      number: 15,
+      summary: "I am the true vine and my Father is the vinedresser — every branch in me that bears no fruit he takes away; those that bear fruit he prunes. Abide in me and I in you; apart from me you can do nothing. This is my commandment: love one another as I have loved you. Greater love has no one than this, that someone lay down his life for his friends. You did not choose me; I chose you. The world will hate you because it hated me first.",
+      key_verses: [{ ref: "John 15:13", text: "Greater love has no one than this, that someone lay down his life for his friends." }]
+    },
+    {
+      number: 16,
+      summary: "Jesus warns of persecution and expulsion from synagogues ahead. It is to your advantage that I go away — the Helper will not come unless I go. When he comes he will convict the world of sin, righteousness, and judgment. The Spirit of truth will guide you into all truth. Your sorrow will turn to joy — like a woman in labor whose pain is forgotten when the child arrives. In that day you will ask in my name. In the world you will have tribulation; but take heart, I have overcome the world.",
+      key_verses: [{ ref: "John 16:33", text: "I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world." }]
+    },
+    {
+      number: 17,
+      summary: "The High Priestly Prayer: Jesus lifts his eyes to heaven. First for himself: Father, the hour has come; glorify your Son. Then for his disciples: keep them in your name that they may be one, as we are one; sanctify them in the truth; your word is truth. Then for all future believers: that they may all be one — as you, Father, are in me, and I in you — so that the world may believe that you have sent me. I desire that they may see my glory.",
+      key_verses: [{ ref: "John 17:21", text: "That they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me." }]
+    },
+    {
+      number: 18,
+      summary: "Jesus and his disciples cross the Kidron Valley to a garden. Judas arrives with soldiers and officials. When Jesus says 'I am he,' they draw back and fall to the ground. Peter cuts off the ear of the high priest's servant. Jesus is taken to Annas, then Caiaphas. Peter denies Jesus three times in the courtyard, the rooster crows. Jesus is brought to Pilate's headquarters. Pilate questions him: are you the King of the Jews? Jesus answers: my kingdom is not of this world.",
+      key_verses: [{ ref: "John 18:37", text: "Then Pilate said to him, 'So you are a king?' Jesus answered, 'You say that I am a king. For this purpose I was born and for this purpose I have come into the world — to bear witness to the truth.'" }]
+    },
+    {
+      number: 19,
+      summary: "Pilate has Jesus flogged and the soldiers place a crown of thorns and purple robe on him, mocking him. Pilate presents him: Behold the man. The crowd demands crucifixion; Pilate is afraid and washes his hands. Jesus carries his cross to Golgotha and is crucified between two others. The inscription: Jesus of Nazareth, King of the Jews. Soldiers cast lots for his garment. Jesus entrusts his mother to the beloved disciple. He says 'It is finished' and gives up his spirit. A soldier pierces his side — blood and water flow.",
+      key_verses: [{ ref: "John 19:30", text: "When Jesus had received the sour wine, he said, 'It is finished,' and he bowed his head and gave up his spirit." }]
+    },
+    {
+      number: 20,
+      summary: "Mary Magdalene finds the tomb empty and tells Peter and the beloved disciple, who run to the tomb. The beloved disciple sees the burial cloths lying there and believes. Mary stands weeping outside and sees the risen Jesus, who calls her by name; she reaches out but he says: I have not yet ascended to the Father. He appears to the disciples that evening, shows his hands and side, and breathes the Holy Spirit on them. Thomas, absent, refuses to believe. Eight days later Jesus appears again and Thomas cries: my Lord and my God! These things are written that you may believe.",
+      key_verses: [{ ref: "John 20:28-29", text: "Thomas answered him, 'My Lord and my God!' Jesus said to him, 'Have you believed because you have seen me? Blessed are those who have not seen and yet have believed.'" }]
+    },
+    {
+      number: 21,
+      summary: "Jesus appears at the Sea of Tiberias. The disciples have caught nothing all night; he tells them to cast the net on the right side and they haul in 153 large fish. Jesus makes breakfast on the shore. Three times he asks Peter: do you love me? Three times Peter affirms it; three times Jesus commissions him — feed my lambs, tend my sheep, feed my sheep — and foretells his martyrdom. Peter asks about the beloved disciple; Jesus: if it is my will that he remain until I come, what is that to you? Follow me.",
+      key_verses: [{ ref: "John 21:17", text: "He said to him the third time, 'Simon, son of John, do you love me?' Peter was grieved because he said to him the third time, 'Do you love me?' and he said to him, 'Lord, you know everything; you know that I love you.' Jesus said to him, 'Feed my sheep.'" }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "acts",
+  name: "Acts",
+  testament: "new",
+  category: "History",
+  summary: "Acts is Luke's second volume, tracing the explosive growth of the early church from a small group of disciples in Jerusalem to a movement reaching the heart of Rome. Powered by the Holy Spirit poured out at Pentecost, the gospel spreads in widening circles — first to Jews in Jerusalem, then to Samaria, then to Gentiles throughout the Mediterranean world. The book centers on two apostles: Peter in the first half and Paul in the second. Acts ends abruptly with Paul under house arrest in Rome, still preaching boldly — the story unfinished, the mission continuing.",
+  themes: ["The Holy Spirit empowering witness", "The gospel spreading to all nations", "Persecution and boldness", "The inclusion of Gentiles", "Prayer and the early church", "Paul's missionary journeys"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Luke addresses Theophilus and summarizes the period between the resurrection and the ascension — forty days during which Jesus appeared to the apostles and spoke of the kingdom. He commands them to wait in Jerusalem for the promise of the Father: the Holy Spirit's baptism. He ascends into heaven from the Mount of Olives; two angels promise he will return the same way. The disciples return to Jerusalem and pray together. Matthias is chosen by lot to replace Judas among the twelve.",
+      key_verses: [{ ref: "Acts 1:8", text: "But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth." }]
+    },
+    {
+      number: 2,
+      summary: "At Pentecost the Spirit fills the gathered disciples like a rushing wind; tongues of fire rest on each one and they speak in other languages. Devout Jews from every nation are amazed. Peter stands and preaches: Jesus of Nazareth, crucified by lawless men yet raised by God, is both Lord and Christ. Those cut to the heart ask what to do — repent and be baptized. Three thousand are added. The new community devotes itself to teaching, fellowship, breaking of bread, and prayer.",
+      key_verses: [{ ref: "Acts 2:38", text: "And Peter said to them, 'Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.'" }]
+    },
+    {
+      number: 3,
+      summary: "At the temple gate called Beautiful, Peter and John encounter a man lame from birth begging for money. Peter says: silver and gold I do not have, but what I have I give you — in the name of Jesus Christ, rise up and walk. The man leaps and walks into the temple praising God. The crowd is astonished. Peter preaches: you killed the Author of life, whom God raised from the dead — repent that your sins may be blotted out and times of refreshing come from the Lord.",
+      key_verses: [{ ref: "Acts 3:19", text: "Repent therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord." }]
+    },
+    {
+      number: 4,
+      summary: "Peter and John are arrested for proclaiming the resurrection. Before the Sanhedrin, Peter — filled with the Holy Spirit — boldly declares there is salvation in no one else: there is no other name under heaven given among men by which we must be saved. The rulers are astonished at their boldness, recognizing they had been with Jesus. They release them with threats. The believers pray for boldness and the place shakes. The community shares possessions; Barnabas sells a field.",
+      key_verses: [{ ref: "Acts 4:12", text: "And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved." }]
+    },
+    {
+      number: 5,
+      summary: "Ananias and Sapphira sell property but secretly keep part of the proceeds while claiming to give it all. Both fall dead when confronted — great fear comes on the whole church. The apostles perform many signs in the temple portico; the sick are brought out into the streets. The high priest and Sadducees arrest the apostles again; an angel releases them from prison to preach in the temple. Brought before the Sanhedrin, they are flogged and released; they rejoice that they were counted worthy to suffer for Jesus's name.",
+      key_verses: [{ ref: "Acts 5:29", text: "But Peter and the apostles answered, 'We must obey God rather than men.'" }]
+    },
+    {
+      number: 6,
+      summary: "A complaint arises that Hellenist widows are being overlooked in the daily distribution of food. The twelve appoint seven men full of the Spirit and wisdom to handle this task — including Stephen and Philip. The word of God increases; a great many priests become obedient to the faith. Stephen performs great wonders and signs. Men from various synagogues dispute with him but cannot withstand the wisdom and Spirit with which he speaks. They secretly instigate false charges and bring him before the Sanhedrin.",
+      key_verses: [{ ref: "Acts 6:7", text: "And the word of God continued to increase, and the number of the disciples multiplied greatly in Jerusalem, and a great many of the priests became obedient to the faith." }]
+    },
+    {
+      number: 7,
+      summary: "Stephen delivers a sweeping speech before the Sanhedrin, retelling Israel's history — Abraham, Joseph, Moses — to show that God's people have always resisted the Holy Spirit and killed those who announced the coming Righteous One, just as they have now betrayed and murdered Jesus. The council grinds their teeth in rage. Stephen gazes into heaven and sees Jesus standing at the right hand of God. They drag him out and stone him; he prays: Lord, do not hold this sin against them. Saul watches approvingly.",
+      key_verses: [{ ref: "Acts 7:59-60", text: "And as they were stoning Stephen, he called out, 'Lord Jesus, receive my spirit.' And falling to his knees he cried out with a loud voice, 'Lord, do not hold this sin against them.'" }]
+    },
+    {
+      number: 8,
+      summary: "Persecution scatters the Jerusalem believers throughout Judea and Samaria — except the apostles. Philip goes to Samaria preaching Christ; many are healed and there is great joy. Simon the sorcerer believes and is baptized but tries to buy the Spirit's gift for money — Peter rebukes him sharply. An angel directs Philip to a desert road where he meets an Ethiopian eunuch, a court official, reading Isaiah 53 in his chariot. Philip explains it is fulfilled in Jesus; the eunuch is baptized and goes on his way rejoicing.",
+      key_verses: [{ ref: "Acts 8:35", text: "Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus." }]
+    },
+    {
+      number: 9,
+      summary: "Saul, breathing threats against the disciples, travels to Damascus with letters to arrest believers. A blinding light flashes around him; a voice says: Saul, Saul, why are you persecuting me? I am Jesus. Blind, Saul fasts for three days. God sends Ananias to restore his sight; Saul is baptized. He immediately proclaims Jesus in the synagogues, astonishing everyone. The Jews plot to kill him; the disciples lower him in a basket over the wall. In Jerusalem Barnabas vouches for him. Peter heals Aeneas and raises Dorcas from the dead.",
+      key_verses: [{ ref: "Acts 9:15", text: "But the Lord said to him, 'Go, for he is a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel.'" }]
+    },
+    {
+      number: 10,
+      summary: "In Caesarea, the devout Roman centurion Cornelius has a vision: an angel tells him to send for Peter. While the messengers travel, Peter has a vision of a sheet lowered from heaven full of unclean animals; three times a voice says: what God has made clean, do not call common. When Cornelius's men arrive, Peter goes with them. As he preaches to Cornelius's household, the Holy Spirit falls on the Gentile listeners just as at Pentecost. Peter commands them to be baptized in water — who can withhold water from these who have received the Spirit?",
+      key_verses: [{ ref: "Acts 10:34-35", text: "So Peter opened his mouth and said: 'Truly I understand that God shows no partiality, but in every nation anyone who fears him and does what is right is acceptable to him.'" }]
+    },
+    {
+      number: 11,
+      summary: "Peter returns to Jerusalem and is criticized by the circumcision party for eating with uncircumcised men. He recounts the vision and Cornelius's account step by step; the believers glorify God — then to the Gentiles also God has granted repentance that leads to life. Meanwhile the scattered believers from the Jerusalem persecution reach Antioch and preach to Greeks; a great number believe. Barnabas is sent and brings Saul from Tarsus. For a whole year they teach; in Antioch the disciples are first called Christians.",
+      key_verses: [{ ref: "Acts 11:26", text: "And in Antioch the disciples were first called Christians." }]
+    },
+    {
+      number: 12,
+      summary: "King Herod arrests and kills James the brother of John, then imprisons Peter. The church prays earnestly. The night before his trial, an angel wakes Peter, his chains fall off, and he walks out past the guards — he thinks he is dreaming. He goes to Mary's house where the church is praying; the servant girl Rhoda recognizes his voice but is so astonished she leaves him knocking while she tells the others. They think she is out of her mind. Herod is struck by an angel and eaten by worms because he did not give glory to God.",
+      key_verses: [{ ref: "Acts 12:5", text: "So Peter was kept in prison, but earnest prayer for him was made to God by the church." }]
+    },
+    {
+      number: 13,
+      summary: "The church at Antioch fasts and prays; the Spirit says: set apart Barnabas and Saul for the work I have called them to. First missionary journey begins. In Cyprus, a sorcerer named Elymas tries to oppose them; Paul blinds him. In Pisidian Antioch, Paul preaches a sweeping sermon in the synagogue tracing God's work from Egypt to David to Jesus's resurrection. Many Gentiles beg to hear more the next Sabbath. The whole city comes; the jealous Jews contradict Paul, who declares he is now turning to the Gentiles.",
+      key_verses: [{ ref: "Acts 13:47", text: "For so the Lord has commanded us, saying, 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'" }]
+    },
+    {
+      number: 14,
+      summary: "In Iconium Paul and Barnabas preach in the synagogue; both Jews and Gentiles believe, but opposition forces them to flee to Lystra. There Paul heals a man lame from birth; the crowd tries to sacrifice to them as gods Zeus and Hermes — Paul and Barnabas tear their garments in horror. Jews from Antioch turn the crowd against Paul; he is stoned and left for dead. He gets up and continues to Derbe. They retrace their steps, strengthening the disciples and appointing elders, teaching: through many tribulations we must enter the kingdom.",
+      key_verses: [{ ref: "Acts 14:22", text: "Strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God." }]
+    },
+    {
+      number: 15,
+      summary: "The Jerusalem Council: men from Judea teach that Gentiles must be circumcised to be saved. Paul and Barnabas go to Jerusalem to settle the matter. Peter testifies that God gave Gentiles the Spirit without distinction. James gives the verdict: do not trouble Gentiles turning to God; only ask them to abstain from food offered to idols, from blood, from what is strangled, and from sexual immorality. A letter is sent back with Paul and Barnabas. Paul and Barnabas then split over John Mark; Paul takes Silas, Barnabas takes Mark.",
+      key_verses: [{ ref: "Acts 15:11", text: "But we believe that we will be saved through the grace of the Lord Jesus, just as they will." }]
+    },
+    {
+      number: 16,
+      summary: "Paul and Silas travel through Asia Minor. Paul has a vision of a Macedonian man saying: come over and help us. In Philippi, Lydia — a seller of purple — hears Paul by the river and her heart is opened; she and her household are baptized. Paul casts a spirit of divination out of a slave girl; her owners drag Paul and Silas before the magistrates. They are stripped, beaten, and thrown in prison. At midnight they sing hymns; an earthquake opens the prison doors. The jailer, fearing the prisoners have escaped, draws his sword — Paul stops him: we are all here. The jailer asks what he must do to be saved.",
+      key_verses: [{ ref: "Acts 16:31", text: "And they said, 'Believe in the Lord Jesus, and you will be saved, you and your household.'" }]
+    },
+    {
+      number: 17,
+      summary: "In Thessalonica Paul reasons from Scripture three Sabbaths — some believe, a mob attacks Jason's house. In Berea the Jews receive the word eagerly, examining Scripture daily — more noble-minded than the Thessalonians. Paul is taken to Athens where he is provoked by all the idols. On the Areopagus he preaches: the God who made the world does not live in temples made by hands; he overlooked the times of ignorance but now commands all people everywhere to repent, for he has set a day for judgment by a man he raised from the dead. Some mock at the resurrection; others believe.",
+      key_verses: [{ ref: "Acts 17:28", text: "For in him we live and move and have our being; as even some of your own poets have said, 'For we are indeed his offspring.'" }]
+    },
+    {
+      number: 18,
+      summary: "In Corinth Paul meets Aquila and Priscilla, fellow tentmakers and believers, and works with them. Every Sabbath he reasons in the synagogue. The Jews oppose him; he declares he is turning to the Gentiles. God speaks in a night vision: do not be afraid, I have many people in this city. Paul stays eighteen months. The Jews haul him before the proconsul Gallio, who dismisses the case. Paul returns to Antioch via Ephesus. The eloquent Apollos arrives in Ephesus knowing only John's baptism; Aquila and Priscilla take him aside and explain the way of God more accurately.",
+      key_verses: [{ ref: "Acts 18:9-10", text: "And the Lord said to Paul one night in a vision, 'Do not be afraid, but go on speaking and do not be silent, for I am with you, and no one will attack you to harm you, for I have many in this city who are my people.'" }]
+    },
+    {
+      number: 19,
+      summary: "Paul finds disciples in Ephesus who received only John's baptism; he baptizes them in Jesus's name and the Spirit comes on them. He spends two years teaching in the hall of Tyrannus — all Asia hears the word of the Lord. Extraordinary miracles occur; handkerchiefs touched by Paul heal the sick. The seven sons of Sceva try to exorcise demons in Paul's name and are overpowered. New believers burn their magic books publicly. The silversmith Demetrius incites a riot: the goddess Artemis's shrine business is threatened. The city clerk eventually quiets the crowd.",
+      key_verses: [{ ref: "Acts 19:20", text: "So the word of the Lord continued to increase and prevail mightily." }]
+    },
+    {
+      number: 20,
+      summary: "Paul travels through Macedonia and Greece. In Troas a young man named Eutychus falls from a third-floor window while Paul preaches past midnight; Paul raises him from the dead. Paul sails past Ephesus and summons the Ephesian elders to Miletus. In an emotional farewell he recalls his ministry among them: I did not shrink from declaring the whole counsel of God. Wolves will come. I commend you to God and the word of his grace. He kneels on the beach and prays with them; they weep and embrace him, grieving that they will not see his face again.",
+      key_verses: [{ ref: "Acts 20:28", text: "Pay careful attention to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to care for the church of God, which he obtained with his own blood." }]
+    },
+    {
+      number: 21,
+      summary: "Despite repeated prophetic warnings that chains await him in Jerusalem, Paul presses on — he is ready not only to be bound but to die for the name of Jesus. He arrives in Jerusalem, meets James, and agrees to a purification rite to show respect for Jewish law. In the temple, Jews from Asia stir up the crowd and seize Paul — he is rescued by Roman soldiers. The commander allows Paul to address the crowd from the steps; they listen until he mentions being sent to the Gentiles, then they shout: away with him.",
+      key_verses: [{ ref: "Acts 21:13", text: "Then Paul answered, 'What are you doing, weeping and breaking my heart? For I am ready not only to be imprisoned but even to die in Jerusalem for the name of the Lord Jesus.'" }]
+    },
+    {
+      number: 22,
+      summary: "Paul speaks in Aramaic to the Jerusalem crowd, recounting his conversion on the Damascus road — the brilliant light, the voice, Ananias's visit. He describes a vision in the temple in which the Lord told him to leave Jerusalem and go to the Gentiles. At the word 'Gentiles' the crowd erupts. The Roman tribune orders Paul flogged; Paul reveals his Roman citizenship and the flogging is halted. The tribune wants to know what accusation the Jews are making, so he brings Paul before the Sanhedrin.",
+      key_verses: [{ ref: "Acts 22:15", text: "For you will be a witness for him to everyone of what you have seen and heard." }]
+    },
+    {
+      number: 23,
+      summary: "Before the Sanhedrin, Paul divides the council by declaring he is being judged for the hope of the resurrection; Pharisees and Sadducees erupt into violent disagreement. The Lord stands by Paul at night: take courage, for as you have testified to the facts about me in Jerusalem, so you must testify also in Rome. More than forty men bind themselves with an oath to kill Paul. Paul's nephew uncovers the plot and tells the tribune, who sends Paul under armed guard to Caesarea to stand before Governor Felix.",
+      key_verses: [{ ref: "Acts 23:11", text: "The following night the Lord stood by him and said, 'Take courage, for as you have testified to the facts about me in Jerusalem, so you must testify also in Rome.'" }]
+    },
+    {
+      number: 24,
+      summary: "The high priest and elders bring charges before Governor Felix in Caesarea. Felix, who knows about the Way, adjourns the case and keeps Paul in custody. Over two years Felix hears Paul several times and is alarmed when Paul discusses righteousness, self-control, and coming judgment — but he hopes for a bribe and never releases him. When Festus succeeds Felix, he inherits Paul as a prisoner.",
+      key_verses: [{ ref: "Acts 24:25", text: "And as he reasoned about righteousness and self-control and the coming judgment, Felix was alarmed and said, 'Go away for the present. When I get an opportunity I will summon you.'" }]
+    },
+    {
+      number: 25,
+      summary: "The Jewish leaders ask Festus to transfer Paul to Jerusalem, planning an ambush. Festus asks Paul if he is willing to go to Jerusalem; Paul appeals to Caesar — you cannot hand me over to these people; I appeal to Caesar. Festus confers with his council: to Caesar you will go. King Agrippa and Bernice arrive in Caesarea; Festus describes Paul's case. Agrippa wants to hear Paul himself; the next day Paul is brought before this distinguished assembly.",
+      key_verses: [{ ref: "Acts 25:11", text: "If then I am a wrongdoer and have committed anything for which I deserve to die, I do not seek to escape death. But if there is nothing to their charges against me, no one can give me up to them. I appeal to Caesar." }]
+    },
+    {
+      number: 26,
+      summary: "Before Agrippa, Paul gives his fullest autobiographical defense: his strict Pharisaic past, his persecution of believers, his conversion on the road to Damascus — a light brighter than the sun, the voice calling him to open blind eyes and turn people from darkness to light. He has been obedient to the heavenly vision, proclaiming repentance to both Jews and Gentiles. Festus thinks Paul is mad with much learning; Paul speaks to Agrippa directly: do you believe the prophets? Agrippa: almost you persuade me. Paul: I would to God all were as I am — except for these chains.",
+      key_verses: [{ ref: "Acts 26:18", text: "To open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins." }]
+    },
+    {
+      number: 27,
+      summary: "Paul sails for Rome as a prisoner. Against Paul's warning, the centurion follows the ship's captain and sails into bad weather. A violent northeaster drives the ship for fourteen days. Paul encourages the crew: an angel told him everyone will survive though the ship will be lost. He takes bread, gives thanks, and eats — they all take heart. The ship runs aground near Malta; all 276 aboard swim or float safely to shore, exactly as Paul said.",
+      key_verses: [{ ref: "Acts 27:25", text: "So take heart, men, for I have faith in God that it will be exactly as I have been told." }]
+    },
+    {
+      number: 28,
+      summary: "On Malta, Paul is bitten by a viper but suffers no harm — the islanders decide he must be a god. He heals the island's leading man and many others. After three months they sail to Rome. Christian brothers from Rome come to meet Paul on the road; on seeing them Paul gives thanks to God and takes courage. In Rome Paul is allowed to live by himself with a soldier guarding him. He calls the Jewish leaders, explains his situation, and preaches the kingdom of God from morning to evening. Some believe; some do not. He remains under house arrest for two years, boldly proclaiming the gospel with no hindrance.",
+      key_verses: [{ ref: "Acts 28:31", text: "Proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "romans",
+  name: "Romans",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Romans is Paul's most systematic theological letter, written to the church in Rome to introduce himself and lay out his gospel before his hoped-for visit. It is the Bible's fullest treatment of justification by faith, sin, grace, election, and the Christian life. Paul argues that all humanity — both Gentiles and Jews — stands under sin and under God's just condemnation, but God has provided righteousness through faith in Jesus Christ. The letter reaches its devotional summit in chapters 8 and 11–12 and concludes with practical ethical instruction.",
+  themes: ["Justification by faith", "Universal sinfulness", "Grace and the law", "The righteousness of God", "Election and sovereignty", "Life in the Spirit", "Jew and Gentile united in Christ"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul introduces himself as a servant of Christ called to be an apostle, eager to preach in Rome. The gospel is the power of God for salvation to everyone who believes — in it the righteousness of God is revealed from faith to faith. The just shall live by faith. He then describes the Gentile world's suppression of truth: though God's power and divine nature are clearly seen in creation, they exchanged the truth for a lie, worshipping creatures rather than the Creator, resulting in moral dissolution.",
+      key_verses: [{ ref: "Romans 1:16-17", text: "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith." }]
+    },
+    {
+      number: 2,
+      summary: "Paul turns to those who judge others while doing the same things — you condemn yourself. God's judgment is based on truth, and he will render to each according to his works. The Jews who possess the law are not automatically exempt — knowing the law and keeping it are different things. The Gentile who keeps the law's requirements by nature does what the law commands. Real circumcision is of the heart, by the Spirit, not the letter.",
+      key_verses: [{ ref: "Romans 2:11", text: "For God shows no partiality." }]
+    },
+    {
+      number: 3,
+      summary: "Every advantage of the Jew is real — they were entrusted with the oracles of God. But all are under sin: no one is righteous, no one does good, their throats are open graves. The whole world is accountable to God. But now, apart from law, God's righteousness has been revealed through faith in Jesus Christ for all who believe. He is the propitiation for our sins, so that God is both just and the justifier of the one who has faith in Jesus. Therefore we uphold the law — we do not overthrow it.",
+      key_verses: [{ ref: "Romans 3:23-24", text: "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus." }]
+    },
+    {
+      number: 4,
+      summary: "Paul uses Abraham to demonstrate that justification by faith is not a new idea. Abraham believed God and it was credited to him as righteousness — and this was before his circumcision, before the law. He is the father of all who believe, circumcised or not. He did not weaken in faith when considering his aged body and Sarah's deadness; he gave glory to God, fully convinced he could do what he promised. Therefore it was credited to him as righteousness.",
+      key_verses: [{ ref: "Romans 4:20-21", text: "No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God, fully convinced that God was able to do what he had promised." }]
+    },
+    {
+      number: 5,
+      summary: "Justified by faith, we have peace with God through Jesus Christ. We rejoice in our sufferings, knowing that suffering produces perseverance, character, and hope — and hope does not disappoint because God's love has been poured into our hearts through the Holy Spirit. While we were still sinners, Christ died for us. As sin entered the world through one man (Adam) and death through sin, so one act of righteousness by one man (Christ) brings justification and life for all.",
+      key_verses: [{ ref: "Romans 5:8", text: "But God shows his love for us in that while we were still sinners, Christ died for us." }]
+    },
+    {
+      number: 6,
+      summary: "Should we go on sinning so grace may increase? By no means. We who were baptized into Christ were baptized into his death — our old self was crucified with him. We are dead to sin and alive to God. Sin is no longer to be master over you, for you are not under law but under grace. You have been freed from sin and have become slaves of righteousness. The wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      key_verses: [{ ref: "Romans 6:23", text: "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord." }]
+    },
+    {
+      number: 7,
+      summary: "We died to the law through Christ's body, to bear fruit for God. Paul describes the inner conflict of the one who knows the law: I want to do good but I cannot; I do the very evil I hate. The law is holy and good, but it reveals sin's power. Who will rescue me from this body of death? Thanks be to God — through Jesus Christ our Lord! The mind serves the law of God; the flesh, the law of sin. This passage has been debated: does it describe Paul's pre- or post-conversion experience?",
+      key_verses: [{ ref: "Romans 7:24-25", text: "Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord!" }]
+    },
+    {
+      number: 8,
+      summary: "There is now no condemnation for those in Christ Jesus. The Spirit of life has set us free from the law of sin and death. Those who live by the Spirit set their minds on the things of the Spirit, which is life and peace. We are children of God, co-heirs with Christ. The creation groans in labor pains; we groan inwardly as we await adoption. The Spirit intercedes for us with groanings. All things work together for good for those called according to his purpose. Nothing — neither death, nor life, nor any created thing — can separate us from the love of God in Christ Jesus.",
+      key_verses: [{ ref: "Romans 8:38-39", text: "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord." }]
+    },
+    {
+      number: 9,
+      summary: "Paul has great sorrow for his fellow Israelites who have not believed. Did God's word fail? No — not all Israel is Israel; God's election has always been selective, as shown in choosing Isaac over Ishmael, Jacob over Esau. God has mercy on whom he will and hardens whom he will. Does this make God unjust? No — as the potter has authority over the clay, God has authority over his creatures. He has prepared vessels of mercy to display his glory, including Gentiles.",
+      key_verses: [{ ref: "Romans 9:15-16", text: "For he says to Moses, 'I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.' So then it depends not on human will or exertion, but on God, who has mercy." }]
+    },
+    {
+      number: 10,
+      summary: "Paul desires and prays for Israel's salvation. They are zealous for God but not in accordance with knowledge — seeking to establish their own righteousness rather than submitting to God's. Christ is the end of the law for righteousness for everyone who believes. The word of faith is near you: if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. Everyone who calls on the name of the Lord will be saved. But how will they call if no one preaches?",
+      key_verses: [{ ref: "Romans 10:9", text: "Because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved." }]
+    },
+    {
+      number: 11,
+      summary: "Has God rejected his people? By no means — Paul himself is an Israelite. As in Elijah's day there is a remnant chosen by grace. Israel stumbled but did not fall so as to be cast aside; their stumbling has brought riches to the Gentiles. Gentile believers are grafted in like a wild olive branch; do not be arrogant toward the natural branches, for God can graft them in again. All Israel will be saved — this is the mystery. The gifts and calling of God are irrevocable. Paul ends in worship: O the depth of the riches and wisdom of God!",
+      key_verses: [{ ref: "Romans 11:33", text: "Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!" }]
+    },
+    {
+      number: 12,
+      summary: "In view of God's mercies: present your bodies as a living sacrifice — this is your spiritual worship. Do not be conformed to this world but be transformed by the renewing of your mind. Use your gifts — prophecy, service, teaching, exhortation, giving, leading, mercy — in love. Abhor evil; cling to good. Outdo one another in showing honor. Do not be slothful. Bless those who persecute you. Do not repay evil for evil. If your enemy is hungry, feed him. Do not be overcome by evil but overcome evil with good.",
+      key_verses: [{ ref: "Romans 12:2", text: "Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect." }]
+    },
+    {
+      number: 13,
+      summary: "Be subject to governing authorities — they are God's servant for your good. Pay taxes and customs to whom they are owed. Owe no one anything except to love each other, for love is the fulfilling of the law. The commandments are summed up in: love your neighbor as yourself. Love does no wrong to a neighbor. The night is far gone; the day is at hand — cast off works of darkness and put on the armor of light. Put on the Lord Jesus Christ.",
+      key_verses: [{ ref: "Romans 13:10", text: "Love does no wrong to a neighbor; therefore love is the fulfilling of the law." }]
+    },
+    {
+      number: 14,
+      summary: "Welcome those weak in faith without quarreling over opinions — whether to eat only vegetables or anything, whether to observe certain days. Each person must be fully convinced in his own mind. We do not live to ourselves; none of us dies to ourselves; we belong to the Lord. Why do you judge your brother? We will all stand before God's judgment seat. Do not let what you eat cause the ruin of someone for whom Christ died. The kingdom of God is not eating and drinking but righteousness, peace, and joy in the Holy Spirit.",
+      key_verses: [{ ref: "Romans 14:17", text: "For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit." }]
+    },
+    {
+      number: 15,
+      summary: "The strong ought to bear with the failings of the weak rather than please themselves. Accept one another as Christ accepted you. Paul's ambition: to preach the gospel where Christ has not been named, so as not to build on another's foundation. He plans to visit Rome on his way to Spain, after delivering the collection for the saints in Jerusalem. He urges them to pray that he will be delivered from unbelievers in Judea. May the God of hope fill you with all joy and peace in believing.",
+      key_verses: [{ ref: "Romans 15:13", text: "May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope." }]
+    },
+    {
+      number: 16,
+      summary: "Paul commends Phoebe, a deaconess from Cenchreae, and greets an extensive list of co-workers — beginning with Priscilla and Aquila. He warns against those who cause divisions contrary to the teaching they learned and urges the Romans to be wise as to what is good and innocent as to what is evil. The God of peace will soon crush Satan under your feet. Greetings from Timothy and others. To the only wise God be glory forever through Jesus Christ.",
+      key_verses: [{ ref: "Romans 16:25-27", text: "To him who is able to strengthen you according to my gospel... to the only wise God be glory forevermore through Jesus Christ! Amen." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "1corinthians",
+  name: "1 Corinthians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "First Corinthians is Paul's response to a troubled church in the cosmopolitan city of Corinth, dealing with a remarkable range of practical and theological problems: divisions over church leaders, a case of incest, lawsuits between believers, questions about marriage and food offered to idols, abuses of the Lord's Supper, spiritual gifts and their misuse, and doubts about the resurrection. At the heart of the letter is Paul's insistence that the cross subverts worldly wisdom, and that love is the supreme gift that outlasts all others.",
+  themes: ["The wisdom of the cross", "Unity in the church", "Love as the greatest gift", "The resurrection", "Order in worship", "Spiritual gifts", "Sexual ethics"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for the grace given the Corinthians, then immediately addresses their divisions: some say 'I follow Paul,' others 'I follow Apollos' or 'Cephas.' Christ is not divided — was Paul crucified for you? The message of the cross is foolishness to those who are perishing, but to those being saved it is the power of God. God chose the foolish things of the world to shame the wise; the weak to shame the strong. Christ is our wisdom, righteousness, sanctification, and redemption.",
+      key_verses: [{ ref: "1 Corinthians 1:18", text: "For the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God." }]
+    },
+    {
+      number: 2,
+      summary: "Paul came to Corinth not with eloquent wisdom but with a demonstration of the Spirit's power, so that their faith would rest on God's power and not human wisdom. Among the mature he does speak wisdom — not of this age, but God's secret wisdom: the things no eye has seen, no ear heard. The Spirit searches all things, even the depths of God. The natural person does not receive the things of the Spirit — they are spiritually discerned. We have the mind of Christ.",
+      key_verses: [{ ref: "1 Corinthians 2:9", text: "What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him." }]
+    },
+    {
+      number: 3,
+      summary: "Paul could not address the Corinthians as spiritual people but as infants — jealousy and strife reveal they are still worldly. He and Apollos are servants through whom they believed — Paul planted, Apollos watered, God gave the growth. The church is God's building; Paul laid a foundation (Christ), another builds on it. Each person's work will be tested by fire on the day of judgment. Do you not know you are God's temple and God's Spirit dwells in you? If anyone destroys God's temple, God will destroy him.",
+      key_verses: [{ ref: "1 Corinthians 3:11", text: "For no one can lay a foundation other than that which is laid, which is Jesus Christ." }]
+    },
+    {
+      number: 4,
+      summary: "Paul and his co-workers are servants of Christ, stewards of the mysteries of God. It is a small thing to be judged by the Corinthians — Paul does not even judge himself; God is his judge. Do not pronounce judgment before the time. The Corinthians already think themselves kings — Paul contrasts their perceived comfort with the apostles' weakness: spectacles to the world, fools for Christ's sake, poorly treated. He is sending Timothy. He will come himself — and will find out not the talk of the arrogant but their power.",
+      key_verses: [{ ref: "1 Corinthians 4:20", text: "For the kingdom of God does not consist in talk but in power." }]
+    },
+    {
+      number: 5,
+      summary: "A man in the Corinthian church is living with his stepmother — an immorality even pagans do not condone. Paul is appalled that the church is proud rather than grieved. He commands them to hand this man over to Satan for the destruction of the flesh so that his spirit may be saved. Do not be deceived: a little leaven leavens the whole lump. Clean out the old leaven. You must not associate with someone who claims to be a brother but is sexually immoral. Judge those inside the church; God judges those outside.",
+      key_verses: [{ ref: "1 Corinthians 5:7", text: "Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed." }]
+    },
+    {
+      number: 6,
+      summary: "Paul rebukes believers for taking each other to pagan courts — cannot one wise person among you judge between brothers? The unrighteous will not inherit God's kingdom — but you were washed, sanctified, and justified. Not everything is beneficial even if permissible. The body is not for sexual immorality but for the Lord. Do you not know your body is a temple of the Holy Spirit within you? You were bought with a price — glorify God in your body.",
+      key_verses: [{ ref: "1 Corinthians 6:19-20", text: "Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God? You are not your own, for you were bought with a price." }]
+    },
+    {
+      number: 7,
+      summary: "Paul addresses questions about marriage: it is good for a man not to touch a woman, but because of sexual immorality each man should have his own wife. The husband and wife owe each other conjugal rights. Paul wishes all were as he is — unmarried — but each has his own gift. The unmarried person is anxious about the things of the Lord; the married person is anxious about pleasing a spouse. On marriage and divorce: a wife must not separate from her husband; a husband must not divorce his wife. He also addresses those called while slaves and the question of virgins.",
+      key_verses: [{ ref: "1 Corinthians 7:17", text: "Only let each person lead the life that the Lord has assigned to him, and to which God has called him." }]
+    },
+    {
+      number: 8,
+      summary: "Food offered to idols: knowledge puffs up but love builds up. We know an idol has no real existence and there is only one God. But not everyone has this knowledge — some with a weak conscience eat it as really offered to an idol, and it defiles their conscience. Take care that this right of yours does not become a stumbling block to the weak. If food makes a brother stumble, Paul would never eat meat again rather than cause a brother to fall.",
+      key_verses: [{ ref: "1 Corinthians 8:9", text: "But take care that this right of yours does not somehow become a stumbling block to the weak." }]
+    },
+    {
+      number: 9,
+      summary: "Paul defends his apostolic rights — he has the right to food and drink, the right to take a wife, the right to receive pay from the gospel. But he has not used any of these rights for the sake of not putting an obstacle in the gospel's way. He has made himself a servant to all to win as many as possible: to the Jews a Jew, to the weak he became weak. He runs not aimlessly but disciplines his body so that after preaching to others he will not be disqualified.",
+      key_verses: [{ ref: "1 Corinthians 9:22", text: "I have become all things to all people, that by all means I might save some." }]
+    },
+    {
+      number: 10,
+      summary: "Israel's wilderness history is a warning: they passed through the sea, ate manna, drank from the spiritual rock (Christ) — yet God was not pleased with most of them. These events were written down as examples for us. Do not grumble as some grumbled, and were destroyed. No temptation has overtaken you that is not common to man — God is faithful and will provide a way of escape. Flee from idolatry. The cup of blessing is participation in Christ's blood; the bread is participation in his body. You cannot partake of both the Lord's table and the table of demons.",
+      key_verses: [{ ref: "1 Corinthians 10:13", text: "No temptation has overtaken you that is not common to man. God is faithful, and he will not let you be tempted beyond your ability, but with the temptation he will also provide the way of escape." }]
+    },
+    {
+      number: 11,
+      summary: "Paul praises the Corinthians for maintaining traditions but corrects two problems. First, on head coverings in worship — a cultural passage about order and honor in the assembly. Second, and more seriously, on the Lord's Supper: they eat and drink in an unworthy manner, not discerning the body, eating before others go hungry. Paul repeats the tradition he received: the night Jesus was betrayed he took bread and the cup, giving thanks, saying: this is my body for you — do this in remembrance of me. Examine yourself; to eat and drink without recognizing the body is to eat and drink judgment.",
+      key_verses: [{ ref: "1 Corinthians 11:26", text: "For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes." }]
+    },
+    {
+      number: 12,
+      summary: "Concerning spiritual gifts: there are varieties of gifts but the same Spirit; varieties of service but the same Lord. To each is given a manifestation of the Spirit for the common good — wisdom, knowledge, faith, healing, miracles, prophecy, tongues, interpretation. The body of Christ: the hand cannot say to the eye I have no need of you. The parts that seem weaker are indispensable. God has arranged the body to give greater honor to the lesser parts, so there is no division. God has appointed apostles, prophets, teachers, workers of miracles, and more.",
+      key_verses: [{ ref: "1 Corinthians 12:27", text: "Now you are the body of Christ and individually members of it." }]
+    },
+    {
+      number: 13,
+      summary: "If I speak in tongues of men and angels but have not love, I am a noisy gong. If I have prophetic powers, understand all mysteries, have all faith to remove mountains, but have not love, I am nothing. Love is patient, love is kind, it does not envy or boast, is not arrogant or rude, does not insist on its own way, is not irritable or resentful, bears all things, hopes all things, endures all things. Love never ends. When I was a child I spoke as a child; now I know in part — then I will know fully. Faith, hope, and love remain; the greatest of these is love.",
+      key_verses: [{ ref: "1 Corinthians 13:13", text: "So now faith, hope, and love abide, these three; but the greatest of these is love." }]
+    },
+    {
+      number: 14,
+      summary: "Pursue love and eagerly desire spiritual gifts, especially prophecy. The one who speaks in a tongue speaks to God, not to people; prophecy builds up the church. In a church gathering Paul would rather speak five words with his mind to instruct others than ten thousand words in a tongue. Tongues are a sign for unbelievers; prophecy is for believers. When you come together, each may bring a hymn, a lesson, a tongue, a revelation, an interpretation — let all things be done for building up. All things should be done decently and in order.",
+      key_verses: [{ ref: "1 Corinthians 14:1", text: "Pursue love, and earnestly desire the spiritual gifts, especially that you may prophesy." }]
+    },
+    {
+      number: 15,
+      summary: "Paul reminds them of the gospel he preached: Christ died for our sins according to the Scriptures, was buried, was raised on the third day, and appeared to Peter, the twelve, over five hundred brothers, James, all the apostles, and last of all to Paul himself. If Christ has not been raised, faith is futile and we are still in sins. But Christ has been raised — the firstfruits of those who have fallen asleep. As in Adam all die, so in Christ all will be made alive. The resurrection body is imperishable, glorious, powerful, spiritual. Death is swallowed up in victory — where is your sting, O death? Thanks be to God through Jesus Christ.",
+      key_verses: [{ ref: "1 Corinthians 15:58", text: "Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain." }]
+    },
+    {
+      number: 16,
+      summary: "Practical instructions: on the first day of every week each should set aside a sum for the collection for Jerusalem. Paul plans to visit via Macedonia and possibly stay the winter. He urges them to honor Timothy and Apollos. Final exhortations: be watchful, stand firm in the faith, be strong, let all that you do be done in love. The household of Stephanas were the first converts in Achaia and they have devoted themselves to serving the saints. Greetings from the churches of Asia. If anyone does not love the Lord, let him be accursed. Maranatha — come, Lord. Grace be with you.",
+      key_verses: [{ ref: "1 Corinthians 16:13-14", text: "Be watchful, stand firm in the faith, act like men, be strong. Let all that you do be done in love." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "2corinthians",
+  name: "2 Corinthians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Second Corinthians is Paul's most personal and emotionally charged letter, written after a painful visit and a tearful letter to address continued opposition from a faction in Corinth who questioned his authority and compared him unfavorably to impressive 'super-apostles.' Paul defends his ministry not through self-promotion but through his sufferings, his weakness, and the glory of the new covenant. The letter is a profound meditation on weakness as the vessel of divine power and on the surpassing glory of serving a God whose strength is made perfect in weakness.",
+  themes: ["Weakness and God's power", "The new covenant ministry", "Reconciliation", "Suffering and comfort", "Authentic versus false apostleship", "Generosity", "God's strength in human weakness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Blessed be the God of all comfort, who comforts us in all our affliction so that we can comfort others. Paul describes a deadly peril he faced in Asia that brought him to the point of despair — but God delivered him. He explains his change of travel plans was not fickleness but to spare them pain. God is the one who establishes us in Christ and has put his Spirit in our hearts as a deposit.",
+      key_verses: [{ ref: "2 Corinthians 1:3-4", text: "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction." }]
+    },
+    {
+      number: 2,
+      summary: "Paul explains the painful letter he wrote — not to cause grief but to show his love. He urges the Corinthians to forgive and restore the man who was disciplined, so that he will not be overwhelmed by excessive sorrow. Satan must not gain an advantage. Paul describes his anxiety in Troas when he did not find Titus, but thanks God who always leads him in Christ's triumphal procession. To some they are the fragrance of life; to others the fragrance of death. Who is sufficient for these things?",
+      key_verses: [{ ref: "2 Corinthians 2:14", text: "But thanks be to God, who in Christ always leads us in triumphal procession, and through us spreads the fragrance of the knowledge of him everywhere." }]
+    },
+    {
+      number: 3,
+      summary: "Paul and his team are a letter from Christ written on human hearts, not on tablets of stone. The new covenant is of the Spirit, not the letter — the letter kills, the Spirit gives life. The ministry of the Spirit far exceeds in glory the ministry of condemnation written in stone, which was itself so glorious that Moses veiled his face. The veil remains over their hearts when Moses is read but is lifted in Christ. Where the Spirit of the Lord is, there is freedom. We are being transformed into the same image from glory to glory.",
+      key_verses: [{ ref: "2 Corinthians 3:17-18", text: "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom. And we all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another." }]
+    },
+    {
+      number: 4,
+      summary: "We do not lose heart. We do not use cunning or tamper with God's word. If our gospel is veiled, it is veiled to those who are perishing — the god of this age has blinded their minds. We preach Christ Jesus as Lord, ourselves as your servants. We have this treasure in clay jars to show the all-surpassing power belongs to God. We are hard pressed but not crushed; perplexed but not despairing; persecuted but not abandoned. We do not lose heart; though outwardly we are wasting away, inwardly we are being renewed day by day. Our light and momentary troubles achieve an eternal weight of glory.",
+      key_verses: [{ ref: "2 Corinthians 4:7", text: "But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." }]
+    },
+    {
+      number: 5,
+      summary: "We groan in our earthly tent, longing for our heavenly dwelling. We walk by faith, not by sight. We must all appear before the judgment seat of Christ. Knowing the fear of the Lord, we persuade people. God reconciled us to himself through Christ and gave us the ministry of reconciliation. We are Christ's ambassadors. He made him who knew no sin to be sin for us, so that in him we might become the righteousness of God.",
+      key_verses: [{ ref: "2 Corinthians 5:21", text: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God." }]
+    },
+    {
+      number: 6,
+      summary: "As God's co-workers, Paul urges the Corinthians not to receive God's grace in vain. Now is the day of salvation. Paul commends his ministry through great endurance — afflictions, hardships, beatings, imprisonments; in purity, knowledge, patience, and genuine love. Treated as impostors yet true, as dying yet alive, as having nothing yet possessing everything. Do not be unequally yoked with unbelievers — what partnership can light have with darkness? Come out from among them and be separate.",
+      key_verses: [{ ref: "2 Corinthians 6:2", text: "For he says, 'In a favorable time I listened to you, and in a day of salvation I have helped you.' Behold, now is the favorable time; behold, now is the day of salvation." }]
+    },
+    {
+      number: 7,
+      summary: "Paul's heart is wide open to the Corinthians. He is greatly encouraged by Titus's report of their longing for Paul, their mourning, their zeal. The sorrow they felt led to repentance — godly sorrow produces repentance leading to salvation, while worldly sorrow produces death. Paul does not regret the painful letter — he rejoices that they were grieved into repentance. He is confident in them in everything.",
+      key_verses: [{ ref: "2 Corinthians 7:10", text: "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death." }]
+    },
+    {
+      number: 8,
+      summary: "Paul commends the generosity of the Macedonian churches — in severe affliction and extreme poverty their joy overflowed in rich generosity. They gave beyond their means. He urges the Corinthians to complete the collection for Jerusalem. Christ was rich yet for your sake became poor, so that you through his poverty might become rich. The aim is equality — your abundance supplies their need. Titus is commended and sent to complete the arrangements.",
+      key_verses: [{ ref: "2 Corinthians 8:9", text: "For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich." }]
+    },
+    {
+      number: 9,
+      summary: "Paul encourages the Corinthians on the collection — he has boasted to the Macedonians that Achaia has been ready since last year. He sends brothers ahead so the gift will be ready and not extorted. Whoever sows sparingly will reap sparingly; whoever sows generously will reap generously. Each should give as he has decided in his heart, not under compulsion — God loves a cheerful giver. God is able to make all grace abound so that you always have everything you need for every good work.",
+      key_verses: [{ ref: "2 Corinthians 9:7", text: "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver." }]
+    },
+    {
+      number: 10,
+      summary: "Paul begins his defense against the opponents who say his letters are weighty but his bodily presence is weak. The weapons of his warfare are not of the flesh but have divine power to demolish strongholds and every proud argument raised against the knowledge of God. Paul does not boast beyond his sphere of work — he was the first to bring the gospel to Corinth. Let the one who boasts boast in the Lord. The approved person is not the one who commends himself but the one whom the Lord commends.",
+      key_verses: [{ ref: "2 Corinthians 10:5", text: "We destroy arguments and every lofty opinion raised against the knowledge of God, and take every thought captive to obey Christ." }]
+    },
+    {
+      number: 11,
+      summary: "Paul plays the fool to match the boasting of the 'super-apostles' — false apostles who masquerade as apostles of Christ, as Satan disguises himself as an angel of light. His sufferings catalog is unmatched: five times forty lashes less one, three times beaten with rods, once stoned, three times shipwrecked, a night and day adrift at sea, in danger from rivers, robbers, Jews, Gentiles, in city and wilderness. Daily the pressure of anxiety for all the churches. If I must boast, I will boast of my weaknesses.",
+      key_verses: [{ ref: "2 Corinthians 11:14", text: "And no wonder, for even Satan disguises himself as an angel of light." }]
+    },
+    {
+      number: 12,
+      summary: "Paul was caught up to the third heaven fourteen years ago — whether in the body or not he does not know — and heard inexpressible things. To keep him from being conceited, a thorn in the flesh was given him — a messenger of Satan. Three times he pleaded for it to be removed; God said: my grace is sufficient for you, for my power is made perfect in weakness. Therefore Paul boasts gladly in his weaknesses, so that Christ's power may rest on him. He has great love for the Corinthians even though they say his presence is unimpressive.",
+      key_verses: [{ ref: "2 Corinthians 12:9", text: "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me." }]
+    },
+    {
+      number: 13,
+      summary: "Paul warns that on his third visit he will not spare those who persist in sin — he will prove Christ speaks through him, who is not weak in dealing with them but powerful among them. Examine yourselves to see whether you are in the faith. He hopes to find them in order and not to have to be severe. Final exhortations: rejoice, aim for restoration, comfort one another, agree with one another, live in peace. The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you all.",
+      key_verses: [{ ref: "2 Corinthians 13:14", text: "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "galatians",
+  name: "Galatians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Galatians is Paul's most polemical letter, written in alarm and urgency to churches in Galatia that were being persuaded to add circumcision and law-keeping to faith in Christ. Paul defends his apostleship and the gospel fiercely: there is only one gospel; to add works of the law to faith is to fall from grace. His argument draws on his own conversion, a confrontation with Peter at Antioch, and a reading of Abraham to show that justification has always been by faith. The letter concludes with teaching on walking by the Spirit and the fruit of the Spirit.",
+  themes: ["Justification by faith alone", "Freedom from the law", "The Holy Spirit and the flesh", "The fruit of the Spirit", "Paul's apostolic authority", "Unity in Christ"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul is astonished the Galatians are deserting the gospel so quickly for a different gospel — which is no gospel at all. Even if an angel from heaven preaches a different gospel, let him be accursed. The gospel Paul preaches was not received from any man — it came through a revelation of Jesus Christ. He recounts his past: persecutor of the church, then called by God's grace to reveal his Son in him. He did not consult with flesh and blood but went to Arabia, then returned to Damascus.",
+      key_verses: [{ ref: "Galatians 1:8", text: "But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed." }]
+    },
+    {
+      number: 2,
+      summary: "Paul went to Jerusalem and presented his gospel privately to the leaders; they added nothing to his message. When Peter came to Antioch and withdrew from eating with Gentiles out of fear of the circumcision party, Paul opposed him to his face: if you, though a Jew, live like a Gentile, how can you force Gentiles to live like Jews? We know a person is not justified by works of the law but through faith in Christ. I have been crucified with Christ; it is no longer I who live, but Christ who lives in me.",
+      key_verses: [{ ref: "Galatians 2:20", text: "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me." }]
+    },
+    {
+      number: 3,
+      summary: "O foolish Galatians — who has bewitched you? Did you receive the Spirit by works of the law or by hearing with faith? Abraham believed God and it was credited to him as righteousness. Those who are of faith are blessed along with Abraham. Christ redeemed us from the curse of the law by becoming a curse for us. The promise was made to Abraham and to his offspring — meaning Christ. The law came 430 years later and cannot annul the promise. The law was our guardian until Christ came. Now that faith has come, we are no longer under a guardian.",
+      key_verses: [{ ref: "Galatians 3:28", text: "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus." }]
+    },
+    {
+      number: 4,
+      summary: "An heir while a child is no different from a slave. We were slaves to elementary principles — but when the time had fully come, God sent his Son, born of a woman, born under the law, to redeem those under law, so that we might receive adoption as sons. God sent the Spirit of his Son into our hearts, crying Abba! Father! You are no longer a slave but a son. Paul uses the allegory of Hagar and Sarah: the son of the slave is born by natural means; the son of the free woman through promise. Cast out the slave and her son — we are children of the free woman.",
+      key_verses: [{ ref: "Galatians 4:4-5", text: "But when the fullness of time had come, God sent forth his Son, born of woman, born under the law, to redeem those who were under the law, so that we might receive adoption as sons." }]
+    },
+    {
+      number: 5,
+      summary: "For freedom Christ has set us free — stand firm. If you accept circumcision, Christ will be of no advantage to you. You have been called to freedom — not freedom as an opportunity for the flesh, but through love serve one another. The whole law is fulfilled in one word: love your neighbor as yourself. Walk by the Spirit and you will not gratify the desires of the flesh. The works of the flesh include sexual immorality, idolatry, and enmity; the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.",
+      key_verses: [{ ref: "Galatians 5:22-23", text: "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law." }]
+    },
+    {
+      number: 6,
+      summary: "If someone is caught in a sin, restore him gently, bearing one another's burdens — so fulfill the law of Christ. Do not be deceived: God is not mocked; whatever one sows, that will he also reap. Let us not grow weary in doing good — at the proper time we will reap if we do not give up. Paul writes with large letters in his own hand. The ones urging circumcision want to boast in the flesh; Paul will boast only in the cross of Christ. May I never boast except in the cross, by which the world has been crucified to me and I to the world. The grace of our Lord Jesus Christ be with your spirit.",
+      key_verses: [{ ref: "Galatians 6:7-8", text: "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "ephesians",
+  name: "Ephesians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Ephesians is among the most elevated of Paul's letters, written from prison to the church at Ephesus (and possibly as a circular letter). The first half soars through God's eternal purposes — chosen before the foundation of the world, adopted as sons, sealed with the Holy Spirit, made alive together with Christ, created for good works. The second half is richly practical: living in unity, putting off the old self, living in love, filling marriages and households with Christ, and standing firm in spiritual armor.",
+  themes: ["God's eternal purpose and election", "Salvation by grace through faith", "Unity of Jews and Gentiles in Christ", "The church as Christ's body", "Spiritual warfare", "The armor of God", "Christian household ethics"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul blesses the God who has blessed us in Christ with every spiritual blessing in the heavenly realms: chosen before the foundation of the world to be holy, predestined for adoption through Christ, redeemed through his blood, the forgiveness of sins. The mystery of his will: to unite all things in Christ. We were sealed with the Holy Spirit as a deposit guaranteeing our inheritance. Paul prays they may know the hope of his calling, the riches of his glorious inheritance, and the incomparably great power for us who believe — the same power that raised Christ and seated him far above all rule and authority.",
+      key_verses: [{ ref: "Ephesians 1:13-14", text: "In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit, who is the guarantee of our inheritance." }]
+    },
+    {
+      number: 2,
+      summary: "You were dead in your transgressions and sins, following the prince of the power of the air. But God, being rich in mercy, made us alive together with Christ — by grace you have been saved. It is the gift of God, not a result of works, so no one can boast. We are his workmanship, created in Christ Jesus for good works. The dividing wall of hostility between Jew and Gentile has been broken down in Christ. Gentiles are no longer strangers and aliens but fellow citizens of God's household, built on the foundation of the apostles and prophets with Christ as the cornerstone.",
+      key_verses: [{ ref: "Ephesians 2:8-9", text: "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast." }]
+    },
+    {
+      number: 3,
+      summary: "Paul is a prisoner for Christ on behalf of Gentiles. The mystery hidden for ages is now revealed: the Gentiles are heirs together with Israel, members of the same body, sharers in the promise in Christ Jesus. Paul prays they may be strengthened in the inner being through the Spirit, that Christ may dwell in their hearts through faith, and that they may know the love of Christ that surpasses knowledge, and be filled to the measure of all the fullness of God. To him who is able to do immeasurably more than all we ask or imagine be glory.",
+      key_verses: [{ ref: "Ephesians 3:20-21", text: "Now to him who is able to do far more abundantly than all that we ask or think, according to the power at work within us, to him be glory in the church and in Christ Jesus throughout all generations." }]
+    },
+    {
+      number: 4,
+      summary: "Walk worthy of the calling with humility, gentleness, patience, bearing with one another in love, eager to maintain unity. There is one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all. Christ gave gifts to the church — apostles, prophets, evangelists, pastors and teachers — to equip the saints for works of service, until we all reach unity and maturity. Put off the old self and put on the new self in righteousness and holiness. Do not let the sun go down on your anger; do not give the devil a foothold. Speak truth; be kind and tenderhearted; forgive as God forgave you.",
+      key_verses: [{ ref: "Ephesians 4:3", text: "Eager to maintain the unity of the Spirit in the bond of peace." }]
+    },
+    {
+      number: 5,
+      summary: "Walk in love as Christ loved us and gave himself up for us as a fragrant offering. Walk as children of light — the fruit of light is goodness, righteousness, and truth. Be filled with the Spirit, speaking to one another in psalms and hymns. Give thanks always. Wives submit to your husbands as to the Lord; husbands love your wives as Christ loved the church and gave himself up for her. This is a profound mystery — Paul is speaking of Christ and the church. Children, obey your parents; fathers, do not exasperate your children.",
+      key_verses: [{ ref: "Ephesians 5:25", text: "Husbands, love your wives, as Christ loved the church and gave himself up for her." }]
+    },
+    {
+      number: 6,
+      summary: "Slaves, obey your earthly masters sincerely, as you would obey Christ; masters, treat slaves with consideration, for you have the same Master in heaven. Put on the whole armor of God to stand against the devil's schemes: belt of truth, breastplate of righteousness, shoes of the gospel of peace, shield of faith, helmet of salvation, sword of the Spirit which is the word of God. Pray in the Spirit at all times. Paul asks for prayer that he will fearlessly make known the mystery of the gospel, for which he is an ambassador in chains.",
+      key_verses: [{ ref: "Ephesians 6:11", text: "Put on the whole armor of God, that you may be able to stand against the schemes of the devil." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "philippians",
+  name: "Philippians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Philippians is Paul's most joyful letter, written from prison to the church at Philippi — the first church established in Europe and one Paul deeply loved. Despite his imprisonment, Paul's tone is radiant throughout, centered on the word 'joy.' The letter contains some of the New Testament's greatest passages: the Christ hymn describing his incarnation and exaltation, the call to rejoice always and pray about everything, and the promise of a peace that passes understanding. It is a letter about contentment, unity, and having the same mind as Christ.",
+  themes: ["Joy in all circumstances", "The humility of Christ", "Unity in the church", "Contentment", "The surpassing worth of knowing Christ", "Rejoicing and prayer"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for the Philippians' partnership in the gospel from the first day. He is confident that God who began a good work in them will complete it. To live is Christ and to die is gain — he is torn between departing to be with Christ, which is far better, and remaining in the body for their progress in the faith. He urges them to live as citizens worthy of the gospel, standing firm in one spirit, not frightened by opponents. Suffering for Christ has been granted to them as a gift.",
+      key_verses: [{ ref: "Philippians 1:21", text: "For to me to live is Christ, and to die is gain." }]
+    },
+    {
+      number: 2,
+      summary: "Be of the same mind, considering others more significant than yourselves. The Christ hymn: though he was in the form of God, he did not count equality with God a thing to be grasped, but emptied himself, taking the form of a servant, born in human likeness. He humbled himself, becoming obedient to death — even death on a cross. Therefore God exalted him above every name, that at the name of Jesus every knee should bow and every tongue confess that Jesus Christ is Lord. Work out your salvation with fear and trembling, for God is at work in you.",
+      key_verses: [{ ref: "Philippians 2:9-11", text: "Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow... and every tongue confess that Jesus Christ is Lord." }]
+    },
+    {
+      number: 3,
+      summary: "Paul warns against those who mutilate the flesh — he himself has more reason to boast in the flesh than anyone, yet he counts all of it as loss for the sake of knowing Christ Jesus his Lord. He presses on toward the goal for the prize of the upward call of God in Christ. Our citizenship is in heaven; from there we await a Savior who will transform our lowly body into a body like his glorious body. Many live as enemies of the cross — their god is their belly, their end is destruction.",
+      key_verses: [{ ref: "Philippians 3:10", text: "That I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death." }]
+    },
+    {
+      number: 4,
+      summary: "Rejoice in the Lord always — again I say, rejoice! Let your reasonableness be known to everyone. Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. The peace of God, which surpasses all understanding, will guard your hearts and minds. Whatever is true, honorable, just, pure, lovely, commendable — think about these things. I have learned in whatever situation to be content. I can do all things through him who strengthens me.",
+      key_verses: [{ ref: "Philippians 4:7", text: "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "colossians",
+  name: "Colossians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Colossians was written from prison to address a false teaching threatening the church in Colossae — a mixture of philosophy, human tradition, angel worship, and ascetic regulations. Paul responds with the most exalted portrait of Christ in his letters: the image of the invisible God, the firstborn over all creation, in whom all things hold together, and in whom all the fullness of the Godhead dwells. Because Christ is supreme and complete, all additions to Christ — whether ritual, philosophy, or mysticism — are not merely unnecessary but insulting.",
+  themes: ["The supremacy of Christ", "Christ as head of the church", "Fullness in Christ alone", "Putting off the old self", "The new life in Christ", "Warning against false teaching"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for the Colossians' faith and prays they may be filled with knowledge of God's will in all wisdom, worthy of the Lord, bearing fruit. The great Christ hymn: he is the image of the invisible God, the firstborn over all creation; by him and for him all things were created, visible and invisible, thrones and powers. He is before all things and in him all things hold together. He is the head of the body, the church. God was pleased for his fullness to dwell in him, and through him to reconcile all things to himself, making peace by the blood of his cross.",
+      key_verses: [{ ref: "Colossians 1:17-18", text: "And he is before all things, and in him all things hold together. And he is the head of the body, the church." }]
+    },
+    {
+      number: 2,
+      summary: "Paul labors so the Colossians may have the full riches of understanding — in Christ are hidden all the treasures of wisdom and knowledge. Do not let anyone deceive you with fine-sounding arguments. See to it that no one takes you captive through hollow philosophy, human tradition, or the elemental spiritual forces of the world rather than Christ. In Christ the whole fullness of deity dwells bodily. You have been filled in him. Having canceled the record of debt against us, he nailed it to the cross. Do not let anyone judge you on food, festivals, or new moons — these are a shadow; the substance is Christ.",
+      key_verses: [{ ref: "Colossians 2:9-10", text: "For in him the whole fullness of deity dwells bodily, and you have been filled in him, who is the head of all rule and authority." }]
+    },
+    {
+      number: 3,
+      summary: "Since you have been raised with Christ, set your minds on things above, not on earthly things. Put to death what is earthly in you: sexual immorality, impurity, evil desire, and greed, which is idolatry. Put off anger, malice, slander, and obscene talk. Put on compassion, kindness, humility, gentleness, and patience. Above all, put on love. Let the peace of Christ rule in your hearts. Let the word of Christ dwell in you richly. Whatever you do, in word or deed, do it in the name of the Lord Jesus, giving thanks to God.",
+      key_verses: [{ ref: "Colossians 3:17", text: "And whatever you do, in word or deed, do everything in the name of the Lord Jesus, giving thanks to God the Father through him." }]
+    },
+    {
+      number: 4,
+      summary: "Masters, provide what is right and fair for your slaves. Devote yourselves to prayer, being watchful and thankful. Pray that God may open a door for the word. Walk wisely toward outsiders, making the best use of the time. Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone. Paul sends greetings from Tychicus, Onesimus, Aristarchus, Mark, Epaphras, Luke, and Demas. He urges them to share this letter with the church at Laodicea and to read the letter from Laodicea also.",
+      key_verses: [{ ref: "Colossians 4:6", text: "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "1thessalonians",
+  name: "1 Thessalonians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "First Thessalonians is likely Paul's earliest surviving letter, written to a young church established during his second missionary journey. Paul had been forced to leave Thessalonica quickly and was anxious about the believers there, so he writes with warm pastoral concern. The letter is notable for its affectionate tone, its encouragement to those who have lost loved ones before Christ's return, and one of the New Testament's most detailed descriptions of the second coming.",
+  themes: ["Pastoral care and love", "Holy living", "The second coming of Christ", "Comfort for those who grieve", "Working while waiting", "The calling to holiness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for the Thessalonians' faith, hope, and love. Their election is evidenced by how the gospel came to them not in word only but in power and in the Holy Spirit. They became imitators of Paul and of the Lord and became a model to all the believers in Macedonia and Achaia — their faith has gone out everywhere. They turned from idols to serve the living and true God and to wait for his Son from heaven, whom he raised from the dead — Jesus who delivers us from the coming wrath.",
+      key_verses: [{ ref: "1 Thessalonians 1:9-10", text: "For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, and to wait for his Son from heaven." }]
+    },
+    {
+      number: 2,
+      summary: "Paul recounts his visit to Thessalonica: he came not to please people but God, not with flattery or greed, but like a nursing mother caring for her children. He worked day and night so as not to be a burden. He urged and encouraged them to live worthy of God. He gives thanks that they received the word not as a human word but as the word of God. He longs to see them again but was hindered — Satan blocked the way. What is his hope and joy? They are, before the Lord Jesus at his coming.",
+      key_verses: [{ ref: "1 Thessalonians 2:13", text: "And we also thank God constantly for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men but as what it really is, the word of God, which is at work in you believers." }]
+    },
+    {
+      number: 3,
+      summary: "Unable to bear not knowing their condition, Paul sent Timothy to strengthen and encourage them so that no one would be shaken by afflictions. Timothy has returned with the good news of their faith and love — and Paul's thanksgiving overflows. He prays earnestly to visit them and asks God to make their love increase and overflow for one another and for all, so their hearts will be blameless and holy at the coming of the Lord Jesus with all his saints.",
+      key_verses: [{ ref: "1 Thessalonians 3:12-13", text: "May the Lord make you increase and abound in love for one another and for all, as we do for you, so that he may establish your hearts blameless in holiness." }]
+    },
+    {
+      number: 4,
+      summary: "Instructions on sanctification: avoid sexual immorality, control your own body, do not defraud a brother — God called us not to impurity but to holiness. About brotherly love they need no instruction — but he urges them to do so more and more. Live quietly, attend to your own affairs, work with your hands. Concerning those who have fallen asleep: do not grieve as those without hope. When the Lord comes with a loud command, the voice of the archangel, and the trumpet of God, the dead in Christ will rise first; then we who are alive will be caught up together with them to meet the Lord in the air.",
+      key_verses: [{ ref: "1 Thessalonians 4:16-17", text: "For the Lord himself will descend from heaven with a cry of command, with the voice of an archangel, and with the sound of the trumpet of God. And the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air." }]
+    },
+    {
+      number: 5,
+      summary: "The day of the Lord will come like a thief in the night — when people say peace and safety, sudden destruction will come. But you are children of the light; that day should not surprise you like a thief. Be sober, putting on faith and love as a breastplate and the hope of salvation as a helmet. Encourage one another. Respect those who work hard among you. Rejoice always, pray without ceasing, give thanks in all circumstances. Do not quench the Spirit. Test everything; hold fast to what is good. May God himself sanctify you completely.",
+      key_verses: [{ ref: "1 Thessalonians 5:16-18", text: "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "2thessalonians",
+  name: "2 Thessalonians",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Second Thessalonians corrects a misunderstanding that appears to have arisen in response to the first letter — some believers had apparently concluded that the Day of the Lord had already come, causing panic and an abandonment of work to simply wait. Paul clarifies that the Day of the Lord has not yet come — a rebellion must come first and the man of lawlessness must be revealed. He urges them to stand firm and to live disciplined lives, warning that those who will not work should not eat.",
+  themes: ["Correction about the Day of the Lord", "The man of lawlessness", "Perseverance under persecution", "Standing firm in the faith", "The discipline of work"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for the Thessalonians' growing faith and love under increasing persecution, pointing to it as evidence of God's righteous judgment. When the Lord Jesus is revealed from heaven in blazing fire with his powerful angels, he will punish those who do not know God and do not obey the gospel — they will be shut out from the presence of the Lord. He will be glorified in his holy people. Paul prays that God may count them worthy of their calling and bring to fulfillment every desire for goodness.",
+      key_verses: [{ ref: "2 Thessalonians 1:11-12", text: "To this end we always pray for you, that our God may make you worthy of his calling and may fulfill every resolve for good and every work of faith by his power." }]
+    },
+    {
+      number: 2,
+      summary: "Do not be quickly shaken or alarmed that the Day of the Lord has already come. That day will not come unless the rebellion comes first and the man of lawlessness is revealed — who will oppose and exalt himself above everything called God and will proclaim himself to be God. Something is holding him back until the proper time. His coming is by the activity of Satan, with all false signs and wonders. God sends a powerful delusion on those who refused to love the truth. Stand firm and hold to the traditions taught by Paul.",
+      key_verses: [{ ref: "2 Thessalonians 2:15", text: "So then, brothers, stand firm and hold to the traditions that you were taught by us, either by our spoken word or by our letter." }]
+    },
+    {
+      number: 3,
+      summary: "Paul requests prayer that the word of the Lord may speed ahead and be honored. The Lord is faithful and will strengthen them and protect them from the evil one. Paul commands them: keep away from every brother who is idle and does not follow the tradition of working. He himself worked night and day so as not to be a burden. The rule: if anyone is not willing to work, let him not eat. Note those who are disobedient, do not associate with them so they may be ashamed — but do not treat them as enemies but as brothers.",
+      key_verses: [{ ref: "2 Thessalonians 3:10", text: "For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "1timothy",
+  name: "1 Timothy",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "First Timothy is the first of the three Pastoral Epistles, written to Paul's young delegate Timothy serving in the church at Ephesus. Paul gives practical instructions on church order and leadership — how to conduct yourself in the household of God. It covers false teachers, prayer, qualifications for overseers and deacons, the care of widows, and the handling of wealth. The letter is rich with theological summaries and personal encouragement for Timothy in his challenging role.",
+  themes: ["Church order and leadership", "False teaching", "Qualifications for overseers and deacons", "Prayer and worship", "Godliness", "The care of widows and slaves"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul urges Timothy to stay in Ephesus and instruct certain people not to teach false doctrines or devote themselves to myths and endless genealogies. The goal of the instruction is love from a pure heart. The law is for the lawless and ungodly. Paul gives thanks that God entrusted him with the gospel even though he was the foremost of sinners. He charges Timothy to fight the good fight, holding on to faith and a good conscience, unlike Hymenaeus and Alexander who have shipwrecked their faith.",
+      key_verses: [{ ref: "1 Timothy 1:15", text: "The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost." }]
+    },
+    {
+      number: 2,
+      summary: "Paul urges prayers for all people, for kings and all in authority, so that we may live peaceful and quiet lives. God wants all people to be saved — there is one God and one mediator, the man Christ Jesus, who gave himself as a ransom for all. Paul wants men everywhere to pray, lifting holy hands. Women are to dress modestly and with propriety. He does not permit a woman to teach or assume authority over a man but to be in quietness — a much-debated passage about worship order in the Ephesian context.",
+      key_verses: [{ ref: "1 Timothy 2:5-6", text: "For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all." }]
+    },
+    {
+      number: 3,
+      summary: "Qualifications for overseers (bishops): above reproach, faithful in marriage, temperate, self-controlled, respectable, hospitable, able to teach, not a drunkard, not violent, not a lover of money, must manage his own household well, not a recent convert, have a good reputation with outsiders. Deacons similarly: worthy of respect, sincere, not pursuing dishonest gain, holding the deep truths of the faith with a clear conscience. Paul summarizes the mystery of godliness: God was manifested in flesh, justified in the Spirit, seen by angels, proclaimed among nations, believed on in the world, taken up in glory.",
+      key_verses: [{ ref: "1 Timothy 3:16", text: "Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory." }]
+    },
+    {
+      number: 4,
+      summary: "The Spirit explicitly says that in later times some will abandon the faith and follow deceiving spirits — forbidding marriage and certain foods. Everything God created is good, and nothing is to be rejected if received with thanksgiving. Timothy is to train himself for godliness — physical training has some value, but godliness is valuable for all things. Do not let anyone look down on you because you are young; set an example in speech, conduct, love, faith, and purity. Devote yourself to reading, preaching, and teaching. Watch your life and doctrine closely.",
+      key_verses: [{ ref: "1 Timothy 4:8", text: "For while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come." }]
+    },
+    {
+      number: 5,
+      summary: "Treat older men as fathers, younger men as brothers, older women as mothers, younger women as sisters with absolute purity. Honor widows who are truly in need. A widow who has children — let them learn to care for their own family, for that is pleasing to God. Put no widow on the list who is under sixty. Elders who lead well are worthy of double honor, especially those who labor in preaching and teaching. Do not accept an accusation against an elder without two or three witnesses. Keep yourself pure.",
+      key_verses: [{ ref: "1 Timothy 5:17", text: "Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching." }]
+    },
+    {
+      number: 6,
+      summary: "Those who teach a different doctrine and do not agree with the words of Jesus are conceited and understand nothing — they think godliness is a means of financial gain. Godliness with contentment is great gain. The love of money is a root of all kinds of evils. Fight the good fight of faith; take hold of the eternal life to which you were called. The rich are commanded not to be arrogant or put hope in wealth but to be generous and rich in good deeds. Guard what has been entrusted to your care; turn away from godless chatter.",
+      key_verses: [{ ref: "1 Timothy 6:10", text: "For the love of money is a root of all kinds of evils. It is through this craving that some have wandered away from the faith." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "2timothy",
+  name: "2 Timothy",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Second Timothy is Paul's last letter, written from a Roman prison shortly before his execution. The tone is deeply personal — Paul is lonely, cold, and abandoned by many. Yet there is no self-pity: the letter is a final charge to Timothy to carry on the work faithfully. It contains some of the New Testament's most memorable passages on Scripture, suffering for the gospel, and finishing the race. Paul's final testament resounds with confidence: I have fought the good fight, I have finished the race, I have kept the faith.",
+  themes: ["Faithfulness under hardship", "The inspiration of Scripture", "Paul's farewell charge to Timothy", "Guarding the gospel", "Finishing the race", "Loneliness and God's faithfulness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul gives thanks for Timothy's sincere faith, inherited from his grandmother Lois and mother Eunice. He urges Timothy to fan into flame the gift of God and not be ashamed of the gospel or of Paul its prisoner. God did not give us a spirit of timidity, but of power, love, and self-discipline. Paul has been appointed a herald of this gospel — he is not ashamed, for he knows in whom he has believed. Guard the good deposit entrusted to you through the Holy Spirit who lives in us. Everyone in Asia deserted Paul, but Onesiphorus refreshed him.",
+      key_verses: [{ ref: "2 Timothy 1:7", text: "For God gave us a spirit not of fear but of power and love and self-control." }]
+    },
+    {
+      number: 2,
+      summary: "Be strong in the grace that is in Christ Jesus. Entrust what you have heard from Paul to faithful people who can teach others. Endure hardship as a good soldier of Christ — no soldier gets entangled in civilian affairs. If we died with him we will also live with him; if we disown him, he will disown us; if we are faithless, he remains faithful. A worker who does not need to be ashamed, rightly handling the word of truth. The Lord's solid foundation stands: the Lord knows those who are his; everyone who confesses the Lord's name must turn away from wickedness. Pursue righteousness, faith, love, and peace.",
+      key_verses: [{ ref: "2 Timothy 2:15", text: "Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth." }]
+    },
+    {
+      number: 3,
+      summary: "In the last days people will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to parents, ungrateful, unholy — having a form of godliness but denying its power. They will not endure sound teaching but gather teachers to suit their own desires. All Scripture is God-breathed and is useful for teaching, rebuking, correcting, and training in righteousness, so that the servant of God may be thoroughly equipped for every good work. Timothy has known the sacred writings from childhood.",
+      key_verses: [{ ref: "2 Timothy 3:16-17", text: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work." }]
+    },
+    {
+      number: 4,
+      summary: "Paul's final charge: preach the word, be ready in season and out of season, correct, rebuke, and encourage. The time will come when people will not endure sound teaching. Keep your head in all situations, endure hardship, do the work of an evangelist, discharge all the duties of your ministry. For Paul: I have fought the good fight, I have finished the race, I have kept the faith. Now there is in store for me the crown of righteousness. He is lonely — Luke alone is with him, Demas has deserted him, having loved this present world. Come quickly, Timothy. The Lord will rescue me for his heavenly kingdom.",
+      key_verses: [{ ref: "2 Timothy 4:7-8", text: "I have fought the good fight, I have finished the race, I have kept the faith. Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge, will award to me on that day." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "titus",
+  name: "Titus",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Titus is a Pastoral Epistle written to Paul's trusted co-worker Titus, left on the island of Crete to appoint elders and set in order what was left unfinished. The Cretans had a notorious reputation for dishonesty, and false teachers — especially of the circumcision party — were disturbing households with their teaching. Paul's response is practical: appoint sound leaders, silence false teachers, and teach all groups of people — older men, older women, younger women, younger men, and slaves — to live lives that adorn the gospel.",
+  themes: ["Sound doctrine and godly living", "Leadership qualifications", "Grace and the good life", "The gospel as motivation for ethics", "Rejecting false teaching"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul left Titus in Crete to appoint elders in every town. An elder must be blameless, faithful in marriage, with children who believe — not open to the charge of being wild or disobedient. He must hold firmly to the trustworthy word as taught. Many especially of the circumcision group are disrupting whole households by teaching things they ought not to teach, for dishonest gain. They must be silenced. To the pure all things are pure; to the corrupt nothing is pure — they claim to know God but by their actions they deny him.",
+      key_verses: [{ ref: "Titus 1:9", text: "He must hold firm to the trustworthy word as taught, so that he may be able to give instruction in sound doctrine and also to rebuke those who contradict it." }]
+    },
+    {
+      number: 2,
+      summary: "Teach sound doctrine: older men are to be temperate and worthy of respect; older women are to be reverent, not slanderers or addicted to wine, teaching what is good; younger women to love husbands and children; young men to be self-controlled. Slaves are to be submissive to their masters. For the grace of God has appeared, bringing salvation for all people — training us to renounce ungodliness and to live self-controlled, upright, and godly lives in this present age, waiting for our blessed hope: the appearing of the glory of our great God and Savior Jesus Christ.",
+      key_verses: [{ ref: "Titus 2:11-12", text: "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age." }]
+    },
+    {
+      number: 3,
+      summary: "Remind them to be subject to rulers, to be peaceable and considerate, always to be gentle toward everyone. We ourselves were once foolish, disobedient, enslaved to passions. But when the kindness and love of God appeared, he saved us — not because of righteous things we had done, but because of his mercy. He saved us through the washing of rebirth and renewing by the Holy Spirit. Devote yourself to doing good; avoid foolish controversies and divisions — they are unprofitable and useless. Warn a divisive person twice, then have nothing to do with them.",
+      key_verses: [{ ref: "Titus 3:5", text: "He saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewing of the Holy Spirit." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "philemon",
+  name: "Philemon",
+  testament: "new",
+  category: "Pauline Epistles",
+  summary: "Philemon is Paul's shortest letter — a personal appeal on behalf of Onesimus, a runaway slave belonging to Philemon, a wealthy Colossian Christian. Onesimus had apparently wronged Philemon before fleeing, but had since become a believer and Paul's helper in prison. Paul asks Philemon to receive Onesimus back — not as a slave but as a dear brother — and hints strongly that he should free him. The letter is a masterpiece of persuasion and a window into how the gospel was beginning to transform social structures from within.",
+  themes: ["Reconciliation", "The gospel transforming social relationships", "Slavery and brotherhood in Christ", "Paul's pastoral skill", "Forgiveness and love"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Paul, a prisoner, writes to Philemon about Onesimus — whose name means 'useful' — who was formerly useless to Philemon but is now useful both to Paul and to Philemon. Paul is sending him back to Philemon, though he would have liked to keep him as a helper in his chains. He appeals on the basis of love, not command: receive him as you would receive me. If he has wronged you or owes you anything, charge it to my account. I am confident you will do even more than I ask. Prepare a guest room — Paul hopes to be restored to them in answer to their prayers.",
+      key_verses: [{ ref: "Philemon 1:16", text: "No longer as a bondservant, but better than a bondservant, as a dear brother — especially to me, but how much more to you, both in the flesh and in the Lord." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "hebrews",
+  name: "Hebrews",
+  testament: "new",
+  category: "General Epistles",
+  summary: "Hebrews is an anonymous sermon-letter of soaring theological sophistication, written to Jewish believers tempted to drift back into Judaism under pressure of persecution. The author's argument is relentlessly comparative: Jesus is better — better than angels, better than Moses, a better high priest after the order of Melchizedek, mediator of a better covenant with better promises. The old covenant and its priesthood were shadows pointing to the reality that is Christ. Its famous Hall of Faith in chapter 11 reviews the whole sweep of Old Testament faithfulness.",
+  themes: ["The supremacy of Christ", "Jesus as the great High Priest", "The new covenant as better", "Faith and endurance", "Warning against apostasy", "The Hall of Faith"],
+  chapters: [
+    {
+      number: 1,
+      summary: "In the past God spoke through prophets, but in these last days he has spoken by his Son — the heir of all things, through whom he made the universe, the radiance of God's glory and exact representation of his being. After providing purification for sins, he sat down at the right hand of the Majesty. He is so much greater than angels — to which of the angels did God ever say 'You are my Son'? The Son is addressed as God; to which angel did God ever say 'Sit at my right hand'?",
+      key_verses: [{ ref: "Hebrews 1:1-2", text: "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things." }]
+    },
+    {
+      number: 2,
+      summary: "We must pay closer attention to what we have heard so that we do not drift away — the first warning. The salvation announced by the Lord was confirmed to us by those who heard him. Jesus was made lower than the angels for a little while so that by the grace of God he might taste death for everyone. In bringing many sons to glory, the pioneer of their salvation was made perfect through suffering. Because he himself suffered when he was tempted, he is able to help those who are being tempted.",
+      key_verses: [{ ref: "Hebrews 2:18", text: "Because he himself has suffered when tempted, he is able to help those who are being tempted." }]
+    },
+    {
+      number: 3,
+      summary: "Jesus has been found worthy of greater honor than Moses — Moses was faithful as a servant in God's house; Jesus as a Son over God's house. The second warning: do not harden your hearts as they did in the rebellion in the wilderness. The generation that heard God's voice but hardened their hearts never entered his rest. Encourage one another daily so that none of you will be hardened by sin's deceitfulness. We share in Christ if we hold firmly to our confidence to the very end.",
+      key_verses: [{ ref: "Hebrews 3:13", text: "But exhort one another every day, as long as it is called 'today,' that none of you may be hardened by the deceitfulness of sin." }]
+    },
+    {
+      number: 4,
+      summary: "The promise of entering God's rest still stands. The word of God is alive and active, sharper than any double-edged sword — it judges the thoughts and attitudes of the heart; nothing is hidden from him. We have a great high priest who has ascended into heaven, Jesus the Son of God. He was tempted in every way, just as we are — yet was without sin. Let us approach the throne of grace with confidence, so that we may receive mercy and find grace to help in our time of need.",
+      key_verses: [{ ref: "Hebrews 4:15-16", text: "For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace." }]
+    },
+    {
+      number: 5,
+      summary: "Every high priest is selected from among men to offer gifts and sacrifices for sin; he can deal gently with the ignorant and wayward since he himself is beset with weakness. Jesus was appointed a high priest after the order of Melchizedek. Though he was the Son, he learned obedience through suffering. The author reproves them for spiritual dullness — by this time they should be teachers but still need someone to teach them elementary truths. They need solid food.",
+      key_verses: [{ ref: "Hebrews 5:8-9", text: "Although he was a son, he learned obedience through what he suffered. And being made perfect, he became the source of eternal salvation to all who obey him." }]
+    },
+    {
+      number: 6,
+      summary: "The most severe warning: those who have once been enlightened, who have tasted the heavenly gift and shared in the Holy Spirit, and then fall away — it is impossible to bring them back to repentance, because they are crucifying the Son of God all over again. But the author is confident of better things in their case. God is not unjust — he will not forget their work and love shown in serving the saints. Abraham waited patiently and received what was promised. God's oath to Abraham gives us great confidence.",
+      key_verses: [{ ref: "Hebrews 6:19", text: "We have this as a sure and steadfast anchor of the soul, a hope that enters into the inner place behind the curtain." }]
+    },
+    {
+      number: 7,
+      summary: "Melchizedek, king of Salem and priest of the Most High, met Abraham returning from battle and blessed him. His name means 'king of righteousness' and 'king of peace' — without beginning or end, like the Son of God. Since Abraham paid him a tithe, the Levitical priesthood is inferior to Melchizedek. Jesus, a priest in that order, replaces the inadequate Levitical priesthood. He is the perfect high priest — holy, blameless, pure, exalted above the heavens. Unlike other high priests, he does not need to offer sacrifices day after day; he offered himself once for all.",
+      key_verses: [{ ref: "Hebrews 7:26", text: "For it was indeed fitting that we should have such a high priest, holy, innocent, unstained, separated from sinners, and exalted above the heavens." }]
+    },
+    {
+      number: 8,
+      summary: "We do have such a high priest who sat down at the right hand of the Majesty in heaven, serving in the true tabernacle set up by the Lord, not by man. The old covenant priests served as a copy and shadow of what is in heaven. But now Jesus has obtained a ministry that is as much more excellent as the new covenant he mediates is better, enacted on better promises. The days are coming when God will make a new covenant — not like the one he made at the Exodus which they broke. He will put his laws in their minds and write them on their hearts.",
+      key_verses: [{ ref: "Hebrews 8:6", text: "But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises." }]
+    },
+    {
+      number: 9,
+      summary: "The first tabernacle with its regulations was a copy for the present age. Christ, the greater and more perfect tabernacle not made by human hands, entered the Most Holy Place once for all by his own blood, obtaining eternal redemption. The blood of goats and bulls sanctified outwardly; how much more will the blood of Christ cleanse our consciences from acts that lead to death. Christ is the mediator of a new covenant. He appeared once to do away with sin by the sacrifice of himself. He will appear a second time to bring salvation.",
+      key_verses: [{ ref: "Hebrews 9:27-28", text: "And just as it is appointed for man to die once, and after that comes judgment, so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him." }]
+    },
+    {
+      number: 10,
+      summary: "The law is only a shadow of the good things to come, not the realities themselves. It is impossible for the blood of bulls and goats to take away sins. But when Christ came, he said: sacrifice and offering you did not desire but a body you prepared for me — here I am to do your will. By that will we have been made holy through the sacrifice of the body of Jesus Christ once for all. He sat down, waiting for his enemies to be made a footstool. Therefore do not throw away your confidence. The righteous will live by faith. Do not shrink back.",
+      key_verses: [{ ref: "Hebrews 10:22-23", text: "Let us draw near with a true heart in full assurance of faith... Let us hold fast the confession of our hope without wavering, for he who promised is faithful." }]
+    },
+    {
+      number: 11,
+      summary: "The Hall of Faith: faith is confidence in what we hope for and assurance about what we do not see. By faith Abel offered a better sacrifice; Enoch was taken up; Noah built the ark; Abraham left for an unknown country and offered up Isaac; Isaac, Jacob, Joseph all trusted the promise; Moses chose to be ill-treated with God's people rather than enjoy the pleasures of sin. Others faced mocking, flogging, chains, imprisonment, stoning, being sawn in two. The world was not worthy of them. None of them received what had been promised — God had planned something better so that only together with us would they be made perfect.",
+      key_verses: [{ ref: "Hebrews 11:1", text: "Now faith is the assurance of things hoped for, the conviction of things not seen." }]
+    },
+    {
+      number: 12,
+      summary: "Surrounded by such a great cloud of witnesses, let us throw off everything that hinders and run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. Endure hardship as discipline — God disciplines those he loves; no discipline seems pleasant at the time but produces a harvest of righteousness. See to it that no one misses the grace of God. You have not come to Mount Sinai with its fire and darkness and thunder — you have come to Mount Zion, to thousands of angels, to Jesus the mediator of the new covenant. Therefore let us be thankful and worship God with reverence and awe.",
+      key_verses: [{ ref: "Hebrews 12:1-2", text: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith." }]
+    },
+    {
+      number: 13,
+      summary: "Keep on loving one another. Do not forget to show hospitality to strangers — some have thus entertained angels without knowing it. Remember those in prison and those who are mistreated. Keep the marriage bed pure. Do not be carried away by all kinds of strange teaching. We have an altar from which those who minister at the tabernacle have no right to eat — Jesus suffered outside the city gate, so let us go to him outside the camp, bearing his disgrace. Through Jesus let us continually offer to God a sacrifice of praise. Jesus Christ is the same yesterday and today and forever.",
+      key_verses: [{ ref: "Hebrews 13:8", text: "Jesus Christ is the same yesterday and today and forever." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "james",
+  name: "James",
+  testament: "new",
+  category: "General Epistles",
+  summary: "James is the most practical book in the New Testament, written by James the brother of Jesus to Jewish believers scattered abroad. It reads at times like the Sermon on the Mount applied to the life of the community. James has little patience for faith that does not produce action: faith without works is dead. He addresses testing, wisdom, partiality, the tongue, worldliness, prayer for the sick, and the dangers of wealth. The letter is a bracing call to authentic, embodied faith.",
+  themes: ["Faith and works", "Trials and perseverance", "The tongue and its power", "Partiality condemned", "Prayer and healing", "Warning to the wealthy", "Wisdom from above"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Count it pure joy when you face trials of many kinds — the testing of your faith develops perseverance. If any lack wisdom, ask God who gives generously without finding fault. Ask in faith without doubting. The rich should boast in their humiliation; the poor in their high position. Blessed is the one who perseveres under trial — he will receive the crown of life. Do not be deceived: every good gift is from above. Be quick to listen, slow to speak, slow to anger. Do not merely listen to the word; do what it says.",
+      key_verses: [{ ref: "James 1:22", text: "But be doers of the word, and not hearers only, deceiving yourselves." }]
+    },
+    {
+      number: 2,
+      summary: "Do not show favoritism — if you give special attention to the man in fine clothes and ignore the poor man, you have discriminated and become judges with evil thoughts. Has not God chosen those who are poor in the eyes of the world to be rich in faith? Faith without works is dead. As the body without the spirit is dead, so faith without deeds is dead. Abraham's faith was made complete by what he did — he offered Isaac on the altar, and the Scripture was fulfilled: Abraham believed God and it was credited to him as righteousness. You see that a person is considered righteous by what they do and not by faith alone.",
+      key_verses: [{ ref: "James 2:26", text: "For as the body apart from the spirit is dead, so also faith apart from works is dead." }]
+    },
+    {
+      number: 3,
+      summary: "Not many should presume to be teachers — we who teach will be judged more strictly. We all stumble in many ways. If anyone is never at fault in what they say, they are perfect. The tongue is a small part of the body but it boasts of great things — a spark that sets a great forest ablaze. With the tongue we praise our Lord and Father and with it we curse human beings made in God's likeness. Out of the same mouth come praise and cursing — this should not be. The wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits.",
+      key_verses: [{ ref: "James 3:17", text: "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and good fruits, impartial and sincere." }]
+    },
+    {
+      number: 4,
+      summary: "What causes fights among you? Your desires battle within you. You do not have because you do not ask. When you ask, you ask with wrong motives. Friendship with the world is enmity with God. Humble yourselves before the Lord and he will lift you up. Do not slander one another. Do not boast about tomorrow — you do not even know what tomorrow will bring. What is your life? You are a mist that appears for a little while and then vanishes. Instead say: if it is the Lord's will, we will do this or that. To him who knows the right thing to do and does not do it, it is sin.",
+      key_verses: [{ ref: "James 4:10", text: "Humble yourselves before the Lord, and he will exalt you." }]
+    },
+    {
+      number: 5,
+      summary: "Woe to the rich who have hoarded wealth and defrauded workers — the cries of the harvesters have reached the ears of the Lord of hosts. Be patient and stand firm because the Lord's coming is near. Do not grumble against each other or you will be judged. Is anyone sick? Let them call the elders to pray over them and anoint them with oil in the name of the Lord. The prayer of a righteous person is powerful and effective — Elijah was a human being like us, yet his prayer shut and opened the heavens. My brothers, if anyone wanders from the truth and someone brings them back, know that whoever turns a sinner from his error will cover a multitude of sins.",
+      key_verses: [{ ref: "James 5:16", text: "Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person has great power as it is working." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "1peter",
+  name: "1 Peter",
+  testament: "new",
+  category: "General Epistles",
+  summary: "First Peter is addressed to scattered believers — exiles throughout Asia Minor — who are suffering for their faith. Peter writes to encourage them to stand firm, to live holy lives that silence critics, and to understand their suffering as participation in Christ's own sufferings. They are a chosen people, a royal priesthood, a holy nation. The letter is deeply pastoral, drawing on the language of the Exodus and exile to help believers see their identity and calling in a hostile world.",
+  themes: ["Living as exiles and strangers", "Holy living under pressure", "Suffering for Christ", "The royal priesthood of all believers", "Submission to authority", "Hope in the resurrection"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Praise be to God who has given us new birth into a living hope through the resurrection of Jesus Christ. Though you have not seen him, you love him; though you do not see him, you are filled with inexpressible and glorious joy, for you are receiving the salvation of your souls. Therefore prepare your minds for action; set your hope fully on the grace to be given at the revelation of Jesus Christ. As obedient children, be holy in all you do — as the one who called you is holy. Since you call on a Father who judges each person's work impartially, live out your time here in reverent fear. You were redeemed with the precious blood of Christ, a lamb without blemish or defect.",
+      key_verses: [{ ref: "1 Peter 1:3", text: "Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead." }]
+    },
+    {
+      number: 2,
+      summary: "Rid yourselves of all malice, deceit, hypocrisy, envy, and slander. Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation. As you come to him, the living Stone — rejected by humans but chosen and precious to God — you also, like living stones, are being built into a spiritual house. You are a chosen people, a royal priesthood, a holy nation. Once you were not a people, but now you are the people of God. Live as free people, not using freedom as a cover for evil. Honor everyone; love the brotherhood; fear God; honor the emperor.",
+      key_verses: [{ ref: "1 Peter 2:9", text: "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light." }]
+    },
+    {
+      number: 3,
+      summary: "Wives, be submissive to your husbands so that if any do not believe the word they may be won by the conduct of their wives without words. Husbands, be considerate as you live with your wives, treating them as the weaker partner and as co-heirs of the grace of life, so that nothing will hinder your prayers. Finally, all of you, be like-minded, be sympathetic, love one another. Do not repay evil with evil; repay with blessing. Be prepared to give an answer for the hope you have. It is better, if it is God's will, to suffer for doing good than for doing evil.",
+      key_verses: [{ ref: "1 Peter 3:15", text: "But in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you." }]
+    },
+    {
+      number: 4,
+      summary: "Since Christ suffered in his body, arm yourselves with the same attitude — live not for human desires but for God's will. The end of all things is near; therefore be alert and sober-minded for prayer. Above all, love each other deeply, because love covers a multitude of sins. Use whatever gift you have received to serve others, as faithful stewards of God's grace. Do not be surprised at the fiery ordeal that has come on you as a test; rejoice that you participate in the sufferings of Christ. If you suffer as a Christian, do not be ashamed, but praise God.",
+      key_verses: [{ ref: "1 Peter 4:8", text: "Above all, keep loving one another earnestly, since love covers a multitude of sins." }]
+    },
+    {
+      number: 5,
+      summary: "To elders: be shepherds of God's flock, not because you must but willingly; not lording it over those entrusted to you but being examples. The Chief Shepherd will appear and reward you. To those who are younger: clothe yourselves with humility toward one another, because God opposes the proud but gives grace to the humble. Cast all your anxiety on him because he cares for you. Be alert: your enemy the devil prowls around like a roaring lion. Resist him, standing firm in the faith. After you have suffered a little while, the God of all grace will himself restore, confirm, strengthen, and establish you.",
+      key_verses: [{ ref: "1 Peter 5:7", text: "Casting all your anxieties on him, because he cares for you." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "2peter",
+  name: "2 Peter",
+  testament: "new",
+  category: "General Epistles",
+  summary: "Second Peter is Peter's farewell letter, written with urgency in the knowledge that his death is approaching. The letter has two main concerns: the danger of false teachers who deny the Lord and live licentiously, and doubt about the return of Christ. Peter points to the Transfiguration as eyewitness confirmation of Christ's majesty, affirms the reliability of prophetic Scripture, and reminds mockers that God's apparent slowness in returning is actually patience, not delay — he is not willing that any should perish.",
+  themes: ["Growing in godliness", "False teachers and their destruction", "The reliability of Scripture", "The Day of the Lord", "God's patience and desire for repentance"],
+  chapters: [
+    {
+      number: 1,
+      summary: "God's divine power has given us everything we need for a godly life through our knowledge of him. He has given us his precious and very great promises. Add to your faith goodness, knowledge, self-control, perseverance, godliness, mutual affection, and love. For if you possess these qualities in increasing measure, they will keep you from being ineffective. Peter is eager to remind them of these things while he is alive, knowing his death is near. The prophetic word is more certain still — prophecy never had its origin in human will but prophets spoke from God as they were carried along by the Holy Spirit.",
+      key_verses: [{ ref: "2 Peter 1:21", text: "For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit." }]
+    },
+    {
+      number: 2,
+      summary: "There were false prophets among the people and there will be false teachers among you who will secretly introduce destructive heresies, even denying the Lord who bought them — bringing swift destruction on themselves. God did not spare angels who sinned, or the ancient world at the time of the flood, or the cities of Sodom and Gomorrah — but he rescued Lot. Like unreasoning animals born to be caught and destroyed, false teachers revel in their pleasures in broad daylight, carousing with you. A dog returns to its vomit and a washed pig to the mud.",
+      key_verses: [{ ref: "2 Peter 2:9", text: "The Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment." }]
+    },
+    {
+      number: 3,
+      summary: "In the last days scoffers will come asking: where is the promise of his coming? But do not forget: with the Lord a day is like a thousand years and a thousand years like a day. The Lord is not slow in keeping his promise as some understand slowness — he is patient, not wanting anyone to perish but everyone to come to repentance. The day of the Lord will come like a thief; the heavens will pass away with a roar, and the elements will be destroyed by fire. What kind of people ought you to be — holy and godly, looking forward to that day. The new heavens and new earth, where righteousness dwells, is our expectation.",
+      key_verses: [{ ref: "2 Peter 3:9", text: "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "1john",
+  name: "1 John",
+  testament: "new",
+  category: "General Epistles",
+  summary: "First John is a pastoral letter from the apostle John addressing a crisis in his community — some members had separated from the church, apparently claiming a special spiritual knowledge (an early form of Gnosticism) that allowed them to deny Jesus came in the flesh and to disregard the love command. John writes to reassure the faithful and warn against false teaching by giving three tests of genuine Christianity: believing that Jesus Christ came in the flesh, obeying God's commandments, and loving one another. His repeated emphasis on God as love gives the letter its warm, devotional character.",
+  themes: ["God is love", "Jesus Christ come in the flesh", "Obedience as evidence of new birth", "Loving one another", "Assurance of salvation", "Light and darkness"],
+  chapters: [
+    {
+      number: 1,
+      summary: "John opens with a declaration of firsthand witness: what was from the beginning, what we have heard, seen with our eyes, and touched with our hands — the Word of life. God is light; in him there is no darkness at all. If we claim to have fellowship with him yet walk in darkness, we lie. If we walk in the light, we have fellowship with one another, and the blood of Jesus his Son purifies us from all sin. If we claim to be without sin, we deceive ourselves — but if we confess our sins, he is faithful and just to forgive us and cleanse us from all unrighteousness.",
+      key_verses: [{ ref: "1 John 1:9", text: "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness." }]
+    },
+    {
+      number: 2,
+      summary: "We have an advocate with the Father — Jesus Christ the righteous one, the atoning sacrifice for our sins and the sins of the whole world. The man who says 'I know him' but does not obey his commands is a liar. Anyone who claims to live in the light but hates a brother lives in darkness. Do not love the world or anything in the world — the love of the Father is not in the one who loves the world. The world and its desires pass away but the one who does the will of God lives forever. The antichrist is coming — and even now many antichrists have come.",
+      key_verses: [{ ref: "1 John 2:15", text: "Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him." }]
+    },
+    {
+      number: 3,
+      summary: "See what great love the Father has lavished on us, that we should be called children of God. No one who lives in him keeps on sinning; no one who continues to sin has either seen him or known him. This is how we know who the children of God are and who the children of the devil are: anyone who does not do what is right is not God's child, nor is anyone who does not love their brother. We know we have passed from death to life because we love each other. Jesus laid down his life for us; we ought to lay down our lives for one another.",
+      key_verses: [{ ref: "1 John 3:1", text: "See what kind of love the Father has given to us, that we should be called children of God; and so we are." }]
+    },
+    {
+      number: 4,
+      summary: "Do not believe every spirit but test the spirits — every spirit that acknowledges that Jesus Christ has come in the flesh is from God. Whoever does not love does not know God, because God is love. This is how God showed his love: he sent his one and only Son into the world that we might live through him. This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice. Since God so loved us, we also ought to love one another. No one has ever seen God; if we love one another, God lives in us and his love is made complete in us. There is no fear in love; perfect love drives out fear.",
+      key_verses: [{ ref: "1 John 4:8", text: "Anyone who does not love does not know God, because God is love." }]
+    },
+    {
+      number: 5,
+      summary: "Everyone who believes that Jesus is the Christ is born of God. This is love for God: to keep his commands, and his commands are not burdensome, for everyone born of God overcomes the world. Who is it that overcomes the world? Only the one who believes that Jesus is the Son of God. This is the testimony: God has given us eternal life, and this life is in his Son. These things are written so that you who believe in the name of the Son of God may know that you have eternal life. We know that anyone born of God does not continue to sin; the one born of God keeps them safe.",
+      key_verses: [{ ref: "1 John 5:13", text: "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "2john",
+  name: "2 John",
+  testament: "new",
+  category: "General Epistles",
+  summary: "Second John is the shortest book in the New Testament, written by 'the elder' to 'the chosen lady and her children' — likely a local church and its members. John writes to commend them for walking in the truth, to urge them to continue loving one another, and to warn them against receiving into their homes any teacher who does not acknowledge Jesus Christ as coming in the flesh. Such a person is the deceiver and the antichrist.",
+  themes: ["Walking in truth and love", "Warning against false teachers", "Christian hospitality and its limits"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The elder writes to the chosen lady to urge that they love one another — and love means walking in obedience to God's commands. Many deceivers have gone out into the world who do not acknowledge Jesus Christ as coming in the flesh. Watch out that you do not lose what you have worked for. Anyone who runs ahead and does not continue in the teaching of Christ does not have God. Do not take such a person into your house or welcome them — anyone who welcomes them shares in their wicked work.",
+      key_verses: [{ ref: "2 John 1:9", text: "Everyone who goes on ahead and does not abide in the teaching of Christ, does not have God. Whoever abides in the teaching has both the Father and the Son." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "3john",
+  name: "3 John",
+  testament: "new",
+  category: "General Epistles",
+  summary: "Third John is a personal letter from 'the elder' to Gaius, a faithful church member, commending him for his hospitality to traveling missionaries and contrasting him with Diotrephes, a church leader who refuses to welcome the brothers and tries to stop others from doing so. The letter touches on the relationship between traveling missionaries and local congregations and the importance of supporting those who go out for the sake of the Name.",
+  themes: ["Hospitality to missionaries", "Walking in truth", "Contrasting faithful and faithless leadership"],
+  chapters: [
+    {
+      number: 1,
+      summary: "The elder writes to the beloved Gaius — it gave him great joy when brothers testified about his faithfulness to the truth and how he continues to walk in it. Gaius has shown hospitality to brothers, even strangers, who have told the church about his love. It is right to support such workers so they may continue serving the Name. But Diotrephes loves to be first and will have nothing to do with the elder, even refusing to welcome the brothers and stopping those who want to do so. Do not imitate what is evil but what is good. Demetrius is commended.",
+      key_verses: [{ ref: "3 John 1:11", text: "Beloved, do not imitate evil but imitate good. Whoever does good is from God; whoever does evil has not seen God." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "jude",
+  name: "Jude",
+  testament: "new",
+  category: "General Epistles",
+  summary: "Jude is a brief but fierce letter from Jude, the brother of James and Jesus, addressed to believers facing a threat from ungodly people who had slipped in among them — turning grace into a license for immorality and denying Jesus as Lord. Jude draws on the Old Testament and Jewish literature to illustrate the certain judgment awaiting such people and urges the faithful to contend for the faith, build themselves up, and rescue those who are wavering.",
+  themes: ["Contending for the faith", "Warning against false teachers", "Judgment on the ungodly", "Mercy and rescue", "Doxology"],
+  chapters: [
+    {
+      number: 1,
+      summary: "Jude urges readers to contend for the faith because certain ungodly people have slipped in unnoticed — they pervert grace into a license for immorality and deny Jesus Christ as Lord. Like the angels who did not keep their positions, like Sodom and Gomorrah, they will face punishment. They are shepherds who feed only themselves, waterless clouds, trees without fruit, wild waves of the sea, wandering stars. Enoch prophesied that the Lord is coming with thousands upon thousands of his holy ones to judge. Build yourselves up in your most holy faith, praying in the Holy Spirit. To the only God our Savior be glory, majesty, power, and authority — before all ages, now and forever.",
+      key_verses: [{ ref: "Jude 1:24-25", text: "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen." }]
+    }
+  ]
+});
+
+
+BIBLE_DATA.books.push({
+  id: "revelation",
+  name: "Revelation",
+  testament: "new",
+  category: "Apocalyptic",
+  summary: "Revelation is the only fully apocalyptic book in the New Testament, written by John during the persecution of the Roman emperor Domitian to seven churches in Asia Minor. Using the highly symbolic language of apocalyptic literature, it unveils the heavenly perspective on history: Christ is the slain and risen Lamb who alone is worthy to open history's scroll. The forces of evil rage on earth, but heaven has already declared the outcome. The book climaxes with the defeat of Satan, the last judgment, and the descent of the New Jerusalem — God dwelling with his people forever in a renewed creation.",
+  themes: ["The sovereignty of God and the Lamb", "Perseverance under persecution", "The defeat of evil", "Judgment and justice", "The new creation", "Worship in heaven", "Come, Lord Jesus"],
+  chapters: [
+    {
+      number: 1,
+      summary: "John receives his vision on the island of Patmos where he was exiled for the word of God. The risen Christ appears in blazing glory — his face like the sun, his eyes like blazing fire, his voice like rushing waters, seven stars in his right hand, a double-edged sword from his mouth. John falls at his feet as though dead; Christ places his right hand on him: do not be afraid — I am the First and the Last, I am the Living One. He holds the keys of death and Hades. The seven stars are the angels of the seven churches; the lampstands are the churches themselves.",
+      key_verses: [{ ref: "Revelation 1:17-18", text: "Fear not, I am the first and the last, and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades." }]
+    },
+    {
+      number: 2,
+      summary: "Four letters to churches: Ephesus has lost its first love and is warned to repent or its lampstand will be removed. Smyrna faces poverty and persecution — be faithful unto death and receive the crown of life. Pergamum tolerates false teaching and immorality and must repent. Thyatira tolerates a prophetess who leads servants into sexual immorality — judgment is coming on her and her followers, but those who hold fast will receive authority over the nations. Each letter ends: he who has an ear, let him hear what the Spirit says to the churches.",
+      key_verses: [{ ref: "Revelation 2:10", text: "Be faithful unto death, and I will give you the crown of life." }]
+    },
+    {
+      number: 3,
+      summary: "Three more letters: Sardis has a reputation for being alive but is dead — wake up and strengthen what remains, for its works are unfinished. Philadelphia has little strength but has kept Christ's word and not denied his name — he will place before it an open door no one can shut. Laodicea is lukewarm — neither hot nor cold — and will be spit out. It is wretched, pitiful, poor, blind, and naked. Christ stands at the door and knocks; if anyone hears and opens, he will come in and eat with him. Those who overcome will sit with Christ on his throne.",
+      key_verses: [{ ref: "Revelation 3:20", text: "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me." }]
+    },
+    {
+      number: 4,
+      summary: "A door standing open in heaven — come up here. John sees the heavenly throne: the one sitting on it resembles jasper and ruby; a rainbow like an emerald encircles the throne. Twenty-four elders in white with golden crowns sit on surrounding thrones. Lightning and thunder flash from the throne; seven burning lamps are the seven spirits of God; a sea of glass like crystal stretches before it. Four living creatures — like a lion, an ox, a man, and an eagle — never stop saying: Holy, holy, holy is the Lord God Almighty. The elders fall down and cast their crowns before the throne.",
+      key_verses: [{ ref: "Revelation 4:8", text: "Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!" }]
+    },
+    {
+      number: 5,
+      summary: "A scroll sealed with seven seals lies in the right hand of God. Who is worthy to open it? No one in heaven or earth — John weeps bitterly. Then one of the elders says: do not weep; the Lion of Judah, the Root of David, has triumphed. John sees a Lamb standing, looking as if it had been slain. The Lamb takes the scroll; the creatures and elders fall down singing: worthy is the Lamb who was slain to receive power and wealth and wisdom and strength and honor. Every creature in heaven and earth joins in: to him who sits on the throne and to the Lamb be blessing forever.",
+      key_verses: [{ ref: "Revelation 5:12", text: "Saying with a loud voice, 'Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!'" }]
+    },
+    {
+      number: 6,
+      summary: "The Lamb opens the first six seals: a white horse (conquest), a red horse (war), a black horse (famine — a quart of wheat for a day's wages), a pale horse — its rider is Death, and Hades followed with him. The fifth seal reveals the souls under the altar crying: how long, Sovereign Lord, before you judge the inhabitants of the earth? They are given white robes and told to wait. The sixth seal brings a great earthquake; the sun turns black, the moon blood red, the stars fall; every person hides in caves crying: hide us from the face of him who sits on the throne.",
+      key_verses: [{ ref: "Revelation 6:10", text: "They cried out with a loud voice, 'O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?'" }]
+    },
+    {
+      number: 7,
+      summary: "An interlude of protection: four angels hold back the four winds while servants of God are sealed — 144,000 from the tribes of Israel. Then John sees a great multitude that no one can count from every nation, tribe, people and language, standing before the throne in white robes. They are those who have come out of the great tribulation — they washed their robes white in the blood of the Lamb. God will wipe every tear from their eyes; the Lamb at the center of the throne will be their shepherd and lead them to springs of living water.",
+      key_verses: [{ ref: "Revelation 7:9", text: "After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb." }]
+    },
+    {
+      number: 8,
+      summary: "The seventh seal is opened — silence in heaven for about half an hour. Seven angels receive seven trumpets. An angel throws a golden censer full of incense and fire to the earth; thunder, lightning, and an earthquake follow. The trumpets begin: hail and fire mixed with blood burn a third of the earth; a great mountain blazing falls into the sea, turning a third of it to blood; a blazing star falls on a third of the rivers, making them bitter; a third of the sun and moon are struck. Three woes are announced for the remaining trumpets.",
+      key_verses: [{ ref: "Revelation 8:1", text: "When the Lamb opened the seventh seal, there was silence in heaven for about half an hour." }]
+    },
+    {
+      number: 9,
+      summary: "The fifth trumpet opens the Abyss — locusts pour out with power like scorpions to torment those without God's seal for five months; the leader of the Abyss is Apollyon the Destroyer. The sixth trumpet releases four angels bound at the Euphrates; an army of 200 million horsemen kills a third of mankind. Yet the survivors do not repent of their murders, sorceries, sexual immorality, or thefts. The plagues fall on the unrepentant world, yet hearts remain hardened.",
+      key_verses: [{ ref: "Revelation 9:20", text: "The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons." }]
+    },
+    {
+      number: 10,
+      summary: "A mighty angel descends wrapped in a cloud, his face like the sun, legs like pillars of fire, holding a small scroll. He plants one foot on the sea and one on the land and shouts like a lion; seven thunders speak but John is told to seal up what they said. The angel swears that when the seventh trumpet sounds, God's mystery will be accomplished. John takes the scroll and eats it — it is sweet as honey in his mouth but bitter in his stomach. He must prophesy again about many peoples and nations.",
+      key_verses: [{ ref: "Revelation 10:6", text: "And swore by him who lives forever and ever... that there would be no more delay, but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled." }]
+    },
+    {
+      number: 11,
+      summary: "Two witnesses prophesy for 1,260 days, protected by God; when they finish the beast from the Abyss kills them. Their bodies lie unburied in the great city while the inhabitants celebrate. After three and a half days God breathes life into them and calls them up; their enemies watch in terror. Then the seventh trumpet sounds: loud voices in heaven proclaim that the kingdom of the world has become the kingdom of our Lord and of his Christ, and he will reign forever. The twenty-four elders fall on their faces and worship. The temple of God is opened.",
+      key_verses: [{ ref: "Revelation 11:15", text: "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever." }]
+    },
+    {
+      number: 12,
+      summary: "A great sign appears: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars — she gives birth to a son who will rule the nations. A great red dragon waits to devour the child. The child is caught up to God; the woman flees to the wilderness. War in heaven: Michael and his angels fight the dragon — Satan is hurled down. A loud voice cries: now have come the salvation and the power of the kingdom of God. The dragon pursues the woman but she is given the wings of an eagle and the earth swallows the floodwaters.",
+      key_verses: [{ ref: "Revelation 12:10", text: "And I heard a loud voice in heaven, saying, 'Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down.'" }]
+    },
+    {
+      number: 13,
+      summary: "A beast rises from the sea with ten horns and seven heads — the dragon gives it authority. It is given power to make war against the saints for forty-two months. All whose names are not in the Lamb's book of life worship it. A second beast rises from the earth and causes all to receive a mark — 666 — without which no one can buy or sell. This calls for patient endurance and faithful wisdom from the saints.",
+      key_verses: [{ ref: "Revelation 13:10", text: "Here is a call for the endurance and faith of the saints." }]
+    },
+    {
+      number: 14,
+      summary: "The Lamb stands on Mount Zion with the 144,000, singing a new song before the throne. Three angels proclaim: fear God and give him glory, for the hour of his judgment has come; Fallen is Babylon the Great; and a warning to those who worship the beast — they will drink God's wrath. Then a call: blessed are the dead who die in the Lord from now on, for they will rest from their labor. Two reapers harvest the earth and the grapes of wrath are thrown into the great winepress of God's fury.",
+      key_verses: [{ ref: "Revelation 14:13", text: "And I heard a voice from heaven saying, 'Write this: Blessed are the dead who die in the Lord from now on.' 'Blessed indeed,' says the Spirit, 'that they may rest from their labors.'" }]
+    },
+    {
+      number: 15,
+      summary: "Seven angels with the seven last plagues stand by a sea of glass mixed with fire; those who were victorious over the beast stand on the sea, singing the song of Moses and the Lamb: great and marvelous are your deeds, Lord God Almighty; just and true are your ways, King of the nations. The temple is opened and the seven angels emerge with the bowls of God's wrath. The temple fills with smoke from the glory of God and no one can enter until the seven plagues are completed.",
+      key_verses: [{ ref: "Revelation 15:3", text: "And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, 'Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!'" }]
+    },
+    {
+      number: 16,
+      summary: "The seven bowls of God's wrath are poured out: painful sores on those who bear the mark; the sea turns to blood; the rivers turn to blood; scorching heat from the sun; darkness over the beast's kingdom; the Euphrates dries up to prepare the way for the kings from the east; and the final bowl brings the greatest earthquake in history — Babylon is split in three and the islands and mountains disappear. Hailstones weighing a talent fall on people, yet still they curse God and refuse to repent.",
+      key_verses: [{ ref: "Revelation 16:15", text: "Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!" }]
+    },
+    {
+      number: 17,
+      summary: "One of the angels shows John the great prostitute — Babylon — sitting on a scarlet beast, drunk with the blood of the saints. The mystery explained: she is the great city that rules over the kings of the earth. The beast was, is not, and yet will come. The ten kings will hand their power to the beast who will wage war against the Lamb — but the Lamb will triumph, for he is Lord of lords and King of kings. Then the beast and the ten kings will turn against the prostitute and destroy her — God has put it in their hearts to carry out his purpose.",
+      key_verses: [{ ref: "Revelation 17:14", text: "They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings." }]
+    },
+    {
+      number: 18,
+      summary: "A mighty angel announces with a mighty voice: Fallen! Fallen is Babylon the Great! She has become a dwelling for demons. Another voice cries: come out of her, my people, so that you will not share in her sins or receive her plagues. Kings who committed adultery with her weep and mourn when they see her smoke rising. Merchants who grew rich from her weep. Mariners wail from far away. But heaven and the apostles and prophets are told to rejoice — God has judged her for the way she treated you.",
+      key_verses: [{ ref: "Revelation 18:4", text: "Then I heard another voice from heaven saying, 'Come out of her, my people, lest you take part in her sins, lest you share in her plagues.'" }]
+    },
+    {
+      number: 19,
+      summary: "The roar of a great multitude in heaven: Hallelujah! Salvation and glory and power belong to our God! The wedding of the Lamb has come — his bride has made herself ready, clothed in fine linen, bright and clean. Blessed are those invited to the wedding supper of the Lamb. Then heaven opens: a white horse whose rider is called Faithful and True, his eyes blazing fire, his robe dipped in blood, his name the Word of God. He strikes down the nations and treads the winepress of God's wrath. The beast and the false prophet are thrown into the fiery lake.",
+      key_verses: [{ ref: "Revelation 19:16", text: "On his robe and on his thigh he has a name written, King of kings and Lord of lords." }]
+    },
+    {
+      number: 20,
+      summary: "An angel seizes the dragon — Satan — and binds him for a thousand years. The martyrs who did not worship the beast come to life and reign with Christ for a thousand years — the first resurrection; the second death has no power over them. After the thousand years Satan is released, deceives the nations, and surrounds the beloved city — fire comes from heaven and devours them. Satan is thrown into the lake of fire. The great white throne judgment: the dead are judged by what is written in the books, according to what they had done. Death and Hades are thrown into the lake of fire — the second death.",
+      key_verses: [{ ref: "Revelation 20:15", text: "And if anyone's name was not found written in the book of life, he was thrown into the lake of fire." }]
+    },
+    {
+      number: 21,
+      summary: "Then I saw a new heaven and a new earth — for the first heaven and earth had passed away, and the sea was no more. The Holy City, the new Jerusalem, comes down out of heaven from God, prepared as a bride. A loud voice from the throne: look, God's dwelling place is now among the people! He will wipe every tear; there will be no more death, mourning, crying, or pain. The city is vast and glorious, its walls jasper, its streets pure gold, its foundations adorned with every jewel. No temple in it — the Lord God Almighty and the Lamb are its temple. The nations walk by its light and the kings bring their splendor into it.",
+      key_verses: [{ ref: "Revelation 21:4", text: "He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away." }]
+    },
+    {
+      number: 22,
+      summary: "The river of the water of life flows from the throne of God and the Lamb, with the tree of life on each side bearing twelve crops of fruit. No longer will there be any curse. God's servants will see his face and his name will be on their foreheads. The angel says: do not seal up the words of this prophecy — the time is near. Jesus declares: I am coming soon. Blessed are those who wash their robes, that they may have the right to the tree of life. The Spirit and the bride say: come! Whoever is thirsty, let them come and drink freely. He who testifies to these things says: yes, I am coming soon. Amen. Come, Lord Jesus.",
+      key_verses: [{ ref: "Revelation 22:20", text: "He who testifies to these things says, 'Surely I am coming soon.' Amen. Come, Lord Jesus!" }]
+    }
+  ]
+});
